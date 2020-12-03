@@ -1,0 +1,17 @@
+PING www-ospf.elte.hu (157.181.1.232) 32(60) bytes of data.
+[1606992318.977750] 40 bytes from www-ospf.elte.hu (157.181.1.232): icmp_seq=1 ttl=45 time=3.25 ms
+[1606992319.978729] 40 bytes from www-ospf.elte.hu (157.181.1.232): icmp_seq=2 ttl=45 time=2.54 ms
+[1606992320.980647] 40 bytes from www-ospf.elte.hu (157.181.1.232): icmp_seq=3 ttl=45 time=2.72 ms
+[1606992321.982766] 40 bytes from www-ospf.elte.hu (157.181.1.232): icmp_seq=4 ttl=45 time=2.83 ms
+[1606992322.982478] 40 bytes from www-ospf.elte.hu (157.181.1.232): icmp_seq=5 ttl=45 time=2.59 ms
+[1606992323.984071] 40 bytes from www-ospf.elte.hu (157.181.1.232): icmp_seq=6 ttl=45 time=2.48 ms
+[1606992324.985154] 40 bytes from www-ospf.elte.hu (157.181.1.232): icmp_seq=7 ttl=45 time=2.73 ms
+[1606992325.987573] 40 bytes from www-ospf.elte.hu (157.181.1.232): icmp_seq=8 ttl=45 time=3.05 ms
+[1606992326.988619] 40 bytes from www-ospf.elte.hu (157.181.1.232): icmp_seq=9 ttl=45 time=2.89 ms
+[1606992327.990544] 40 bytes from www-ospf.elte.hu (157.181.1.232): icmp_seq=10 ttl=45 time=3.09 ms
+[1606992329.001678] 40 bytes from www-ospf.elte.hu (157.181.1.232): icmp_seq=11 ttl=45 time=2.46 ms
+[1606992329.990561] 40 bytes from www-ospf.elte.hu (157.181.1.232): icmp_seq=12 ttl=45 time=2.51 ms
+[1606992330.992623] 40 bytes from www-ospf.elte.hu (157.181.1.232): icmp_seq=13 ttl=45 time=2.89 ms
+[1606992331.993383] 40 bytes from www-ospf.elte.hu (157.181.1.232): icmp_seq=14 ttl=45 time=2.56 ms
+[1606992332.995443] 40 bytes from www-ospf.elte.hu (157.181.1.232): icmp_seq=15 ttl=45 time=2.88 ms
+[1606992333.996263] 40 bytes from www-ospf.elte.hu (157.181.1.232): icmp_seq=16 ttl=45 time=2.79 ms
