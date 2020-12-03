@@ -1,1 +1,1 @@
-# ELTE_Info_Com_Mod_2021
+# Models of Infocommunication Networks 2020-2021/1 @ ELTE
