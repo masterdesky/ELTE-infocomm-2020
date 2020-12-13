@@ -1,0 +1,55 @@
+PING tunxis.edu (45.33.74.217) 32(60) bytes of data.
+[1607862671.846033] 40 bytes from li1020-217.members.linode.com (45.33.74.217): icmp_seq=1 ttl=52 time=104 ms
+[1607862672.557283] 40 bytes from li1020-217.members.linode.com (45.33.74.217): icmp_seq=2 ttl=52 time=104 ms
+[1607862678.561477] 40 bytes from li1020-217.members.linode.com (45.33.74.217): icmp_seq=3 ttl=52 time=103 ms
+[1607862678.667155] 40 bytes from li1020-217.members.linode.com (45.33.74.217): icmp_seq=4 ttl=52 time=103 ms
+[1607862689.674695] 40 bytes from 45.33.74.217: icmp_seq=5 ttl=52 time=103 ms
+[1607862699.786176] 40 bytes from 45.33.74.217: icmp_seq=6 ttl=52 time=103 ms
+[1607862699.891514] 40 bytes from li1020-217.members.linode.com (45.33.74.217): icmp_seq=7 ttl=52 time=103 ms
+[1607862705.896796] 40 bytes from li1020-217.members.linode.com (45.33.74.217): icmp_seq=8 ttl=52 time=103 ms
+[1607862706.004136] 40 bytes from li1020-217.members.linode.com (45.33.74.217): icmp_seq=9 ttl=52 time=103 ms
+[1607862712.003967] 40 bytes from li1020-217.members.linode.com (45.33.74.217): icmp_seq=10 ttl=52 time=103 ms
+[1607862712.109961] 40 bytes from li1020-217.members.linode.com (45.33.74.217): icmp_seq=11 ttl=52 time=103 ms
+[1607862723.114117] 40 bytes from 45.33.74.217: icmp_seq=12 ttl=52 time=103 ms
+[1607862723.220106] 40 bytes from li1020-217.members.linode.com (45.33.74.217): icmp_seq=13 ttl=52 time=103 ms
+[1607862729.223897] 40 bytes from li1020-217.members.linode.com (45.33.74.217): icmp_seq=14 ttl=52 time=103 ms
+[1607862729.330716] 40 bytes from li1020-217.members.linode.com (45.33.74.217): icmp_seq=15 ttl=52 time=105 ms
+[1607862730.330681] 40 bytes from li1020-217.members.linode.com (45.33.74.217): icmp_seq=16 ttl=52 time=104 ms
+[1607862736.336105] 40 bytes from li1020-217.members.linode.com (45.33.74.217): icmp_seq=17 ttl=52 time=103 ms
+[1607862736.442257] 40 bytes from li1020-217.members.linode.com (45.33.74.217): icmp_seq=18 ttl=52 time=104 ms
+[1607862742.443927] 40 bytes from li1020-217.members.linode.com (45.33.74.217): icmp_seq=19 ttl=52 time=104 ms
+[1607862747.553405] 40 bytes from li1020-217.members.linode.com (45.33.74.217): icmp_seq=20 ttl=52 time=104 ms
+[1607862757.666033] 40 bytes from 45.33.74.217: icmp_seq=21 ttl=52 time=103 ms
+[1607862757.771303] 40 bytes from li1020-217.members.linode.com (45.33.74.217): icmp_seq=22 ttl=52 time=103 ms
+[1607862758.772278] 40 bytes from li1020-217.members.linode.com (45.33.74.217): icmp_seq=23 ttl=52 time=103 ms
+[1607862759.773258] 40 bytes from li1020-217.members.linode.com (45.33.74.217): icmp_seq=24 ttl=52 time=104 ms
+[1607862760.773215] 40 bytes from li1020-217.members.linode.com (45.33.74.217): icmp_seq=25 ttl=52 time=103 ms
+[1607862766.775995] 40 bytes from li1020-217.members.linode.com (45.33.74.217): icmp_seq=26 ttl=52 time=103 ms
+[1607862771.884141] 40 bytes from li1020-217.members.linode.com (45.33.74.217): icmp_seq=27 ttl=52 time=104 ms
+[1607862771.990128] 40 bytes from li1020-217.members.linode.com (45.33.74.217): icmp_seq=28 ttl=52 time=104 ms
+[1607862772.990976] 40 bytes from li1020-217.members.linode.com (45.33.74.217): icmp_seq=29 ttl=52 time=104 ms
+[1607862773.990247] 40 bytes from li1020-217.members.linode.com (45.33.74.217): icmp_seq=30 ttl=52 time=104 ms
+[1607862774.989163] 40 bytes from li1020-217.members.linode.com (45.33.74.217): icmp_seq=31 ttl=52 time=103 ms
+[1607862785.998015] 40 bytes from 45.33.74.217: icmp_seq=32 ttl=52 time=104 ms
+[1607862786.103554] 40 bytes from li1020-217.members.linode.com (45.33.74.217): icmp_seq=33 ttl=52 time=103 ms
+[1607862787.103703] 40 bytes from li1020-217.members.linode.com (45.33.74.217): icmp_seq=34 ttl=52 time=104 ms
+[1607862788.103671] 40 bytes from li1020-217.members.linode.com (45.33.74.217): icmp_seq=35 ttl=52 time=103 ms
+[1607862789.103876] 40 bytes from li1020-217.members.linode.com (45.33.74.217): icmp_seq=36 ttl=52 time=104 ms
+[1607862790.102892] 40 bytes from li1020-217.members.linode.com (45.33.74.217): icmp_seq=37 ttl=52 time=103 ms
+[1607862791.104166] 40 bytes from li1020-217.members.linode.com (45.33.74.217): icmp_seq=38 ttl=52 time=104 ms
+[1607862792.103460] 40 bytes from li1020-217.members.linode.com (45.33.74.217): icmp_seq=39 ttl=52 time=103 ms
+[1607862793.104012] 40 bytes from li1020-217.members.linode.com (45.33.74.217): icmp_seq=40 ttl=52 time=104 ms
+[1607862794.104416] 40 bytes from li1020-217.members.linode.com (45.33.74.217): icmp_seq=41 ttl=52 time=103 ms
+[1607862795.104459] 40 bytes from li1020-217.members.linode.com (45.33.74.217): icmp_seq=42 ttl=52 time=104 ms
+[1607862796.104993] 40 bytes from li1020-217.members.linode.com (45.33.74.217): icmp_seq=43 ttl=52 time=103 ms
+[1607862797.105261] 40 bytes from li1020-217.members.linode.com (45.33.74.217): icmp_seq=44 ttl=52 time=103 ms
+[1607862798.104460] 40 bytes from li1020-217.members.linode.com (45.33.74.217): icmp_seq=45 ttl=52 time=103 ms
+[1607862799.103907] 40 bytes from li1020-217.members.linode.com (45.33.74.217): icmp_seq=46 ttl=52 time=103 ms
+[1607862800.103515] 40 bytes from li1020-217.members.linode.com (45.33.74.217): icmp_seq=47 ttl=52 time=103 ms
+[1607862801.103066] 40 bytes from li1020-217.members.linode.com (45.33.74.217): icmp_seq=48 ttl=52 time=103 ms
+[1607862812.110489] 40 bytes from 45.33.74.217: icmp_seq=49 ttl=52 time=103 ms
+[1607862813.110571] 40 bytes from 45.33.74.217: icmp_seq=50 ttl=52 time=103 ms
+
+--- tunxis.edu ping statistics ---
+50 packets transmitted, 50 received, 0% packet loss, time 140661ms
+rtt min/avg/max/mdev = 102.675/103.443/104.538/0.313 ms

@@ -1,0 +1,53 @@
+PING dni.edu (206.126.246.245) 32(60) bytes of data.
+[1607862722.686010] 40 bytes from 206.126.246.245: icmp_seq=1 ttl=237 time=123 ms
+[1607862732.818042] 40 bytes from 206.126.246.245: icmp_seq=2 ttl=237 time=123 ms
+[1607862733.205026] 40 bytes from 206.126.246.245: icmp_seq=3 ttl=237 time=123 ms
+[1607862738.943082] 40 bytes from 206.126.246.245: icmp_seq=4 ttl=237 time=123 ms
+[1607862739.069391] 40 bytes from 206.126.246.245: icmp_seq=5 ttl=237 time=122 ms
+[1607862750.074014] 40 bytes from 206.126.246.245: icmp_seq=6 ttl=237 time=123 ms
+[1607862755.202056] 40 bytes from 206.126.246.245: icmp_seq=7 ttl=237 time=123 ms
+[1607862760.330042] 40 bytes from 206.126.246.245: icmp_seq=8 ttl=237 time=122 ms
+[1607862765.458008] 40 bytes from 206.126.246.245: icmp_seq=9 ttl=237 time=122 ms
+[1607862770.583911] 40 bytes from 206.126.246.245: icmp_seq=10 ttl=237 time=123 ms
+[1607862780.714984] 40 bytes from 206.126.246.245: icmp_seq=11 ttl=237 time=122 ms
+[1607862790.846035] 40 bytes from 206.126.246.245: icmp_seq=12 ttl=237 time=123 ms
+[1607862790.972131] 40 bytes from 206.126.246.245: icmp_seq=13 ttl=237 time=122 ms
+[1607862796.975863] 40 bytes from 206.126.246.245: icmp_seq=14 ttl=237 time=122 ms
+[1607862802.103468] 40 bytes from 206.126.246.245: icmp_seq=15 ttl=237 time=123 ms
+[1607862812.234004] 40 bytes from 206.126.246.245: icmp_seq=16 ttl=237 time=123 ms
+[1607862817.363822] 40 bytes from 206.126.246.245: icmp_seq=17 ttl=237 time=123 ms
+[1607862822.491976] 40 bytes from 206.126.246.245: icmp_seq=18 ttl=237 time=123 ms
+[1607862823.618854] 40 bytes from 206.126.246.245: icmp_seq=20 ttl=237 time=123 ms
+[1607862824.618050] 40 bytes from 206.126.246.245: icmp_seq=21 ttl=237 time=122 ms
+[1607862825.621374] 40 bytes from 206.126.246.245: icmp_seq=22 ttl=237 time=123 ms
+[1607862826.620965] 40 bytes from 206.126.246.245: icmp_seq=23 ttl=237 time=122 ms
+[1607862827.621638] 40 bytes from 206.126.246.245: icmp_seq=24 ttl=237 time=123 ms
+[1607862838.626932] 40 bytes from 206.126.246.245: icmp_seq=25 ttl=237 time=123 ms
+[1607862848.758064] 40 bytes from 206.126.246.245: icmp_seq=26 ttl=237 time=122 ms
+[1607862853.883373] 40 bytes from 206.126.246.245: icmp_seq=27 ttl=237 time=123 ms
+[1607862859.010049] 40 bytes from 206.126.246.245: icmp_seq=28 ttl=237 time=122 ms
+[1607862859.136193] 40 bytes from 206.126.246.245: icmp_seq=29 ttl=237 time=123 ms
+[1607862865.138062] 40 bytes from 206.126.246.245: icmp_seq=30 ttl=237 time=123 ms
+[1607862870.268124] 40 bytes from 206.126.246.245: icmp_seq=31 ttl=237 time=123 ms
+[1607862870.393739] 40 bytes from 206.126.246.245: icmp_seq=32 ttl=237 time=123 ms
+[1607862871.395771] 40 bytes from 206.126.246.245: icmp_seq=33 ttl=237 time=122 ms
+[1607862872.396393] 40 bytes from 206.126.246.245: icmp_seq=34 ttl=237 time=122 ms
+[1607862873.396213] 40 bytes from 206.126.246.245: icmp_seq=35 ttl=237 time=122 ms
+[1607862874.398923] 40 bytes from 206.126.246.245: icmp_seq=36 ttl=237 time=123 ms
+[1607862875.400122] 40 bytes from 206.126.246.245: icmp_seq=37 ttl=237 time=122 ms
+[1607862881.403948] 40 bytes from 206.126.246.245: icmp_seq=38 ttl=237 time=122 ms
+[1607862881.529937] 40 bytes from 206.126.246.245: icmp_seq=39 ttl=237 time=123 ms
+[1607862882.531200] 40 bytes from 206.126.246.245: icmp_seq=40 ttl=237 time=123 ms
+[1607862883.532285] 40 bytes from 206.126.246.245: icmp_seq=41 ttl=237 time=123 ms
+[1607862884.533405] 40 bytes from 206.126.246.245: icmp_seq=42 ttl=237 time=123 ms
+[1607862885.534884] 40 bytes from 206.126.246.245: icmp_seq=43 ttl=237 time=123 ms
+[1607862886.536122] 40 bytes from 206.126.246.245: icmp_seq=44 ttl=237 time=123 ms
+[1607862887.536450] 40 bytes from 206.126.246.245: icmp_seq=45 ttl=237 time=123 ms
+[1607862888.537020] 40 bytes from 206.126.246.245: icmp_seq=46 ttl=237 time=123 ms
+[1607862889.537837] 40 bytes from 206.126.246.245: icmp_seq=47 ttl=237 time=123 ms
+[1607862890.539403] 40 bytes from 206.126.246.245: icmp_seq=48 ttl=237 time=123 ms
+[1607862892.560975] 40 bytes from 206.126.246.245: icmp_seq=50 ttl=237 time=123 ms
+
+--- dni.edu ping statistics ---
+50 packets transmitted, 48 received, 4% packet loss, time 179877ms
+rtt min/avg/max/mdev = 121.788/122.624/123.154/0.308 ms

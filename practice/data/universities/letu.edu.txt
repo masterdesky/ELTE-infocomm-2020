@@ -1,0 +1,55 @@
+PING letu.edu (65.8.68.89) 32(60) bytes of data.
+[1607862723.365452] 40 bytes from 65.8.68.89 (65.8.68.89): icmp_seq=1 ttl=236 time=171 ms
+[1607862724.195092] 40 bytes from 65.8.68.89 (65.8.68.89): icmp_seq=2 ttl=236 time=170 ms
+[1607862730.200108] 40 bytes from 65.8.68.89 (65.8.68.89): icmp_seq=3 ttl=236 time=171 ms
+[1607862730.373257] 40 bytes from 65.8.68.89 (65.8.68.89): icmp_seq=4 ttl=236 time=171 ms
+[1607862741.379112] 40 bytes from 65.8.68.89: icmp_seq=5 ttl=236 time=170 ms
+[1607862746.555931] 40 bytes from 65.8.68.89 (65.8.68.89): icmp_seq=6 ttl=236 time=171 ms
+[1607862756.735064] 40 bytes from 65.8.68.89: icmp_seq=7 ttl=236 time=171 ms
+[1607862766.913998] 40 bytes from 65.8.68.89: icmp_seq=8 ttl=236 time=171 ms
+[1607862767.086619] 40 bytes from 65.8.68.89 (65.8.68.89): icmp_seq=9 ttl=236 time=170 ms
+[1607862768.086910] 40 bytes from 65.8.68.89 (65.8.68.89): icmp_seq=10 ttl=236 time=171 ms
+[1607862769.086978] 40 bytes from 65.8.68.89 (65.8.68.89): icmp_seq=11 ttl=236 time=171 ms
+[1607862770.085919] 40 bytes from 65.8.68.89 (65.8.68.89): icmp_seq=12 ttl=236 time=171 ms
+[1607862771.086193] 40 bytes from 65.8.68.89 (65.8.68.89): icmp_seq=13 ttl=236 time=171 ms
+[1607862772.086222] 40 bytes from 65.8.68.89 (65.8.68.89): icmp_seq=14 ttl=236 time=171 ms
+[1607862773.085836] 40 bytes from 65.8.68.89 (65.8.68.89): icmp_seq=15 ttl=236 time=171 ms
+[1607862774.085665] 40 bytes from 65.8.68.89 (65.8.68.89): icmp_seq=16 ttl=236 time=170 ms
+[1607862775.086734] 40 bytes from 65.8.68.89 (65.8.68.89): icmp_seq=17 ttl=236 time=171 ms
+[1607862786.090146] 40 bytes from 65.8.68.89: icmp_seq=18 ttl=236 time=171 ms
+[1607862791.267298] 40 bytes from 65.8.68.89 (65.8.68.89): icmp_seq=19 ttl=236 time=171 ms
+[1607862796.443903] 40 bytes from 65.8.68.89 (65.8.68.89): icmp_seq=20 ttl=236 time=171 ms
+[1607862806.622239] 40 bytes from 65.8.68.89: icmp_seq=21 ttl=236 time=171 ms
+[1607862806.795372] 40 bytes from 65.8.68.89 (65.8.68.89): icmp_seq=22 ttl=236 time=171 ms
+[1607862807.795643] 40 bytes from 65.8.68.89 (65.8.68.89): icmp_seq=23 ttl=236 time=171 ms
+[1607862808.794955] 40 bytes from 65.8.68.89 (65.8.68.89): icmp_seq=24 ttl=236 time=171 ms
+[1607862809.794926] 40 bytes from 65.8.68.89 (65.8.68.89): icmp_seq=25 ttl=236 time=170 ms
+[1607862810.794653] 40 bytes from 65.8.68.89 (65.8.68.89): icmp_seq=26 ttl=236 time=171 ms
+[1607862811.794590] 40 bytes from 65.8.68.89 (65.8.68.89): icmp_seq=27 ttl=236 time=170 ms
+[1607862812.793679] 40 bytes from 65.8.68.89 (65.8.68.89): icmp_seq=28 ttl=236 time=170 ms
+[1607862813.794800] 40 bytes from 65.8.68.89 (65.8.68.89): icmp_seq=29 ttl=236 time=171 ms
+[1607862814.796941] 40 bytes from 65.8.68.89 (65.8.68.89): icmp_seq=30 ttl=236 time=171 ms
+[1607862815.797801] 40 bytes from 65.8.68.89 (65.8.68.89): icmp_seq=31 ttl=236 time=171 ms
+[1607862816.799113] 40 bytes from 65.8.68.89 (65.8.68.89): icmp_seq=32 ttl=236 time=171 ms
+[1607862822.804127] 40 bytes from 65.8.68.89 (65.8.68.89): icmp_seq=33 ttl=236 time=170 ms
+[1607862832.982010] 40 bytes from 65.8.68.89: icmp_seq=34 ttl=236 time=170 ms
+[1607862833.154351] 40 bytes from 65.8.68.89 (65.8.68.89): icmp_seq=35 ttl=236 time=170 ms
+[1607862834.155442] 40 bytes from 65.8.68.89 (65.8.68.89): icmp_seq=36 ttl=236 time=171 ms
+[1607862835.154154] 40 bytes from 65.8.68.89 (65.8.68.89): icmp_seq=37 ttl=236 time=171 ms
+[1607862836.154918] 40 bytes from 65.8.68.89 (65.8.68.89): icmp_seq=38 ttl=236 time=171 ms
+[1607862837.155090] 40 bytes from 65.8.68.89 (65.8.68.89): icmp_seq=39 ttl=236 time=171 ms
+[1607862843.160232] 40 bytes from 65.8.68.89 (65.8.68.89): icmp_seq=40 ttl=236 time=171 ms
+[1607862843.332954] 40 bytes from 65.8.68.89 (65.8.68.89): icmp_seq=41 ttl=236 time=171 ms
+[1607862844.334513] 40 bytes from 65.8.68.89 (65.8.68.89): icmp_seq=42 ttl=236 time=171 ms
+[1607862845.334667] 40 bytes from 65.8.68.89 (65.8.68.89): icmp_seq=43 ttl=236 time=171 ms
+[1607862846.335510] 40 bytes from 65.8.68.89 (65.8.68.89): icmp_seq=44 ttl=236 time=170 ms
+[1607862847.337184] 40 bytes from 65.8.68.89 (65.8.68.89): icmp_seq=45 ttl=236 time=170 ms
+[1607862848.338419] 40 bytes from 65.8.68.89 (65.8.68.89): icmp_seq=46 ttl=236 time=171 ms
+[1607862854.341056] 40 bytes from 65.8.68.89 (65.8.68.89): icmp_seq=47 ttl=236 time=170 ms
+[1607862854.513373] 40 bytes from 65.8.68.89 (65.8.68.89): icmp_seq=48 ttl=236 time=171 ms
+[1607862855.514868] 40 bytes from 65.8.68.89 (65.8.68.89): icmp_seq=49 ttl=236 time=171 ms
+[1607862856.516253] 40 bytes from 65.8.68.89 (65.8.68.89): icmp_seq=50 ttl=236 time=171 ms
+
+--- letu.edu ping statistics ---
+50 packets transmitted, 50 received, 0% packet loss, time 133322ms
+rtt min/avg/max/mdev = 169.819/170.643/171.055/0.280 ms

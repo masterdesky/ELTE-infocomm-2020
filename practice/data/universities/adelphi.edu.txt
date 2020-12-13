@@ -1,0 +1,55 @@
+PING adelphi.edu (192.147.12.33) 32(60) bytes of data.
+[1607862704.540055] 40 bytes from www.adelphi.edu (192.147.12.33): icmp_seq=1 ttl=46 time=103 ms
+[1607862704.644587] 40 bytes from www.adelphi.edu (192.147.12.33): icmp_seq=2 ttl=46 time=103 ms
+[1607862705.646561] 40 bytes from www.adelphi.edu (192.147.12.33): icmp_seq=3 ttl=46 time=103 ms
+[1607862716.654018] 40 bytes from 192.147.12.33: icmp_seq=4 ttl=46 time=103 ms
+[1607862726.766057] 40 bytes from 192.147.12.33: icmp_seq=5 ttl=46 time=103 ms
+[1607862726.870828] 40 bytes from www.adelphi.edu (192.147.12.33): icmp_seq=6 ttl=46 time=103 ms
+[1607862732.875626] 40 bytes from www.adelphi.edu (192.147.12.33): icmp_seq=7 ttl=46 time=103 ms
+[1607862732.981869] 40 bytes from www.adelphi.edu (192.147.12.33): icmp_seq=8 ttl=46 time=103 ms
+[1607862738.984126] 40 bytes from www.adelphi.edu (192.147.12.33): icmp_seq=9 ttl=46 time=104 ms
+[1607862739.089858] 40 bytes from www.adelphi.edu (192.147.12.33): icmp_seq=10 ttl=46 time=103 ms
+[1607862740.088019] 40 bytes from www.adelphi.edu (192.147.12.33): icmp_seq=11 ttl=46 time=103 ms
+[1607862751.094018] 40 bytes from 192.147.12.33: icmp_seq=12 ttl=46 time=103 ms
+[1607862756.203407] 40 bytes from www.adelphi.edu (192.147.12.33): icmp_seq=13 ttl=46 time=103 ms
+[1607862756.308435] 40 bytes from www.adelphi.edu (192.147.12.33): icmp_seq=14 ttl=46 time=103 ms
+[1607862757.309148] 40 bytes from www.adelphi.edu (192.147.12.33): icmp_seq=15 ttl=46 time=103 ms
+[1607862758.310348] 40 bytes from www.adelphi.edu (192.147.12.33): icmp_seq=16 ttl=46 time=103 ms
+[1607862759.311711] 40 bytes from www.adelphi.edu (192.147.12.33): icmp_seq=17 ttl=46 time=103 ms
+[1607862770.318052] 40 bytes from 192.147.12.33: icmp_seq=18 ttl=46 time=103 ms
+[1607862780.434044] 40 bytes from 192.147.12.33: icmp_seq=19 ttl=46 time=106 ms
+[1607862780.538457] 40 bytes from www.adelphi.edu (192.147.12.33): icmp_seq=20 ttl=46 time=102 ms
+[1607862781.539410] 40 bytes from www.adelphi.edu (192.147.12.33): icmp_seq=21 ttl=46 time=103 ms
+[1607862792.546028] 40 bytes from 192.147.12.33: icmp_seq=22 ttl=46 time=103 ms
+[1607862797.655844] 40 bytes from www.adelphi.edu (192.147.12.33): icmp_seq=23 ttl=46 time=103 ms
+[1607862802.763882] 40 bytes from www.adelphi.edu (192.147.12.33): icmp_seq=24 ttl=46 time=103 ms
+[1607862812.873990] 40 bytes from 192.147.12.33: icmp_seq=25 ttl=46 time=103 ms
+[1607862822.986092] 40 bytes from 192.147.12.33: icmp_seq=26 ttl=46 time=103 ms
+[1607862828.095643] 40 bytes from www.adelphi.edu (192.147.12.33): icmp_seq=27 ttl=46 time=103 ms
+[1607862838.206028] 40 bytes from 192.147.12.33: icmp_seq=28 ttl=46 time=103 ms
+[1607862843.315622] 40 bytes from www.adelphi.edu (192.147.12.33): icmp_seq=29 ttl=46 time=103 ms
+[1607862848.424085] 40 bytes from www.adelphi.edu (192.147.12.33): icmp_seq=30 ttl=46 time=103 ms
+[1607862848.528905] 40 bytes from www.adelphi.edu (192.147.12.33): icmp_seq=31 ttl=46 time=103 ms
+[1607862859.538870] 40 bytes from 192.147.12.33: icmp_seq=32 ttl=46 time=103 ms
+[1607862859.644048] 40 bytes from www.adelphi.edu (192.147.12.33): icmp_seq=33 ttl=46 time=103 ms
+[1607862860.644610] 40 bytes from www.adelphi.edu (192.147.12.33): icmp_seq=34 ttl=46 time=103 ms
+[1607862861.647115] 40 bytes from www.adelphi.edu (192.147.12.33): icmp_seq=35 ttl=46 time=103 ms
+[1607862862.647935] 40 bytes from www.adelphi.edu (192.147.12.33): icmp_seq=36 ttl=46 time=103 ms
+[1607862863.648171] 40 bytes from www.adelphi.edu (192.147.12.33): icmp_seq=37 ttl=46 time=103 ms
+[1607862869.651859] 40 bytes from www.adelphi.edu (192.147.12.33): icmp_seq=38 ttl=46 time=103 ms
+[1607862869.757399] 40 bytes from www.adelphi.edu (192.147.12.33): icmp_seq=39 ttl=46 time=103 ms
+[1607862880.762078] 40 bytes from 192.147.12.33: icmp_seq=40 ttl=46 time=103 ms
+[1607862880.867119] 40 bytes from www.adelphi.edu (192.147.12.33): icmp_seq=41 ttl=46 time=103 ms
+[1607862881.868337] 40 bytes from www.adelphi.edu (192.147.12.33): icmp_seq=42 ttl=46 time=103 ms
+[1607862882.869649] 40 bytes from www.adelphi.edu (192.147.12.33): icmp_seq=43 ttl=46 time=103 ms
+[1607862883.870259] 40 bytes from www.adelphi.edu (192.147.12.33): icmp_seq=44 ttl=46 time=103 ms
+[1607862884.870706] 40 bytes from www.adelphi.edu (192.147.12.33): icmp_seq=45 ttl=46 time=103 ms
+[1607862885.872376] 40 bytes from www.adelphi.edu (192.147.12.33): icmp_seq=46 ttl=46 time=103 ms
+[1607862886.873902] 40 bytes from www.adelphi.edu (192.147.12.33): icmp_seq=47 ttl=46 time=103 ms
+[1607862887.874746] 40 bytes from www.adelphi.edu (192.147.12.33): icmp_seq=48 ttl=46 time=103 ms
+[1607862888.875040] 40 bytes from www.adelphi.edu (192.147.12.33): icmp_seq=49 ttl=46 time=103 ms
+[1607862889.876309] 40 bytes from www.adelphi.edu (192.147.12.33): icmp_seq=50 ttl=46 time=103 ms
+
+--- adelphi.edu ping statistics ---
+50 packets transmitted, 50 received, 0% packet loss, time 191395ms
+rtt min/avg/max/mdev = 102.406/103.217/105.891/0.467 ms

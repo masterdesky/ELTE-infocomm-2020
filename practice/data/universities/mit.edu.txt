@@ -1,0 +1,54 @@
+PING mit.edu (88.221.9.235) 32(60) bytes of data.
+[1607862682.568207] 40 bytes from a88-221-9-235.deploy.static.akamaitechnologies.com (88.221.9.235): icmp_seq=1 ttl=45 time=28.2 ms
+[1607862683.567953] 40 bytes from a88-221-9-235.deploy.static.akamaitechnologies.com (88.221.9.235): icmp_seq=2 ttl=45 time=27.6 ms
+[1607862694.574080] 40 bytes from 88.221.9.235: icmp_seq=3 ttl=45 time=28.1 ms
+[1607862694.604718] 40 bytes from a88-221-9-235.deploy.static.akamaitechnologies.com (88.221.9.235): icmp_seq=4 ttl=45 time=27.9 ms
+[1607862700.607782] 40 bytes from a88-221-9-235.deploy.static.akamaitechnologies.com (88.221.9.235): icmp_seq=5 ttl=45 time=27.9 ms
+[1607862700.637902] 40 bytes from a88-221-9-235.deploy.static.akamaitechnologies.com (88.221.9.235): icmp_seq=6 ttl=45 time=27.8 ms
+[1607862701.638639] 40 bytes from a88-221-9-235.deploy.static.akamaitechnologies.com (88.221.9.235): icmp_seq=7 ttl=45 time=28.0 ms
+[1607862712.646043] 40 bytes from 88.221.9.235: icmp_seq=8 ttl=45 time=27.2 ms
+[1607862712.676004] 40 bytes from a88-221-9-235.deploy.static.akamaitechnologies.com (88.221.9.235): icmp_seq=9 ttl=45 time=27.8 ms
+[1607862718.679872] 40 bytes from a88-221-9-235.deploy.static.akamaitechnologies.com (88.221.9.235): icmp_seq=10 ttl=45 time=27.8 ms
+[1607862718.710170] 40 bytes from a88-221-9-235.deploy.static.akamaitechnologies.com (88.221.9.235): icmp_seq=11 ttl=45 time=28.0 ms
+[1607862719.710765] 40 bytes from a88-221-9-235.deploy.static.akamaitechnologies.com (88.221.9.235): icmp_seq=12 ttl=45 time=28.0 ms
+[1607862720.709695] 40 bytes from a88-221-9-235.deploy.static.akamaitechnologies.com (88.221.9.235): icmp_seq=13 ttl=45 time=28.0 ms
+[1607862721.712588] 40 bytes from a88-221-9-235.deploy.static.akamaitechnologies.com (88.221.9.235): icmp_seq=14 ttl=45 time=28.0 ms
+[1607862722.713075] 40 bytes from a88-221-9-235.deploy.static.akamaitechnologies.com (88.221.9.235): icmp_seq=15 ttl=45 time=28.2 ms
+[1607862728.716683] 40 bytes from a88-221-9-235.deploy.static.akamaitechnologies.com (88.221.9.235): icmp_seq=16 ttl=45 time=27.1 ms
+[1607862728.746097] 40 bytes from a88-221-9-235.deploy.static.akamaitechnologies.com (88.221.9.235): icmp_seq=17 ttl=45 time=27.4 ms
+[1607862740.750024] 40 bytes from 88.221.9.235: icmp_seq=19 ttl=45 time=27.4 ms
+[1607862750.786005] 40 bytes from 88.221.9.235: icmp_seq=20 ttl=45 time=27.9 ms
+[1607862750.816379] 40 bytes from a88-221-9-235.deploy.static.akamaitechnologies.com (88.221.9.235): icmp_seq=21 ttl=45 time=27.4 ms
+[1607862751.815162] 40 bytes from a88-221-9-235.deploy.static.akamaitechnologies.com (88.221.9.235): icmp_seq=22 ttl=45 time=27.9 ms
+[1607862752.815273] 40 bytes from a88-221-9-235.deploy.static.akamaitechnologies.com (88.221.9.235): icmp_seq=23 ttl=45 time=28.2 ms
+[1607862753.814432] 40 bytes from a88-221-9-235.deploy.static.akamaitechnologies.com (88.221.9.235): icmp_seq=24 ttl=45 time=27.9 ms
+[1607862754.814318] 40 bytes from a88-221-9-235.deploy.static.akamaitechnologies.com (88.221.9.235): icmp_seq=25 ttl=45 time=27.6 ms
+[1607862755.815501] 40 bytes from a88-221-9-235.deploy.static.akamaitechnologies.com (88.221.9.235): icmp_seq=26 ttl=45 time=28.0 ms
+[1607862766.822046] 40 bytes from 88.221.9.235: icmp_seq=27 ttl=45 time=27.8 ms
+[1607862776.859215] 40 bytes from 88.221.9.235: icmp_seq=28 ttl=45 time=27.8 ms
+[1607862776.889414] 40 bytes from a88-221-9-235.deploy.static.akamaitechnologies.com (88.221.9.235): icmp_seq=29 ttl=45 time=27.8 ms
+[1607862777.889260] 40 bytes from a88-221-9-235.deploy.static.akamaitechnologies.com (88.221.9.235): icmp_seq=30 ttl=45 time=28.1 ms
+[1607862778.887870] 40 bytes from a88-221-9-235.deploy.static.akamaitechnologies.com (88.221.9.235): icmp_seq=31 ttl=45 time=27.6 ms
+[1607862779.889562] 40 bytes from a88-221-9-235.deploy.static.akamaitechnologies.com (88.221.9.235): icmp_seq=32 ttl=45 time=28.0 ms
+[1607862785.892225] 40 bytes from a88-221-9-235.deploy.static.akamaitechnologies.com (88.221.9.235): icmp_seq=33 ttl=45 time=27.9 ms
+[1607862790.924082] 40 bytes from a88-221-9-235.deploy.static.akamaitechnologies.com (88.221.9.235): icmp_seq=34 ttl=45 time=27.8 ms
+[1607862790.954096] 40 bytes from a88-221-9-235.deploy.static.akamaitechnologies.com (88.221.9.235): icmp_seq=35 ttl=45 time=28.1 ms
+[1607862791.954699] 40 bytes from a88-221-9-235.deploy.static.akamaitechnologies.com (88.221.9.235): icmp_seq=36 ttl=45 time=28.2 ms
+[1607862792.954962] 40 bytes from a88-221-9-235.deploy.static.akamaitechnologies.com (88.221.9.235): icmp_seq=37 ttl=45 time=27.4 ms
+[1607862793.955718] 40 bytes from a88-221-9-235.deploy.static.akamaitechnologies.com (88.221.9.235): icmp_seq=38 ttl=45 time=27.5 ms
+[1607862794.956771] 40 bytes from a88-221-9-235.deploy.static.akamaitechnologies.com (88.221.9.235): icmp_seq=39 ttl=45 time=27.4 ms
+[1607862795.959360] 40 bytes from a88-221-9-235.deploy.static.akamaitechnologies.com (88.221.9.235): icmp_seq=40 ttl=45 time=28.2 ms
+[1607862801.963786] 40 bytes from a88-221-9-235.deploy.static.akamaitechnologies.com (88.221.9.235): icmp_seq=41 ttl=45 time=28.1 ms
+[1607862801.993538] 40 bytes from a88-221-9-235.deploy.static.akamaitechnologies.com (88.221.9.235): icmp_seq=42 ttl=45 time=27.6 ms
+[1607862802.994665] 40 bytes from a88-221-9-235.deploy.static.akamaitechnologies.com (88.221.9.235): icmp_seq=43 ttl=45 time=28.0 ms
+[1607862803.993153] 40 bytes from a88-221-9-235.deploy.static.akamaitechnologies.com (88.221.9.235): icmp_seq=44 ttl=45 time=27.7 ms
+[1607862804.994930] 40 bytes from a88-221-9-235.deploy.static.akamaitechnologies.com (88.221.9.235): icmp_seq=45 ttl=45 time=28.0 ms
+[1607862805.993439] 40 bytes from a88-221-9-235.deploy.static.akamaitechnologies.com (88.221.9.235): icmp_seq=46 ttl=45 time=27.9 ms
+[1607862806.995419] 40 bytes from a88-221-9-235.deploy.static.akamaitechnologies.com (88.221.9.235): icmp_seq=47 ttl=45 time=27.9 ms
+[1607862807.995190] 40 bytes from a88-221-9-235.deploy.static.akamaitechnologies.com (88.221.9.235): icmp_seq=48 ttl=45 time=27.9 ms
+[1607862808.995525] 40 bytes from a88-221-9-235.deploy.static.akamaitechnologies.com (88.221.9.235): icmp_seq=49 ttl=45 time=27.4 ms
+[1607862809.995488] 40 bytes from a88-221-9-235.deploy.static.akamaitechnologies.com (88.221.9.235): icmp_seq=50 ttl=45 time=27.6 ms
+
+--- mit.edu ping statistics ---
+50 packets transmitted, 49 received, 2% packet loss, time 127428ms
+rtt min/avg/max/mdev = 27.069/27.816/28.198/0.276 ms

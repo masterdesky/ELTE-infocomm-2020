@@ -1,0 +1,7 @@
+PING usfsp.edu (131.247.141.33) 32(60) bytes of data.
+[1607862711.963329] From Vlan617.dav-dist1.net.usf.edu (131.247.254.211) icmp_seq=35 Packet filtered
+[1607862713.983937] From 131.247.254.211 icmp_seq=37 Packet filtered
+
+--- usfsp.edu ping statistics ---
+50 packets transmitted, 0 received, +2 errors, 100% packet loss, time 58610ms
+

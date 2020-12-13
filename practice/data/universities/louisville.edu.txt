@@ -1,0 +1,54 @@
+PING louisville.edu (136.165.238.241) 32(60) bytes of data.
+[1607862681.466345] 40 bytes from louisville.edu (136.165.238.241): icmp_seq=1 ttl=47 time=137 ms
+[1607862681.605874] 40 bytes from louisville.edu (136.165.238.241): icmp_seq=2 ttl=47 time=137 ms
+[1607862682.605822] 40 bytes from louisville.edu (136.165.238.241): icmp_seq=3 ttl=47 time=137 ms
+[1607862683.605133] 40 bytes from louisville.edu (136.165.238.241): icmp_seq=4 ttl=47 time=136 ms
+[1607862684.606821] 40 bytes from louisville.edu (136.165.238.241): icmp_seq=5 ttl=47 time=137 ms
+[1607862685.608927] 40 bytes from louisville.edu (136.165.238.241): icmp_seq=6 ttl=47 time=137 ms
+[1607862691.612359] 40 bytes from louisville.edu (136.165.238.241): icmp_seq=7 ttl=47 time=136 ms
+[1607862696.755981] 40 bytes from louisville.edu (136.165.238.241): icmp_seq=8 ttl=47 time=137 ms
+[1607862696.895577] 40 bytes from louisville.edu (136.165.238.241): icmp_seq=9 ttl=47 time=137 ms
+[1607862698.913360] 40 bytes from louisville.edu (136.165.238.241): icmp_seq=11 ttl=47 time=137 ms
+[1607862704.915815] 40 bytes from louisville.edu (136.165.238.241): icmp_seq=12 ttl=47 time=136 ms
+[1607862705.054134] 40 bytes from louisville.edu (136.165.238.241): icmp_seq=13 ttl=47 time=137 ms
+[1607862706.054555] 40 bytes from louisville.edu (136.165.238.241): icmp_seq=14 ttl=47 time=137 ms
+[1607862717.058027] 40 bytes from 136.165.238.241: icmp_seq=15 ttl=47 time=137 ms
+[1607862722.199785] 40 bytes from louisville.edu (136.165.238.241): icmp_seq=16 ttl=47 time=137 ms
+[1607862732.342472] 40 bytes from 136.165.238.241: icmp_seq=17 ttl=47 time=136 ms
+[1607862742.486075] 40 bytes from 136.165.238.241: icmp_seq=18 ttl=47 time=137 ms
+[1607862747.627811] 40 bytes from louisville.edu (136.165.238.241): icmp_seq=19 ttl=47 time=137 ms
+[1607862747.767020] 40 bytes from louisville.edu (136.165.238.241): icmp_seq=20 ttl=47 time=137 ms
+[1607862748.766673] 40 bytes from louisville.edu (136.165.238.241): icmp_seq=21 ttl=47 time=137 ms
+[1607862759.770127] 40 bytes from 136.165.238.241: icmp_seq=22 ttl=47 time=137 ms
+[1607862764.911843] 40 bytes from louisville.edu (136.165.238.241): icmp_seq=23 ttl=47 time=137 ms
+[1607862770.056175] 40 bytes from louisville.edu (136.165.238.241): icmp_seq=24 ttl=47 time=137 ms
+[1607862775.199897] 40 bytes from louisville.edu (136.165.238.241): icmp_seq=25 ttl=47 time=137 ms
+[1607862775.339023] 40 bytes from louisville.edu (136.165.238.241): icmp_seq=26 ttl=47 time=137 ms
+[1607862776.337911] 40 bytes from louisville.edu (136.165.238.241): icmp_seq=27 ttl=47 time=137 ms
+[1607862782.342441] 40 bytes from louisville.edu (136.165.238.241): icmp_seq=28 ttl=47 time=137 ms
+[1607862792.486082] 40 bytes from 136.165.238.241: icmp_seq=29 ttl=47 time=137 ms
+[1607862797.627729] 40 bytes from louisville.edu (136.165.238.241): icmp_seq=30 ttl=47 time=137 ms
+[1607862807.774139] 40 bytes from 136.165.238.241: icmp_seq=31 ttl=47 time=137 ms
+[1607862807.913454] 40 bytes from louisville.edu (136.165.238.241): icmp_seq=32 ttl=47 time=137 ms
+[1607862808.912968] 40 bytes from louisville.edu (136.165.238.241): icmp_seq=33 ttl=47 time=137 ms
+[1607862809.912967] 40 bytes from louisville.edu (136.165.238.241): icmp_seq=34 ttl=47 time=137 ms
+[1607862810.912558] 40 bytes from louisville.edu (136.165.238.241): icmp_seq=35 ttl=47 time=137 ms
+[1607862811.912551] 40 bytes from louisville.edu (136.165.238.241): icmp_seq=36 ttl=47 time=137 ms
+[1607862822.918886] 40 bytes from 136.165.238.241: icmp_seq=37 ttl=47 time=137 ms
+[1607862833.062046] 40 bytes from 136.165.238.241: icmp_seq=38 ttl=47 time=137 ms
+[1607862843.206320] 40 bytes from 136.165.238.241: icmp_seq=39 ttl=47 time=137 ms
+[1607862843.345222] 40 bytes from louisville.edu (136.165.238.241): icmp_seq=40 ttl=47 time=137 ms
+[1607862854.349997] 40 bytes from 136.165.238.241: icmp_seq=41 ttl=47 time=137 ms
+[1607862864.494004] 40 bytes from 136.165.238.241: icmp_seq=42 ttl=47 time=137 ms
+[1607862869.635901] 40 bytes from louisville.edu (136.165.238.241): icmp_seq=43 ttl=47 time=136 ms
+[1607862869.775008] 40 bytes from louisville.edu (136.165.238.241): icmp_seq=44 ttl=47 time=137 ms
+[1607862870.776492] 40 bytes from louisville.edu (136.165.238.241): icmp_seq=45 ttl=47 time=137 ms
+[1607862871.777272] 40 bytes from louisville.edu (136.165.238.241): icmp_seq=46 ttl=47 time=137 ms
+[1607862872.777657] 40 bytes from louisville.edu (136.165.238.241): icmp_seq=47 ttl=47 time=137 ms
+[1607862873.779413] 40 bytes from louisville.edu (136.165.238.241): icmp_seq=48 ttl=47 time=137 ms
+[1607862874.781241] 40 bytes from louisville.edu (136.165.238.241): icmp_seq=49 ttl=47 time=137 ms
+[1607862876.643202] 40 bytes from 136.165.238.241: icmp_seq=50 ttl=47 time=136 ms
+
+--- louisville.edu ping statistics ---
+50 packets transmitted, 49 received, 2% packet loss, time 199320ms
+rtt min/avg/max/mdev = 136.191/136.802/137.181/0.242 ms

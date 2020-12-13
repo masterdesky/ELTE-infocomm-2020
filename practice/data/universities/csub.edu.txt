@@ -1,0 +1,5 @@
+PING csub.edu (104.40.0.56) 32(60) bytes of data.
+
+--- csub.edu ping statistics ---
+50 packets transmitted, 0 received, 100% packet loss, time 49242ms
+

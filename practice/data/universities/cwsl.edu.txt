@@ -1,0 +1,55 @@
+PING cwsl.edu (209.242.137.62) 32(60) bytes of data.
+[1607862699.374019] 40 bytes from 209.242.137.62: icmp_seq=1 ttl=107 time=166 ms
+[1607862705.260577] 40 bytes from wsip-209-242-137-62.sd.sd.cox.net (209.242.137.62): icmp_seq=2 ttl=107 time=165 ms
+[1607862715.434005] 40 bytes from 209.242.137.62: icmp_seq=3 ttl=107 time=165 ms
+[1607862715.601264] 40 bytes from wsip-209-242-137-62.sd.sd.cox.net (209.242.137.62): icmp_seq=4 ttl=107 time=165 ms
+[1607862716.602757] 40 bytes from wsip-209-242-137-62.sd.sd.cox.net (209.242.137.62): icmp_seq=5 ttl=107 time=165 ms
+[1607862717.601729] 40 bytes from wsip-209-242-137-62.sd.sd.cox.net (209.242.137.62): icmp_seq=6 ttl=107 time=165 ms
+[1607862723.603855] 40 bytes from wsip-209-242-137-62.sd.sd.cox.net (209.242.137.62): icmp_seq=7 ttl=107 time=165 ms
+[1607862733.778025] 40 bytes from 209.242.137.62: icmp_seq=8 ttl=107 time=165 ms
+[1607862733.945825] 40 bytes from wsip-209-242-137-62.sd.sd.cox.net (209.242.137.62): icmp_seq=9 ttl=107 time=165 ms
+[1607862744.954001] 40 bytes from 209.242.137.62: icmp_seq=10 ttl=107 time=165 ms
+[1607862750.123686] 40 bytes from wsip-209-242-137-62.sd.sd.cox.net (209.242.137.62): icmp_seq=11 ttl=107 time=165 ms
+[1607862760.294127] 40 bytes from 209.242.137.62: icmp_seq=12 ttl=107 time=165 ms
+[1607862765.465475] 40 bytes from wsip-209-242-137-62.sd.sd.cox.net (209.242.137.62): icmp_seq=13 ttl=107 time=166 ms
+[1607862770.635978] 40 bytes from wsip-209-242-137-62.sd.sd.cox.net (209.242.137.62): icmp_seq=14 ttl=107 time=165 ms
+[1607862775.807642] 40 bytes from wsip-209-242-137-62.sd.sd.cox.net (209.242.137.62): icmp_seq=15 ttl=107 time=166 ms
+[1607862785.982016] 40 bytes from 209.242.137.62: icmp_seq=16 ttl=107 time=165 ms
+[1607862791.151968] 40 bytes from wsip-209-242-137-62.sd.sd.cox.net (209.242.137.62): icmp_seq=17 ttl=107 time=165 ms
+[1607862796.324416] 40 bytes from wsip-209-242-137-62.sd.sd.cox.net (209.242.137.62): icmp_seq=18 ttl=107 time=166 ms
+[1607862801.495802] 40 bytes from wsip-209-242-137-62.sd.sd.cox.net (209.242.137.62): icmp_seq=19 ttl=107 time=165 ms
+[1607862806.667970] 40 bytes from wsip-209-242-137-62.sd.sd.cox.net (209.242.137.62): icmp_seq=20 ttl=107 time=166 ms
+[1607862806.835353] 40 bytes from wsip-209-242-137-62.sd.sd.cox.net (209.242.137.62): icmp_seq=21 ttl=107 time=165 ms
+[1607862807.835131] 40 bytes from wsip-209-242-137-62.sd.sd.cox.net (209.242.137.62): icmp_seq=22 ttl=107 time=165 ms
+[1607862808.834428] 40 bytes from wsip-209-242-137-62.sd.sd.cox.net (209.242.137.62): icmp_seq=23 ttl=107 time=165 ms
+[1607862809.835609] 40 bytes from wsip-209-242-137-62.sd.sd.cox.net (209.242.137.62): icmp_seq=24 ttl=107 time=165 ms
+[1607862810.835420] 40 bytes from wsip-209-242-137-62.sd.sd.cox.net (209.242.137.62): icmp_seq=25 ttl=107 time=165 ms
+[1607862811.835926] 40 bytes from wsip-209-242-137-62.sd.sd.cox.net (209.242.137.62): icmp_seq=26 ttl=107 time=165 ms
+[1607862822.841997] 40 bytes from 209.242.137.62: icmp_seq=27 ttl=107 time=165 ms
+[1607862833.014203] 40 bytes from 209.242.137.62: icmp_seq=28 ttl=107 time=166 ms
+[1607862843.186855] 40 bytes from 209.242.137.62: icmp_seq=29 ttl=107 time=165 ms
+[1607862843.353873] 40 bytes from wsip-209-242-137-62.sd.sd.cox.net (209.242.137.62): icmp_seq=30 ttl=107 time=165 ms
+[1607862844.355036] 40 bytes from wsip-209-242-137-62.sd.sd.cox.net (209.242.137.62): icmp_seq=31 ttl=107 time=165 ms
+[1607862845.355760] 40 bytes from wsip-209-242-137-62.sd.sd.cox.net (209.242.137.62): icmp_seq=32 ttl=107 time=165 ms
+[1607862846.357682] 40 bytes from wsip-209-242-137-62.sd.sd.cox.net (209.242.137.62): icmp_seq=33 ttl=107 time=165 ms
+[1607862847.358941] 40 bytes from wsip-209-242-137-62.sd.sd.cox.net (209.242.137.62): icmp_seq=34 ttl=107 time=165 ms
+[1607862848.360968] 40 bytes from wsip-209-242-137-62.sd.sd.cox.net (209.242.137.62): icmp_seq=35 ttl=107 time=165 ms
+[1607862854.364424] 40 bytes from wsip-209-242-137-62.sd.sd.cox.net (209.242.137.62): icmp_seq=36 ttl=107 time=166 ms
+[1607862864.538036] 40 bytes from 209.242.137.62: icmp_seq=37 ttl=107 time=165 ms
+[1607862869.708247] 40 bytes from wsip-209-242-137-62.sd.sd.cox.net (209.242.137.62): icmp_seq=38 ttl=107 time=165 ms
+[1607862869.876061] 40 bytes from wsip-209-242-137-62.sd.sd.cox.net (209.242.137.62): icmp_seq=39 ttl=107 time=166 ms
+[1607862880.881997] 40 bytes from 209.242.137.62: icmp_seq=40 ttl=107 time=165 ms
+[1607862881.049498] 40 bytes from wsip-209-242-137-62.sd.sd.cox.net (209.242.137.62): icmp_seq=41 ttl=107 time=166 ms
+[1607862882.049739] 40 bytes from wsip-209-242-137-62.sd.sd.cox.net (209.242.137.62): icmp_seq=42 ttl=107 time=166 ms
+[1607862883.049001] 40 bytes from wsip-209-242-137-62.sd.sd.cox.net (209.242.137.62): icmp_seq=43 ttl=107 time=165 ms
+[1607862884.048796] 40 bytes from wsip-209-242-137-62.sd.sd.cox.net (209.242.137.62): icmp_seq=44 ttl=107 time=165 ms
+[1607862885.049150] 40 bytes from wsip-209-242-137-62.sd.sd.cox.net (209.242.137.62): icmp_seq=45 ttl=107 time=165 ms
+[1607862886.048635] 40 bytes from wsip-209-242-137-62.sd.sd.cox.net (209.242.137.62): icmp_seq=46 ttl=107 time=166 ms
+[1607862887.048942] 40 bytes from wsip-209-242-137-62.sd.sd.cox.net (209.242.137.62): icmp_seq=47 ttl=107 time=165 ms
+[1607862888.050208] 40 bytes from wsip-209-242-137-62.sd.sd.cox.net (209.242.137.62): icmp_seq=48 ttl=107 time=165 ms
+[1607862889.050922] 40 bytes from wsip-209-242-137-62.sd.sd.cox.net (209.242.137.62): icmp_seq=49 ttl=107 time=165 ms
+[1607862890.050716] 40 bytes from wsip-209-242-137-62.sd.sd.cox.net (209.242.137.62): icmp_seq=50 ttl=107 time=165 ms
+
+--- cwsl.edu ping statistics ---
+50 packets transmitted, 50 received, 0% packet loss, time 200682ms
+rtt min/avg/max/mdev = 164.549/165.277/165.899/0.296 ms

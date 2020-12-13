@@ -1,0 +1,55 @@
+PING mcm.edu (66.76.21.199) 32(60) bytes of data.
+[1607862713.382036] 40 bytes from 66.76.21.199: icmp_seq=1 ttl=42 time=155 ms
+[1607862719.509522] 40 bytes from mail.mcm.edu (66.76.21.199): icmp_seq=2 ttl=42 time=155 ms
+[1607862719.666807] 40 bytes from mail.mcm.edu (66.76.21.199): icmp_seq=3 ttl=42 time=155 ms
+[1607862720.667798] 40 bytes from mail.mcm.edu (66.76.21.199): icmp_seq=4 ttl=42 time=156 ms
+[1607862731.675594] 40 bytes from 66.76.21.199: icmp_seq=5 ttl=42 time=155 ms
+[1607862741.838031] 40 bytes from 66.76.21.199: icmp_seq=6 ttl=42 time=155 ms
+[1607862741.994770] 40 bytes from mail.mcm.edu (66.76.21.199): icmp_seq=7 ttl=42 time=155 ms
+[1607862742.997079] 40 bytes from mail.mcm.edu (66.76.21.199): icmp_seq=8 ttl=42 time=155 ms
+[1607862743.998303] 40 bytes from mail.mcm.edu (66.76.21.199): icmp_seq=9 ttl=42 time=155 ms
+[1607862750.003852] 40 bytes from mail.mcm.edu (66.76.21.199): icmp_seq=10 ttl=42 time=155 ms
+[1607862755.163959] 40 bytes from mail.mcm.edu (66.76.21.199): icmp_seq=11 ttl=42 time=155 ms
+[1607862760.323757] 40 bytes from mail.mcm.edu (66.76.21.199): icmp_seq=12 ttl=42 time=155 ms
+[1607862765.483747] 40 bytes from mail.mcm.edu (66.76.21.199): icmp_seq=13 ttl=42 time=155 ms
+[1607862765.640361] 40 bytes from mail.mcm.edu (66.76.21.199): icmp_seq=14 ttl=42 time=155 ms
+[1607862771.644362] 40 bytes from mail.mcm.edu (66.76.21.199): icmp_seq=15 ttl=42 time=155 ms
+[1607862781.810058] 40 bytes from 66.76.21.199: icmp_seq=16 ttl=42 time=158 ms
+[1607862781.968010] 40 bytes from mail.mcm.edu (66.76.21.199): icmp_seq=17 ttl=42 time=156 ms
+[1607862782.967351] 40 bytes from mail.mcm.edu (66.76.21.199): icmp_seq=18 ttl=42 time=156 ms
+[1607862783.968881] 40 bytes from mail.mcm.edu (66.76.21.199): icmp_seq=19 ttl=42 time=156 ms
+[1607862784.970264] 40 bytes from mail.mcm.edu (66.76.21.199): icmp_seq=20 ttl=42 time=156 ms
+[1607862790.978462] 40 bytes from mail.mcm.edu (66.76.21.199): icmp_seq=21 ttl=42 time=155 ms
+[1607862791.135232] 40 bytes from mail.mcm.edu (66.76.21.199): icmp_seq=22 ttl=42 time=155 ms
+[1607862802.142067] 40 bytes from 66.76.21.199: icmp_seq=23 ttl=42 time=155 ms
+[1607862812.305997] 40 bytes from 66.76.21.199: icmp_seq=24 ttl=42 time=155 ms
+[1607862822.470032] 40 bytes from 66.76.21.199: icmp_seq=25 ttl=42 time=155 ms
+[1607862827.631821] 40 bytes from mail.mcm.edu (66.76.21.199): icmp_seq=26 ttl=42 time=156 ms
+[1607862832.792510] 40 bytes from mail.mcm.edu (66.76.21.199): icmp_seq=27 ttl=42 time=155 ms
+[1607862832.949955] 40 bytes from mail.mcm.edu (66.76.21.199): icmp_seq=28 ttl=42 time=155 ms
+[1607862843.954456] 40 bytes from 66.76.21.199: icmp_seq=29 ttl=42 time=156 ms
+[1607862854.117999] 40 bytes from 66.76.21.199: icmp_seq=30 ttl=42 time=155 ms
+[1607862854.275447] 40 bytes from mail.mcm.edu (66.76.21.199): icmp_seq=31 ttl=42 time=155 ms
+[1607862855.276161] 40 bytes from mail.mcm.edu (66.76.21.199): icmp_seq=32 ttl=42 time=155 ms
+[1607862856.277527] 40 bytes from mail.mcm.edu (66.76.21.199): icmp_seq=33 ttl=42 time=155 ms
+[1607862857.278169] 40 bytes from mail.mcm.edu (66.76.21.199): icmp_seq=34 ttl=42 time=155 ms
+[1607862858.279309] 40 bytes from mail.mcm.edu (66.76.21.199): icmp_seq=35 ttl=42 time=155 ms
+[1607862859.279334] 40 bytes from mail.mcm.edu (66.76.21.199): icmp_seq=36 ttl=42 time=155 ms
+[1607862870.286697] 40 bytes from 66.76.21.199: icmp_seq=37 ttl=42 time=155 ms
+[1607862870.444028] 40 bytes from mail.mcm.edu (66.76.21.199): icmp_seq=38 ttl=42 time=155 ms
+[1607862871.444668] 40 bytes from mail.mcm.edu (66.76.21.199): icmp_seq=39 ttl=42 time=155 ms
+[1607862872.445935] 40 bytes from mail.mcm.edu (66.76.21.199): icmp_seq=40 ttl=42 time=155 ms
+[1607862873.447058] 40 bytes from mail.mcm.edu (66.76.21.199): icmp_seq=41 ttl=42 time=156 ms
+[1607862874.448620] 40 bytes from mail.mcm.edu (66.76.21.199): icmp_seq=42 ttl=42 time=155 ms
+[1607862875.449722] 40 bytes from mail.mcm.edu (66.76.21.199): icmp_seq=43 ttl=42 time=155 ms
+[1607862876.450687] 40 bytes from mail.mcm.edu (66.76.21.199): icmp_seq=44 ttl=42 time=155 ms
+[1607862877.451202] 40 bytes from mail.mcm.edu (66.76.21.199): icmp_seq=45 ttl=42 time=155 ms
+[1607862878.452522] 40 bytes from mail.mcm.edu (66.76.21.199): icmp_seq=46 ttl=42 time=155 ms
+[1607862879.453849] 40 bytes from mail.mcm.edu (66.76.21.199): icmp_seq=47 ttl=42 time=155 ms
+[1607862880.455094] 40 bytes from mail.mcm.edu (66.76.21.199): icmp_seq=48 ttl=42 time=155 ms
+[1607862881.455274] 40 bytes from mail.mcm.edu (66.76.21.199): icmp_seq=49 ttl=42 time=155 ms
+[1607862882.455946] 40 bytes from mail.mcm.edu (66.76.21.199): icmp_seq=50 ttl=42 time=155 ms
+
+--- mcm.edu ping statistics ---
+50 packets transmitted, 50 received, 0% packet loss, time 179078ms
+rtt min/avg/max/mdev = 154.589/155.345/158.401/0.501 ms

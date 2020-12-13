@@ -1,0 +1,5 @@
+PING mineralarea.edu (52.173.83.49) 32(60) bytes of data.
+
+--- mineralarea.edu ping statistics ---
+50 packets transmitted, 0 received, 100% packet loss, time 49310ms
+

@@ -1,0 +1,5 @@
+PING venturacollege.edu (34.216.13.220) 32(60) bytes of data.
+
+--- venturacollege.edu ping statistics ---
+50 packets transmitted, 0 received, 100% packet loss, time 49212ms
+

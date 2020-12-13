@@ -1,0 +1,55 @@
+PING loras.edu (34.68.170.69) 32(60) bytes of data.
+[1607862693.607879] 40 bytes from 69.170.68.34.bc.googleusercontent.com (34.68.170.69): icmp_seq=1 ttl=100 time=120 ms
+[1607862698.732059] 40 bytes from 69.170.68.34.bc.googleusercontent.com (34.68.170.69): icmp_seq=2 ttl=100 time=120 ms
+[1607862698.855027] 40 bytes from 69.170.68.34.bc.googleusercontent.com (34.68.170.69): icmp_seq=3 ttl=100 time=120 ms
+[1607862709.862025] 40 bytes from 34.68.170.69: icmp_seq=4 ttl=100 time=120 ms
+[1607862719.990070] 40 bytes from 34.68.170.69: icmp_seq=5 ttl=100 time=120 ms
+[1607862730.118000] 40 bytes from 34.68.170.69: icmp_seq=6 ttl=100 time=120 ms
+[1607862730.240162] 40 bytes from 69.170.68.34.bc.googleusercontent.com (34.68.170.69): icmp_seq=7 ttl=100 time=120 ms
+[1607862736.243817] 40 bytes from 69.170.68.34.bc.googleusercontent.com (34.68.170.69): icmp_seq=8 ttl=100 time=120 ms
+[1607862736.366390] 40 bytes from 69.170.68.34.bc.googleusercontent.com (34.68.170.69): icmp_seq=9 ttl=100 time=120 ms
+[1607862747.370059] 40 bytes from 34.68.170.69: icmp_seq=10 ttl=100 time=119 ms
+[1607862752.496697] 40 bytes from 69.170.68.34.bc.googleusercontent.com (34.68.170.69): icmp_seq=11 ttl=100 time=121 ms
+[1607862752.619642] 40 bytes from 69.170.68.34.bc.googleusercontent.com (34.68.170.69): icmp_seq=12 ttl=100 time=120 ms
+[1607862753.619473] 40 bytes from 69.170.68.34.bc.googleusercontent.com (34.68.170.69): icmp_seq=13 ttl=100 time=120 ms
+[1607862754.618330] 40 bytes from 69.170.68.34.bc.googleusercontent.com (34.68.170.69): icmp_seq=14 ttl=100 time=120 ms
+[1607862765.626072] 40 bytes from 34.68.170.69: icmp_seq=15 ttl=100 time=120 ms
+[1607862775.754110] 40 bytes from 34.68.170.69: icmp_seq=16 ttl=100 time=120 ms
+[1607862785.882010] 40 bytes from 34.68.170.69: icmp_seq=17 ttl=100 time=120 ms
+[1607862786.003515] 40 bytes from 69.170.68.34.bc.googleusercontent.com (34.68.170.69): icmp_seq=18 ttl=100 time=120 ms
+[1607862787.004587] 40 bytes from 69.170.68.34.bc.googleusercontent.com (34.68.170.69): icmp_seq=19 ttl=100 time=120 ms
+[1607862788.003442] 40 bytes from 69.170.68.34.bc.googleusercontent.com (34.68.170.69): icmp_seq=20 ttl=100 time=120 ms
+[1607862789.004556] 40 bytes from 69.170.68.34.bc.googleusercontent.com (34.68.170.69): icmp_seq=21 ttl=100 time=120 ms
+[1607862790.004205] 40 bytes from 69.170.68.34.bc.googleusercontent.com (34.68.170.69): icmp_seq=22 ttl=100 time=120 ms
+[1607862791.004161] 40 bytes from 69.170.68.34.bc.googleusercontent.com (34.68.170.69): icmp_seq=23 ttl=100 time=120 ms
+[1607862792.004417] 40 bytes from 69.170.68.34.bc.googleusercontent.com (34.68.170.69): icmp_seq=24 ttl=100 time=120 ms
+[1607862793.005035] 40 bytes from 69.170.68.34.bc.googleusercontent.com (34.68.170.69): icmp_seq=25 ttl=100 time=121 ms
+[1607862794.004286] 40 bytes from 69.170.68.34.bc.googleusercontent.com (34.68.170.69): icmp_seq=26 ttl=100 time=120 ms
+[1607862795.004563] 40 bytes from 69.170.68.34.bc.googleusercontent.com (34.68.170.69): icmp_seq=27 ttl=100 time=120 ms
+[1607862796.003796] 40 bytes from 69.170.68.34.bc.googleusercontent.com (34.68.170.69): icmp_seq=28 ttl=100 time=120 ms
+[1607862797.003385] 40 bytes from 69.170.68.34.bc.googleusercontent.com (34.68.170.69): icmp_seq=29 ttl=100 time=120 ms
+[1607862798.002124] 40 bytes from 69.170.68.34.bc.googleusercontent.com (34.68.170.69): icmp_seq=30 ttl=100 time=120 ms
+[1607862799.003911] 40 bytes from 69.170.68.34.bc.googleusercontent.com (34.68.170.69): icmp_seq=31 ttl=100 time=120 ms
+[1607862800.002682] 40 bytes from 69.170.68.34.bc.googleusercontent.com (34.68.170.69): icmp_seq=32 ttl=100 time=120 ms
+[1607862801.001049] 40 bytes from 69.170.68.34.bc.googleusercontent.com (34.68.170.69): icmp_seq=33 ttl=100 time=120 ms
+[1607862812.006022] 40 bytes from 34.68.170.69: icmp_seq=34 ttl=100 time=120 ms
+[1607862817.132413] 40 bytes from 69.170.68.34.bc.googleusercontent.com (34.68.170.69): icmp_seq=35 ttl=100 time=120 ms
+[1607862817.254820] 40 bytes from 69.170.68.34.bc.googleusercontent.com (34.68.170.69): icmp_seq=36 ttl=100 time=120 ms
+[1607862818.254411] 40 bytes from 69.170.68.34.bc.googleusercontent.com (34.68.170.69): icmp_seq=37 ttl=100 time=120 ms
+[1607862819.255756] 40 bytes from 69.170.68.34.bc.googleusercontent.com (34.68.170.69): icmp_seq=38 ttl=100 time=120 ms
+[1607862820.256602] 40 bytes from 69.170.68.34.bc.googleusercontent.com (34.68.170.69): icmp_seq=39 ttl=100 time=120 ms
+[1607862821.256441] 40 bytes from 69.170.68.34.bc.googleusercontent.com (34.68.170.69): icmp_seq=40 ttl=100 time=120 ms
+[1607862822.258203] 40 bytes from 69.170.68.34.bc.googleusercontent.com (34.68.170.69): icmp_seq=41 ttl=100 time=120 ms
+[1607862828.260144] 40 bytes from 69.170.68.34.bc.googleusercontent.com (34.68.170.69): icmp_seq=42 ttl=100 time=120 ms
+[1607862838.390011] 40 bytes from 34.68.170.69: icmp_seq=43 ttl=100 time=120 ms
+[1607862848.518053] 40 bytes from 34.68.170.69: icmp_seq=44 ttl=100 time=120 ms
+[1607862853.643556] 40 bytes from 69.170.68.34.bc.googleusercontent.com (34.68.170.69): icmp_seq=45 ttl=100 time=120 ms
+[1607862853.765452] 40 bytes from 69.170.68.34.bc.googleusercontent.com (34.68.170.69): icmp_seq=46 ttl=100 time=119 ms
+[1607862864.770670] 40 bytes from 34.68.170.69: icmp_seq=47 ttl=100 time=120 ms
+[1607862869.896186] 40 bytes from 69.170.68.34.bc.googleusercontent.com (34.68.170.69): icmp_seq=48 ttl=100 time=120 ms
+[1607862875.021054] 40 bytes from 69.170.68.34.bc.googleusercontent.com (34.68.170.69): icmp_seq=49 ttl=100 time=120 ms
+[1607862875.142367] 40 bytes from 69.170.68.34.bc.googleusercontent.com (34.68.170.69): icmp_seq=50 ttl=100 time=119 ms
+
+--- loras.edu ping statistics ---
+50 packets transmitted, 50 received, 0% packet loss, time 186539ms
+rtt min/avg/max/mdev = 119.349/120.095/120.544/0.313 ms

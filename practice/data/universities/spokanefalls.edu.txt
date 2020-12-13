@@ -1,0 +1,55 @@
+PING spokanefalls.edu (134.39.168.24) 32(60) bytes of data.
+[1607862724.758061] 40 bytes from 134.39.168.24: icmp_seq=1 ttl=112 time=179 ms
+[1607862726.103179] 40 bytes from www.spokanefalls.edu (134.39.168.24): icmp_seq=2 ttl=112 time=179 ms
+[1607862726.284037] 40 bytes from www.spokanefalls.edu (134.39.168.24): icmp_seq=3 ttl=112 time=179 ms
+[1607862727.284353] 40 bytes from spokanefalls.edu (134.39.168.24): icmp_seq=4 ttl=112 time=179 ms
+[1607862728.285255] 40 bytes from www.spokanefalls.edu (134.39.168.24): icmp_seq=5 ttl=112 time=179 ms
+[1607862729.286583] 40 bytes from www.spokanefalls.edu (134.39.168.24): icmp_seq=6 ttl=112 time=179 ms
+[1607862730.292034] 40 bytes from spokanefalls.edu (134.39.168.24): icmp_seq=7 ttl=112 time=179 ms
+[1607862731.289232] 40 bytes from spokanefalls.edu (134.39.168.24): icmp_seq=8 ttl=112 time=179 ms
+[1607862742.294056] 40 bytes from 134.39.168.24: icmp_seq=9 ttl=112 time=179 ms
+[1607862742.475547] 40 bytes from www.spokanefalls.edu (134.39.168.24): icmp_seq=10 ttl=112 time=180 ms
+[1607862743.475884] 40 bytes from www.spokanefalls.edu (134.39.168.24): icmp_seq=11 ttl=112 time=179 ms
+[1607862749.479480] 40 bytes from spokanefalls.edu (134.39.168.24): icmp_seq=12 ttl=112 time=179 ms
+[1607862754.663813] 40 bytes from www.spokanefalls.edu (134.39.168.24): icmp_seq=13 ttl=112 time=179 ms
+[1607862754.844739] 40 bytes from www.spokanefalls.edu (134.39.168.24): icmp_seq=14 ttl=112 time=178 ms
+[1607862755.847000] 40 bytes from spokanefalls.edu (134.39.168.24): icmp_seq=15 ttl=112 time=179 ms
+[1607862756.846312] 40 bytes from www.spokanefalls.edu (134.39.168.24): icmp_seq=16 ttl=112 time=179 ms
+[1607862757.847667] 40 bytes from www.spokanefalls.edu (134.39.168.24): icmp_seq=17 ttl=112 time=179 ms
+[1607862758.847440] 40 bytes from www.spokanefalls.edu (134.39.168.24): icmp_seq=18 ttl=112 time=178 ms
+[1607862759.848885] 40 bytes from www.spokanefalls.edu (134.39.168.24): icmp_seq=19 ttl=112 time=179 ms
+[1607862770.854424] 40 bytes from 134.39.168.24: icmp_seq=20 ttl=112 time=178 ms
+[1607862771.035186] 40 bytes from www.spokanefalls.edu (134.39.168.24): icmp_seq=21 ttl=112 time=179 ms
+[1607862772.035025] 40 bytes from spokanefalls.edu (134.39.168.24): icmp_seq=22 ttl=112 time=178 ms
+[1607862773.034186] 40 bytes from spokanefalls.edu (134.39.168.24): icmp_seq=23 ttl=112 time=178 ms
+[1607862774.035043] 40 bytes from www.spokanefalls.edu (134.39.168.24): icmp_seq=24 ttl=112 time=179 ms
+[1607862775.035388] 40 bytes from spokanefalls.edu (134.39.168.24): icmp_seq=25 ttl=112 time=179 ms
+[1607862776.035183] 40 bytes from spokanefalls.edu (134.39.168.24): icmp_seq=26 ttl=112 time=179 ms
+[1607862777.034836] 40 bytes from www.spokanefalls.edu (134.39.168.24): icmp_seq=27 ttl=112 time=178 ms
+[1607862778.038787] 40 bytes from spokanefalls.edu (134.39.168.24): icmp_seq=28 ttl=112 time=183 ms
+[1607862779.034268] 40 bytes from spokanefalls.edu (134.39.168.24): icmp_seq=29 ttl=112 time=178 ms
+[1607862780.035405] 40 bytes from www.spokanefalls.edu (134.39.168.24): icmp_seq=30 ttl=112 time=179 ms
+[1607862781.034250] 40 bytes from spokanefalls.edu (134.39.168.24): icmp_seq=31 ttl=112 time=179 ms
+[1607862782.034300] 40 bytes from www.spokanefalls.edu (134.39.168.24): icmp_seq=32 ttl=112 time=179 ms
+[1607862783.036601] 40 bytes from www.spokanefalls.edu (134.39.168.24): icmp_seq=33 ttl=112 time=181 ms
+[1607862784.034699] 40 bytes from spokanefalls.edu (134.39.168.24): icmp_seq=34 ttl=112 time=179 ms
+[1607862785.033270] 40 bytes from spokanefalls.edu (134.39.168.24): icmp_seq=35 ttl=112 time=178 ms
+[1607862791.035747] 40 bytes from www.spokanefalls.edu (134.39.168.24): icmp_seq=36 ttl=112 time=179 ms
+[1607862796.221149] 40 bytes from www.spokanefalls.edu (134.39.168.24): icmp_seq=37 ttl=112 time=180 ms
+[1607862801.404406] 40 bytes from www.spokanefalls.edu (134.39.168.24): icmp_seq=38 ttl=112 time=179 ms
+[1607862806.589333] 40 bytes from www.spokanefalls.edu (134.39.168.24): icmp_seq=39 ttl=112 time=179 ms
+[1607862806.770116] 40 bytes from www.spokanefalls.edu (134.39.168.24): icmp_seq=40 ttl=112 time=179 ms
+[1607862817.774135] 40 bytes from 134.39.168.24: icmp_seq=41 ttl=112 time=179 ms
+[1607862827.963265] 40 bytes from 134.39.168.24: icmp_seq=42 ttl=112 time=179 ms
+[1607862828.143699] 40 bytes from spokanefalls.edu (134.39.168.24): icmp_seq=43 ttl=112 time=179 ms
+[1607862829.143895] 40 bytes from spokanefalls.edu (134.39.168.24): icmp_seq=44 ttl=112 time=178 ms
+[1607862830.149937] 40 bytes from spokanefalls.edu (134.39.168.24): icmp_seq=45 ttl=112 time=185 ms
+[1607862831.143605] 40 bytes from spokanefalls.edu (134.39.168.24): icmp_seq=46 ttl=112 time=179 ms
+[1607862832.142608] 40 bytes from spokanefalls.edu (134.39.168.24): icmp_seq=47 ttl=112 time=179 ms
+[1607862843.146046] 40 bytes from 134.39.168.24: icmp_seq=48 ttl=112 time=179 ms
+[1607862843.327115] 40 bytes from www.spokanefalls.edu (134.39.168.24): icmp_seq=49 ttl=112 time=179 ms
+[1607862845.146734] 40 bytes from 134.39.168.24: icmp_seq=50 ttl=112 time=178 ms
+
+--- spokanefalls.edu ping statistics ---
+50 packets transmitted, 50 received, 0% packet loss, time 129576ms
+rtt min/avg/max/mdev = 178.132/179.137/185.272/1.148 ms

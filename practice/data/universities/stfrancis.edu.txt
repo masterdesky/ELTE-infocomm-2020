@@ -1,0 +1,55 @@
+PING stfrancis.edu (142.4.23.61) 32(60) bytes of data.
+[1607862700.849676] 40 bytes from server.stfrancis100.org (142.4.23.61): icmp_seq=1 ttl=49 time=164 ms
+[1607862701.016243] 40 bytes from server.stfrancis100.org (142.4.23.61): icmp_seq=2 ttl=49 time=164 ms
+[1607862702.016325] 40 bytes from server.stfrancis100.org (142.4.23.61): icmp_seq=3 ttl=49 time=164 ms
+[1607862708.019911] 40 bytes from server.stfrancis100.org (142.4.23.61): icmp_seq=4 ttl=49 time=163 ms
+[1607862708.186360] 40 bytes from server.stfrancis100.org (142.4.23.61): icmp_seq=5 ttl=49 time=164 ms
+[1607862709.187504] 40 bytes from server.stfrancis100.org (142.4.23.61): icmp_seq=6 ttl=49 time=164 ms
+[1607862720.194029] 40 bytes from 142.4.23.61: icmp_seq=7 ttl=49 time=164 ms
+[1607862730.367108] 40 bytes from 142.4.23.61: icmp_seq=8 ttl=49 time=164 ms
+[1607862735.535859] 40 bytes from server.stfrancis100.org (142.4.23.61): icmp_seq=9 ttl=49 time=163 ms
+[1607862740.703948] 40 bytes from server.stfrancis100.org (142.4.23.61): icmp_seq=10 ttl=49 time=164 ms
+[1607862750.874036] 40 bytes from 142.4.23.61: icmp_seq=11 ttl=49 time=164 ms
+[1607862756.043666] 40 bytes from server.stfrancis100.org (142.4.23.61): icmp_seq=12 ttl=49 time=164 ms
+[1607862756.209646] 40 bytes from server.stfrancis100.org (142.4.23.61): icmp_seq=13 ttl=49 time=164 ms
+[1607862762.215848] 40 bytes from server.stfrancis100.org (142.4.23.61): icmp_seq=14 ttl=49 time=164 ms
+[1607862767.384139] 40 bytes from server.stfrancis100.org (142.4.23.61): icmp_seq=15 ttl=49 time=164 ms
+[1607862777.554105] 40 bytes from 142.4.23.61: icmp_seq=16 ttl=49 time=163 ms
+[1607862782.725071] 40 bytes from server.stfrancis100.org (142.4.23.61): icmp_seq=17 ttl=49 time=164 ms
+[1607862782.891273] 40 bytes from server.stfrancis100.org (142.4.23.61): icmp_seq=18 ttl=49 time=164 ms
+[1607862783.890736] 40 bytes from server.stfrancis100.org (142.4.23.61): icmp_seq=19 ttl=49 time=163 ms
+[1607862784.894060] 40 bytes from server.stfrancis100.org (142.4.23.61): icmp_seq=20 ttl=49 time=164 ms
+[1607862785.894774] 40 bytes from server.stfrancis100.org (142.4.23.61): icmp_seq=21 ttl=49 time=164 ms
+[1607862786.895075] 40 bytes from server.stfrancis100.org (142.4.23.61): icmp_seq=22 ttl=49 time=163 ms
+[1607862787.894740] 40 bytes from server.stfrancis100.org (142.4.23.61): icmp_seq=23 ttl=49 time=164 ms
+[1607862788.894839] 40 bytes from server.stfrancis100.org (142.4.23.61): icmp_seq=24 ttl=49 time=164 ms
+[1607862789.895378] 40 bytes from server.stfrancis100.org (142.4.23.61): icmp_seq=25 ttl=49 time=163 ms
+[1607862790.896201] 40 bytes from server.stfrancis100.org (142.4.23.61): icmp_seq=26 ttl=49 time=164 ms
+[1607862796.899733] 40 bytes from server.stfrancis100.org (142.4.23.61): icmp_seq=27 ttl=49 time=164 ms
+[1607862807.072607] 40 bytes from 142.4.23.61: icmp_seq=28 ttl=49 time=164 ms
+[1607862812.243984] 40 bytes from server.stfrancis100.org (142.4.23.61): icmp_seq=29 ttl=49 time=164 ms
+[1607862822.414514] 40 bytes from 142.4.23.61: icmp_seq=30 ttl=49 time=163 ms
+[1607862827.583939] 40 bytes from server.stfrancis100.org (142.4.23.61): icmp_seq=31 ttl=49 time=163 ms
+[1607862827.748957] 40 bytes from server.stfrancis100.org (142.4.23.61): icmp_seq=32 ttl=49 time=163 ms
+[1607862833.755924] 40 bytes from server.stfrancis100.org (142.4.23.61): icmp_seq=33 ttl=49 time=164 ms
+[1607862843.926030] 40 bytes from 142.4.23.61: icmp_seq=34 ttl=49 time=164 ms
+[1607862854.098043] 40 bytes from 142.4.23.61: icmp_seq=35 ttl=49 time=164 ms
+[1607862859.273002] 40 bytes from server.stfrancis100.org (142.4.23.61): icmp_seq=36 ttl=49 time=168 ms
+[1607862864.444002] 40 bytes from server.stfrancis100.org (142.4.23.61): icmp_seq=37 ttl=49 time=164 ms
+[1607862869.612223] 40 bytes from server.stfrancis100.org (142.4.23.61): icmp_seq=38 ttl=49 time=164 ms
+[1607862869.778461] 40 bytes from server.stfrancis100.org (142.4.23.61): icmp_seq=39 ttl=49 time=164 ms
+[1607862880.787037] 40 bytes from 142.4.23.61: icmp_seq=40 ttl=49 time=164 ms
+[1607862880.953305] 40 bytes from server.stfrancis100.org (142.4.23.61): icmp_seq=41 ttl=49 time=164 ms
+[1607862881.953684] 40 bytes from server.stfrancis100.org (142.4.23.61): icmp_seq=42 ttl=49 time=164 ms
+[1607862882.955757] 40 bytes from server.stfrancis100.org (142.4.23.61): icmp_seq=43 ttl=49 time=164 ms
+[1607862883.956529] 40 bytes from server.stfrancis100.org (142.4.23.61): icmp_seq=44 ttl=49 time=164 ms
+[1607862884.958312] 40 bytes from server.stfrancis100.org (142.4.23.61): icmp_seq=45 ttl=49 time=164 ms
+[1607862885.959684] 40 bytes from server.stfrancis100.org (142.4.23.61): icmp_seq=46 ttl=49 time=164 ms
+[1607862886.960816] 40 bytes from server.stfrancis100.org (142.4.23.61): icmp_seq=47 ttl=49 time=164 ms
+[1607862887.962683] 40 bytes from server.stfrancis100.org (142.4.23.61): icmp_seq=48 ttl=49 time=164 ms
+[1607862888.963770] 40 bytes from server.stfrancis100.org (142.4.23.61): icmp_seq=49 ttl=49 time=164 ms
+[1607862889.965929] 40 bytes from server.stfrancis100.org (142.4.23.61): icmp_seq=50 ttl=49 time=164 ms
+
+--- stfrancis.edu ping statistics ---
+50 packets transmitted, 50 received, 0% packet loss, time 194942ms
+rtt min/avg/max/mdev = 163.034/163.872/168.053/0.680 ms

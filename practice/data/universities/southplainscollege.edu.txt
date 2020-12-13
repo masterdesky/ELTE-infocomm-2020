@@ -1,0 +1,5 @@
+PING southplainscollege.edu (216.117.112.250) 32(60) bytes of data.
+
+--- southplainscollege.edu ping statistics ---
+50 packets transmitted, 0 received, 100% packet loss, time 49283ms
+

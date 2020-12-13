@@ -1,0 +1,55 @@
+PING chowan.edu (192.252.157.128) 32(60) bytes of data.
+[1607862694.126012] 40 bytes from 192.252.157.128: icmp_seq=1 ttl=44 time=106 ms
+[1607862694.235156] 40 bytes from ns2.s1095.sureserver.com (192.252.157.128): icmp_seq=2 ttl=44 time=106 ms
+[1607862695.235486] 40 bytes from ns2.s1095.sureserver.com (192.252.157.128): icmp_seq=3 ttl=44 time=106 ms
+[1607862696.236300] 40 bytes from ns2.s1095.sureserver.com (192.252.157.128): icmp_seq=4 ttl=44 time=106 ms
+[1607862707.242092] 40 bytes from 192.252.157.128: icmp_seq=5 ttl=44 time=106 ms
+[1607862717.358017] 40 bytes from 192.252.157.128: icmp_seq=6 ttl=44 time=106 ms
+[1607862717.465736] 40 bytes from ns2.s1095.sureserver.com (192.252.157.128): icmp_seq=7 ttl=44 time=106 ms
+[1607862718.466108] 40 bytes from ns2.s1095.sureserver.com (192.252.157.128): icmp_seq=8 ttl=44 time=106 ms
+[1607862719.464729] 40 bytes from ns2.s1095.sureserver.com (192.252.157.128): icmp_seq=9 ttl=44 time=106 ms
+[1607862720.465700] 40 bytes from ns2.s1095.sureserver.com (192.252.157.128): icmp_seq=10 ttl=44 time=106 ms
+[1607862721.466834] 40 bytes from ns2.s1095.sureserver.com (192.252.157.128): icmp_seq=11 ttl=44 time=106 ms
+[1607862722.468359] 40 bytes from ns2.s1095.sureserver.com (192.252.157.128): icmp_seq=12 ttl=44 time=106 ms
+[1607862723.470118] 40 bytes from ns2.s1095.sureserver.com (192.252.157.128): icmp_seq=13 ttl=44 time=106 ms
+[1607862734.474009] 40 bytes from 192.252.157.128: icmp_seq=14 ttl=44 time=106 ms
+[1607862739.583702] 40 bytes from ns2.s1095.sureserver.com (192.252.157.128): icmp_seq=15 ttl=44 time=106 ms
+[1607862744.696113] 40 bytes from ns2.s1095.sureserver.com (192.252.157.128): icmp_seq=16 ttl=44 time=106 ms
+[1607862744.804006] 40 bytes from ns2.s1095.sureserver.com (192.252.157.128): icmp_seq=17 ttl=44 time=106 ms
+[1607862750.807975] 40 bytes from ns2.s1095.sureserver.com (192.252.157.128): icmp_seq=18 ttl=44 time=106 ms
+[1607862760.922816] 40 bytes from 192.252.157.128: icmp_seq=19 ttl=44 time=106 ms
+[1607862771.034010] 40 bytes from 192.252.157.128: icmp_seq=20 ttl=44 time=106 ms
+[1607862781.146083] 40 bytes from 192.252.157.128: icmp_seq=21 ttl=44 time=106 ms
+[1607862781.254822] 40 bytes from ns2.s1095.sureserver.com (192.252.157.128): icmp_seq=22 ttl=44 time=106 ms
+[1607862782.254312] 40 bytes from ns2.s1095.sureserver.com (192.252.157.128): icmp_seq=23 ttl=44 time=106 ms
+[1607862783.254655] 40 bytes from ns2.s1095.sureserver.com (192.252.157.128): icmp_seq=24 ttl=44 time=107 ms
+[1607862784.255758] 40 bytes from ns2.s1095.sureserver.com (192.252.157.128): icmp_seq=25 ttl=44 time=106 ms
+[1607862785.257252] 40 bytes from ns2.s1095.sureserver.com (192.252.157.128): icmp_seq=26 ttl=44 time=107 ms
+[1607862796.262181] 40 bytes from 192.252.157.128: icmp_seq=27 ttl=44 time=107 ms
+[1607862796.369684] 40 bytes from ns2.s1095.sureserver.com (192.252.157.128): icmp_seq=28 ttl=44 time=106 ms
+[1607862802.375716] 40 bytes from ns2.s1095.sureserver.com (192.252.157.128): icmp_seq=29 ttl=44 time=106 ms
+[1607862802.484052] 40 bytes from ns2.s1095.sureserver.com (192.252.157.128): icmp_seq=30 ttl=44 time=106 ms
+[1607862803.485225] 40 bytes from ns2.s1095.sureserver.com (192.252.157.128): icmp_seq=31 ttl=44 time=106 ms
+[1607862804.487094] 40 bytes from ns2.s1095.sureserver.com (192.252.157.128): icmp_seq=32 ttl=44 time=106 ms
+[1607862805.486714] 40 bytes from ns2.s1095.sureserver.com (192.252.157.128): icmp_seq=33 ttl=44 time=106 ms
+[1607862806.487252] 40 bytes from ns2.s1095.sureserver.com (192.252.157.128): icmp_seq=34 ttl=44 time=106 ms
+[1607862817.494000] 40 bytes from 192.252.157.128: icmp_seq=35 ttl=44 time=106 ms
+[1607862827.610038] 40 bytes from 192.252.157.128: icmp_seq=36 ttl=44 time=106 ms
+[1607862827.718631] 40 bytes from ns2.s1095.sureserver.com (192.252.157.128): icmp_seq=37 ttl=44 time=106 ms
+[1607862833.723884] 40 bytes from ns2.s1095.sureserver.com (192.252.157.128): icmp_seq=38 ttl=44 time=106 ms
+[1607862838.835638] 40 bytes from ns2.s1095.sureserver.com (192.252.157.128): icmp_seq=39 ttl=44 time=106 ms
+[1607862848.950011] 40 bytes from 192.252.157.128: icmp_seq=40 ttl=44 time=106 ms
+[1607862859.062013] 40 bytes from 192.252.157.128: icmp_seq=41 ttl=44 time=106 ms
+[1607862859.170394] 40 bytes from ns2.s1095.sureserver.com (192.252.157.128): icmp_seq=42 ttl=44 time=106 ms
+[1607862865.176195] 40 bytes from ns2.s1095.sureserver.com (192.252.157.128): icmp_seq=43 ttl=44 time=106 ms
+[1607862875.290020] 40 bytes from 192.252.157.128: icmp_seq=44 ttl=44 time=106 ms
+[1607862875.398199] 40 bytes from ns2.s1095.sureserver.com (192.252.157.128): icmp_seq=45 ttl=44 time=106 ms
+[1607862876.399052] 40 bytes from ns2.s1095.sureserver.com (192.252.157.128): icmp_seq=46 ttl=44 time=106 ms
+[1607862877.401631] 40 bytes from ns2.s1095.sureserver.com (192.252.157.128): icmp_seq=47 ttl=44 time=107 ms
+[1607862878.402061] 40 bytes from ns2.s1095.sureserver.com (192.252.157.128): icmp_seq=48 ttl=44 time=106 ms
+[1607862879.403053] 40 bytes from ns2.s1095.sureserver.com (192.252.157.128): icmp_seq=49 ttl=44 time=106 ms
+[1607862880.404412] 40 bytes from ns2.s1095.sureserver.com (192.252.157.128): icmp_seq=50 ttl=44 time=106 ms
+
+--- chowan.edu ping statistics ---
+50 packets transmitted, 50 received, 0% packet loss, time 196285ms
+rtt min/avg/max/mdev = 105.537/106.195/106.634/0.276 ms

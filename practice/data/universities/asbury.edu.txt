@@ -1,0 +1,55 @@
+PING asbury.edu (148.59.183.132) 32(60) bytes of data.
+[1607862691.496254] 40 bytes from au132.asbury.edu (148.59.183.132): icmp_seq=1 ttl=48 time=134 ms
+[1607862692.156994] 40 bytes from au132.asbury.edu (148.59.183.132): icmp_seq=2 ttl=48 time=135 ms
+[1607862693.157441] 40 bytes from au132.asbury.edu (148.59.183.132): icmp_seq=3 ttl=48 time=135 ms
+[1607862704.170045] 40 bytes from 148.59.183.132: icmp_seq=4 ttl=48 time=134 ms
+[1607862714.310005] 40 bytes from 148.59.183.132: icmp_seq=5 ttl=48 time=134 ms
+[1607862724.450048] 40 bytes from 148.59.183.132: icmp_seq=6 ttl=48 time=134 ms
+[1607862724.586727] 40 bytes from au132.asbury.edu (148.59.183.132): icmp_seq=7 ttl=48 time=135 ms
+[1607862735.590058] 40 bytes from 148.59.183.132: icmp_seq=8 ttl=48 time=134 ms
+[1607862745.730009] 40 bytes from 148.59.183.132: icmp_seq=9 ttl=48 time=134 ms
+[1607862750.867530] 40 bytes from au132.asbury.edu (148.59.183.132): icmp_seq=10 ttl=48 time=134 ms
+[1607862751.004177] 40 bytes from au132.asbury.edu (148.59.183.132): icmp_seq=11 ttl=48 time=134 ms
+[1607862762.010017] 40 bytes from 148.59.183.132: icmp_seq=12 ttl=48 time=134 ms
+[1607862762.147738] 40 bytes from au132.asbury.edu (148.59.183.132): icmp_seq=13 ttl=48 time=135 ms
+[1607862763.147386] 40 bytes from au132.asbury.edu (148.59.183.132): icmp_seq=14 ttl=48 time=134 ms
+[1607862764.147176] 40 bytes from au132.asbury.edu (148.59.183.132): icmp_seq=15 ttl=48 time=134 ms
+[1607862770.152046] 40 bytes from au132.asbury.edu (148.59.183.132): icmp_seq=16 ttl=48 time=134 ms
+[1607862775.292305] 40 bytes from au132.asbury.edu (148.59.183.132): icmp_seq=17 ttl=48 time=134 ms
+[1607862775.428481] 40 bytes from au132.asbury.edu (148.59.183.132): icmp_seq=18 ttl=48 time=135 ms
+[1607862776.429335] 40 bytes from au132.asbury.edu (148.59.183.132): icmp_seq=19 ttl=48 time=135 ms
+[1607862777.428605] 40 bytes from au132.asbury.edu (148.59.183.132): icmp_seq=20 ttl=48 time=135 ms
+[1607862778.427968] 40 bytes from au132.asbury.edu (148.59.183.132): icmp_seq=21 ttl=48 time=134 ms
+[1607862779.427539] 40 bytes from au132.asbury.edu (148.59.183.132): icmp_seq=22 ttl=48 time=134 ms
+[1607862780.427270] 40 bytes from au132.asbury.edu (148.59.183.132): icmp_seq=23 ttl=48 time=134 ms
+[1607862791.430016] 40 bytes from 148.59.183.132: icmp_seq=24 ttl=48 time=134 ms
+[1607862791.565895] 40 bytes from au132.asbury.edu (148.59.183.132): icmp_seq=25 ttl=48 time=135 ms
+[1607862797.568038] 40 bytes from au132.asbury.edu (148.59.183.132): icmp_seq=26 ttl=48 time=135 ms
+[1607862797.704523] 40 bytes from au132.asbury.edu (148.59.183.132): icmp_seq=27 ttl=48 time=134 ms
+[1607862798.704299] 40 bytes from au132.asbury.edu (148.59.183.132): icmp_seq=28 ttl=48 time=134 ms
+[1607862799.702918] 40 bytes from au132.asbury.edu (148.59.183.132): icmp_seq=29 ttl=48 time=134 ms
+[1607862800.703410] 40 bytes from au132.asbury.edu (148.59.183.132): icmp_seq=30 ttl=48 time=135 ms
+[1607862806.703904] 40 bytes from au132.asbury.edu (148.59.183.132): icmp_seq=31 ttl=48 time=134 ms
+[1607862811.843967] 40 bytes from au132.asbury.edu (148.59.183.132): icmp_seq=32 ttl=48 time=135 ms
+[1607862811.980574] 40 bytes from au132.asbury.edu (148.59.183.132): icmp_seq=33 ttl=48 time=134 ms
+[1607862817.984007] 40 bytes from au132.asbury.edu (148.59.183.132): icmp_seq=34 ttl=48 time=134 ms
+[1607862823.123895] 40 bytes from au132.asbury.edu (148.59.183.132): icmp_seq=35 ttl=48 time=134 ms
+[1607862833.266036] 40 bytes from 148.59.183.132: icmp_seq=36 ttl=48 time=134 ms
+[1607862838.407358] 40 bytes from au132.asbury.edu (148.59.183.132): icmp_seq=37 ttl=48 time=135 ms
+[1607862848.550064] 40 bytes from 148.59.183.132: icmp_seq=38 ttl=48 time=134 ms
+[1607862848.687366] 40 bytes from au132.asbury.edu (148.59.183.132): icmp_seq=39 ttl=48 time=135 ms
+[1607862849.685953] 40 bytes from au132.asbury.edu (148.59.183.132): icmp_seq=40 ttl=48 time=134 ms
+[1607862850.686827] 40 bytes from au132.asbury.edu (148.59.183.132): icmp_seq=41 ttl=48 time=135 ms
+[1607862851.687113] 40 bytes from au132.asbury.edu (148.59.183.132): icmp_seq=42 ttl=48 time=134 ms
+[1607862852.689742] 40 bytes from au132.asbury.edu (148.59.183.132): icmp_seq=43 ttl=48 time=135 ms
+[1607862853.688367] 40 bytes from au132.asbury.edu (148.59.183.132): icmp_seq=44 ttl=48 time=134 ms
+[1607862854.688530] 40 bytes from au132.asbury.edu (148.59.183.132): icmp_seq=45 ttl=48 time=134 ms
+[1607862855.689737] 40 bytes from au132.asbury.edu (148.59.183.132): icmp_seq=46 ttl=48 time=134 ms
+[1607862856.692187] 40 bytes from au132.asbury.edu (148.59.183.132): icmp_seq=47 ttl=48 time=134 ms
+[1607862857.692398] 40 bytes from au132.asbury.edu (148.59.183.132): icmp_seq=48 ttl=48 time=134 ms
+[1607862858.692754] 40 bytes from au132.asbury.edu (148.59.183.132): icmp_seq=49 ttl=48 time=134 ms
+[1607862859.693655] 40 bytes from au132.asbury.edu (148.59.183.132): icmp_seq=50 ttl=48 time=134 ms
+
+--- asbury.edu ping statistics ---
+50 packets transmitted, 50 received, 0% packet loss, time 168539ms
+rtt min/avg/max/mdev = 133.552/134.291/134.715/0.311 ms

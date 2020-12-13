@@ -1,0 +1,55 @@
+PING wbu.edu (65.182.93.120) 32(60) bytes of data.
+[1607862730.698013] 40 bytes from 65.182.93.120: icmp_seq=1 ttl=110 time=145 ms
+[1607862740.850023] 40 bytes from 65.182.93.120: icmp_seq=2 ttl=110 time=146 ms
+[1607862741.286441] 40 bytes from nts-120.93-182-65.nts-online.net (65.182.93.120): icmp_seq=3 ttl=110 time=146 ms
+[1607862752.002001] 40 bytes from 65.182.93.120: icmp_seq=4 ttl=110 time=145 ms
+[1607862762.154491] 40 bytes from 65.182.93.120: icmp_seq=5 ttl=110 time=145 ms
+[1607862767.304048] 40 bytes from nts-120.93-182-65.nts-online.net (65.182.93.120): icmp_seq=6 ttl=110 time=145 ms
+[1607862777.458117] 40 bytes from 65.182.93.120: icmp_seq=7 ttl=110 time=146 ms
+[1607862777.605768] 40 bytes from nts-120.93-182-65.nts-online.net (65.182.93.120): icmp_seq=8 ttl=110 time=146 ms
+[1607862778.605156] 40 bytes from nts-120.93-182-65.nts-online.net (65.182.93.120): icmp_seq=9 ttl=110 time=145 ms
+[1607862779.604467] 40 bytes from nts-120.93-182-65.nts-online.net (65.182.93.120): icmp_seq=10 ttl=110 time=145 ms
+[1607862780.603504] 40 bytes from nts-120.93-182-65.nts-online.net (65.182.93.120): icmp_seq=11 ttl=110 time=145 ms
+[1607862781.604187] 40 bytes from nts-120.93-182-65.nts-online.net (65.182.93.120): icmp_seq=12 ttl=110 time=145 ms
+[1607862792.610122] 40 bytes from 65.182.93.120: icmp_seq=13 ttl=110 time=145 ms
+[1607862802.762051] 40 bytes from 65.182.93.120: icmp_seq=14 ttl=110 time=145 ms
+[1607862802.909800] 40 bytes from nts-120.93-182-65.nts-online.net (65.182.93.120): icmp_seq=15 ttl=110 time=146 ms
+[1607862803.907833] 40 bytes from nts-120.93-182-65.nts-online.net (65.182.93.120): icmp_seq=16 ttl=110 time=145 ms
+[1607862804.910162] 40 bytes from nts-120.93-182-65.nts-online.net (65.182.93.120): icmp_seq=17 ttl=110 time=145 ms
+[1607862805.909853] 40 bytes from nts-120.93-182-65.nts-online.net (65.182.93.120): icmp_seq=18 ttl=110 time=146 ms
+[1607862811.911857] 40 bytes from nts-120.93-182-65.nts-online.net (65.182.93.120): icmp_seq=19 ttl=110 time=144 ms
+[1607862817.064143] 40 bytes from nts-120.93-182-65.nts-online.net (65.182.93.120): icmp_seq=20 ttl=110 time=145 ms
+[1607862817.211713] 40 bytes from nts-120.93-182-65.nts-online.net (65.182.93.120): icmp_seq=21 ttl=110 time=146 ms
+[1607862823.215459] 40 bytes from nts-120.93-182-65.nts-online.net (65.182.93.120): icmp_seq=22 ttl=110 time=145 ms
+[1607862828.365969] 40 bytes from nts-120.93-182-65.nts-online.net (65.182.93.120): icmp_seq=23 ttl=110 time=145 ms
+[1607862828.513959] 40 bytes from nts-120.93-182-65.nts-online.net (65.182.93.120): icmp_seq=24 ttl=110 time=145 ms
+[1607862829.514822] 40 bytes from nts-120.93-182-65.nts-online.net (65.182.93.120): icmp_seq=25 ttl=110 time=146 ms
+[1607862830.514966] 40 bytes from nts-120.93-182-65.nts-online.net (65.182.93.120): icmp_seq=26 ttl=110 time=145 ms
+[1607862831.515787] 40 bytes from nts-120.93-182-65.nts-online.net (65.182.93.120): icmp_seq=27 ttl=110 time=145 ms
+[1607862832.517059] 40 bytes from nts-120.93-182-65.nts-online.net (65.182.93.120): icmp_seq=28 ttl=110 time=145 ms
+[1607862833.517535] 40 bytes from nts-120.93-182-65.nts-online.net (65.182.93.120): icmp_seq=29 ttl=110 time=145 ms
+[1607862834.517810] 40 bytes from nts-120.93-182-65.nts-online.net (65.182.93.120): icmp_seq=30 ttl=110 time=145 ms
+[1607862835.517899] 40 bytes from nts-120.93-182-65.nts-online.net (65.182.93.120): icmp_seq=31 ttl=110 time=145 ms
+[1607862836.519988] 40 bytes from nts-120.93-182-65.nts-online.net (65.182.93.120): icmp_seq=32 ttl=110 time=145 ms
+[1607862837.521308] 40 bytes from nts-120.93-182-65.nts-online.net (65.182.93.120): icmp_seq=33 ttl=110 time=145 ms
+[1607862848.526442] 40 bytes from 65.182.93.120: icmp_seq=34 ttl=110 time=146 ms
+[1607862853.675973] 40 bytes from nts-120.93-182-65.nts-online.net (65.182.93.120): icmp_seq=35 ttl=110 time=145 ms
+[1607862853.822806] 40 bytes from nts-120.93-182-65.nts-online.net (65.182.93.120): icmp_seq=36 ttl=110 time=145 ms
+[1607862864.830085] 40 bytes from 65.182.93.120: icmp_seq=37 ttl=110 time=145 ms
+[1607862864.977474] 40 bytes from nts-120.93-182-65.nts-online.net (65.182.93.120): icmp_seq=38 ttl=110 time=146 ms
+[1607862865.979046] 40 bytes from nts-120.93-182-65.nts-online.net (65.182.93.120): icmp_seq=39 ttl=110 time=146 ms
+[1607862866.979563] 40 bytes from nts-120.93-182-65.nts-online.net (65.182.93.120): icmp_seq=40 ttl=110 time=145 ms
+[1607862867.980651] 40 bytes from nts-120.93-182-65.nts-online.net (65.182.93.120): icmp_seq=41 ttl=110 time=145 ms
+[1607862868.981043] 40 bytes from nts-120.93-182-65.nts-online.net (65.182.93.120): icmp_seq=42 ttl=110 time=145 ms
+[1607862869.981036] 40 bytes from nts-120.93-182-65.nts-online.net (65.182.93.120): icmp_seq=43 ttl=110 time=145 ms
+[1607862870.980684] 40 bytes from nts-120.93-182-65.nts-online.net (65.182.93.120): icmp_seq=44 ttl=110 time=146 ms
+[1607862871.981265] 40 bytes from nts-120.93-182-65.nts-online.net (65.182.93.120): icmp_seq=45 ttl=110 time=145 ms
+[1607862872.982702] 40 bytes from nts-120.93-182-65.nts-online.net (65.182.93.120): icmp_seq=46 ttl=110 time=145 ms
+[1607862873.984088] 40 bytes from nts-120.93-182-65.nts-online.net (65.182.93.120): icmp_seq=47 ttl=110 time=145 ms
+[1607862874.985207] 40 bytes from nts-120.93-182-65.nts-online.net (65.182.93.120): icmp_seq=48 ttl=110 time=145 ms
+[1607862875.985793] 40 bytes from nts-120.93-182-65.nts-online.net (65.182.93.120): icmp_seq=49 ttl=110 time=145 ms
+[1607862876.988493] 40 bytes from nts-120.93-182-65.nts-online.net (65.182.93.120): icmp_seq=50 ttl=110 time=146 ms
+
+--- wbu.edu ping statistics ---
+50 packets transmitted, 50 received, 0% packet loss, time 156295ms
+rtt min/avg/max/mdev = 144.444/145.302/146.447/0.342 ms

@@ -1,0 +1,5 @@
+PING sfcollege.edu (162.248.67.177) 32(60) bytes of data.
+
+--- sfcollege.edu ping statistics ---
+50 packets transmitted, 0 received, 100% packet loss, time 49521ms
+

@@ -1,0 +1,5 @@
+PING evergladesuniversity.edu (205.220.231.10) 32(60) bytes of data.
+
+--- evergladesuniversity.edu ping statistics ---
+50 packets transmitted, 0 received, 100% packet loss, time 49314ms
+

@@ -1,0 +1,55 @@
+PING monmouth.edu (192.100.64.24) 32(60) bytes of data.
+[1607862697.397999] 40 bytes from 192.100.64.24: icmp_seq=1 ttl=44 time=112 ms
+[1607862697.947547] 40 bytes from cuda-vif3.monmouth.edu (192.100.64.24): icmp_seq=2 ttl=44 time=113 ms
+[1607862698.514009] 40 bytes from cuda-vif3.monmouth.edu (192.100.64.24): icmp_seq=3 ttl=44 time=113 ms
+[1607862699.514827] 40 bytes from cuda-vif3.monmouth.edu (192.100.64.24): icmp_seq=4 ttl=44 time=113 ms
+[1607862700.514504] 40 bytes from cuda-vif3.monmouth.edu (192.100.64.24): icmp_seq=5 ttl=44 time=113 ms
+[1607862701.514129] 40 bytes from cuda-vif3.monmouth.edu (192.100.64.24): icmp_seq=6 ttl=44 time=113 ms
+[1607862702.513885] 40 bytes from cuda-vif3.monmouth.edu (192.100.64.24): icmp_seq=7 ttl=44 time=112 ms
+[1607862703.514823] 40 bytes from cuda-vif3.monmouth.edu (192.100.64.24): icmp_seq=8 ttl=44 time=112 ms
+[1607862704.517303] 40 bytes from cuda-vif3.monmouth.edu (192.100.64.24): icmp_seq=9 ttl=44 time=113 ms
+[1607862705.518027] 40 bytes from cuda-vif3.monmouth.edu (192.100.64.24): icmp_seq=10 ttl=44 time=113 ms
+[1607862706.520345] 40 bytes from cuda-vif3.monmouth.edu (192.100.64.24): icmp_seq=11 ttl=44 time=113 ms
+[1607862707.518962] 40 bytes from cuda-vif3.monmouth.edu (192.100.64.24): icmp_seq=12 ttl=44 time=113 ms
+[1607862713.523761] 40 bytes from cuda-vif3.monmouth.edu (192.100.64.24): icmp_seq=13 ttl=44 time=113 ms
+[1607862713.638120] 40 bytes from cuda-vif3.monmouth.edu (192.100.64.24): icmp_seq=14 ttl=44 time=113 ms
+[1607862724.646067] 40 bytes from 192.100.64.24: icmp_seq=15 ttl=44 time=113 ms
+[1607862724.761468] 40 bytes from cuda-vif3.monmouth.edu (192.100.64.24): icmp_seq=16 ttl=44 time=113 ms
+[1607862735.768083] 40 bytes from 192.100.64.24: icmp_seq=17 ttl=44 time=113 ms
+[1607862745.890033] 40 bytes from 192.100.64.24: icmp_seq=18 ttl=44 time=113 ms
+[1607862756.010007] 40 bytes from 192.100.64.24: icmp_seq=19 ttl=44 time=113 ms
+[1607862756.124696] 40 bytes from cuda-vif3.monmouth.edu (192.100.64.24): icmp_seq=20 ttl=44 time=113 ms
+[1607862757.126460] 40 bytes from cuda-vif3.monmouth.edu (192.100.64.24): icmp_seq=21 ttl=44 time=113 ms
+[1607862758.126567] 40 bytes from cuda-vif3.monmouth.edu (192.100.64.24): icmp_seq=22 ttl=44 time=113 ms
+[1607862759.129422] 40 bytes from cuda-vif3.monmouth.edu (192.100.64.24): icmp_seq=23 ttl=44 time=113 ms
+[1607862765.138101] 40 bytes from cuda-vif3.monmouth.edu (192.100.64.24): icmp_seq=24 ttl=44 time=117 ms
+[1607862770.255336] 40 bytes from cuda-vif3.monmouth.edu (192.100.64.24): icmp_seq=25 ttl=44 time=112 ms
+[1607862775.372255] 40 bytes from cuda-vif3.monmouth.edu (192.100.64.24): icmp_seq=26 ttl=44 time=113 ms
+[1607862775.486315] 40 bytes from cuda-vif3.monmouth.edu (192.100.64.24): icmp_seq=27 ttl=44 time=112 ms
+[1607862776.486591] 40 bytes from cuda-vif3.monmouth.edu (192.100.64.24): icmp_seq=28 ttl=44 time=113 ms
+[1607862787.490042] 40 bytes from 192.100.64.24: icmp_seq=29 ttl=44 time=113 ms
+[1607862787.603937] 40 bytes from cuda-vif3.monmouth.edu (192.100.64.24): icmp_seq=30 ttl=44 time=112 ms
+[1607862788.605710] 40 bytes from cuda-vif3.monmouth.edu (192.100.64.24): icmp_seq=31 ttl=44 time=113 ms
+[1607862789.606659] 40 bytes from cuda-vif3.monmouth.edu (192.100.64.24): icmp_seq=32 ttl=44 time=113 ms
+[1607862790.607660] 40 bytes from cuda-vif3.monmouth.edu (192.100.64.24): icmp_seq=33 ttl=44 time=113 ms
+[1607862791.608089] 40 bytes from cuda-vif3.monmouth.edu (192.100.64.24): icmp_seq=34 ttl=44 time=113 ms
+[1607862797.612004] 40 bytes from cuda-vif3.monmouth.edu (192.100.64.24): icmp_seq=35 ttl=44 time=112 ms
+[1607862807.734024] 40 bytes from 192.100.64.24: icmp_seq=36 ttl=44 time=113 ms
+[1607862817.854005] 40 bytes from 192.100.64.24: icmp_seq=37 ttl=44 time=112 ms
+[1607862827.974034] 40 bytes from 192.100.64.24: icmp_seq=38 ttl=44 time=112 ms
+[1607862838.094051] 40 bytes from 192.100.64.24: icmp_seq=39 ttl=44 time=112 ms
+[1607862843.212040] 40 bytes from cuda-vif3.monmouth.edu (192.100.64.24): icmp_seq=40 ttl=44 time=112 ms
+[1607862843.326857] 40 bytes from cuda-vif3.monmouth.edu (192.100.64.24): icmp_seq=41 ttl=44 time=113 ms
+[1607862849.333279] 40 bytes from cuda-vif3.monmouth.edu (192.100.64.24): icmp_seq=42 ttl=44 time=113 ms
+[1607862849.447870] 40 bytes from cuda-vif3.monmouth.edu (192.100.64.24): icmp_seq=43 ttl=44 time=113 ms
+[1607862850.449280] 40 bytes from cuda-vif3.monmouth.edu (192.100.64.24): icmp_seq=44 ttl=44 time=112 ms
+[1607862851.450533] 40 bytes from cuda-vif3.monmouth.edu (192.100.64.24): icmp_seq=45 ttl=44 time=113 ms
+[1607862852.452534] 40 bytes from cuda-vif3.monmouth.edu (192.100.64.24): icmp_seq=46 ttl=44 time=113 ms
+[1607862853.453138] 40 bytes from cuda-vif3.monmouth.edu (192.100.64.24): icmp_seq=47 ttl=44 time=113 ms
+[1607862854.453884] 40 bytes from cuda-vif3.monmouth.edu (192.100.64.24): icmp_seq=48 ttl=44 time=113 ms
+[1607862855.455711] 40 bytes from cuda-vif3.monmouth.edu (192.100.64.24): icmp_seq=49 ttl=44 time=113 ms
+[1607862856.457211] 40 bytes from cuda-vif3.monmouth.edu (192.100.64.24): icmp_seq=50 ttl=44 time=113 ms
+
+--- monmouth.edu ping statistics ---
+50 packets transmitted, 50 received, 0% packet loss, time 169062ms
+rtt min/avg/max/mdev = 112.109/112.843/116.525/0.603 ms

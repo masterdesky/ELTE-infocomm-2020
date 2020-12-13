@@ -1,0 +1,55 @@
+PING smcvt.edu (35.168.212.149) 32(60) bytes of data.
+[1607862718.294869] 40 bytes from 35.168.212.149: icmp_seq=1 ttl=231 time=111 ms
+[1607862718.605815] 40 bytes from ec2-35-168-212-149.compute-1.amazonaws.com (35.168.212.149): icmp_seq=2 ttl=231 time=110 ms
+[1607862719.406854] 40 bytes from ec2-35-168-212-149.compute-1.amazonaws.com (35.168.212.149): icmp_seq=3 ttl=231 time=110 ms
+[1607862720.406882] 40 bytes from ec2-35-168-212-149.compute-1.amazonaws.com (35.168.212.149): icmp_seq=4 ttl=231 time=111 ms
+[1607862726.412074] 40 bytes from ec2-35-168-212-149.compute-1.amazonaws.com (35.168.212.149): icmp_seq=5 ttl=231 time=111 ms
+[1607862726.525013] 40 bytes from ec2-35-168-212-149.compute-1.amazonaws.com (35.168.212.149): icmp_seq=6 ttl=231 time=111 ms
+[1607862727.525819] 40 bytes from ec2-35-168-212-149.compute-1.amazonaws.com (35.168.212.149): icmp_seq=7 ttl=231 time=111 ms
+[1607862728.525960] 40 bytes from ec2-35-168-212-149.compute-1.amazonaws.com (35.168.212.149): icmp_seq=8 ttl=231 time=111 ms
+[1607862739.534060] 40 bytes from 35.168.212.149: icmp_seq=9 ttl=231 time=111 ms
+[1607862739.647332] 40 bytes from ec2-35-168-212-149.compute-1.amazonaws.com (35.168.212.149): icmp_seq=10 ttl=231 time=111 ms
+[1607862740.648369] 40 bytes from ec2-35-168-212-149.compute-1.amazonaws.com (35.168.212.149): icmp_seq=11 ttl=231 time=111 ms
+[1607862741.647069] 40 bytes from ec2-35-168-212-149.compute-1.amazonaws.com (35.168.212.149): icmp_seq=12 ttl=231 time=111 ms
+[1607862742.648745] 40 bytes from ec2-35-168-212-149.compute-1.amazonaws.com (35.168.212.149): icmp_seq=13 ttl=231 time=111 ms
+[1607862743.650827] 40 bytes from ec2-35-168-212-149.compute-1.amazonaws.com (35.168.212.149): icmp_seq=14 ttl=231 time=110 ms
+[1607862754.658005] 40 bytes from 35.168.212.149: icmp_seq=15 ttl=231 time=111 ms
+[1607862759.775827] 40 bytes from ec2-35-168-212-149.compute-1.amazonaws.com (35.168.212.149): icmp_seq=16 ttl=231 time=111 ms
+[1607862764.893043] 40 bytes from ec2-35-168-212-149.compute-1.amazonaws.com (35.168.212.149): icmp_seq=17 ttl=231 time=111 ms
+[1607862765.005523] 40 bytes from ec2-35-168-212-149.compute-1.amazonaws.com (35.168.212.149): icmp_seq=18 ttl=231 time=111 ms
+[1607862766.005702] 40 bytes from ec2-35-168-212-149.compute-1.amazonaws.com (35.168.212.149): icmp_seq=19 ttl=231 time=110 ms
+[1607862767.006141] 40 bytes from ec2-35-168-212-149.compute-1.amazonaws.com (35.168.212.149): icmp_seq=20 ttl=231 time=110 ms
+[1607862768.006799] 40 bytes from ec2-35-168-212-149.compute-1.amazonaws.com (35.168.212.149): icmp_seq=21 ttl=231 time=111 ms
+[1607862769.005906] 40 bytes from ec2-35-168-212-149.compute-1.amazonaws.com (35.168.212.149): icmp_seq=22 ttl=231 time=110 ms
+[1607862770.005903] 40 bytes from ec2-35-168-212-149.compute-1.amazonaws.com (35.168.212.149): icmp_seq=23 ttl=231 time=111 ms
+[1607862781.010014] 40 bytes from 35.168.212.149: icmp_seq=24 ttl=231 time=111 ms
+[1607862791.130001] 40 bytes from 35.168.212.149: icmp_seq=25 ttl=231 time=111 ms
+[1607862796.247850] 40 bytes from ec2-35-168-212-149.compute-1.amazonaws.com (35.168.212.149): icmp_seq=26 ttl=231 time=111 ms
+[1607862796.360094] 40 bytes from ec2-35-168-212-149.compute-1.amazonaws.com (35.168.212.149): icmp_seq=27 ttl=231 time=110 ms
+[1607862807.366019] 40 bytes from 35.168.212.149: icmp_seq=28 ttl=231 time=111 ms
+[1607862817.481997] 40 bytes from 35.168.212.149: icmp_seq=29 ttl=231 time=111 ms
+[1607862817.594546] 40 bytes from ec2-35-168-212-149.compute-1.amazonaws.com (35.168.212.149): icmp_seq=30 ttl=231 time=110 ms
+[1607862818.595118] 40 bytes from ec2-35-168-212-149.compute-1.amazonaws.com (35.168.212.149): icmp_seq=31 ttl=231 time=111 ms
+[1607862819.594387] 40 bytes from ec2-35-168-212-149.compute-1.amazonaws.com (35.168.212.149): icmp_seq=32 ttl=231 time=111 ms
+[1607862820.594831] 40 bytes from ec2-35-168-212-149.compute-1.amazonaws.com (35.168.212.149): icmp_seq=33 ttl=231 time=111 ms
+[1607862821.593467] 40 bytes from ec2-35-168-212-149.compute-1.amazonaws.com (35.168.212.149): icmp_seq=34 ttl=231 time=110 ms
+[1607862822.593386] 40 bytes from ec2-35-168-212-149.compute-1.amazonaws.com (35.168.212.149): icmp_seq=35 ttl=231 time=111 ms
+[1607862823.592849] 40 bytes from ec2-35-168-212-149.compute-1.amazonaws.com (35.168.212.149): icmp_seq=36 ttl=231 time=111 ms
+[1607862824.592449] 40 bytes from ec2-35-168-212-149.compute-1.amazonaws.com (35.168.212.149): icmp_seq=37 ttl=231 time=111 ms
+[1607862825.594368] 40 bytes from ec2-35-168-212-149.compute-1.amazonaws.com (35.168.212.149): icmp_seq=38 ttl=231 time=111 ms
+[1607862826.594914] 40 bytes from ec2-35-168-212-149.compute-1.amazonaws.com (35.168.212.149): icmp_seq=39 ttl=231 time=111 ms
+[1607862827.595014] 40 bytes from ec2-35-168-212-149.compute-1.amazonaws.com (35.168.212.149): icmp_seq=40 ttl=231 time=111 ms
+[1607862828.596409] 40 bytes from ec2-35-168-212-149.compute-1.amazonaws.com (35.168.212.149): icmp_seq=41 ttl=231 time=111 ms
+[1607862829.597465] 40 bytes from ec2-35-168-212-149.compute-1.amazonaws.com (35.168.212.149): icmp_seq=42 ttl=231 time=111 ms
+[1607862830.598064] 40 bytes from ec2-35-168-212-149.compute-1.amazonaws.com (35.168.212.149): icmp_seq=43 ttl=231 time=111 ms
+[1607862831.599887] 40 bytes from ec2-35-168-212-149.compute-1.amazonaws.com (35.168.212.149): icmp_seq=44 ttl=231 time=111 ms
+[1607862832.600665] 40 bytes from ec2-35-168-212-149.compute-1.amazonaws.com (35.168.212.149): icmp_seq=45 ttl=231 time=111 ms
+[1607862843.606090] 40 bytes from 35.168.212.149: icmp_seq=46 ttl=231 time=111 ms
+[1607862853.722049] 40 bytes from 35.168.212.149: icmp_seq=47 ttl=231 time=110 ms
+[1607862853.834473] 40 bytes from ec2-35-168-212-149.compute-1.amazonaws.com (35.168.212.149): icmp_seq=48 ttl=231 time=110 ms
+[1607862864.842092] 40 bytes from 35.168.212.149: icmp_seq=49 ttl=231 time=111 ms
+[1607862865.842218] 40 bytes from 35.168.212.149: icmp_seq=50 ttl=231 time=111 ms
+
+--- smcvt.edu ping statistics ---
+50 packets transmitted, 50 received, 0% packet loss, time 156667ms
+rtt min/avg/max/mdev = 110.087/110.811/111.299/0.302 ms

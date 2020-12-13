@@ -1,0 +1,55 @@
+PING issaonline.edu (104.18.48.30) 32(60) bytes of data.
+[1607862694.662124] 40 bytes from 104.18.48.30: icmp_seq=1 ttl=54 time=36.9 ms
+[1607862699.704013] 40 bytes from 104.18.48.30 (104.18.48.30): icmp_seq=2 ttl=54 time=36.5 ms
+[1607862709.750001] 40 bytes from 104.18.48.30: icmp_seq=3 ttl=54 time=36.5 ms
+[1607862714.794680] 40 bytes from 104.18.48.30 (104.18.48.30): icmp_seq=4 ttl=54 time=36.8 ms
+[1607862724.838043] 40 bytes from 104.18.48.30: icmp_seq=5 ttl=54 time=35.9 ms
+[1607862729.880621] 40 bytes from 104.18.48.30 (104.18.48.30): icmp_seq=6 ttl=54 time=37.1 ms
+[1607862734.923813] 40 bytes from 104.18.48.30 (104.18.48.30): icmp_seq=7 ttl=54 time=37.0 ms
+[1607862739.967730] 40 bytes from 104.18.48.30 (104.18.48.30): icmp_seq=8 ttl=54 time=36.7 ms
+[1607862750.011225] 40 bytes from 104.18.48.30: icmp_seq=9 ttl=54 time=36.8 ms
+[1607862760.054035] 40 bytes from 104.18.48.30: icmp_seq=10 ttl=54 time=36.5 ms
+[1607862760.093318] 40 bytes from 104.18.48.30 (104.18.48.30): icmp_seq=11 ttl=54 time=37.1 ms
+[1607862761.094242] 40 bytes from 104.18.48.30 (104.18.48.30): icmp_seq=12 ttl=54 time=36.9 ms
+[1607862762.093660] 40 bytes from 104.18.48.30 (104.18.48.30): icmp_seq=13 ttl=54 time=36.6 ms
+[1607862763.096342] 40 bytes from 104.18.48.30 (104.18.48.30): icmp_seq=14 ttl=54 time=36.5 ms
+[1607862764.096671] 40 bytes from 104.18.48.30 (104.18.48.30): icmp_seq=15 ttl=54 time=36.3 ms
+[1607862770.103361] 40 bytes from 104.18.48.30 (104.18.48.30): icmp_seq=16 ttl=54 time=36.5 ms
+[1607862770.142128] 40 bytes from 104.18.48.30 (104.18.48.30): icmp_seq=17 ttl=54 time=36.6 ms
+[1607862781.150089] 40 bytes from 104.18.48.30: icmp_seq=18 ttl=54 time=36.8 ms
+[1607862791.194032] 40 bytes from 104.18.48.30: icmp_seq=19 ttl=54 time=37.1 ms
+[1607862796.236229] 40 bytes from 104.18.48.30 (104.18.48.30): icmp_seq=20 ttl=54 time=36.1 ms
+[1607862796.275368] 40 bytes from 104.18.48.30 (104.18.48.30): icmp_seq=21 ttl=54 time=36.9 ms
+[1607862797.275638] 40 bytes from 104.18.48.30 (104.18.48.30): icmp_seq=22 ttl=54 time=36.5 ms
+[1607862798.276865] 40 bytes from 104.18.48.30 (104.18.48.30): icmp_seq=23 ttl=54 time=36.7 ms
+[1607862799.276925] 40 bytes from 104.18.48.30 (104.18.48.30): icmp_seq=24 ttl=54 time=36.8 ms
+[1607862800.277772] 40 bytes from 104.18.48.30 (104.18.48.30): icmp_seq=25 ttl=54 time=36.4 ms
+[1607862801.279756] 40 bytes from 104.18.48.30 (104.18.48.30): icmp_seq=26 ttl=54 time=36.9 ms
+[1607862812.286029] 40 bytes from 104.18.48.30: icmp_seq=27 ttl=54 time=36.4 ms
+[1607862822.330019] 40 bytes from 104.18.48.30: icmp_seq=28 ttl=54 time=37.1 ms
+[1607862822.368913] 40 bytes from 104.18.48.30 (104.18.48.30): icmp_seq=29 ttl=54 time=37.1 ms
+[1607862828.373227] 40 bytes from 104.18.48.30 (104.18.48.30): icmp_seq=30 ttl=54 time=36.7 ms
+[1607862838.418152] 40 bytes from 104.18.48.30: icmp_seq=31 ttl=54 time=36.9 ms
+[1607862848.462064] 40 bytes from 104.18.48.30: icmp_seq=32 ttl=54 time=36.6 ms
+[1607862848.502416] 40 bytes from 104.18.48.30 (104.18.48.30): icmp_seq=33 ttl=54 time=36.9 ms
+[1607862859.506169] 40 bytes from 104.18.48.30: icmp_seq=34 ttl=54 time=36.4 ms
+[1607862859.545097] 40 bytes from 104.18.48.30 (104.18.48.30): icmp_seq=35 ttl=54 time=36.9 ms
+[1607862860.547206] 40 bytes from 104.18.48.30 (104.18.48.30): icmp_seq=36 ttl=54 time=36.9 ms
+[1607862861.547303] 40 bytes from 104.18.48.30 (104.18.48.30): icmp_seq=37 ttl=54 time=36.9 ms
+[1607862862.548572] 40 bytes from 104.18.48.30 (104.18.48.30): icmp_seq=38 ttl=54 time=37.0 ms
+[1607862863.550300] 40 bytes from 104.18.48.30 (104.18.48.30): icmp_seq=39 ttl=54 time=36.9 ms
+[1607862864.551953] 40 bytes from 104.18.48.30 (104.18.48.30): icmp_seq=40 ttl=54 time=36.9 ms
+[1607862865.553156] 40 bytes from 104.18.48.30 (104.18.48.30): icmp_seq=41 ttl=54 time=36.8 ms
+[1607862866.554361] 40 bytes from 104.18.48.30 (104.18.48.30): icmp_seq=42 ttl=54 time=36.8 ms
+[1607862867.554792] 40 bytes from 104.18.48.30 (104.18.48.30): icmp_seq=43 ttl=54 time=36.3 ms
+[1607862868.556420] 40 bytes from 104.18.48.30 (104.18.48.30): icmp_seq=44 ttl=54 time=36.9 ms
+[1607862869.557805] 40 bytes from 104.18.48.30 (104.18.48.30): icmp_seq=45 ttl=54 time=36.4 ms
+[1607862870.558732] 40 bytes from 104.18.48.30 (104.18.48.30): icmp_seq=46 ttl=54 time=36.6 ms
+[1607862871.560261] 40 bytes from 104.18.48.30 (104.18.48.30): icmp_seq=47 ttl=54 time=36.5 ms
+[1607862872.563114] 40 bytes from 104.18.48.30 (104.18.48.30): icmp_seq=48 ttl=54 time=37.1 ms
+[1607862873.564625] 40 bytes from 104.18.48.30 (104.18.48.30): icmp_seq=49 ttl=54 time=38.3 ms
+[1607862874.563953] 40 bytes from 104.18.48.30 (104.18.48.30): icmp_seq=50 ttl=54 time=35.6 ms
+
+--- issaonline.edu ping statistics ---
+50 packets transmitted, 50 received, 0% packet loss, time 189907ms
+rtt min/avg/max/mdev = 35.627/36.717/38.268/0.381 ms

@@ -1,0 +1,55 @@
+PING msj.edu (74.83.241.117) 32(60) bytes of data.
+[1607862698.652256] 40 bytes from tlvserver.msj.edu (74.83.241.117): icmp_seq=1 ttl=49 time=120 ms
+[1607862699.653935] 40 bytes from tlvserver.msj.edu (74.83.241.117): icmp_seq=2 ttl=49 time=120 ms
+[1607862705.655885] 40 bytes from tlvserver.msj.edu (74.83.241.117): icmp_seq=3 ttl=49 time=119 ms
+[1607862710.780032] 40 bytes from tlvserver.msj.edu (74.83.241.117): icmp_seq=4 ttl=49 time=120 ms
+[1607862710.902305] 40 bytes from tlvserver.msj.edu (74.83.241.117): icmp_seq=5 ttl=49 time=120 ms
+[1607862716.907965] 40 bytes from tlvserver.msj.edu (74.83.241.117): icmp_seq=6 ttl=49 time=120 ms
+[1607862722.032776] 40 bytes from tlvserver.msj.edu (74.83.241.117): icmp_seq=7 ttl=49 time=120 ms
+[1607862722.154897] 40 bytes from tlvserver.msj.edu (74.83.241.117): icmp_seq=8 ttl=49 time=120 ms
+[1607862723.154686] 40 bytes from tlvserver.msj.edu (74.83.241.117): icmp_seq=9 ttl=49 time=119 ms
+[1607862734.162111] 40 bytes from 74.83.241.117: icmp_seq=10 ttl=49 time=120 ms
+[1607862734.283765] 40 bytes from tlvserver.msj.edu (74.83.241.117): icmp_seq=11 ttl=49 time=120 ms
+[1607862735.283438] 40 bytes from tlvserver.msj.edu (74.83.241.117): icmp_seq=12 ttl=49 time=120 ms
+[1607862736.283241] 40 bytes from tlvserver.msj.edu (74.83.241.117): icmp_seq=13 ttl=49 time=120 ms
+[1607862742.290393] 40 bytes from tlvserver.msj.edu (74.83.241.117): icmp_seq=14 ttl=49 time=120 ms
+[1607862742.412333] 40 bytes from tlvserver.msj.edu (74.83.241.117): icmp_seq=15 ttl=49 time=120 ms
+[1607862743.413527] 40 bytes from tlvserver.msj.edu (74.83.241.117): icmp_seq=16 ttl=49 time=120 ms
+[1607862744.414205] 40 bytes from tlvserver.msj.edu (74.83.241.117): icmp_seq=17 ttl=49 time=120 ms
+[1607862745.416021] 40 bytes from tlvserver.msj.edu (74.83.241.117): icmp_seq=18 ttl=49 time=120 ms
+[1607862756.423000] 40 bytes from 74.83.241.117: icmp_seq=19 ttl=49 time=119 ms
+[1607862756.545073] 40 bytes from tlvserver.msj.edu (74.83.241.117): icmp_seq=20 ttl=49 time=120 ms
+[1607862757.544459] 40 bytes from tlvserver.msj.edu (74.83.241.117): icmp_seq=21 ttl=49 time=120 ms
+[1607862758.545233] 40 bytes from tlvserver.msj.edu (74.83.241.117): icmp_seq=22 ttl=49 time=119 ms
+[1607862759.547654] 40 bytes from tlvserver.msj.edu (74.83.241.117): icmp_seq=23 ttl=49 time=119 ms
+[1607862760.549662] 40 bytes from tlvserver.msj.edu (74.83.241.117): icmp_seq=24 ttl=49 time=120 ms
+[1607862771.554049] 40 bytes from 74.83.241.117: icmp_seq=25 ttl=49 time=120 ms
+[1607862771.675424] 40 bytes from tlvserver.msj.edu (74.83.241.117): icmp_seq=26 ttl=49 time=119 ms
+[1607862772.675571] 40 bytes from tlvserver.msj.edu (74.83.241.117): icmp_seq=27 ttl=49 time=120 ms
+[1607862773.676352] 40 bytes from tlvserver.msj.edu (74.83.241.117): icmp_seq=28 ttl=49 time=120 ms
+[1607862774.676082] 40 bytes from tlvserver.msj.edu (74.83.241.117): icmp_seq=29 ttl=49 time=120 ms
+[1607862775.675786] 40 bytes from tlvserver.msj.edu (74.83.241.117): icmp_seq=30 ttl=49 time=120 ms
+[1607862776.675024] 40 bytes from tlvserver.msj.edu (74.83.241.117): icmp_seq=31 ttl=49 time=120 ms
+[1607862777.675462] 40 bytes from tlvserver.msj.edu (74.83.241.117): icmp_seq=32 ttl=49 time=120 ms
+[1607862778.675439] 40 bytes from tlvserver.msj.edu (74.83.241.117): icmp_seq=33 ttl=49 time=120 ms
+[1607862779.675492] 40 bytes from tlvserver.msj.edu (74.83.241.117): icmp_seq=34 ttl=49 time=120 ms
+[1607862780.674134] 40 bytes from tlvserver.msj.edu (74.83.241.117): icmp_seq=35 ttl=49 time=120 ms
+[1607862786.676438] 40 bytes from tlvserver.msj.edu (74.83.241.117): icmp_seq=36 ttl=49 time=119 ms
+[1607862796.802006] 40 bytes from 74.83.241.117: icmp_seq=37 ttl=49 time=119 ms
+[1607862806.930026] 40 bytes from 74.83.241.117: icmp_seq=38 ttl=49 time=120 ms
+[1607862812.056063] 40 bytes from tlvserver.msj.edu (74.83.241.117): icmp_seq=39 ttl=49 time=120 ms
+[1607862817.179980] 40 bytes from tlvserver.msj.edu (74.83.241.117): icmp_seq=40 ttl=49 time=120 ms
+[1607862822.304293] 40 bytes from tlvserver.msj.edu (74.83.241.117): icmp_seq=41 ttl=49 time=120 ms
+[1607862822.426034] 40 bytes from tlvserver.msj.edu (74.83.241.117): icmp_seq=42 ttl=49 time=120 ms
+[1607862823.425180] 40 bytes from tlvserver.msj.edu (74.83.241.117): icmp_seq=43 ttl=49 time=120 ms
+[1607862824.424967] 40 bytes from tlvserver.msj.edu (74.83.241.117): icmp_seq=44 ttl=49 time=120 ms
+[1607862825.425907] 40 bytes from tlvserver.msj.edu (74.83.241.117): icmp_seq=45 ttl=49 time=120 ms
+[1607862826.426961] 40 bytes from tlvserver.msj.edu (74.83.241.117): icmp_seq=46 ttl=49 time=119 ms
+[1607862827.427914] 40 bytes from tlvserver.msj.edu (74.83.241.117): icmp_seq=47 ttl=49 time=120 ms
+[1607862838.434011] 40 bytes from 74.83.241.117: icmp_seq=48 ttl=49 time=119 ms
+[1607862838.555886] 40 bytes from tlvserver.msj.edu (74.83.241.117): icmp_seq=49 ttl=49 time=120 ms
+[1607862839.556849] 40 bytes from tlvserver.msj.edu (74.83.241.117): icmp_seq=50 ttl=49 time=119 ms
+
+--- msj.edu ping statistics ---
+50 packets transmitted, 50 received, 0% packet loss, time 140905ms
+rtt min/avg/max/mdev = 119.057/119.701/120.098/0.273 ms

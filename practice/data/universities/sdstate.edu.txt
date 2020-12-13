@@ -1,0 +1,55 @@
+PING sdstate.edu (107.22.178.157) 32(60) bytes of data.
+[1607862720.579266] 40 bytes from ec2-107-22-178-157.compute-1.amazonaws.com (107.22.178.157): icmp_seq=1 ttl=41 time=111 ms
+[1607862726.583834] 40 bytes from ec2-107-22-178-157.compute-1.amazonaws.com (107.22.178.157): icmp_seq=2 ttl=41 time=110 ms
+[1607862731.703078] 40 bytes from ec2-107-22-178-157.compute-1.amazonaws.com (107.22.178.157): icmp_seq=3 ttl=41 time=111 ms
+[1607862731.816304] 40 bytes from ec2-107-22-178-157.compute-1.amazonaws.com (107.22.178.157): icmp_seq=4 ttl=41 time=111 ms
+[1607862732.816029] 40 bytes from ec2-107-22-178-157.compute-1.amazonaws.com (107.22.178.157): icmp_seq=5 ttl=41 time=111 ms
+[1607862733.814984] 40 bytes from ec2-107-22-178-157.compute-1.amazonaws.com (107.22.178.157): icmp_seq=6 ttl=41 time=110 ms
+[1607862734.815411] 40 bytes from ec2-107-22-178-157.compute-1.amazonaws.com (107.22.178.157): icmp_seq=7 ttl=41 time=111 ms
+[1607862735.814690] 40 bytes from ec2-107-22-178-157.compute-1.amazonaws.com (107.22.178.157): icmp_seq=8 ttl=41 time=111 ms
+[1607862736.814541] 40 bytes from ec2-107-22-178-157.compute-1.amazonaws.com (107.22.178.157): icmp_seq=9 ttl=41 time=111 ms
+[1607862737.813778] 40 bytes from ec2-107-22-178-157.compute-1.amazonaws.com (107.22.178.157): icmp_seq=10 ttl=41 time=111 ms
+[1607862738.813735] 40 bytes from ec2-107-22-178-157.compute-1.amazonaws.com (107.22.178.157): icmp_seq=11 ttl=41 time=111 ms
+[1607862739.813307] 40 bytes from ec2-107-22-178-157.compute-1.amazonaws.com (107.22.178.157): icmp_seq=12 ttl=41 time=111 ms
+[1607862740.815452] 40 bytes from ec2-107-22-178-157.compute-1.amazonaws.com (107.22.178.157): icmp_seq=13 ttl=41 time=111 ms
+[1607862741.814580] 40 bytes from ec2-107-22-178-157.compute-1.amazonaws.com (107.22.178.157): icmp_seq=14 ttl=41 time=111 ms
+[1607862742.815013] 40 bytes from ec2-107-22-178-157.compute-1.amazonaws.com (107.22.178.157): icmp_seq=15 ttl=41 time=111 ms
+[1607862743.813880] 40 bytes from ec2-107-22-178-157.compute-1.amazonaws.com (107.22.178.157): icmp_seq=16 ttl=41 time=110 ms
+[1607862744.816990] 40 bytes from ec2-107-22-178-157.compute-1.amazonaws.com (107.22.178.157): icmp_seq=17 ttl=41 time=111 ms
+[1607862750.819782] 40 bytes from ec2-107-22-178-157.compute-1.amazonaws.com (107.22.178.157): icmp_seq=18 ttl=41 time=110 ms
+[1607862755.936254] 40 bytes from ec2-107-22-178-157.compute-1.amazonaws.com (107.22.178.157): icmp_seq=19 ttl=41 time=111 ms
+[1607862766.054063] 40 bytes from 107.22.178.157: icmp_seq=20 ttl=41 time=111 ms
+[1607862776.173997] 40 bytes from 107.22.178.157: icmp_seq=21 ttl=41 time=111 ms
+[1607862786.294217] 40 bytes from 107.22.178.157: icmp_seq=22 ttl=41 time=111 ms
+[1607862786.406119] 40 bytes from ec2-107-22-178-157.compute-1.amazonaws.com (107.22.178.157): icmp_seq=23 ttl=41 time=111 ms
+[1607862787.406411] 40 bytes from ec2-107-22-178-157.compute-1.amazonaws.com (107.22.178.157): icmp_seq=24 ttl=41 time=111 ms
+[1607862788.408015] 40 bytes from ec2-107-22-178-157.compute-1.amazonaws.com (107.22.178.157): icmp_seq=25 ttl=41 time=111 ms
+[1607862789.408023] 40 bytes from ec2-107-22-178-157.compute-1.amazonaws.com (107.22.178.157): icmp_seq=26 ttl=41 time=110 ms
+[1607862790.410020] 40 bytes from ec2-107-22-178-157.compute-1.amazonaws.com (107.22.178.157): icmp_seq=27 ttl=41 time=111 ms
+[1607862801.418013] 40 bytes from 107.22.178.157: icmp_seq=28 ttl=41 time=111 ms
+[1607862801.530259] 40 bytes from ec2-107-22-178-157.compute-1.amazonaws.com (107.22.178.157): icmp_seq=29 ttl=41 time=111 ms
+[1607862812.538049] 40 bytes from 107.22.178.157: icmp_seq=30 ttl=41 time=111 ms
+[1607862822.658041] 40 bytes from 107.22.178.157: icmp_seq=31 ttl=41 time=111 ms
+[1607862827.775992] 40 bytes from ec2-107-22-178-157.compute-1.amazonaws.com (107.22.178.157): icmp_seq=32 ttl=41 time=111 ms
+[1607862832.891420] 40 bytes from ec2-107-22-178-157.compute-1.amazonaws.com (107.22.178.157): icmp_seq=33 ttl=41 time=111 ms
+[1607862833.003726] 40 bytes from ec2-107-22-178-157.compute-1.amazonaws.com (107.22.178.157): icmp_seq=34 ttl=41 time=111 ms
+[1607862834.004512] 40 bytes from ec2-107-22-178-157.compute-1.amazonaws.com (107.22.178.157): icmp_seq=35 ttl=41 time=111 ms
+[1607862835.004261] 40 bytes from ec2-107-22-178-157.compute-1.amazonaws.com (107.22.178.157): icmp_seq=36 ttl=41 time=111 ms
+[1607862836.003225] 40 bytes from ec2-107-22-178-157.compute-1.amazonaws.com (107.22.178.157): icmp_seq=37 ttl=41 time=111 ms
+[1607862837.002363] 40 bytes from ec2-107-22-178-157.compute-1.amazonaws.com (107.22.178.157): icmp_seq=38 ttl=41 time=111 ms
+[1607862838.002139] 40 bytes from ec2-107-22-178-157.compute-1.amazonaws.com (107.22.178.157): icmp_seq=39 ttl=41 time=110 ms
+[1607862849.006025] 40 bytes from 107.22.178.157: icmp_seq=40 ttl=41 time=111 ms
+[1607862854.123968] 40 bytes from ec2-107-22-178-157.compute-1.amazonaws.com (107.22.178.157): icmp_seq=41 ttl=41 time=111 ms
+[1607862859.240147] 40 bytes from ec2-107-22-178-157.compute-1.amazonaws.com (107.22.178.157): icmp_seq=42 ttl=41 time=111 ms
+[1607862859.353115] 40 bytes from ec2-107-22-178-157.compute-1.amazonaws.com (107.22.178.157): icmp_seq=43 ttl=41 time=111 ms
+[1607862860.355374] 40 bytes from ec2-107-22-178-157.compute-1.amazonaws.com (107.22.178.157): icmp_seq=44 ttl=41 time=111 ms
+[1607862861.357305] 40 bytes from ec2-107-22-178-157.compute-1.amazonaws.com (107.22.178.157): icmp_seq=45 ttl=41 time=111 ms
+[1607862862.356961] 40 bytes from ec2-107-22-178-157.compute-1.amazonaws.com (107.22.178.157): icmp_seq=46 ttl=41 time=111 ms
+[1607862863.358433] 40 bytes from ec2-107-22-178-157.compute-1.amazonaws.com (107.22.178.157): icmp_seq=47 ttl=41 time=110 ms
+[1607862864.360090] 40 bytes from ec2-107-22-178-157.compute-1.amazonaws.com (107.22.178.157): icmp_seq=48 ttl=41 time=111 ms
+[1607862870.364674] 40 bytes from ec2-107-22-178-157.compute-1.amazonaws.com (107.22.178.157): icmp_seq=49 ttl=41 time=110 ms
+[1607862871.364799] 40 bytes from 107.22.178.157: icmp_seq=50 ttl=41 time=111 ms
+
+--- sdstate.edu ping statistics ---
+50 packets transmitted, 50 received, 0% packet loss, time 149899ms
+rtt min/avg/max/mdev = 110.126/110.857/111.471/0.337 ms

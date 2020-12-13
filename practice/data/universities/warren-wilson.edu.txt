@@ -1,0 +1,55 @@
+PING warren-wilson.edu (23.185.0.1) 32(60) bytes of data.
+[1607862700.444027] 40 bytes from 23.185.0.1 (23.185.0.1): icmp_seq=1 ttl=54 time=28.5 ms
+[1607862710.478091] 40 bytes from 23.185.0.1: icmp_seq=2 ttl=54 time=28.2 ms
+[1607862710.507710] 40 bytes from 23.185.0.1 (23.185.0.1): icmp_seq=3 ttl=54 time=27.6 ms
+[1607862721.514188] 40 bytes from 23.185.0.1: icmp_seq=4 ttl=54 time=27.6 ms
+[1607862721.544225] 40 bytes from 23.185.0.1 (23.185.0.1): icmp_seq=5 ttl=54 time=27.7 ms
+[1607862722.545900] 40 bytes from 23.185.0.1 (23.185.0.1): icmp_seq=6 ttl=54 time=28.1 ms
+[1607862723.547618] 40 bytes from 23.185.0.1 (23.185.0.1): icmp_seq=7 ttl=54 time=28.4 ms
+[1607862724.547060] 40 bytes from 23.185.0.1 (23.185.0.1): icmp_seq=8 ttl=54 time=28.4 ms
+[1607862725.547274] 40 bytes from 23.185.0.1 (23.185.0.1): icmp_seq=9 ttl=54 time=28.6 ms
+[1607862726.546339] 40 bytes from 23.185.0.1 (23.185.0.1): icmp_seq=10 ttl=54 time=28.3 ms
+[1607862727.547798] 40 bytes from 23.185.0.1 (23.185.0.1): icmp_seq=11 ttl=54 time=28.0 ms
+[1607862728.546905] 40 bytes from 23.185.0.1 (23.185.0.1): icmp_seq=12 ttl=54 time=28.4 ms
+[1607862729.548777] 40 bytes from 23.185.0.1 (23.185.0.1): icmp_seq=13 ttl=54 time=27.8 ms
+[1607862740.553999] 40 bytes from 23.185.0.1: icmp_seq=14 ttl=54 time=27.6 ms
+[1607862740.584519] 40 bytes from 23.185.0.1 (23.185.0.1): icmp_seq=15 ttl=54 time=28.4 ms
+[1607862741.583864] 40 bytes from 23.185.0.1 (23.185.0.1): icmp_seq=16 ttl=54 time=28.5 ms
+[1607862742.584188] 40 bytes from 23.185.0.1 (23.185.0.1): icmp_seq=17 ttl=54 time=28.6 ms
+[1607862743.585921] 40 bytes from 23.185.0.1 (23.185.0.1): icmp_seq=18 ttl=54 time=28.4 ms
+[1607862754.594054] 40 bytes from 23.185.0.1: icmp_seq=19 ttl=54 time=28.4 ms
+[1607862754.624353] 40 bytes from 23.185.0.1 (23.185.0.1): icmp_seq=20 ttl=54 time=28.6 ms
+[1607862755.625752] 40 bytes from 23.185.0.1 (23.185.0.1): icmp_seq=21 ttl=54 time=28.3 ms
+[1607862756.627310] 40 bytes from 23.185.0.1 (23.185.0.1): icmp_seq=22 ttl=54 time=28.4 ms
+[1607862767.630024] 40 bytes from 23.185.0.1: icmp_seq=23 ttl=54 time=27.7 ms
+[1607862772.663851] 40 bytes from 23.185.0.1 (23.185.0.1): icmp_seq=24 ttl=54 time=28.3 ms
+[1607862782.701139] 40 bytes from 23.185.0.1: icmp_seq=25 ttl=54 time=28.3 ms
+[1607862792.738023] 40 bytes from 23.185.0.1: icmp_seq=26 ttl=54 time=28.4 ms
+[1607862792.768695] 40 bytes from 23.185.0.1 (23.185.0.1): icmp_seq=27 ttl=54 time=28.4 ms
+[1607862793.770459] 40 bytes from 23.185.0.1 (23.185.0.1): icmp_seq=28 ttl=54 time=28.5 ms
+[1607862794.772090] 40 bytes from 23.185.0.1 (23.185.0.1): icmp_seq=29 ttl=54 time=28.5 ms
+[1607862795.772934] 40 bytes from 23.185.0.1 (23.185.0.1): icmp_seq=30 ttl=54 time=28.4 ms
+[1607862806.778013] 40 bytes from 23.185.0.1: icmp_seq=31 ttl=54 time=28.6 ms
+[1607862811.812172] 40 bytes from 23.185.0.1 (23.185.0.1): icmp_seq=32 ttl=54 time=28.6 ms
+[1607862811.842329] 40 bytes from 23.185.0.1 (23.185.0.1): icmp_seq=33 ttl=54 time=28.4 ms
+[1607862817.843890] 40 bytes from 23.185.0.1 (23.185.0.1): icmp_seq=34 ttl=54 time=28.1 ms
+[1607862817.874066] 40 bytes from 23.185.0.1 (23.185.0.1): icmp_seq=35 ttl=54 time=28.2 ms
+[1607862818.874506] 40 bytes from 23.185.0.1 (23.185.0.1): icmp_seq=36 ttl=54 time=28.6 ms
+[1607862819.875085] 40 bytes from 23.185.0.1 (23.185.0.1): icmp_seq=37 ttl=54 time=28.6 ms
+[1607862820.875629] 40 bytes from 23.185.0.1 (23.185.0.1): icmp_seq=38 ttl=54 time=28.5 ms
+[1607862821.874654] 40 bytes from 23.185.0.1 (23.185.0.1): icmp_seq=39 ttl=54 time=28.4 ms
+[1607862822.874851] 40 bytes from 23.185.0.1 (23.185.0.1): icmp_seq=40 ttl=54 time=27.9 ms
+[1607862823.875770] 40 bytes from 23.185.0.1 (23.185.0.1): icmp_seq=41 ttl=54 time=28.4 ms
+[1607862824.876245] 40 bytes from 23.185.0.1 (23.185.0.1): icmp_seq=42 ttl=54 time=28.3 ms
+[1607862825.876966] 40 bytes from 23.185.0.1 (23.185.0.1): icmp_seq=43 ttl=54 time=28.3 ms
+[1607862826.879884] 40 bytes from 23.185.0.1 (23.185.0.1): icmp_seq=44 ttl=54 time=28.6 ms
+[1607862832.884481] 40 bytes from 23.185.0.1 (23.185.0.1): icmp_seq=45 ttl=54 time=27.6 ms
+[1607862832.914753] 40 bytes from 23.185.0.1 (23.185.0.1): icmp_seq=46 ttl=54 time=28.4 ms
+[1607862843.922111] 40 bytes from 23.185.0.1: icmp_seq=47 ttl=54 time=28.5 ms
+[1607862848.956274] 40 bytes from 23.185.0.1 (23.185.0.1): icmp_seq=48 ttl=54 time=28.6 ms
+[1607862848.987259] 40 bytes from 23.185.0.1 (23.185.0.1): icmp_seq=49 ttl=54 time=28.5 ms
+[1607862849.986499] 40 bytes from 23.185.0.1 (23.185.0.1): icmp_seq=50 ttl=54 time=28.3 ms
+
+--- warren-wilson.edu ping statistics ---
+50 packets transmitted, 50 received, 0% packet loss, time 154547ms
+rtt min/avg/max/mdev = 27.562/28.296/28.616/0.298 ms

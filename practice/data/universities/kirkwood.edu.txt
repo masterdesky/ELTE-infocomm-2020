@@ -1,0 +1,5 @@
+PING kirkwood.edu (216.159.181.83) 32(60) bytes of data.
+
+--- kirkwood.edu ping statistics ---
+50 packets transmitted, 0 received, 100% packet loss, time 49539ms
+

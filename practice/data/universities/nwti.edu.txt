@@ -1,0 +1,54 @@
+PING nwti.edu (198.71.233.129) 32(60) bytes of data.
+[1607862668.545880] 40 bytes from ip-198-71-233-129.ip.secureserver.net (198.71.233.129): icmp_seq=1 ttl=47 time=104 ms
+[1607862669.548135] 40 bytes from ip-198-71-233-129.ip.secureserver.net (198.71.233.129): icmp_seq=2 ttl=47 time=105 ms
+[1607862675.552006] 40 bytes from ip-198-71-233-129.ip.secureserver.net (198.71.233.129): icmp_seq=3 ttl=47 time=105 ms
+[1607862675.658112] 40 bytes from ip-198-71-233-129.ip.secureserver.net (198.71.233.129): icmp_seq=4 ttl=47 time=105 ms
+[1607862686.666067] 40 bytes from 198.71.233.129: icmp_seq=5 ttl=47 time=105 ms
+[1607862686.774038] 40 bytes from ip-198-71-233-129.ip.secureserver.net (198.71.233.129): icmp_seq=6 ttl=47 time=105 ms
+[1607862697.778043] 40 bytes from 198.71.233.129: icmp_seq=7 ttl=47 time=104 ms
+[1607862703.916008] 40 bytes from ip-198-71-233-129.ip.secureserver.net (198.71.233.129): icmp_seq=9 ttl=47 time=105 ms
+[1607862714.030029] 40 bytes from 198.71.233.129: icmp_seq=10 ttl=47 time=105 ms
+[1607862724.142576] 40 bytes from 198.71.233.129: icmp_seq=11 ttl=47 time=105 ms
+[1607862734.254092] 40 bytes from 198.71.233.129: icmp_seq=12 ttl=47 time=105 ms
+[1607862739.366339] 40 bytes from ip-198-71-233-129.ip.secureserver.net (198.71.233.129): icmp_seq=13 ttl=47 time=105 ms
+[1607862749.478069] 40 bytes from 198.71.233.129: icmp_seq=14 ttl=47 time=105 ms
+[1607862754.589820] 40 bytes from ip-198-71-233-129.ip.secureserver.net (198.71.233.129): icmp_seq=15 ttl=47 time=105 ms
+[1607862754.696639] 40 bytes from ip-198-71-233-129.ip.secureserver.net (198.71.233.129): icmp_seq=16 ttl=47 time=105 ms
+[1607862755.700684] 40 bytes from ip-198-71-233-129.ip.secureserver.net (198.71.233.129): icmp_seq=17 ttl=47 time=106 ms
+[1607862756.699184] 40 bytes from ip-198-71-233-129.ip.secureserver.net (198.71.233.129): icmp_seq=18 ttl=47 time=104 ms
+[1607862757.699162] 40 bytes from ip-198-71-233-129.ip.secureserver.net (198.71.233.129): icmp_seq=19 ttl=47 time=105 ms
+[1607862758.699894] 40 bytes from ip-198-71-233-129.ip.secureserver.net (198.71.233.129): icmp_seq=20 ttl=47 time=105 ms
+[1607862759.701786] 40 bytes from ip-198-71-233-129.ip.secureserver.net (198.71.233.129): icmp_seq=21 ttl=47 time=105 ms
+[1607862760.703620] 40 bytes from ip-198-71-233-129.ip.secureserver.net (198.71.233.129): icmp_seq=22 ttl=47 time=105 ms
+[1607862761.702533] 40 bytes from ip-198-71-233-129.ip.secureserver.net (198.71.233.129): icmp_seq=23 ttl=47 time=105 ms
+[1607862762.706050] 40 bytes from ip-198-71-233-129.ip.secureserver.net (198.71.233.129): icmp_seq=24 ttl=47 time=108 ms
+[1607862763.703446] 40 bytes from ip-198-71-233-129.ip.secureserver.net (198.71.233.129): icmp_seq=25 ttl=47 time=105 ms
+[1607862764.706812] 40 bytes from ip-198-71-233-129.ip.secureserver.net (198.71.233.129): icmp_seq=26 ttl=47 time=107 ms
+[1607862765.705402] 40 bytes from ip-198-71-233-129.ip.secureserver.net (198.71.233.129): icmp_seq=27 ttl=47 time=105 ms
+[1607862766.708045] 40 bytes from ip-198-71-233-129.ip.secureserver.net (198.71.233.129): icmp_seq=28 ttl=47 time=107 ms
+[1607862777.714714] 40 bytes from 198.71.233.129: icmp_seq=29 ttl=47 time=106 ms
+[1607862777.822160] 40 bytes from ip-198-71-233-129.ip.secureserver.net (198.71.233.129): icmp_seq=30 ttl=47 time=105 ms
+[1607862778.822620] 40 bytes from ip-198-71-233-129.ip.secureserver.net (198.71.233.129): icmp_seq=31 ttl=47 time=105 ms
+[1607862779.830818] 40 bytes from ip-198-71-233-129.ip.secureserver.net (198.71.233.129): icmp_seq=32 ttl=47 time=109 ms
+[1607862785.825262] 40 bytes from ip-198-71-233-129.ip.secureserver.net (198.71.233.129): icmp_seq=33 ttl=47 time=105 ms
+[1607862790.935919] 40 bytes from ip-198-71-233-129.ip.secureserver.net (198.71.233.129): icmp_seq=34 ttl=47 time=105 ms
+[1607862791.046878] 40 bytes from ip-198-71-233-129.ip.secureserver.net (198.71.233.129): icmp_seq=35 ttl=47 time=105 ms
+[1607862792.044091] 40 bytes from ip-198-71-233-129.ip.secureserver.net (198.71.233.129): icmp_seq=36 ttl=47 time=105 ms
+[1607862793.044326] 40 bytes from ip-198-71-233-129.ip.secureserver.net (198.71.233.129): icmp_seq=37 ttl=47 time=105 ms
+[1607862794.044544] 40 bytes from ip-198-71-233-129.ip.secureserver.net (198.71.233.129): icmp_seq=38 ttl=47 time=105 ms
+[1607862795.045845] 40 bytes from ip-198-71-233-129.ip.secureserver.net (198.71.233.129): icmp_seq=39 ttl=47 time=105 ms
+[1607862796.045642] 40 bytes from ip-198-71-233-129.ip.secureserver.net (198.71.233.129): icmp_seq=40 ttl=47 time=105 ms
+[1607862797.045346] 40 bytes from ip-198-71-233-129.ip.secureserver.net (198.71.233.129): icmp_seq=41 ttl=47 time=105 ms
+[1607862798.044492] 40 bytes from ip-198-71-233-129.ip.secureserver.net (198.71.233.129): icmp_seq=42 ttl=47 time=105 ms
+[1607862799.044020] 40 bytes from ip-198-71-233-129.ip.secureserver.net (198.71.233.129): icmp_seq=43 ttl=47 time=105 ms
+[1607862800.043577] 40 bytes from ip-198-71-233-129.ip.secureserver.net (198.71.233.129): icmp_seq=44 ttl=47 time=105 ms
+[1607862801.042350] 40 bytes from ip-198-71-233-129.ip.secureserver.net (198.71.233.129): icmp_seq=45 ttl=47 time=105 ms
+[1607862807.043948] 40 bytes from ip-198-71-233-129.ip.secureserver.net (198.71.233.129): icmp_seq=46 ttl=47 time=105 ms
+[1607862817.158055] 40 bytes from 198.71.233.129: icmp_seq=47 ttl=47 time=105 ms
+[1607862817.265603] 40 bytes from ip-198-71-233-129.ip.secureserver.net (198.71.233.129): icmp_seq=48 ttl=47 time=105 ms
+[1607862828.274036] 40 bytes from 198.71.233.129: icmp_seq=49 ttl=47 time=105 ms
+[1607862829.274116] 40 bytes from 198.71.233.129: icmp_seq=50 ttl=47 time=105 ms
+
+--- nwti.edu ping statistics ---
+50 packets transmitted, 49 received, 2% packet loss, time 159835ms
+rtt min/avg/max/mdev = 104.335/105.373/109.423/0.871 ms

@@ -1,0 +1,55 @@
+PING fuller.edu (45.56.125.171) 32(60) bytes of data.
+[1607862679.774002] 40 bytes from 45.56.125.171: icmp_seq=1 ttl=51 time=136 ms
+[1607862689.918266] 40 bytes from 45.56.125.171: icmp_seq=2 ttl=51 time=137 ms
+[1607862690.236815] 40 bytes from li943-171.members.linode.com (45.56.125.171): icmp_seq=3 ttl=51 time=137 ms
+[1607862701.062003] 40 bytes from 45.56.125.171: icmp_seq=4 ttl=51 time=137 ms
+[1607862711.206002] 40 bytes from 45.56.125.171: icmp_seq=5 ttl=51 time=137 ms
+[1607862711.345234] 40 bytes from li943-171.members.linode.com (45.56.125.171): icmp_seq=6 ttl=51 time=137 ms
+[1607862712.346229] 40 bytes from li943-171.members.linode.com (45.56.125.171): icmp_seq=7 ttl=51 time=137 ms
+[1607862713.348410] 40 bytes from li943-171.members.linode.com (45.56.125.171): icmp_seq=8 ttl=51 time=137 ms
+[1607862724.354032] 40 bytes from 45.56.125.171: icmp_seq=9 ttl=51 time=137 ms
+[1607862734.498155] 40 bytes from 45.56.125.171: icmp_seq=10 ttl=51 time=137 ms
+[1607862734.637600] 40 bytes from li943-171.members.linode.com (45.56.125.171): icmp_seq=11 ttl=51 time=137 ms
+[1607862740.639969] 40 bytes from li943-171.members.linode.com (45.56.125.171): icmp_seq=12 ttl=51 time=137 ms
+[1607862745.783742] 40 bytes from li943-171.members.linode.com (45.56.125.171): icmp_seq=13 ttl=51 time=137 ms
+[1607862755.930024] 40 bytes from 45.56.125.171: icmp_seq=14 ttl=51 time=137 ms
+[1607862766.074200] 40 bytes from 45.56.125.171: icmp_seq=15 ttl=51 time=137 ms
+[1607862776.218058] 40 bytes from 45.56.125.171: icmp_seq=16 ttl=51 time=137 ms
+[1607862786.362250] 40 bytes from 45.56.125.171: icmp_seq=17 ttl=51 time=137 ms
+[1607862791.504288] 40 bytes from li943-171.members.linode.com (45.56.125.171): icmp_seq=18 ttl=51 time=137 ms
+[1607862791.643528] 40 bytes from li943-171.members.linode.com (45.56.125.171): icmp_seq=19 ttl=51 time=137 ms
+[1607862792.644504] 40 bytes from li943-171.members.linode.com (45.56.125.171): icmp_seq=20 ttl=51 time=137 ms
+[1607862793.644066] 40 bytes from li943-171.members.linode.com (45.56.125.171): icmp_seq=21 ttl=51 time=136 ms
+[1607862794.646541] 40 bytes from li943-171.members.linode.com (45.56.125.171): icmp_seq=22 ttl=51 time=137 ms
+[1607862795.647588] 40 bytes from li943-171.members.linode.com (45.56.125.171): icmp_seq=23 ttl=51 time=137 ms
+[1607862796.645098] 40 bytes from li943-171.members.linode.com (45.56.125.171): icmp_seq=24 ttl=51 time=136 ms
+[1607862797.646147] 40 bytes from li943-171.members.linode.com (45.56.125.171): icmp_seq=25 ttl=51 time=137 ms
+[1607862798.645361] 40 bytes from li943-171.members.linode.com (45.56.125.171): icmp_seq=26 ttl=51 time=137 ms
+[1607862799.644809] 40 bytes from li943-171.members.linode.com (45.56.125.171): icmp_seq=27 ttl=51 time=136 ms
+[1607862800.644736] 40 bytes from li943-171.members.linode.com (45.56.125.171): icmp_seq=28 ttl=51 time=137 ms
+[1607862801.643776] 40 bytes from li943-171.members.linode.com (45.56.125.171): icmp_seq=29 ttl=51 time=137 ms
+[1607862802.644078] 40 bytes from li943-171.members.linode.com (45.56.125.171): icmp_seq=30 ttl=51 time=137 ms
+[1607862803.642969] 40 bytes from li943-171.members.linode.com (45.56.125.171): icmp_seq=31 ttl=51 time=137 ms
+[1607862804.643008] 40 bytes from li943-171.members.linode.com (45.56.125.171): icmp_seq=32 ttl=51 time=137 ms
+[1607862805.641498] 40 bytes from li943-171.members.linode.com (45.56.125.171): icmp_seq=33 ttl=51 time=137 ms
+[1607862806.642850] 40 bytes from li943-171.members.linode.com (45.56.125.171): icmp_seq=34 ttl=51 time=137 ms
+[1607862812.643923] 40 bytes from li943-171.members.linode.com (45.56.125.171): icmp_seq=35 ttl=51 time=137 ms
+[1607862812.783410] 40 bytes from li943-171.members.linode.com (45.56.125.171): icmp_seq=36 ttl=51 time=137 ms
+[1607862813.784620] 40 bytes from li943-171.members.linode.com (45.56.125.171): icmp_seq=37 ttl=51 time=137 ms
+[1607862814.785114] 40 bytes from li943-171.members.linode.com (45.56.125.171): icmp_seq=38 ttl=51 time=137 ms
+[1607862815.787492] 40 bytes from li943-171.members.linode.com (45.56.125.171): icmp_seq=39 ttl=51 time=137 ms
+[1607862816.787911] 40 bytes from li943-171.members.linode.com (45.56.125.171): icmp_seq=40 ttl=51 time=137 ms
+[1607862827.794061] 40 bytes from 45.56.125.171: icmp_seq=41 ttl=51 time=137 ms
+[1607862827.933219] 40 bytes from li943-171.members.linode.com (45.56.125.171): icmp_seq=42 ttl=51 time=137 ms
+[1607862828.934202] 40 bytes from li943-171.members.linode.com (45.56.125.171): icmp_seq=43 ttl=51 time=137 ms
+[1607862829.933933] 40 bytes from li943-171.members.linode.com (45.56.125.171): icmp_seq=44 ttl=51 time=137 ms
+[1607862830.931951] 40 bytes from li943-171.members.linode.com (45.56.125.171): icmp_seq=45 ttl=51 time=137 ms
+[1607862831.931034] 40 bytes from li943-171.members.linode.com (45.56.125.171): icmp_seq=46 ttl=51 time=137 ms
+[1607862832.931509] 40 bytes from li943-171.members.linode.com (45.56.125.171): icmp_seq=47 ttl=51 time=137 ms
+[1607862843.937997] 40 bytes from 45.56.125.171: icmp_seq=48 ttl=51 time=137 ms
+[1607862854.082027] 40 bytes from 45.56.125.171: icmp_seq=49 ttl=51 time=136 ms
+[1607862855.082100] 40 bytes from 45.56.125.171: icmp_seq=50 ttl=51 time=137 ms
+
+--- fuller.edu ping statistics ---
+50 packets transmitted, 50 received, 0% packet loss, time 184450ms
+rtt min/avg/max/mdev = 136.281/137.002/137.458/0.293 ms

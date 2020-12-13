@@ -1,0 +1,55 @@
+PING udayton.edu (131.238.73.184) 32(60) bytes of data.
+[1607862699.770690] 40 bytes from f5-204vip50.udayton.edu (131.238.73.184): icmp_seq=1 ttl=232 time=123 ms
+[1607862699.896703] 40 bytes from f5-204vip50.udayton.edu (131.238.73.184): icmp_seq=2 ttl=232 time=124 ms
+[1607862700.897209] 40 bytes from f5-204vip50.udayton.edu (131.238.73.184): icmp_seq=3 ttl=232 time=124 ms
+[1607862711.902001] 40 bytes from 131.238.73.184: icmp_seq=4 ttl=232 time=124 ms
+[1607862722.034149] 40 bytes from 131.238.73.184: icmp_seq=5 ttl=232 time=124 ms
+[1607862722.160089] 40 bytes from f5-204vip50.udayton.edu (131.238.73.184): icmp_seq=6 ttl=232 time=124 ms
+[1607862723.160564] 40 bytes from f5-204vip50.udayton.edu (131.238.73.184): icmp_seq=7 ttl=232 time=123 ms
+[1607862729.167837] 40 bytes from f5-204vip50.udayton.edu (131.238.73.184): icmp_seq=8 ttl=232 time=124 ms
+[1607862729.294045] 40 bytes from f5-204vip50.udayton.edu (131.238.73.184): icmp_seq=9 ttl=232 time=124 ms
+[1607862730.294949] 40 bytes from f5-204vip50.udayton.edu (131.238.73.184): icmp_seq=10 ttl=232 time=124 ms
+[1607862731.295320] 40 bytes from f5-204vip50.udayton.edu (131.238.73.184): icmp_seq=11 ttl=232 time=123 ms
+[1607862742.302026] 40 bytes from 131.238.73.184: icmp_seq=12 ttl=232 time=124 ms
+[1607862742.427592] 40 bytes from f5-204vip50.udayton.edu (131.238.73.184): icmp_seq=13 ttl=232 time=124 ms
+[1607862743.428666] 40 bytes from f5-204vip50.udayton.edu (131.238.73.184): icmp_seq=14 ttl=232 time=123 ms
+[1607862749.432696] 40 bytes from f5-204vip50.udayton.edu (131.238.73.184): icmp_seq=15 ttl=232 time=124 ms
+[1607862754.562901] 40 bytes from f5-204vip50.udayton.edu (131.238.73.184): icmp_seq=16 ttl=232 time=124 ms
+[1607862759.693591] 40 bytes from f5-204vip50.udayton.edu (131.238.73.184): icmp_seq=17 ttl=232 time=123 ms
+[1607862759.820210] 40 bytes from f5-204vip50.udayton.edu (131.238.73.184): icmp_seq=18 ttl=232 time=124 ms
+[1607862770.826026] 40 bytes from 131.238.73.184: icmp_seq=19 ttl=232 time=124 ms
+[1607862780.958038] 40 bytes from 131.238.73.184: icmp_seq=20 ttl=232 time=124 ms
+[1607862781.084267] 40 bytes from f5-204vip50.udayton.edu (131.238.73.184): icmp_seq=21 ttl=232 time=124 ms
+[1607862782.084044] 40 bytes from f5-204vip50.udayton.edu (131.238.73.184): icmp_seq=22 ttl=232 time=124 ms
+[1607862783.083434] 40 bytes from f5-204vip50.udayton.edu (131.238.73.184): icmp_seq=23 ttl=232 time=124 ms
+[1607862784.084108] 40 bytes from f5-204vip50.udayton.edu (131.238.73.184): icmp_seq=24 ttl=232 time=124 ms
+[1607862785.083168] 40 bytes from f5-204vip50.udayton.edu (131.238.73.184): icmp_seq=25 ttl=232 time=123 ms
+[1607862791.088357] 40 bytes from f5-204vip50.udayton.edu (131.238.73.184): icmp_seq=26 ttl=232 time=124 ms
+[1607862791.214657] 40 bytes from f5-204vip50.udayton.edu (131.238.73.184): icmp_seq=27 ttl=232 time=124 ms
+[1607862792.214440] 40 bytes from f5-204vip50.udayton.edu (131.238.73.184): icmp_seq=28 ttl=232 time=123 ms
+[1607862793.215886] 40 bytes from f5-204vip50.udayton.edu (131.238.73.184): icmp_seq=29 ttl=232 time=123 ms
+[1607862794.218910] 40 bytes from f5-204vip50.udayton.edu (131.238.73.184): icmp_seq=30 ttl=232 time=124 ms
+[1607862795.219706] 40 bytes from f5-204vip50.udayton.edu (131.238.73.184): icmp_seq=31 ttl=232 time=124 ms
+[1607862796.221851] 40 bytes from f5-204vip50.udayton.edu (131.238.73.184): icmp_seq=32 ttl=232 time=124 ms
+[1607862797.222039] 40 bytes from f5-204vip50.udayton.edu (131.238.73.184): icmp_seq=33 ttl=232 time=124 ms
+[1607862798.223096] 40 bytes from f5-204vip50.udayton.edu (131.238.73.184): icmp_seq=34 ttl=232 time=124 ms
+[1607862799.223281] 40 bytes from f5-204vip50.udayton.edu (131.238.73.184): icmp_seq=35 ttl=232 time=124 ms
+[1607862800.224559] 40 bytes from f5-204vip50.udayton.edu (131.238.73.184): icmp_seq=36 ttl=232 time=124 ms
+[1607862801.225267] 40 bytes from f5-204vip50.udayton.edu (131.238.73.184): icmp_seq=37 ttl=232 time=124 ms
+[1607862802.225137] 40 bytes from f5-204vip50.udayton.edu (131.238.73.184): icmp_seq=38 ttl=232 time=124 ms
+[1607862803.226804] 40 bytes from f5-204vip50.udayton.edu (131.238.73.184): icmp_seq=39 ttl=232 time=124 ms
+[1607862804.226203] 40 bytes from f5-204vip50.udayton.edu (131.238.73.184): icmp_seq=40 ttl=232 time=124 ms
+[1607862805.227488] 40 bytes from f5-204vip50.udayton.edu (131.238.73.184): icmp_seq=41 ttl=232 time=124 ms
+[1607862806.228513] 40 bytes from f5-204vip50.udayton.edu (131.238.73.184): icmp_seq=42 ttl=232 time=124 ms
+[1607862817.234025] 40 bytes from 131.238.73.184: icmp_seq=43 ttl=232 time=123 ms
+[1607862822.363976] 40 bytes from f5-204vip50.udayton.edu (131.238.73.184): icmp_seq=44 ttl=232 time=124 ms
+[1607862822.489087] 40 bytes from f5-204vip50.udayton.edu (131.238.73.184): icmp_seq=45 ttl=232 time=123 ms
+[1607862833.494002] 40 bytes from 131.238.73.184: icmp_seq=46 ttl=232 time=124 ms
+[1607862843.626049] 40 bytes from 131.238.73.184: icmp_seq=47 ttl=232 time=124 ms
+[1607862848.755968] 40 bytes from f5-204vip50.udayton.edu (131.238.73.184): icmp_seq=48 ttl=232 time=124 ms
+[1607862848.881411] 40 bytes from f5-204vip50.udayton.edu (131.238.73.184): icmp_seq=49 ttl=232 time=123 ms
+[1607862849.881914] 40 bytes from f5-204vip50.udayton.edu (131.238.73.184): icmp_seq=50 ttl=232 time=124 ms
+
+--- udayton.edu ping statistics ---
+50 packets transmitted, 50 received, 0% packet loss, time 151008ms
+rtt min/avg/max/mdev = 122.875/123.771/124.369/0.369 ms

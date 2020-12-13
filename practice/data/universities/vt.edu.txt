@@ -1,0 +1,55 @@
+PING vt.edu (198.82.215.14) 32(60) bytes of data.
+[1607862709.003036] 40 bytes from cmsw-prod.hosting.vt.edu (198.82.215.14): icmp_seq=1 ttl=238 time=115 ms
+[1607862709.119386] 40 bytes from cmsw-prod.hosting.vt.edu (198.82.215.14): icmp_seq=2 ttl=238 time=114 ms
+[1607862715.123785] 40 bytes from cmsw-prod.hosting.vt.edu (198.82.215.14): icmp_seq=3 ttl=238 time=114 ms
+[1607862725.246321] 40 bytes from 198.82.215.14: icmp_seq=4 ttl=238 time=115 ms
+[1607862730.367902] 40 bytes from cmsw-prod.hosting.vt.edu (198.82.215.14): icmp_seq=5 ttl=238 time=115 ms
+[1607862730.484651] 40 bytes from cmsw-prod.hosting.vt.edu (198.82.215.14): icmp_seq=6 ttl=238 time=115 ms
+[1607862731.486120] 40 bytes from cmsw-prod.hosting.vt.edu (198.82.215.14): icmp_seq=7 ttl=238 time=115 ms
+[1607862732.487866] 40 bytes from cmsw-prod.hosting.vt.edu (198.82.215.14): icmp_seq=8 ttl=238 time=115 ms
+[1607862733.489364] 40 bytes from cmsw-prod.hosting.vt.edu (198.82.215.14): icmp_seq=9 ttl=238 time=114 ms
+[1607862744.494334] 40 bytes from 198.82.215.14: icmp_seq=10 ttl=238 time=115 ms
+[1607862749.616014] 40 bytes from cmsw-prod.hosting.vt.edu (198.82.215.14): icmp_seq=11 ttl=238 time=115 ms
+[1607862759.737991] 40 bytes from 198.82.215.14: icmp_seq=12 ttl=238 time=115 ms
+[1607862759.854687] 40 bytes from cmsw-prod.hosting.vt.edu (198.82.215.14): icmp_seq=13 ttl=238 time=115 ms
+[1607862765.856503] 40 bytes from cmsw-prod.hosting.vt.edu (198.82.215.14): icmp_seq=14 ttl=238 time=115 ms
+[1607862765.973702] 40 bytes from cmsw-prod.hosting.vt.edu (198.82.215.14): icmp_seq=15 ttl=238 time=115 ms
+[1607862776.978148] 40 bytes from 198.82.215.14: icmp_seq=16 ttl=238 time=115 ms
+[1607862777.094916] 40 bytes from cmsw-prod.hosting.vt.edu (198.82.215.14): icmp_seq=17 ttl=238 time=115 ms
+[1607862778.094940] 40 bytes from cmsw-prod.hosting.vt.edu (198.82.215.14): icmp_seq=18 ttl=238 time=115 ms
+[1607862779.093490] 40 bytes from cmsw-prod.hosting.vt.edu (198.82.215.14): icmp_seq=19 ttl=238 time=114 ms
+[1607862780.093906] 40 bytes from cmsw-prod.hosting.vt.edu (198.82.215.14): icmp_seq=20 ttl=238 time=114 ms
+[1607862786.095701] 40 bytes from cmsw-prod.hosting.vt.edu (198.82.215.14): icmp_seq=21 ttl=238 time=115 ms
+[1607862796.219086] 40 bytes from 198.82.215.14: icmp_seq=22 ttl=238 time=115 ms
+[1607862796.336084] 40 bytes from cmsw-prod.hosting.vt.edu (198.82.215.14): icmp_seq=23 ttl=238 time=115 ms
+[1607862807.342203] 40 bytes from 198.82.215.14: icmp_seq=24 ttl=238 time=115 ms
+[1607862807.459505] 40 bytes from cmsw-prod.hosting.vt.edu (198.82.215.14): icmp_seq=25 ttl=238 time=115 ms
+[1607862808.458417] 40 bytes from cmsw-prod.hosting.vt.edu (198.82.215.14): icmp_seq=26 ttl=238 time=114 ms
+[1607862809.458999] 40 bytes from cmsw-prod.hosting.vt.edu (198.82.215.14): icmp_seq=27 ttl=238 time=115 ms
+[1607862810.458946] 40 bytes from cmsw-prod.hosting.vt.edu (198.82.215.14): icmp_seq=28 ttl=238 time=115 ms
+[1607862811.458537] 40 bytes from cmsw-prod.hosting.vt.edu (198.82.215.14): icmp_seq=29 ttl=238 time=114 ms
+[1607862822.462106] 40 bytes from 198.82.215.14: icmp_seq=30 ttl=238 time=114 ms
+[1607862827.584220] 40 bytes from cmsw-prod.hosting.vt.edu (198.82.215.14): icmp_seq=31 ttl=238 time=115 ms
+[1607862827.701083] 40 bytes from cmsw-prod.hosting.vt.edu (198.82.215.14): icmp_seq=32 ttl=238 time=115 ms
+[1607862838.710120] 40 bytes from 198.82.215.14: icmp_seq=33 ttl=238 time=116 ms
+[1607862848.834070] 40 bytes from 198.82.215.14: icmp_seq=34 ttl=238 time=115 ms
+[1607862858.958094] 40 bytes from 198.82.215.14: icmp_seq=35 ttl=238 time=115 ms
+[1607862859.074022] 40 bytes from cmsw-prod.hosting.vt.edu (198.82.215.14): icmp_seq=36 ttl=238 time=115 ms
+[1607862860.075682] 40 bytes from cmsw-prod.hosting.vt.edu (198.82.215.14): icmp_seq=37 ttl=238 time=115 ms
+[1607862861.076066] 40 bytes from cmsw-prod.hosting.vt.edu (198.82.215.14): icmp_seq=38 ttl=238 time=114 ms
+[1607862862.076312] 40 bytes from cmsw-prod.hosting.vt.edu (198.82.215.14): icmp_seq=39 ttl=238 time=114 ms
+[1607862863.076443] 40 bytes from cmsw-prod.hosting.vt.edu (198.82.215.14): icmp_seq=40 ttl=238 time=114 ms
+[1607862864.077131] 40 bytes from cmsw-prod.hosting.vt.edu (198.82.215.14): icmp_seq=41 ttl=238 time=115 ms
+[1607862865.078037] 40 bytes from cmsw-prod.hosting.vt.edu (198.82.215.14): icmp_seq=42 ttl=238 time=114 ms
+[1607862866.077819] 40 bytes from cmsw-prod.hosting.vt.edu (198.82.215.14): icmp_seq=43 ttl=238 time=115 ms
+[1607862867.078858] 40 bytes from cmsw-prod.hosting.vt.edu (198.82.215.14): icmp_seq=44 ttl=238 time=115 ms
+[1607862868.078543] 40 bytes from cmsw-prod.hosting.vt.edu (198.82.215.14): icmp_seq=45 ttl=238 time=115 ms
+[1607862869.077779] 40 bytes from cmsw-prod.hosting.vt.edu (198.82.215.14): icmp_seq=46 ttl=238 time=115 ms
+[1607862870.079033] 40 bytes from cmsw-prod.hosting.vt.edu (198.82.215.14): icmp_seq=47 ttl=238 time=115 ms
+[1607862871.077307] 40 bytes from cmsw-prod.hosting.vt.edu (198.82.215.14): icmp_seq=48 ttl=238 time=115 ms
+[1607862872.078571] 40 bytes from cmsw-prod.hosting.vt.edu (198.82.215.14): icmp_seq=49 ttl=238 time=115 ms
+[1607862873.076863] 40 bytes from cmsw-prod.hosting.vt.edu (198.82.215.14): icmp_seq=50 ttl=238 time=114 ms
+
+--- vt.edu ping statistics ---
+50 packets transmitted, 50 received, 0% packet loss, time 165168ms
+rtt min/avg/max/mdev = 114.114/114.676/115.597/0.275 ms

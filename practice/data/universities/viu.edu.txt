@@ -1,0 +1,55 @@
+PING viu.edu (209.182.196.194) 32(60) bytes of data.
+[1607862723.222517] 40 bytes from ded3999.inmotionhosting.com (209.182.196.194): icmp_seq=1 ttl=52 time=103 ms
+[1607862728.775736] 40 bytes from ded3999.inmotionhosting.com (209.182.196.194): icmp_seq=2 ttl=52 time=103 ms
+[1607862733.883807] 40 bytes from ded3999.inmotionhosting.com (209.182.196.194): icmp_seq=3 ttl=52 time=103 ms
+[1607862733.988504] 40 bytes from ded3999.inmotionhosting.com (209.182.196.194): icmp_seq=4 ttl=52 time=103 ms
+[1607862744.994058] 40 bytes from 209.182.196.194: icmp_seq=5 ttl=52 time=103 ms
+[1607862755.106171] 40 bytes from 209.182.196.194: icmp_seq=6 ttl=52 time=103 ms
+[1607862760.216097] 40 bytes from ded3999.inmotionhosting.com (209.182.196.194): icmp_seq=7 ttl=52 time=103 ms
+[1607862765.323992] 40 bytes from ded3999.inmotionhosting.com (209.182.196.194): icmp_seq=8 ttl=52 time=102 ms
+[1607862775.434000] 40 bytes from 209.182.196.194: icmp_seq=9 ttl=52 time=102 ms
+[1607862780.543560] 40 bytes from ded3999.inmotionhosting.com (209.182.196.194): icmp_seq=10 ttl=52 time=103 ms
+[1607862780.647712] 40 bytes from ded3999.inmotionhosting.com (209.182.196.194): icmp_seq=11 ttl=52 time=102 ms
+[1607862781.649446] 40 bytes from ded3999.inmotionhosting.com (209.182.196.194): icmp_seq=12 ttl=52 time=103 ms
+[1607862782.647632] 40 bytes from ded3999.inmotionhosting.com (209.182.196.194): icmp_seq=13 ttl=52 time=102 ms
+[1607862783.648950] 40 bytes from ded3999.inmotionhosting.com (209.182.196.194): icmp_seq=14 ttl=52 time=103 ms
+[1607862784.651109] 40 bytes from ded3999.inmotionhosting.com (209.182.196.194): icmp_seq=15 ttl=52 time=103 ms
+[1607862785.652155] 40 bytes from ded3999.inmotionhosting.com (209.182.196.194): icmp_seq=16 ttl=52 time=102 ms
+[1607862791.656096] 40 bytes from ded3999.inmotionhosting.com (209.182.196.194): icmp_seq=17 ttl=52 time=103 ms
+[1607862796.764327] 40 bytes from ded3999.inmotionhosting.com (209.182.196.194): icmp_seq=18 ttl=52 time=103 ms
+[1607862806.874612] 40 bytes from 209.182.196.194: icmp_seq=19 ttl=52 time=103 ms
+[1607862806.979434] 40 bytes from ded3999.inmotionhosting.com (209.182.196.194): icmp_seq=20 ttl=52 time=103 ms
+[1607862812.984043] 40 bytes from ded3999.inmotionhosting.com (209.182.196.194): icmp_seq=21 ttl=52 time=103 ms
+[1607862813.089131] 40 bytes from ded3999.inmotionhosting.com (209.182.196.194): icmp_seq=22 ttl=52 time=103 ms
+[1607862814.088432] 40 bytes from ded3999.inmotionhosting.com (209.182.196.194): icmp_seq=23 ttl=52 time=103 ms
+[1607862815.087975] 40 bytes from ded3999.inmotionhosting.com (209.182.196.194): icmp_seq=24 ttl=52 time=102 ms
+[1607862816.088455] 40 bytes from ded3999.inmotionhosting.com (209.182.196.194): icmp_seq=25 ttl=52 time=103 ms
+[1607862817.088483] 40 bytes from ded3999.inmotionhosting.com (209.182.196.194): icmp_seq=26 ttl=52 time=102 ms
+[1607862828.094033] 40 bytes from 209.182.196.194: icmp_seq=27 ttl=52 time=103 ms
+[1607862838.206029] 40 bytes from 209.182.196.194: icmp_seq=28 ttl=52 time=103 ms
+[1607862843.316129] 40 bytes from ded3999.inmotionhosting.com (209.182.196.194): icmp_seq=29 ttl=52 time=103 ms
+[1607862848.424144] 40 bytes from ded3999.inmotionhosting.com (209.182.196.194): icmp_seq=30 ttl=52 time=103 ms
+[1607862848.529575] 40 bytes from ded3999.inmotionhosting.com (209.182.196.194): icmp_seq=31 ttl=52 time=103 ms
+[1607862854.534914] 40 bytes from ded3999.inmotionhosting.com (209.182.196.194): icmp_seq=32 ttl=52 time=103 ms
+[1607862854.638892] 40 bytes from ded3999.inmotionhosting.com (209.182.196.194): icmp_seq=33 ttl=52 time=102 ms
+[1607862855.641614] 40 bytes from ded3999.inmotionhosting.com (209.182.196.194): icmp_seq=34 ttl=52 time=103 ms
+[1607862856.642955] 40 bytes from ded3999.inmotionhosting.com (209.182.196.194): icmp_seq=35 ttl=52 time=103 ms
+[1607862857.644792] 40 bytes from ded3999.inmotionhosting.com (209.182.196.194): icmp_seq=36 ttl=52 time=103 ms
+[1607862858.646652] 40 bytes from ded3999.inmotionhosting.com (209.182.196.194): icmp_seq=37 ttl=52 time=103 ms
+[1607862869.654311] 40 bytes from 209.182.196.194: icmp_seq=38 ttl=52 time=102 ms
+[1607862869.759112] 40 bytes from ded3999.inmotionhosting.com (209.182.196.194): icmp_seq=39 ttl=52 time=103 ms
+[1607862875.765668] 40 bytes from ded3999.inmotionhosting.com (209.182.196.194): icmp_seq=40 ttl=52 time=103 ms
+[1607862880.871919] 40 bytes from ded3999.inmotionhosting.com (209.182.196.194): icmp_seq=41 ttl=52 time=103 ms
+[1607862880.976720] 40 bytes from ded3999.inmotionhosting.com (209.182.196.194): icmp_seq=42 ttl=52 time=103 ms
+[1607862881.978695] 40 bytes from ded3999.inmotionhosting.com (209.182.196.194): icmp_seq=43 ttl=52 time=103 ms
+[1607862887.984074] 40 bytes from ded3999.inmotionhosting.com (209.182.196.194): icmp_seq=44 ttl=52 time=103 ms
+[1607862888.087985] 40 bytes from ded3999.inmotionhosting.com (209.182.196.194): icmp_seq=45 ttl=52 time=102 ms
+[1607862889.089264] 40 bytes from ded3999.inmotionhosting.com (209.182.196.194): icmp_seq=46 ttl=52 time=102 ms
+[1607862890.089797] 40 bytes from ded3999.inmotionhosting.com (209.182.196.194): icmp_seq=47 ttl=52 time=103 ms
+[1607862891.091191] 40 bytes from ded3999.inmotionhosting.com (209.182.196.194): icmp_seq=48 ttl=52 time=103 ms
+[1607862892.091263] 40 bytes from ded3999.inmotionhosting.com (209.182.196.194): icmp_seq=49 ttl=52 time=103 ms
+[1607862893.091491] 40 bytes from ded3999.inmotionhosting.com (209.182.196.194): icmp_seq=50 ttl=52 time=103 ms
+
+--- viu.edu ping statistics ---
+50 packets transmitted, 50 received, 0% packet loss, time 170319ms
+rtt min/avg/max/mdev = 101.949/102.707/103.217/0.316 ms

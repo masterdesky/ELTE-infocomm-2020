@@ -1,0 +1,55 @@
+PING chapman.edu (192.77.116.204) 32(60) bytes of data.
+[1607862675.009443] 40 bytes from www.chapman.edu (192.77.116.204): icmp_seq=1 ttl=239 time=167 ms
+[1607862675.305426] 40 bytes from www.chapman.edu (192.77.116.204): icmp_seq=2 ttl=239 time=167 ms
+[1607862676.308155] 40 bytes from www.chapman.edu (192.77.116.204): icmp_seq=3 ttl=239 time=167 ms
+[1607862677.309911] 40 bytes from www.chapman.edu (192.77.116.204): icmp_seq=4 ttl=239 time=167 ms
+[1607862683.311932] 40 bytes from www.chapman.edu (192.77.116.204): icmp_seq=5 ttl=239 time=167 ms
+[1607862693.486006] 40 bytes from 192.77.116.204: icmp_seq=6 ttl=239 time=166 ms
+[1607862703.662104] 40 bytes from 192.77.116.204: icmp_seq=7 ttl=239 time=167 ms
+[1607862708.835656] 40 bytes from www.chapman.edu (192.77.116.204): icmp_seq=8 ttl=239 time=166 ms
+[1607862709.004258] 40 bytes from www.chapman.edu (192.77.116.204): icmp_seq=9 ttl=239 time=166 ms
+[1607862720.010701] 40 bytes from 192.77.116.204: icmp_seq=10 ttl=239 time=166 ms
+[1607862720.179952] 40 bytes from www.chapman.edu (192.77.116.204): icmp_seq=11 ttl=239 time=167 ms
+[1607862726.185501] 40 bytes from www.chapman.edu (192.77.116.204): icmp_seq=12 ttl=239 time=167 ms
+[1607862726.354034] 40 bytes from www.chapman.edu (192.77.116.204): icmp_seq=13 ttl=239 time=166 ms
+[1607862727.354686] 40 bytes from www.chapman.edu (192.77.116.204): icmp_seq=14 ttl=239 time=166 ms
+[1607862728.355667] 40 bytes from www.chapman.edu (192.77.116.204): icmp_seq=15 ttl=239 time=167 ms
+[1607862729.356250] 40 bytes from www.chapman.edu (192.77.116.204): icmp_seq=16 ttl=239 time=166 ms
+[1607862730.356965] 40 bytes from www.chapman.edu (192.77.116.204): icmp_seq=17 ttl=239 time=167 ms
+[1607862731.357627] 40 bytes from www.chapman.edu (192.77.116.204): icmp_seq=18 ttl=239 time=167 ms
+[1607862737.360472] 40 bytes from www.chapman.edu (192.77.116.204): icmp_seq=19 ttl=239 time=167 ms
+[1607862747.534034] 40 bytes from 192.77.116.204: icmp_seq=20 ttl=239 time=167 ms
+[1607862747.702931] 40 bytes from www.chapman.edu (192.77.116.204): icmp_seq=21 ttl=239 time=167 ms
+[1607862748.703109] 40 bytes from www.chapman.edu (192.77.116.204): icmp_seq=22 ttl=239 time=167 ms
+[1607862754.703808] 40 bytes from www.chapman.edu (192.77.116.204): icmp_seq=23 ttl=239 time=167 ms
+[1607862764.878024] 40 bytes from 192.77.116.204: icmp_seq=24 ttl=239 time=166 ms
+[1607862770.047228] 40 bytes from www.chapman.edu (192.77.116.204): icmp_seq=25 ttl=239 time=167 ms
+[1607862770.215655] 40 bytes from www.chapman.edu (192.77.116.204): icmp_seq=26 ttl=239 time=166 ms
+[1607862781.222029] 40 bytes from 192.77.116.204: icmp_seq=27 ttl=239 time=167 ms
+[1607862791.394000] 40 bytes from 192.77.116.204: icmp_seq=28 ttl=239 time=166 ms
+[1607862796.567070] 40 bytes from www.chapman.edu (192.77.116.204): icmp_seq=29 ttl=239 time=167 ms
+[1607862796.735475] 40 bytes from www.chapman.edu (192.77.116.204): icmp_seq=30 ttl=239 time=166 ms
+[1607862807.742028] 40 bytes from 192.77.116.204: icmp_seq=31 ttl=239 time=166 ms
+[1607862817.914153] 40 bytes from 192.77.116.204: icmp_seq=32 ttl=239 time=167 ms
+[1607862818.083220] 40 bytes from www.chapman.edu (192.77.116.204): icmp_seq=33 ttl=239 time=167 ms
+[1607862819.082998] 40 bytes from www.chapman.edu (192.77.116.204): icmp_seq=34 ttl=239 time=167 ms
+[1607862820.083173] 40 bytes from www.chapman.edu (192.77.116.204): icmp_seq=35 ttl=239 time=167 ms
+[1607862821.082457] 40 bytes from www.chapman.edu (192.77.116.204): icmp_seq=36 ttl=239 time=167 ms
+[1607862822.084013] 40 bytes from www.chapman.edu (192.77.116.204): icmp_seq=37 ttl=239 time=167 ms
+[1607862833.090069] 40 bytes from 192.77.116.204: icmp_seq=38 ttl=239 time=167 ms
+[1607862833.259184] 40 bytes from www.chapman.edu (192.77.116.204): icmp_seq=39 ttl=239 time=167 ms
+[1607862834.259826] 40 bytes from www.chapman.edu (192.77.116.204): icmp_seq=40 ttl=239 time=167 ms
+[1607862835.260969] 40 bytes from www.chapman.edu (192.77.116.204): icmp_seq=41 ttl=239 time=167 ms
+[1607862836.262361] 40 bytes from www.chapman.edu (192.77.116.204): icmp_seq=42 ttl=239 time=167 ms
+[1607862837.264223] 40 bytes from www.chapman.edu (192.77.116.204): icmp_seq=43 ttl=239 time=167 ms
+[1607862843.268265] 40 bytes from www.chapman.edu (192.77.116.204): icmp_seq=44 ttl=239 time=167 ms
+[1607862848.439955] 40 bytes from www.chapman.edu (192.77.116.204): icmp_seq=45 ttl=239 time=167 ms
+[1607862853.612147] 40 bytes from www.chapman.edu (192.77.116.204): icmp_seq=46 ttl=239 time=167 ms
+[1607862853.781144] 40 bytes from www.chapman.edu (192.77.116.204): icmp_seq=47 ttl=239 time=167 ms
+[1607862864.786028] 40 bytes from 192.77.116.204: icmp_seq=48 ttl=239 time=167 ms
+[1607862869.955101] 40 bytes from www.chapman.edu (192.77.116.204): icmp_seq=49 ttl=239 time=166 ms
+[1607862870.123207] 40 bytes from www.chapman.edu (192.77.116.204): icmp_seq=50 ttl=239 time=166 ms
+
+--- chapman.edu ping statistics ---
+50 packets transmitted, 50 received, 0% packet loss, time 195817ms
+rtt min/avg/max/mdev = 165.825/166.591/167.209/0.286 ms

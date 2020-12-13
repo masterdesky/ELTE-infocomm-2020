@@ -1,0 +1,54 @@
+PING artcenter.edu (204.17.178.28) 32(60) bytes of data.
+[1607862689.274894] 40 bytes from www.artcenter.edu (204.17.178.28): icmp_seq=1 ttl=50 time=165 ms
+[1607862689.924982] 40 bytes from www.artcenter.edu (204.17.178.28): icmp_seq=2 ttl=50 time=165 ms
+[1607862690.924866] 40 bytes from www.artcenter.edu (204.17.178.28): icmp_seq=3 ttl=50 time=165 ms
+[1607862691.926086] 40 bytes from www.artcenter.edu (204.17.178.28): icmp_seq=4 ttl=50 time=165 ms
+[1607862692.926858] 40 bytes from www.artcenter.edu (204.17.178.28): icmp_seq=5 ttl=50 time=165 ms
+[1607862693.927880] 40 bytes from www.artcenter.edu (204.17.178.28): icmp_seq=6 ttl=50 time=165 ms
+[1607862699.928422] 40 bytes from www.artcenter.edu (204.17.178.28): icmp_seq=7 ttl=50 time=164 ms
+[1607862710.102006] 40 bytes from 204.17.178.28: icmp_seq=8 ttl=50 time=165 ms
+[1607862710.269212] 40 bytes from www.artcenter.edu (204.17.178.28): icmp_seq=9 ttl=50 time=165 ms
+[1607862711.271007] 40 bytes from www.artcenter.edu (204.17.178.28): icmp_seq=10 ttl=50 time=166 ms
+[1607862717.275775] 40 bytes from www.artcenter.edu (204.17.178.28): icmp_seq=11 ttl=50 time=165 ms
+[1607862717.443338] 40 bytes from www.artcenter.edu (204.17.178.28): icmp_seq=12 ttl=50 time=165 ms
+[1607862718.442655] 40 bytes from www.artcenter.edu (204.17.178.28): icmp_seq=13 ttl=50 time=166 ms
+[1607862729.446001] 40 bytes from 204.17.178.28: icmp_seq=14 ttl=50 time=165 ms
+[1607862730.615001] 40 bytes from www.artcenter.edu (204.17.178.28): icmp_seq=16 ttl=50 time=165 ms
+[1607862731.615368] 40 bytes from www.artcenter.edu (204.17.178.28): icmp_seq=17 ttl=50 time=165 ms
+[1607862732.616356] 40 bytes from www.artcenter.edu (204.17.178.28): icmp_seq=18 ttl=50 time=165 ms
+[1607862733.616867] 40 bytes from www.artcenter.edu (204.17.178.28): icmp_seq=19 ttl=50 time=164 ms
+[1607862744.622378] 40 bytes from 204.17.178.28: icmp_seq=20 ttl=50 time=165 ms
+[1607862754.794019] 40 bytes from 204.17.178.28: icmp_seq=21 ttl=50 time=165 ms
+[1607862754.961062] 40 bytes from www.artcenter.edu (204.17.178.28): icmp_seq=22 ttl=50 time=165 ms
+[1607862760.963586] 40 bytes from www.artcenter.edu (204.17.178.28): icmp_seq=23 ttl=50 time=165 ms
+[1607862771.138021] 40 bytes from 204.17.178.28: icmp_seq=24 ttl=50 time=165 ms
+[1607862771.305815] 40 bytes from www.artcenter.edu (204.17.178.28): icmp_seq=25 ttl=50 time=165 ms
+[1607862772.304306] 40 bytes from www.artcenter.edu (204.17.178.28): icmp_seq=26 ttl=50 time=164 ms
+[1607862773.307610] 40 bytes from www.artcenter.edu (204.17.178.28): icmp_seq=27 ttl=50 time=165 ms
+[1607862774.308885] 40 bytes from www.artcenter.edu (204.17.178.28): icmp_seq=28 ttl=50 time=165 ms
+[1607862775.309430] 40 bytes from www.artcenter.edu (204.17.178.28): icmp_seq=29 ttl=50 time=165 ms
+[1607862786.314007] 40 bytes from 204.17.178.28: icmp_seq=30 ttl=50 time=165 ms
+[1607862796.486025] 40 bytes from 204.17.178.28: icmp_seq=31 ttl=50 time=165 ms
+[1607862796.653449] 40 bytes from www.artcenter.edu (204.17.178.28): icmp_seq=32 ttl=50 time=165 ms
+[1607862802.655936] 40 bytes from www.artcenter.edu (204.17.178.28): icmp_seq=33 ttl=50 time=165 ms
+[1607862802.823483] 40 bytes from www.artcenter.edu (204.17.178.28): icmp_seq=34 ttl=50 time=165 ms
+[1607862803.823029] 40 bytes from www.artcenter.edu (204.17.178.28): icmp_seq=35 ttl=50 time=165 ms
+[1607862804.823205] 40 bytes from www.artcenter.edu (204.17.178.28): icmp_seq=36 ttl=50 time=165 ms
+[1607862805.822435] 40 bytes from www.artcenter.edu (204.17.178.28): icmp_seq=37 ttl=50 time=165 ms
+[1607862806.823871] 40 bytes from www.artcenter.edu (204.17.178.28): icmp_seq=38 ttl=50 time=165 ms
+[1607862812.827168] 40 bytes from www.artcenter.edu (204.17.178.28): icmp_seq=39 ttl=50 time=165 ms
+[1607862812.994927] 40 bytes from www.artcenter.edu (204.17.178.28): icmp_seq=40 ttl=50 time=165 ms
+[1607862813.996898] 40 bytes from www.artcenter.edu (204.17.178.28): icmp_seq=41 ttl=50 time=166 ms
+[1607862814.997646] 40 bytes from www.artcenter.edu (204.17.178.28): icmp_seq=42 ttl=50 time=165 ms
+[1607862815.998043] 40 bytes from www.artcenter.edu (204.17.178.28): icmp_seq=43 ttl=50 time=165 ms
+[1607862816.999221] 40 bytes from www.artcenter.edu (204.17.178.28): icmp_seq=44 ttl=50 time=165 ms
+[1607862823.004300] 40 bytes from www.artcenter.edu (204.17.178.28): icmp_seq=45 ttl=50 time=165 ms
+[1607862833.178031] 40 bytes from 204.17.178.28: icmp_seq=46 ttl=50 time=165 ms
+[1607862838.347849] 40 bytes from www.artcenter.edu (204.17.178.28): icmp_seq=47 ttl=50 time=165 ms
+[1607862838.514588] 40 bytes from www.artcenter.edu (204.17.178.28): icmp_seq=48 ttl=50 time=164 ms
+[1607862839.516143] 40 bytes from www.artcenter.edu (204.17.178.28): icmp_seq=49 ttl=50 time=165 ms
+[1607862840.516927] 40 bytes from www.artcenter.edu (204.17.178.28): icmp_seq=50 ttl=50 time=165 ms
+
+--- artcenter.edu ping statistics ---
+50 packets transmitted, 49 received, 2% packet loss, time 151592ms
+rtt min/avg/max/mdev = 164.431/165.123/165.581/0.312 ms

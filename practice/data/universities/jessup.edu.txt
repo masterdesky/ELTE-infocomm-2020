@@ -1,0 +1,54 @@
+PING jessup.edu (50.28.104.28) 32(60) bytes of data.
+[1607862684.796880] 40 bytes from v5.jessup.edu (50.28.104.28): icmp_seq=1 ttl=50 time=148 ms
+[1607862695.802303] 40 bytes from 50.28.104.28: icmp_seq=2 ttl=50 time=148 ms
+[1607862700.955309] 40 bytes from v5.jessup.edu (50.28.104.28): icmp_seq=3 ttl=50 time=148 ms
+[1607862711.110008] 40 bytes from 50.28.104.28: icmp_seq=4 ttl=50 time=148 ms
+[1607862711.260571] 40 bytes from v5.jessup.edu (50.28.104.28): icmp_seq=5 ttl=50 time=148 ms
+[1607862712.261331] 40 bytes from v5.jessup.edu (50.28.104.28): icmp_seq=6 ttl=50 time=148 ms
+[1607862713.261268] 40 bytes from v5.jessup.edu (50.28.104.28): icmp_seq=7 ttl=50 time=148 ms
+[1607862719.266081] 40 bytes from v5.jessup.edu (50.28.104.28): icmp_seq=8 ttl=50 time=148 ms
+[1607862729.421999] 40 bytes from 50.28.104.28: icmp_seq=9 ttl=50 time=148 ms
+[1607862730.573679] 40 bytes from v5.jessup.edu (50.28.104.28): icmp_seq=11 ttl=50 time=148 ms
+[1607862731.574399] 40 bytes from v5.jessup.edu (50.28.104.28): icmp_seq=12 ttl=50 time=148 ms
+[1607862732.575482] 40 bytes from v5.jessup.edu (50.28.104.28): icmp_seq=13 ttl=50 time=148 ms
+[1607862733.575524] 40 bytes from v5.jessup.edu (50.28.104.28): icmp_seq=14 ttl=50 time=148 ms
+[1607862744.582079] 40 bytes from 50.28.104.28: icmp_seq=15 ttl=50 time=148 ms
+[1607862754.738165] 40 bytes from 50.28.104.28: icmp_seq=16 ttl=50 time=148 ms
+[1607862759.893810] 40 bytes from v5.jessup.edu (50.28.104.28): icmp_seq=17 ttl=50 time=148 ms
+[1607862760.044083] 40 bytes from v5.jessup.edu (50.28.104.28): icmp_seq=18 ttl=50 time=148 ms
+[1607862771.050633] 40 bytes from 50.28.104.28: icmp_seq=19 ttl=50 time=148 ms
+[1607862776.203485] 40 bytes from v5.jessup.edu (50.28.104.28): icmp_seq=20 ttl=50 time=148 ms
+[1607862776.353449] 40 bytes from v5.jessup.edu (50.28.104.28): icmp_seq=21 ttl=50 time=148 ms
+[1607862782.357771] 40 bytes from v5.jessup.edu (50.28.104.28): icmp_seq=22 ttl=50 time=148 ms
+[1607862792.514056] 40 bytes from 50.28.104.28: icmp_seq=23 ttl=50 time=148 ms
+[1607862792.664507] 40 bytes from v5.jessup.edu (50.28.104.28): icmp_seq=24 ttl=50 time=148 ms
+[1607862793.666101] 40 bytes from v5.jessup.edu (50.28.104.28): icmp_seq=25 ttl=50 time=148 ms
+[1607862794.667129] 40 bytes from v5.jessup.edu (50.28.104.28): icmp_seq=26 ttl=50 time=148 ms
+[1607862795.668597] 40 bytes from v5.jessup.edu (50.28.104.28): icmp_seq=27 ttl=50 time=148 ms
+[1607862806.674017] 40 bytes from 50.28.104.28: icmp_seq=28 ttl=50 time=148 ms
+[1607862811.828399] 40 bytes from v5.jessup.edu (50.28.104.28): icmp_seq=29 ttl=50 time=148 ms
+[1607862811.978941] 40 bytes from v5.jessup.edu (50.28.104.28): icmp_seq=30 ttl=50 time=148 ms
+[1607862822.982007] 40 bytes from 50.28.104.28: icmp_seq=31 ttl=50 time=148 ms
+[1607862828.136044] 40 bytes from v5.jessup.edu (50.28.104.28): icmp_seq=32 ttl=50 time=148 ms
+[1607862828.286774] 40 bytes from v5.jessup.edu (50.28.104.28): icmp_seq=33 ttl=50 time=148 ms
+[1607862829.288262] 40 bytes from v5.jessup.edu (50.28.104.28): icmp_seq=34 ttl=50 time=148 ms
+[1607862830.288943] 40 bytes from v5.jessup.edu (50.28.104.28): icmp_seq=35 ttl=50 time=149 ms
+[1607862831.289240] 40 bytes from v5.jessup.edu (50.28.104.28): icmp_seq=36 ttl=50 time=148 ms
+[1607862832.289723] 40 bytes from v5.jessup.edu (50.28.104.28): icmp_seq=37 ttl=50 time=148 ms
+[1607862833.291099] 40 bytes from v5.jessup.edu (50.28.104.28): icmp_seq=38 ttl=50 time=148 ms
+[1607862834.292490] 40 bytes from v5.jessup.edu (50.28.104.28): icmp_seq=39 ttl=50 time=148 ms
+[1607862835.293526] 40 bytes from v5.jessup.edu (50.28.104.28): icmp_seq=40 ttl=50 time=148 ms
+[1607862836.293914] 40 bytes from v5.jessup.edu (50.28.104.28): icmp_seq=41 ttl=50 time=148 ms
+[1607862837.294814] 40 bytes from v5.jessup.edu (50.28.104.28): icmp_seq=42 ttl=50 time=147 ms
+[1607862838.294705] 40 bytes from v5.jessup.edu (50.28.104.28): icmp_seq=43 ttl=50 time=148 ms
+[1607862839.295656] 40 bytes from v5.jessup.edu (50.28.104.28): icmp_seq=44 ttl=50 time=149 ms
+[1607862840.296524] 40 bytes from v5.jessup.edu (50.28.104.28): icmp_seq=45 ttl=50 time=148 ms
+[1607862841.300056] 40 bytes from v5.jessup.edu (50.28.104.28): icmp_seq=46 ttl=50 time=148 ms
+[1607862842.301539] 40 bytes from v5.jessup.edu (50.28.104.28): icmp_seq=47 ttl=50 time=148 ms
+[1607862843.301291] 40 bytes from v5.jessup.edu (50.28.104.28): icmp_seq=48 ttl=50 time=148 ms
+[1607862854.310025] 40 bytes from 50.28.104.28: icmp_seq=49 ttl=50 time=148 ms
+[1607862855.310094] 40 bytes from 50.28.104.28: icmp_seq=50 ttl=50 time=148 ms
+
+--- jessup.edu ping statistics ---
+50 packets transmitted, 49 received, 2% packet loss, time 169664ms
+rtt min/avg/max/mdev = 147.383/148.125/148.609/0.286 ms

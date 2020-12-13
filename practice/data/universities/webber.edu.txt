@@ -1,0 +1,55 @@
+PING webber.edu (82.163.20.15) 32(60) bytes of data.
+[1607862677.650107] 40 bytes from 82-163-20-15.as15444.net (82.163.20.15): icmp_seq=1 ttl=52 time=38.0 ms
+[1607862683.647528] 40 bytes from 82-163-20-15.as15444.net (82.163.20.15): icmp_seq=2 ttl=52 time=37.4 ms
+[1607862693.694007] 40 bytes from 82.163.20.15: icmp_seq=3 ttl=52 time=37.5 ms
+[1607862698.735853] 40 bytes from 82-163-20-15.as15444.net (82.163.20.15): icmp_seq=4 ttl=52 time=37.3 ms
+[1607862698.775738] 40 bytes from 82-163-20-15.as15444.net (82.163.20.15): icmp_seq=5 ttl=52 time=37.7 ms
+[1607862699.778179] 40 bytes from 82-163-20-15.as15444.net (82.163.20.15): icmp_seq=6 ttl=52 time=38.0 ms
+[1607862710.782019] 40 bytes from 82.163.20.15: icmp_seq=7 ttl=52 time=38.2 ms
+[1607862720.830092] 40 bytes from 82.163.20.15: icmp_seq=8 ttl=52 time=38.7 ms
+[1607862725.872316] 40 bytes from 82-163-20-15.as15444.net (82.163.20.15): icmp_seq=9 ttl=52 time=37.1 ms
+[1607862725.911852] 40 bytes from 82-163-20-15.as15444.net (82.163.20.15): icmp_seq=10 ttl=52 time=37.1 ms
+[1607862736.918576] 40 bytes from 82.163.20.15: icmp_seq=11 ttl=52 time=36.9 ms
+[1607862736.962245] 40 bytes from 82-163-20-15.as15444.net (82.163.20.15): icmp_seq=12 ttl=52 time=41.9 ms
+[1607862737.957544] 40 bytes from 82-163-20-15.as15444.net (82.163.20.15): icmp_seq=13 ttl=52 time=36.9 ms
+[1607862738.958148] 40 bytes from 82-163-20-15.as15444.net (82.163.20.15): icmp_seq=14 ttl=52 time=37.0 ms
+[1607862749.966000] 40 bytes from 82.163.20.15: icmp_seq=15 ttl=52 time=37.6 ms
+[1607862755.010179] 40 bytes from 82-163-20-15.as15444.net (82.163.20.15): icmp_seq=16 ttl=52 time=38.1 ms
+[1607862765.054122] 40 bytes from 82.163.20.15: icmp_seq=17 ttl=52 time=38.3 ms
+[1607862765.093737] 40 bytes from 82-163-20-15.as15444.net (82.163.20.15): icmp_seq=18 ttl=52 time=37.8 ms
+[1607862776.102120] 40 bytes from 82.163.20.15: icmp_seq=19 ttl=52 time=38.1 ms
+[1607862781.144013] 40 bytes from 82-163-20-15.as15444.net (82.163.20.15): icmp_seq=20 ttl=52 time=37.9 ms
+[1607862781.185823] 40 bytes from 82-163-20-15.as15444.net (82.163.20.15): icmp_seq=21 ttl=52 time=39.2 ms
+[1607862782.183279] 40 bytes from 82-163-20-15.as15444.net (82.163.20.15): icmp_seq=22 ttl=52 time=37.3 ms
+[1607862783.184016] 40 bytes from 82-163-20-15.as15444.net (82.163.20.15): icmp_seq=23 ttl=52 time=37.8 ms
+[1607862784.185007] 40 bytes from 82-163-20-15.as15444.net (82.163.20.15): icmp_seq=24 ttl=52 time=37.9 ms
+[1607862785.187136] 40 bytes from 82-163-20-15.as15444.net (82.163.20.15): icmp_seq=25 ttl=52 time=37.8 ms
+[1607862796.194125] 40 bytes from 82.163.20.15: icmp_seq=26 ttl=52 time=37.7 ms
+[1607862796.234499] 40 bytes from 82-163-20-15.as15444.net (82.163.20.15): icmp_seq=27 ttl=52 time=37.9 ms
+[1607862797.234085] 40 bytes from 82-163-20-15.as15444.net (82.163.20.15): icmp_seq=28 ttl=52 time=37.6 ms
+[1607862798.235200] 40 bytes from 82-163-20-15.as15444.net (82.163.20.15): icmp_seq=29 ttl=52 time=38.5 ms
+[1607862799.237041] 40 bytes from 82-163-20-15.as15444.net (82.163.20.15): icmp_seq=30 ttl=52 time=38.1 ms
+[1607862800.238360] 40 bytes from 82-163-20-15.as15444.net (82.163.20.15): icmp_seq=31 ttl=52 time=37.8 ms
+[1607862801.238785] 40 bytes from 82-163-20-15.as15444.net (82.163.20.15): icmp_seq=32 ttl=52 time=37.9 ms
+[1607862807.243976] 40 bytes from 82-163-20-15.as15444.net (82.163.20.15): icmp_seq=33 ttl=52 time=37.9 ms
+[1607862807.284413] 40 bytes from 82-163-20-15.as15444.net (82.163.20.15): icmp_seq=34 ttl=52 time=37.8 ms
+[1607862808.284520] 40 bytes from 82-163-20-15.as15444.net (82.163.20.15): icmp_seq=35 ttl=52 time=38.2 ms
+[1607862809.283338] 40 bytes from 82-163-20-15.as15444.net (82.163.20.15): icmp_seq=36 ttl=52 time=37.9 ms
+[1607862810.283678] 40 bytes from 82-163-20-15.as15444.net (82.163.20.15): icmp_seq=37 ttl=52 time=37.8 ms
+[1607862811.282977] 40 bytes from 82-163-20-15.as15444.net (82.163.20.15): icmp_seq=38 ttl=52 time=37.3 ms
+[1607862812.283279] 40 bytes from 82-163-20-15.as15444.net (82.163.20.15): icmp_seq=39 ttl=52 time=37.8 ms
+[1607862813.285801] 40 bytes from 82-163-20-15.as15444.net (82.163.20.15): icmp_seq=40 ttl=52 time=38.4 ms
+[1607862814.286445] 40 bytes from 82-163-20-15.as15444.net (82.163.20.15): icmp_seq=41 ttl=52 time=37.6 ms
+[1607862815.286973] 40 bytes from 82-163-20-15.as15444.net (82.163.20.15): icmp_seq=42 ttl=52 time=37.3 ms
+[1607862816.288322] 40 bytes from 82-163-20-15.as15444.net (82.163.20.15): icmp_seq=43 ttl=52 time=37.5 ms
+[1607862822.291740] 40 bytes from 82-163-20-15.as15444.net (82.163.20.15): icmp_seq=44 ttl=52 time=38.0 ms
+[1607862822.331712] 40 bytes from 82-163-20-15.as15444.net (82.163.20.15): icmp_seq=45 ttl=52 time=37.7 ms
+[1607862828.333779] 40 bytes from 82-163-20-15.as15444.net (82.163.20.15): icmp_seq=46 ttl=52 time=37.1 ms
+[1607862838.377996] 40 bytes from 82.163.20.15: icmp_seq=47 ttl=52 time=37.9 ms
+[1607862848.422073] 40 bytes from 82.163.20.15: icmp_seq=48 ttl=52 time=37.8 ms
+[1607862848.462303] 40 bytes from 82-163-20-15.as15444.net (82.163.20.15): icmp_seq=49 ttl=52 time=37.9 ms
+[1607862849.463365] 40 bytes from 82-163-20-15.as15444.net (82.163.20.15): icmp_seq=50 ttl=52 time=37.9 ms
+
+--- webber.edu ping statistics ---
+50 packets transmitted, 50 received, 0% packet loss, time 171817ms
+rtt min/avg/max/mdev = 36.852/37.861/41.895/0.727 ms

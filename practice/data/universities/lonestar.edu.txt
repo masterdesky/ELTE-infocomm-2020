@@ -1,0 +1,5 @@
+PING lonestar.edu (216.7.255.117) 32(60) bytes of data.
+
+--- lonestar.edu ping statistics ---
+50 packets transmitted, 0 received, 100% packet loss, time 49304ms
+

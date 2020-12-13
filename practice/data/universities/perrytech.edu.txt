@@ -1,0 +1,55 @@
+PING perrytech.edu (50.116.13.51) 32(60) bytes of data.
+[1607862719.749477] 40 bytes from mosaic.invisibleink.com (50.116.13.51): icmp_seq=1 ttl=51 time=168 ms
+[1607862724.923960] 40 bytes from mosaic.invisibleink.com (50.116.13.51): icmp_seq=2 ttl=51 time=168 ms
+[1607862730.096919] 40 bytes from mosaic.invisibleink.com (50.116.13.51): icmp_seq=3 ttl=51 time=168 ms
+[1607862730.265940] 40 bytes from mosaic.invisibleink.com (50.116.13.51): icmp_seq=4 ttl=51 time=167 ms
+[1607862731.267313] 40 bytes from mosaic.invisibleink.com (50.116.13.51): icmp_seq=5 ttl=51 time=168 ms
+[1607862732.267708] 40 bytes from mosaic.invisibleink.com (50.116.13.51): icmp_seq=6 ttl=51 time=168 ms
+[1607862733.268444] 40 bytes from mosaic.invisibleink.com (50.116.13.51): icmp_seq=7 ttl=51 time=167 ms
+[1607862744.275055] 40 bytes from 50.116.13.51: icmp_seq=8 ttl=51 time=168 ms
+[1607862744.443839] 40 bytes from mosaic.invisibleink.com (50.116.13.51): icmp_seq=9 ttl=51 time=168 ms
+[1607862745.446445] 40 bytes from mosaic.invisibleink.com (50.116.13.51): icmp_seq=10 ttl=51 time=168 ms
+[1607862756.454053] 40 bytes from 50.116.13.51: icmp_seq=11 ttl=51 time=167 ms
+[1607862766.630027] 40 bytes from 50.116.13.51: icmp_seq=12 ttl=51 time=167 ms
+[1607862771.804198] 40 bytes from mosaic.invisibleink.com (50.116.13.51): icmp_seq=13 ttl=51 time=168 ms
+[1607862776.975397] 40 bytes from mosaic.invisibleink.com (50.116.13.51): icmp_seq=14 ttl=51 time=168 ms
+[1607862777.144442] 40 bytes from mosaic.invisibleink.com (50.116.13.51): icmp_seq=15 ttl=51 time=167 ms
+[1607862778.145487] 40 bytes from mosaic.invisibleink.com (50.116.13.51): icmp_seq=16 ttl=51 time=168 ms
+[1607862779.145970] 40 bytes from mosaic.invisibleink.com (50.116.13.51): icmp_seq=17 ttl=51 time=168 ms
+[1607862780.145999] 40 bytes from mosaic.invisibleink.com (50.116.13.51): icmp_seq=18 ttl=51 time=168 ms
+[1607862791.154024] 40 bytes from 50.116.13.51: icmp_seq=19 ttl=51 time=168 ms
+[1607862791.323350] 40 bytes from mosaic.invisibleink.com (50.116.13.51): icmp_seq=20 ttl=51 time=167 ms
+[1607862792.324013] 40 bytes from mosaic.invisibleink.com (50.116.13.51): icmp_seq=21 ttl=51 time=168 ms
+[1607862793.325487] 40 bytes from mosaic.invisibleink.com (50.116.13.51): icmp_seq=22 ttl=51 time=168 ms
+[1607862794.327277] 40 bytes from mosaic.invisibleink.com (50.116.13.51): icmp_seq=23 ttl=51 time=168 ms
+[1607862795.326936] 40 bytes from mosaic.invisibleink.com (50.116.13.51): icmp_seq=24 ttl=51 time=167 ms
+[1607862796.329737] 40 bytes from mosaic.invisibleink.com (50.116.13.51): icmp_seq=25 ttl=51 time=168 ms
+[1607862807.334007] 40 bytes from 50.116.13.51: icmp_seq=26 ttl=51 time=168 ms
+[1607862807.503407] 40 bytes from mosaic.invisibleink.com (50.116.13.51): icmp_seq=27 ttl=51 time=168 ms
+[1607862808.503685] 40 bytes from mosaic.invisibleink.com (50.116.13.51): icmp_seq=28 ttl=51 time=168 ms
+[1607862809.503062] 40 bytes from mosaic.invisibleink.com (50.116.13.51): icmp_seq=29 ttl=51 time=168 ms
+[1607862810.502431] 40 bytes from mosaic.invisibleink.com (50.116.13.51): icmp_seq=30 ttl=51 time=168 ms
+[1607862811.502556] 40 bytes from mosaic.invisibleink.com (50.116.13.51): icmp_seq=31 ttl=51 time=168 ms
+[1607862817.503699] 40 bytes from mosaic.invisibleink.com (50.116.13.51): icmp_seq=32 ttl=51 time=168 ms
+[1607862827.678050] 40 bytes from 50.116.13.51: icmp_seq=33 ttl=51 time=168 ms
+[1607862832.851480] 40 bytes from mosaic.invisibleink.com (50.116.13.51): icmp_seq=34 ttl=51 time=168 ms
+[1607862838.024178] 40 bytes from mosaic.invisibleink.com (50.116.13.51): icmp_seq=35 ttl=51 time=167 ms
+[1607862843.196140] 40 bytes from mosaic.invisibleink.com (50.116.13.51): icmp_seq=36 ttl=51 time=168 ms
+[1607862848.367537] 40 bytes from mosaic.invisibleink.com (50.116.13.51): icmp_seq=37 ttl=51 time=168 ms
+[1607862848.537401] 40 bytes from mosaic.invisibleink.com (50.116.13.51): icmp_seq=38 ttl=51 time=168 ms
+[1607862859.542019] 40 bytes from 50.116.13.51: icmp_seq=39 ttl=51 time=168 ms
+[1607862864.715853] 40 bytes from mosaic.invisibleink.com (50.116.13.51): icmp_seq=40 ttl=51 time=167 ms
+[1607862864.884806] 40 bytes from mosaic.invisibleink.com (50.116.13.51): icmp_seq=41 ttl=51 time=167 ms
+[1607862865.887287] 40 bytes from mosaic.invisibleink.com (50.116.13.51): icmp_seq=42 ttl=51 time=168 ms
+[1607862866.887778] 40 bytes from mosaic.invisibleink.com (50.116.13.51): icmp_seq=43 ttl=51 time=168 ms
+[1607862867.890048] 40 bytes from mosaic.invisibleink.com (50.116.13.51): icmp_seq=44 ttl=51 time=168 ms
+[1607862868.889628] 40 bytes from mosaic.invisibleink.com (50.116.13.51): icmp_seq=45 ttl=51 time=168 ms
+[1607862869.891370] 40 bytes from mosaic.invisibleink.com (50.116.13.51): icmp_seq=46 ttl=51 time=168 ms
+[1607862880.898101] 40 bytes from 50.116.13.51: icmp_seq=47 ttl=51 time=168 ms
+[1607862881.067607] 40 bytes from mosaic.invisibleink.com (50.116.13.51): icmp_seq=48 ttl=51 time=168 ms
+[1607862882.067612] 40 bytes from mosaic.invisibleink.com (50.116.13.51): icmp_seq=49 ttl=51 time=167 ms
+[1607862883.068038] 40 bytes from mosaic.invisibleink.com (50.116.13.51): icmp_seq=50 ttl=51 time=168 ms
+
+--- perrytech.edu ping statistics ---
+50 packets transmitted, 50 received, 0% packet loss, time 168393ms
+rtt min/avg/max/mdev = 166.854/167.611/168.051/0.312 ms

@@ -1,0 +1,55 @@
+PING alamancecc.edu (104.198.48.60) 32(60) bytes of data.
+[1607862713.826289] 40 bytes from 104.198.48.60: icmp_seq=1 ttl=52 time=122 ms
+[1607862723.954001] 40 bytes from 104.198.48.60: icmp_seq=2 ttl=52 time=122 ms
+[1607862724.078271] 40 bytes from 60.48.198.104.bc.googleusercontent.com (104.198.48.60): icmp_seq=3 ttl=52 time=122 ms
+[1607862725.077667] 40 bytes from 60.48.198.104.bc.googleusercontent.com (104.198.48.60): icmp_seq=4 ttl=52 time=121 ms
+[1607862736.083041] 40 bytes from 104.198.48.60: icmp_seq=5 ttl=52 time=121 ms
+[1607862736.207096] 40 bytes from 60.48.198.104.bc.googleusercontent.com (104.198.48.60): icmp_seq=6 ttl=52 time=122 ms
+[1607862737.208674] 40 bytes from 60.48.198.104.bc.googleusercontent.com (104.198.48.60): icmp_seq=7 ttl=52 time=122 ms
+[1607862738.209352] 40 bytes from 60.48.198.104.bc.googleusercontent.com (104.198.48.60): icmp_seq=8 ttl=52 time=122 ms
+[1607862744.212279] 40 bytes from 60.48.198.104.bc.googleusercontent.com (104.198.48.60): icmp_seq=9 ttl=52 time=121 ms
+[1607862749.339827] 40 bytes from 60.48.198.104.bc.googleusercontent.com (104.198.48.60): icmp_seq=10 ttl=52 time=122 ms
+[1607862749.464251] 40 bytes from 60.48.198.104.bc.googleusercontent.com (104.198.48.60): icmp_seq=11 ttl=52 time=122 ms
+[1607862750.464331] 40 bytes from 60.48.198.104.bc.googleusercontent.com (104.198.48.60): icmp_seq=12 ttl=52 time=121 ms
+[1607862751.465611] 40 bytes from 60.48.198.104.bc.googleusercontent.com (104.198.48.60): icmp_seq=13 ttl=52 time=122 ms
+[1607862762.470035] 40 bytes from 104.198.48.60: icmp_seq=14 ttl=52 time=122 ms
+[1607862762.594031] 40 bytes from 60.48.198.104.bc.googleusercontent.com (104.198.48.60): icmp_seq=15 ttl=52 time=122 ms
+[1607862763.594342] 40 bytes from 60.48.198.104.bc.googleusercontent.com (104.198.48.60): icmp_seq=16 ttl=52 time=122 ms
+[1607862764.595632] 40 bytes from 60.48.198.104.bc.googleusercontent.com (104.198.48.60): icmp_seq=17 ttl=52 time=122 ms
+[1607862775.602048] 40 bytes from 104.198.48.60: icmp_seq=18 ttl=52 time=122 ms
+[1607862785.730630] 40 bytes from 104.198.48.60: icmp_seq=19 ttl=52 time=122 ms
+[1607862785.854499] 40 bytes from 60.48.198.104.bc.googleusercontent.com (104.198.48.60): icmp_seq=20 ttl=52 time=122 ms
+[1607862791.855886] 40 bytes from 60.48.198.104.bc.googleusercontent.com (104.198.48.60): icmp_seq=21 ttl=52 time=121 ms
+[1607862801.986935] 40 bytes from 104.198.48.60: icmp_seq=22 ttl=52 time=122 ms
+[1607862812.113994] 40 bytes from 104.198.48.60: icmp_seq=23 ttl=52 time=121 ms
+[1607862812.237655] 40 bytes from 60.48.198.104.bc.googleusercontent.com (104.198.48.60): icmp_seq=24 ttl=52 time=121 ms
+[1607862813.240185] 40 bytes from 60.48.198.104.bc.googleusercontent.com (104.198.48.60): icmp_seq=25 ttl=52 time=122 ms
+[1607862814.239536] 40 bytes from 60.48.198.104.bc.googleusercontent.com (104.198.48.60): icmp_seq=26 ttl=52 time=121 ms
+[1607862815.241702] 40 bytes from 60.48.198.104.bc.googleusercontent.com (104.198.48.60): icmp_seq=27 ttl=52 time=122 ms
+[1607862816.241915] 40 bytes from 60.48.198.104.bc.googleusercontent.com (104.198.48.60): icmp_seq=28 ttl=52 time=122 ms
+[1607862817.243744] 40 bytes from 60.48.198.104.bc.googleusercontent.com (104.198.48.60): icmp_seq=29 ttl=52 time=122 ms
+[1607862818.243269] 40 bytes from 60.48.198.104.bc.googleusercontent.com (104.198.48.60): icmp_seq=30 ttl=52 time=121 ms
+[1607862819.244717] 40 bytes from 60.48.198.104.bc.googleusercontent.com (104.198.48.60): icmp_seq=31 ttl=52 time=121 ms
+[1607862820.246229] 40 bytes from 60.48.198.104.bc.googleusercontent.com (104.198.48.60): icmp_seq=32 ttl=52 time=121 ms
+[1607862821.245256] 40 bytes from 60.48.198.104.bc.googleusercontent.com (104.198.48.60): icmp_seq=33 ttl=52 time=122 ms
+[1607862822.246934] 40 bytes from 60.48.198.104.bc.googleusercontent.com (104.198.48.60): icmp_seq=34 ttl=52 time=122 ms
+[1607862833.254864] 40 bytes from 104.198.48.60: icmp_seq=35 ttl=52 time=122 ms
+[1607862843.382041] 40 bytes from 104.198.48.60: icmp_seq=36 ttl=52 time=122 ms
+[1607862848.507985] 40 bytes from 60.48.198.104.bc.googleusercontent.com (104.198.48.60): icmp_seq=37 ttl=52 time=122 ms
+[1607862853.635581] 40 bytes from 60.48.198.104.bc.googleusercontent.com (104.198.48.60): icmp_seq=38 ttl=52 time=121 ms
+[1607862853.759324] 40 bytes from 60.48.198.104.bc.googleusercontent.com (104.198.48.60): icmp_seq=39 ttl=52 time=122 ms
+[1607862854.759068] 40 bytes from 60.48.198.104.bc.googleusercontent.com (104.198.48.60): icmp_seq=40 ttl=52 time=122 ms
+[1607862855.759854] 40 bytes from 60.48.198.104.bc.googleusercontent.com (104.198.48.60): icmp_seq=41 ttl=52 time=122 ms
+[1607862856.760905] 40 bytes from 60.48.198.104.bc.googleusercontent.com (104.198.48.60): icmp_seq=42 ttl=52 time=122 ms
+[1607862857.762076] 40 bytes from 60.48.198.104.bc.googleusercontent.com (104.198.48.60): icmp_seq=43 ttl=52 time=122 ms
+[1607862858.762974] 40 bytes from 60.48.198.104.bc.googleusercontent.com (104.198.48.60): icmp_seq=44 ttl=52 time=122 ms
+[1607862859.763264] 40 bytes from 60.48.198.104.bc.googleusercontent.com (104.198.48.60): icmp_seq=45 ttl=52 time=122 ms
+[1607862860.764681] 40 bytes from 60.48.198.104.bc.googleusercontent.com (104.198.48.60): icmp_seq=46 ttl=52 time=121 ms
+[1607862861.765742] 40 bytes from 60.48.198.104.bc.googleusercontent.com (104.198.48.60): icmp_seq=47 ttl=52 time=122 ms
+[1607862862.767386] 40 bytes from 60.48.198.104.bc.googleusercontent.com (104.198.48.60): icmp_seq=48 ttl=52 time=122 ms
+[1607862863.767637] 40 bytes from 60.48.198.104.bc.googleusercontent.com (104.198.48.60): icmp_seq=49 ttl=52 time=121 ms
+[1607862865.644817] 40 bytes from 104.198.48.60: icmp_seq=50 ttl=52 time=122 ms
+
+--- alamancecc.edu ping statistics ---
+50 packets transmitted, 50 received, 0% packet loss, time 160947ms
+rtt min/avg/max/mdev = 120.955/121.618/122.077/0.292 ms

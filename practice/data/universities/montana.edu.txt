@@ -1,0 +1,55 @@
+PING montana.edu (153.90.3.95) 32(60) bytes of data.
+[1607862689.800405] 40 bytes from bzdc.montana.edu (153.90.3.95): icmp_seq=1 ttl=112 time=146 ms
+[1607862699.954006] 40 bytes from 153.90.3.95: icmp_seq=2 ttl=112 time=146 ms
+[1607862705.103888] 40 bytes from bzdc.montana.edu (153.90.3.95): icmp_seq=3 ttl=112 time=146 ms
+[1607862710.255767] 40 bytes from bzdc.montana.edu (153.90.3.95): icmp_seq=4 ttl=112 time=146 ms
+[1607862715.407762] 40 bytes from bzdc.montana.edu (153.90.3.95): icmp_seq=5 ttl=112 time=146 ms
+[1607862715.555818] 40 bytes from bzdc.montana.edu (153.90.3.95): icmp_seq=6 ttl=112 time=146 ms
+[1607862716.557356] 40 bytes from bzdc.montana.edu (153.90.3.95): icmp_seq=7 ttl=112 time=146 ms
+[1607862717.555480] 40 bytes from bzdc.montana.edu (153.90.3.95): icmp_seq=8 ttl=112 time=146 ms
+[1607862718.556193] 40 bytes from bzdc.montana.edu (153.90.3.95): icmp_seq=9 ttl=112 time=146 ms
+[1607862719.554860] 40 bytes from bzdc.montana.edu (153.90.3.95): icmp_seq=10 ttl=112 time=146 ms
+[1607862730.562155] 40 bytes from 153.90.3.95: icmp_seq=11 ttl=112 time=145 ms
+[1607862730.710433] 40 bytes from bzdc.montana.edu (153.90.3.95): icmp_seq=12 ttl=112 time=146 ms
+[1607862741.717713] 40 bytes from 153.90.3.95: icmp_seq=13 ttl=112 time=146 ms
+[1607862751.870146] 40 bytes from 153.90.3.95: icmp_seq=14 ttl=112 time=146 ms
+[1607862752.017917] 40 bytes from bzdc.montana.edu (153.90.3.95): icmp_seq=15 ttl=112 time=146 ms
+[1607862753.016817] 40 bytes from bzdc.montana.edu (153.90.3.95): icmp_seq=16 ttl=112 time=146 ms
+[1607862754.016314] 40 bytes from bzdc.montana.edu (153.90.3.95): icmp_seq=17 ttl=112 time=145 ms
+[1607862755.017297] 40 bytes from bzdc.montana.edu (153.90.3.95): icmp_seq=18 ttl=112 time=146 ms
+[1607862766.022159] 40 bytes from 153.90.3.95: icmp_seq=19 ttl=112 time=147 ms
+[1607862776.174595] 40 bytes from 153.90.3.95: icmp_seq=20 ttl=112 time=146 ms
+[1607862781.324079] 40 bytes from bzdc.montana.edu (153.90.3.95): icmp_seq=21 ttl=112 time=146 ms
+[1607862781.473074] 40 bytes from bzdc.montana.edu (153.90.3.95): icmp_seq=22 ttl=112 time=148 ms
+[1607862792.478038] 40 bytes from 153.90.3.95: icmp_seq=23 ttl=112 time=146 ms
+[1607862797.627964] 40 bytes from bzdc.montana.edu (153.90.3.95): icmp_seq=24 ttl=112 time=146 ms
+[1607862807.782146] 40 bytes from 153.90.3.95: icmp_seq=25 ttl=112 time=146 ms
+[1607862817.938878] 40 bytes from 153.90.3.95: icmp_seq=26 ttl=112 time=147 ms
+[1607862818.087441] 40 bytes from bzdc.montana.edu (153.90.3.95): icmp_seq=27 ttl=112 time=146 ms
+[1607862819.087654] 40 bytes from bzdc.montana.edu (153.90.3.95): icmp_seq=28 ttl=112 time=147 ms
+[1607862820.087484] 40 bytes from bzdc.montana.edu (153.90.3.95): icmp_seq=29 ttl=112 time=146 ms
+[1607862821.087128] 40 bytes from bzdc.montana.edu (153.90.3.95): icmp_seq=30 ttl=112 time=146 ms
+[1607862822.088434] 40 bytes from bzdc.montana.edu (153.90.3.95): icmp_seq=31 ttl=112 time=146 ms
+[1607862833.094138] 40 bytes from 153.90.3.95: icmp_seq=32 ttl=112 time=146 ms
+[1607862838.244101] 40 bytes from bzdc.montana.edu (153.90.3.95): icmp_seq=33 ttl=112 time=146 ms
+[1607862848.397998] 40 bytes from 153.90.3.95: icmp_seq=34 ttl=112 time=146 ms
+[1607862848.545864] 40 bytes from bzdc.montana.edu (153.90.3.95): icmp_seq=35 ttl=112 time=146 ms
+[1607862859.554025] 40 bytes from 153.90.3.95: icmp_seq=36 ttl=112 time=146 ms
+[1607862869.706061] 40 bytes from 153.90.3.95: icmp_seq=37 ttl=112 time=146 ms
+[1607862869.854458] 40 bytes from bzdc.montana.edu (153.90.3.95): icmp_seq=38 ttl=112 time=146 ms
+[1607862880.862032] 40 bytes from 153.90.3.95: icmp_seq=39 ttl=112 time=147 ms
+[1607862881.010564] 40 bytes from bzdc.montana.edu (153.90.3.95): icmp_seq=40 ttl=112 time=146 ms
+[1607862882.011220] 40 bytes from bzdc.montana.edu (153.90.3.95): icmp_seq=41 ttl=112 time=147 ms
+[1607862888.011922] 40 bytes from bzdc.montana.edu (153.90.3.95): icmp_seq=42 ttl=112 time=146 ms
+[1607862888.159849] 40 bytes from bzdc.montana.edu (153.90.3.95): icmp_seq=43 ttl=112 time=146 ms
+[1607862889.162052] 40 bytes from bzdc.montana.edu (153.90.3.95): icmp_seq=44 ttl=112 time=146 ms
+[1607862890.162881] 40 bytes from bzdc.montana.edu (153.90.3.95): icmp_seq=45 ttl=112 time=146 ms
+[1607862891.165284] 40 bytes from bzdc.montana.edu (153.90.3.95): icmp_seq=46 ttl=112 time=147 ms
+[1607862892.164433] 40 bytes from bzdc.montana.edu (153.90.3.95): icmp_seq=47 ttl=112 time=146 ms
+[1607862893.166533] 40 bytes from bzdc.montana.edu (153.90.3.95): icmp_seq=48 ttl=112 time=146 ms
+[1607862894.166825] 40 bytes from bzdc.montana.edu (153.90.3.95): icmp_seq=49 ttl=112 time=146 ms
+[1607862895.168678] 40 bytes from bzdc.montana.edu (153.90.3.95): icmp_seq=50 ttl=112 time=146 ms
+
+--- montana.edu ping statistics ---
+50 packets transmitted, 50 received, 0% packet loss, time 206463ms
+rtt min/avg/max/mdev = 145.138/146.095/147.541/0.454 ms

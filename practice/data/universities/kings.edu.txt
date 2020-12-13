@@ -1,0 +1,55 @@
+PING kings.edu (23.185.0.2) 32(60) bytes of data.
+[1607862711.918045] 40 bytes from 23.185.0.2: icmp_seq=1 ttl=54 time=27.9 ms
+[1607862721.954134] 40 bytes from 23.185.0.2: icmp_seq=2 ttl=54 time=28.1 ms
+[1607862726.986984] 40 bytes from 23.185.0.2 (23.185.0.2): icmp_seq=3 ttl=54 time=27.9 ms
+[1607862732.019771] 40 bytes from 23.185.0.2 (23.185.0.2): icmp_seq=4 ttl=54 time=27.2 ms
+[1607862742.054040] 40 bytes from 23.185.0.2: icmp_seq=5 ttl=54 time=27.9 ms
+[1607862742.083976] 40 bytes from 23.185.0.2 (23.185.0.2): icmp_seq=6 ttl=54 time=27.8 ms
+[1607862743.086217] 40 bytes from 23.185.0.2 (23.185.0.2): icmp_seq=7 ttl=54 time=28.0 ms
+[1607862744.087207] 40 bytes from 23.185.0.2 (23.185.0.2): icmp_seq=8 ttl=54 time=27.9 ms
+[1607862745.089119] 40 bytes from 23.185.0.2 (23.185.0.2): icmp_seq=9 ttl=54 time=27.4 ms
+[1607862746.089836] 40 bytes from 23.185.0.2 (23.185.0.2): icmp_seq=10 ttl=54 time=27.4 ms
+[1607862752.095796] 40 bytes from 23.185.0.2 (23.185.0.2): icmp_seq=11 ttl=54 time=28.1 ms
+[1607862762.130025] 40 bytes from 23.185.0.2: icmp_seq=12 ttl=54 time=27.7 ms
+[1607862767.164650] 40 bytes from 23.185.0.2 (23.185.0.2): icmp_seq=13 ttl=54 time=28.0 ms
+[1607862767.195990] 40 bytes from 23.185.0.2 (23.185.0.2): icmp_seq=14 ttl=54 time=27.2 ms
+[1607862768.193877] 40 bytes from 23.185.0.2 (23.185.0.2): icmp_seq=15 ttl=54 time=28.0 ms
+[1607862769.195197] 40 bytes from 23.185.0.2 (23.185.0.2): icmp_seq=16 ttl=54 time=28.0 ms
+[1607862775.199959] 40 bytes from 23.185.0.2 (23.185.0.2): icmp_seq=17 ttl=54 time=28.1 ms
+[1607862775.230085] 40 bytes from 23.185.0.2 (23.185.0.2): icmp_seq=18 ttl=54 time=28.0 ms
+[1607862786.242166] 40 bytes from 23.185.0.2: icmp_seq=19 ttl=54 time=33.6 ms
+[1607862791.275704] 40 bytes from 23.185.0.2 (23.185.0.2): icmp_seq=20 ttl=54 time=28.1 ms
+[1607862791.305757] 40 bytes from 23.185.0.2 (23.185.0.2): icmp_seq=21 ttl=54 time=27.9 ms
+[1607862792.305407] 40 bytes from 23.185.0.2 (23.185.0.2): icmp_seq=22 ttl=54 time=28.1 ms
+[1607862793.306177] 40 bytes from 23.185.0.2 (23.185.0.2): icmp_seq=23 ttl=54 time=28.2 ms
+[1607862794.308271] 40 bytes from 23.185.0.2 (23.185.0.2): icmp_seq=24 ttl=54 time=28.0 ms
+[1607862795.309164] 40 bytes from 23.185.0.2 (23.185.0.2): icmp_seq=25 ttl=54 time=28.2 ms
+[1607862796.310265] 40 bytes from 23.185.0.2 (23.185.0.2): icmp_seq=26 ttl=54 time=28.0 ms
+[1607862807.318027] 40 bytes from 23.185.0.2: icmp_seq=27 ttl=54 time=28.0 ms
+[1607862817.354024] 40 bytes from 23.185.0.2: icmp_seq=28 ttl=54 time=27.9 ms
+[1607862822.388311] 40 bytes from 23.185.0.2 (23.185.0.2): icmp_seq=29 ttl=54 time=28.2 ms
+[1607862822.419151] 40 bytes from 23.185.0.2 (23.185.0.2): icmp_seq=30 ttl=54 time=27.3 ms
+[1607862833.422115] 40 bytes from 23.185.0.2: icmp_seq=31 ttl=54 time=27.1 ms
+[1607862838.455848] 40 bytes from 23.185.0.2 (23.185.0.2): icmp_seq=32 ttl=54 time=28.2 ms
+[1607862848.490234] 40 bytes from 23.185.0.2: icmp_seq=33 ttl=54 time=27.4 ms
+[1607862848.520456] 40 bytes from 23.185.0.2 (23.185.0.2): icmp_seq=34 ttl=54 time=28.3 ms
+[1607862859.526028] 40 bytes from 23.185.0.2: icmp_seq=35 ttl=54 time=27.6 ms
+[1607862869.562107] 40 bytes from 23.185.0.2: icmp_seq=36 ttl=54 time=28.2 ms
+[1607862869.591942] 40 bytes from 23.185.0.2 (23.185.0.2): icmp_seq=37 ttl=54 time=28.2 ms
+[1607862870.594054] 40 bytes from 23.185.0.2 (23.185.0.2): icmp_seq=38 ttl=54 time=27.9 ms
+[1607862871.595210] 40 bytes from 23.185.0.2 (23.185.0.2): icmp_seq=39 ttl=54 time=28.1 ms
+[1607862872.596182] 40 bytes from 23.185.0.2 (23.185.0.2): icmp_seq=40 ttl=54 time=28.0 ms
+[1607862873.597269] 40 bytes from 23.185.0.2 (23.185.0.2): icmp_seq=41 ttl=54 time=28.1 ms
+[1607862874.598266] 40 bytes from 23.185.0.2 (23.185.0.2): icmp_seq=42 ttl=54 time=28.1 ms
+[1607862875.600176] 40 bytes from 23.185.0.2 (23.185.0.2): icmp_seq=43 ttl=54 time=28.1 ms
+[1607862881.604833] 40 bytes from 23.185.0.2 (23.185.0.2): icmp_seq=44 ttl=54 time=28.1 ms
+[1607862881.634723] 40 bytes from 23.185.0.2 (23.185.0.2): icmp_seq=45 ttl=54 time=27.8 ms
+[1607862882.635908] 40 bytes from 23.185.0.2 (23.185.0.2): icmp_seq=46 ttl=54 time=27.8 ms
+[1607862883.636694] 40 bytes from 23.185.0.2 (23.185.0.2): icmp_seq=47 ttl=54 time=28.0 ms
+[1607862884.636387] 40 bytes from 23.185.0.2 (23.185.0.2): icmp_seq=48 ttl=54 time=27.8 ms
+[1607862885.637609] 40 bytes from 23.185.0.2 (23.185.0.2): icmp_seq=49 ttl=54 time=27.7 ms
+[1607862886.638904] 40 bytes from 23.185.0.2 (23.185.0.2): icmp_seq=50 ttl=54 time=28.0 ms
+
+--- kings.edu ping statistics ---
+50 packets transmitted, 50 received, 0% packet loss, time 184727ms
+rtt min/avg/max/mdev = 27.096/28.016/33.573/0.844 ms

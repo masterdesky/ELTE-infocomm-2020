@@ -1,0 +1,55 @@
+PING norwich.edu (35.206.108.200) 32(60) bytes of data.
+[1607862713.313221] 40 bytes from 200.108.206.35.bc.googleusercontent.com (35.206.108.200): icmp_seq=1 ttl=100 time=127 ms
+[1607862719.254888] 40 bytes from 200.108.206.35.bc.googleusercontent.com (35.206.108.200): icmp_seq=2 ttl=100 time=128 ms
+[1607862719.382486] 40 bytes from 200.108.206.35.bc.googleusercontent.com (35.206.108.200): icmp_seq=3 ttl=100 time=127 ms
+[1607862730.390026] 40 bytes from 35.206.108.200: icmp_seq=4 ttl=100 time=128 ms
+[1607862735.523787] 40 bytes from 200.108.206.35.bc.googleusercontent.com (35.206.108.200): icmp_seq=5 ttl=100 time=127 ms
+[1607862740.656066] 40 bytes from 200.108.206.35.bc.googleusercontent.com (35.206.108.200): icmp_seq=6 ttl=100 time=127 ms
+[1607862750.790049] 40 bytes from 35.206.108.200: icmp_seq=7 ttl=100 time=127 ms
+[1607862755.924224] 40 bytes from 200.108.206.35.bc.googleusercontent.com (35.206.108.200): icmp_seq=8 ttl=100 time=127 ms
+[1607862756.053776] 40 bytes from 200.108.206.35.bc.googleusercontent.com (35.206.108.200): icmp_seq=9 ttl=100 time=127 ms
+[1607862762.057767] 40 bytes from 200.108.206.35.bc.googleusercontent.com (35.206.108.200): icmp_seq=10 ttl=100 time=127 ms
+[1607862772.194447] 40 bytes from 35.206.108.200: icmp_seq=11 ttl=100 time=127 ms
+[1607862772.323891] 40 bytes from 200.108.206.35.bc.googleusercontent.com (35.206.108.200): icmp_seq=12 ttl=100 time=127 ms
+[1607862773.323502] 40 bytes from 200.108.206.35.bc.googleusercontent.com (35.206.108.200): icmp_seq=13 ttl=100 time=127 ms
+[1607862774.322861] 40 bytes from 200.108.206.35.bc.googleusercontent.com (35.206.108.200): icmp_seq=14 ttl=100 time=127 ms
+[1607862775.321717] 40 bytes from 200.108.206.35.bc.googleusercontent.com (35.206.108.200): icmp_seq=15 ttl=100 time=127 ms
+[1607862786.326267] 40 bytes from 35.206.108.200: icmp_seq=16 ttl=100 time=127 ms
+[1607862796.462023] 40 bytes from 35.206.108.200: icmp_seq=17 ttl=100 time=128 ms
+[1607862801.595717] 40 bytes from 200.108.206.35.bc.googleusercontent.com (35.206.108.200): icmp_seq=18 ttl=100 time=127 ms
+[1607862801.724984] 40 bytes from 200.108.206.35.bc.googleusercontent.com (35.206.108.200): icmp_seq=19 ttl=100 time=127 ms
+[1607862802.725406] 40 bytes from 200.108.206.35.bc.googleusercontent.com (35.206.108.200): icmp_seq=20 ttl=100 time=128 ms
+[1607862803.723649] 40 bytes from 200.108.206.35.bc.googleusercontent.com (35.206.108.200): icmp_seq=21 ttl=100 time=127 ms
+[1607862804.723437] 40 bytes from 200.108.206.35.bc.googleusercontent.com (35.206.108.200): icmp_seq=22 ttl=100 time=128 ms
+[1607862805.722915] 40 bytes from 200.108.206.35.bc.googleusercontent.com (35.206.108.200): icmp_seq=23 ttl=100 time=126 ms
+[1607862806.724006] 40 bytes from 200.108.206.35.bc.googleusercontent.com (35.206.108.200): icmp_seq=24 ttl=100 time=127 ms
+[1607862807.723456] 40 bytes from 200.108.206.35.bc.googleusercontent.com (35.206.108.200): icmp_seq=25 ttl=100 time=127 ms
+[1607862808.723395] 40 bytes from 200.108.206.35.bc.googleusercontent.com (35.206.108.200): icmp_seq=26 ttl=100 time=127 ms
+[1607862809.722996] 40 bytes from 200.108.206.35.bc.googleusercontent.com (35.206.108.200): icmp_seq=27 ttl=100 time=127 ms
+[1607862810.723093] 40 bytes from 200.108.206.35.bc.googleusercontent.com (35.206.108.200): icmp_seq=28 ttl=100 time=127 ms
+[1607862811.722261] 40 bytes from 200.108.206.35.bc.googleusercontent.com (35.206.108.200): icmp_seq=29 ttl=100 time=127 ms
+[1607862817.723963] 40 bytes from 200.108.206.35.bc.googleusercontent.com (35.206.108.200): icmp_seq=30 ttl=100 time=127 ms
+[1607862827.858053] 40 bytes from 35.206.108.200: icmp_seq=31 ttl=100 time=127 ms
+[1607862837.994053] 40 bytes from 35.206.108.200: icmp_seq=32 ttl=100 time=127 ms
+[1607862838.123709] 40 bytes from 200.108.206.35.bc.googleusercontent.com (35.206.108.200): icmp_seq=33 ttl=100 time=128 ms
+[1607862839.123370] 40 bytes from 200.108.206.35.bc.googleusercontent.com (35.206.108.200): icmp_seq=34 ttl=100 time=128 ms
+[1607862840.122681] 40 bytes from 200.108.206.35.bc.googleusercontent.com (35.206.108.200): icmp_seq=35 ttl=100 time=127 ms
+[1607862841.122573] 40 bytes from 200.108.206.35.bc.googleusercontent.com (35.206.108.200): icmp_seq=36 ttl=100 time=127 ms
+[1607862842.122458] 40 bytes from 200.108.206.35.bc.googleusercontent.com (35.206.108.200): icmp_seq=37 ttl=100 time=127 ms
+[1607862843.123220] 40 bytes from 200.108.206.35.bc.googleusercontent.com (35.206.108.200): icmp_seq=38 ttl=100 time=127 ms
+[1607862854.126009] 40 bytes from 35.206.108.200: icmp_seq=39 ttl=100 time=127 ms
+[1607862859.260056] 40 bytes from 200.108.206.35.bc.googleusercontent.com (35.206.108.200): icmp_seq=40 ttl=100 time=127 ms
+[1607862864.395507] 40 bytes from 200.108.206.35.bc.googleusercontent.com (35.206.108.200): icmp_seq=41 ttl=100 time=127 ms
+[1607862864.524060] 40 bytes from 200.108.206.35.bc.googleusercontent.com (35.206.108.200): icmp_seq=42 ttl=100 time=127 ms
+[1607862875.531003] 40 bytes from 35.206.108.200: icmp_seq=43 ttl=100 time=127 ms
+[1607862875.660109] 40 bytes from 200.108.206.35.bc.googleusercontent.com (35.206.108.200): icmp_seq=44 ttl=100 time=128 ms
+[1607862876.661568] 40 bytes from 200.108.206.35.bc.googleusercontent.com (35.206.108.200): icmp_seq=45 ttl=100 time=127 ms
+[1607862877.662659] 40 bytes from 200.108.206.35.bc.googleusercontent.com (35.206.108.200): icmp_seq=46 ttl=100 time=127 ms
+[1607862878.662721] 40 bytes from 200.108.206.35.bc.googleusercontent.com (35.206.108.200): icmp_seq=47 ttl=100 time=127 ms
+[1607862879.664957] 40 bytes from 200.108.206.35.bc.googleusercontent.com (35.206.108.200): icmp_seq=48 ttl=100 time=127 ms
+[1607862880.666211] 40 bytes from 200.108.206.35.bc.googleusercontent.com (35.206.108.200): icmp_seq=49 ttl=100 time=127 ms
+[1607862881.667113] 40 bytes from 200.108.206.35.bc.googleusercontent.com (35.206.108.200): icmp_seq=50 ttl=100 time=127 ms
+
+--- norwich.edu ping statistics ---
+50 packets transmitted, 50 received, 0% packet loss, time 168418ms
+rtt min/avg/max/mdev = 126.491/127.260/127.922/0.300 ms

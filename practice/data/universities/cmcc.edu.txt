@@ -1,0 +1,55 @@
+PING cmcc.edu (172.104.25.123) 32(60) bytes of data.
+[1607862694.166572] 40 bytes from li1844-123.members.linode.com (172.104.25.123): icmp_seq=1 ttl=46 time=110 ms
+[1607862700.167976] 40 bytes from li1844-123.members.linode.com (172.104.25.123): icmp_seq=2 ttl=46 time=109 ms
+[1607862700.279282] 40 bytes from li1844-123.members.linode.com (172.104.25.123): icmp_seq=3 ttl=46 time=110 ms
+[1607862701.280761] 40 bytes from li1844-123.members.linode.com (172.104.25.123): icmp_seq=4 ttl=46 time=110 ms
+[1607862707.286056] 40 bytes from li1844-123.members.linode.com (172.104.25.123): icmp_seq=5 ttl=46 time=109 ms
+[1607862712.400067] 40 bytes from li1844-123.members.linode.com (172.104.25.123): icmp_seq=6 ttl=46 time=110 ms
+[1607862712.511209] 40 bytes from li1844-123.members.linode.com (172.104.25.123): icmp_seq=7 ttl=46 time=109 ms
+[1607862718.516110] 40 bytes from li1844-123.members.linode.com (172.104.25.123): icmp_seq=8 ttl=46 time=109 ms
+[1607862723.631940] 40 bytes from li1844-123.members.linode.com (172.104.25.123): icmp_seq=9 ttl=46 time=110 ms
+[1607862723.743943] 40 bytes from li1844-123.members.linode.com (172.104.25.123): icmp_seq=10 ttl=46 time=110 ms
+[1607862734.750152] 40 bytes from 172.104.25.123: icmp_seq=11 ttl=46 time=110 ms
+[1607862744.868176] 40 bytes from 172.104.25.123: icmp_seq=12 ttl=46 time=109 ms
+[1607862744.984829] 40 bytes from li1844-123.members.linode.com (172.104.25.123): icmp_seq=13 ttl=46 time=115 ms
+[1607862745.982280] 40 bytes from li1844-123.members.linode.com (172.104.25.123): icmp_seq=14 ttl=46 time=110 ms
+[1607862746.981998] 40 bytes from li1844-123.members.linode.com (172.104.25.123): icmp_seq=15 ttl=46 time=109 ms
+[1607862747.984815] 40 bytes from li1844-123.members.linode.com (172.104.25.123): icmp_seq=16 ttl=46 time=110 ms
+[1607862748.984181] 40 bytes from li1844-123.members.linode.com (172.104.25.123): icmp_seq=17 ttl=46 time=110 ms
+[1607862749.984461] 40 bytes from li1844-123.members.linode.com (172.104.25.123): icmp_seq=18 ttl=46 time=110 ms
+[1607862760.991168] 40 bytes from 172.104.25.123: icmp_seq=19 ttl=46 time=109 ms
+[1607862766.104076] 40 bytes from li1844-123.members.linode.com (172.104.25.123): icmp_seq=20 ttl=46 time=109 ms
+[1607862766.216041] 40 bytes from li1844-123.members.linode.com (172.104.25.123): icmp_seq=21 ttl=46 time=110 ms
+[1607862772.219989] 40 bytes from li1844-123.members.linode.com (172.104.25.123): icmp_seq=22 ttl=46 time=110 ms
+[1607862782.338137] 40 bytes from 172.104.25.123: icmp_seq=23 ttl=46 time=110 ms
+[1607862787.451734] 40 bytes from li1844-123.members.linode.com (172.104.25.123): icmp_seq=24 ttl=46 time=110 ms
+[1607862797.570004] 40 bytes from 172.104.25.123: icmp_seq=25 ttl=46 time=110 ms
+[1607862802.685821] 40 bytes from li1844-123.members.linode.com (172.104.25.123): icmp_seq=26 ttl=46 time=110 ms
+[1607862812.802044] 40 bytes from 172.104.25.123: icmp_seq=27 ttl=46 time=109 ms
+[1607862812.913595] 40 bytes from li1844-123.members.linode.com (172.104.25.123): icmp_seq=28 ttl=46 time=110 ms
+[1607862813.914701] 40 bytes from li1844-123.members.linode.com (172.104.25.123): icmp_seq=29 ttl=46 time=110 ms
+[1607862814.915577] 40 bytes from li1844-123.members.linode.com (172.104.25.123): icmp_seq=30 ttl=46 time=110 ms
+[1607862815.917354] 40 bytes from li1844-123.members.linode.com (172.104.25.123): icmp_seq=31 ttl=46 time=110 ms
+[1607862816.919311] 40 bytes from li1844-123.members.linode.com (172.104.25.123): icmp_seq=32 ttl=46 time=110 ms
+[1607862827.921998] 40 bytes from 172.104.25.123: icmp_seq=33 ttl=46 time=110 ms
+[1607862828.033431] 40 bytes from li1844-123.members.linode.com (172.104.25.123): icmp_seq=34 ttl=46 time=109 ms
+[1607862829.033554] 40 bytes from li1844-123.members.linode.com (172.104.25.123): icmp_seq=35 ttl=46 time=110 ms
+[1607862830.032985] 40 bytes from li1844-123.members.linode.com (172.104.25.123): icmp_seq=36 ttl=46 time=110 ms
+[1607862831.033321] 40 bytes from li1844-123.members.linode.com (172.104.25.123): icmp_seq=37 ttl=46 time=110 ms
+[1607862832.031997] 40 bytes from li1844-123.members.linode.com (172.104.25.123): icmp_seq=38 ttl=46 time=110 ms
+[1607862838.035163] 40 bytes from li1844-123.members.linode.com (172.104.25.123): icmp_seq=39 ttl=46 time=109 ms
+[1607862843.148179] 40 bytes from li1844-123.members.linode.com (172.104.25.123): icmp_seq=40 ttl=46 time=109 ms
+[1607862843.259673] 40 bytes from li1844-123.members.linode.com (172.104.25.123): icmp_seq=41 ttl=46 time=109 ms
+[1607862849.262990] 40 bytes from li1844-123.members.linode.com (172.104.25.123): icmp_seq=42 ttl=46 time=109 ms
+[1607862849.374817] 40 bytes from li1844-123.members.linode.com (172.104.25.123): icmp_seq=43 ttl=46 time=110 ms
+[1607862850.374172] 40 bytes from li1844-123.members.linode.com (172.104.25.123): icmp_seq=44 ttl=46 time=109 ms
+[1607862851.375843] 40 bytes from li1844-123.members.linode.com (172.104.25.123): icmp_seq=45 ttl=46 time=110 ms
+[1607862852.376421] 40 bytes from li1844-123.members.linode.com (172.104.25.123): icmp_seq=46 ttl=46 time=109 ms
+[1607862853.377664] 40 bytes from li1844-123.members.linode.com (172.104.25.123): icmp_seq=47 ttl=46 time=109 ms
+[1607862864.386060] 40 bytes from 172.104.25.123: icmp_seq=48 ttl=46 time=110 ms
+[1607862864.502949] 40 bytes from li1844-123.members.linode.com (172.104.25.123): icmp_seq=49 ttl=46 time=115 ms
+[1607862866.386962] 40 bytes from 172.104.25.123: icmp_seq=50 ttl=46 time=110 ms
+
+--- cmcc.edu ping statistics ---
+50 packets transmitted, 50 received, 0% packet loss, time 171333ms
+rtt min/avg/max/mdev = 108.588/109.646/114.696/1.070 ms

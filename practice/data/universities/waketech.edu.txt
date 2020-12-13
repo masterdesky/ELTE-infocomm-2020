@@ -1,0 +1,55 @@
+PING waketech.edu (104.17.156.81) 32(60) bytes of data.
+[1607862690.398942] 40 bytes from 104.17.156.81 (104.17.156.81): icmp_seq=1 ttl=52 time=2.17 ms
+[1607862696.387094] 40 bytes from 104.17.156.81 (104.17.156.81): icmp_seq=2 ttl=52 time=2.27 ms
+[1607862696.389679] 40 bytes from 104.17.156.81 (104.17.156.81): icmp_seq=3 ttl=52 time=1.19 ms
+[1607862702.396987] 40 bytes from 104.17.156.81 (104.17.156.81): icmp_seq=4 ttl=52 time=1.74 ms
+[1607862712.406014] 40 bytes from 104.17.156.81: icmp_seq=5 ttl=52 time=2.02 ms
+[1607862717.412858] 40 bytes from 104.17.156.81 (104.17.156.81): icmp_seq=6 ttl=52 time=2.23 ms
+[1607862717.416253] 40 bytes from 104.17.156.81 (104.17.156.81): icmp_seq=7 ttl=52 time=1.23 ms
+[1607862718.416870] 40 bytes from 104.17.156.81 (104.17.156.81): icmp_seq=8 ttl=52 time=2.23 ms
+[1607862729.421999] 40 bytes from 104.17.156.81: icmp_seq=9 ttl=52 time=2.14 ms
+[1607862729.426666] 40 bytes from 104.17.156.81 (104.17.156.81): icmp_seq=10 ttl=52 time=2.13 ms
+[1607862730.427288] 40 bytes from 104.17.156.81 (104.17.156.81): icmp_seq=11 ttl=52 time=1.96 ms
+[1607862731.428336] 40 bytes from 104.17.156.81 (104.17.156.81): icmp_seq=12 ttl=52 time=1.59 ms
+[1607862732.429120] 40 bytes from 104.17.156.81 (104.17.156.81): icmp_seq=13 ttl=52 time=2.24 ms
+[1607862733.430121] 40 bytes from 104.17.156.81 (104.17.156.81): icmp_seq=14 ttl=52 time=1.86 ms
+[1607862734.431309] 40 bytes from 104.17.156.81 (104.17.156.81): icmp_seq=15 ttl=52 time=2.13 ms
+[1607862735.431693] 40 bytes from 104.17.156.81 (104.17.156.81): icmp_seq=16 ttl=52 time=2.13 ms
+[1607862736.432806] 40 bytes from 104.17.156.81 (104.17.156.81): icmp_seq=17 ttl=52 time=2.41 ms
+[1607862737.433901] 40 bytes from 104.17.156.81 (104.17.156.81): icmp_seq=18 ttl=52 time=2.20 ms
+[1607862738.436505] 40 bytes from 104.17.156.81 (104.17.156.81): icmp_seq=19 ttl=52 time=2.45 ms
+[1607862739.436316] 40 bytes from 104.17.156.81 (104.17.156.81): icmp_seq=20 ttl=52 time=2.19 ms
+[1607862740.437840] 40 bytes from 104.17.156.81 (104.17.156.81): icmp_seq=21 ttl=52 time=2.36 ms
+[1607862746.440554] 40 bytes from 104.17.156.81 (104.17.156.81): icmp_seq=22 ttl=52 time=1.53 ms
+[1607862756.450029] 40 bytes from 104.17.156.81: icmp_seq=23 ttl=52 time=1.73 ms
+[1607862756.454007] 40 bytes from 104.17.156.81 (104.17.156.81): icmp_seq=24 ttl=52 time=2.21 ms
+[1607862762.456159] 40 bytes from 104.17.156.81 (104.17.156.81): icmp_seq=25 ttl=52 time=2.19 ms
+[1607862767.464551] 40 bytes from 104.17.156.81 (104.17.156.81): icmp_seq=26 ttl=52 time=1.65 ms
+[1607862777.473999] 40 bytes from 104.17.156.81: icmp_seq=27 ttl=52 time=2.14 ms
+[1607862787.482963] 40 bytes from 104.17.156.81: icmp_seq=28 ttl=52 time=2.29 ms
+[1607862792.491858] 40 bytes from 104.17.156.81 (104.17.156.81): icmp_seq=29 ttl=52 time=2.13 ms
+[1607862792.495404] 40 bytes from 104.17.156.81 (104.17.156.81): icmp_seq=30 ttl=52 time=1.57 ms
+[1607862793.498162] 40 bytes from 104.17.156.81 (104.17.156.81): icmp_seq=31 ttl=52 time=2.31 ms
+[1607862794.498096] 40 bytes from 104.17.156.81 (104.17.156.81): icmp_seq=32 ttl=52 time=2.26 ms
+[1607862795.500280] 40 bytes from 104.17.156.81 (104.17.156.81): icmp_seq=33 ttl=52 time=2.13 ms
+[1607862801.503163] 40 bytes from 104.17.156.81 (104.17.156.81): icmp_seq=34 ttl=52 time=2.05 ms
+[1607862801.507041] 40 bytes from 104.17.156.81 (104.17.156.81): icmp_seq=35 ttl=52 time=2.24 ms
+[1607862812.510014] 40 bytes from 104.17.156.81: icmp_seq=36 ttl=52 time=1.93 ms
+[1607862822.518094] 40 bytes from 104.17.156.81: icmp_seq=37 ttl=52 time=2.22 ms
+[1607862827.523949] 40 bytes from 104.17.156.81 (104.17.156.81): icmp_seq=38 ttl=52 time=1.41 ms
+[1607862827.527822] 40 bytes from 104.17.156.81 (104.17.156.81): icmp_seq=39 ttl=52 time=1.85 ms
+[1607862833.533809] 40 bytes from 104.17.156.81 (104.17.156.81): icmp_seq=40 ttl=52 time=2.13 ms
+[1607862843.542027] 40 bytes from 104.17.156.81: icmp_seq=41 ttl=52 time=1.82 ms
+[1607862843.545986] 40 bytes from 104.17.156.81 (104.17.156.81): icmp_seq=42 ttl=52 time=1.82 ms
+[1607862844.547393] 40 bytes from 104.17.156.81 (104.17.156.81): icmp_seq=43 ttl=52 time=2.45 ms
+[1607862845.546941] 40 bytes from 104.17.156.81 (104.17.156.81): icmp_seq=44 ttl=52 time=2.16 ms
+[1607862846.556523] 40 bytes from 104.17.156.81 (104.17.156.81): icmp_seq=45 ttl=52 time=2.56 ms
+[1607862847.546145] 40 bytes from 104.17.156.81 (104.17.156.81): icmp_seq=46 ttl=52 time=1.87 ms
+[1607862848.544401] 40 bytes from 104.17.156.81 (104.17.156.81): icmp_seq=47 ttl=52 time=1.38 ms
+[1607862849.545318] 40 bytes from 104.17.156.81 (104.17.156.81): icmp_seq=48 ttl=52 time=2.10 ms
+[1607862850.546688] 40 bytes from 104.17.156.81 (104.17.156.81): icmp_seq=49 ttl=52 time=2.45 ms
+[1607862851.547983] 40 bytes from 104.17.156.81 (104.17.156.81): icmp_seq=50 ttl=52 time=2.22 ms
+
+--- waketech.edu ping statistics ---
+50 packets transmitted, 50 received, 0% packet loss, time 161163ms
+rtt min/avg/max/mdev = 1.191/2.032/2.555/0.319 ms

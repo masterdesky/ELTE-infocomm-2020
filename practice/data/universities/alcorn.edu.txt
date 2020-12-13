@@ -1,0 +1,54 @@
+PING alcorn.edu (50.56.64.4) 32(60) bytes of data.
+[1607862692.982058] 40 bytes from 50.56.64.4: icmp_seq=1 ttl=113 time=125 ms
+[1607862703.114503] 40 bytes from 50.56.64.4: icmp_seq=2 ttl=113 time=125 ms
+[1607862708.244087] 40 bytes from 50-56-64-4.static.cloud-ips.com (50.56.64.4): icmp_seq=3 ttl=113 time=124 ms
+[1607862708.370140] 40 bytes from 50-56-64-4.static.cloud-ips.com (50.56.64.4): icmp_seq=4 ttl=113 time=124 ms
+[1607862719.374058] 40 bytes from 50.56.64.4: icmp_seq=5 ttl=113 time=123 ms
+[1607862719.501143] 40 bytes from 50-56-64-4.static.cloud-ips.com (50.56.64.4): icmp_seq=6 ttl=113 time=125 ms
+[1607862725.503888] 40 bytes from 50-56-64-4.static.cloud-ips.com (50.56.64.4): icmp_seq=7 ttl=113 time=124 ms
+[1607862725.631444] 40 bytes from 50-56-64-4.static.cloud-ips.com (50.56.64.4): icmp_seq=8 ttl=113 time=125 ms
+[1607862726.629942] 40 bytes from 50-56-64-4.static.cloud-ips.com (50.56.64.4): icmp_seq=9 ttl=113 time=124 ms
+[1607862727.630761] 40 bytes from 50-56-64-4.static.cloud-ips.com (50.56.64.4): icmp_seq=10 ttl=113 time=124 ms
+[1607862728.632070] 40 bytes from 50-56-64-4.static.cloud-ips.com (50.56.64.4): icmp_seq=11 ttl=113 time=124 ms
+[1607862730.634187] 40 bytes from 50-56-64-4.static.cloud-ips.com (50.56.64.4): icmp_seq=13 ttl=113 time=124 ms
+[1607862731.634579] 40 bytes from 50-56-64-4.static.cloud-ips.com (50.56.64.4): icmp_seq=14 ttl=113 time=124 ms
+[1607862732.635422] 40 bytes from 50-56-64-4.static.cloud-ips.com (50.56.64.4): icmp_seq=15 ttl=113 time=124 ms
+[1607862733.636327] 40 bytes from 50-56-64-4.static.cloud-ips.com (50.56.64.4): icmp_seq=16 ttl=113 time=124 ms
+[1607862734.637393] 40 bytes from 50-56-64-4.static.cloud-ips.com (50.56.64.4): icmp_seq=17 ttl=113 time=124 ms
+[1607862740.639653] 40 bytes from 50-56-64-4.static.cloud-ips.com (50.56.64.4): icmp_seq=18 ttl=113 time=124 ms
+[1607862740.765972] 40 bytes from 50-56-64-4.static.cloud-ips.com (50.56.64.4): icmp_seq=19 ttl=113 time=124 ms
+[1607862741.765968] 40 bytes from 50-56-64-4.static.cloud-ips.com (50.56.64.4): icmp_seq=20 ttl=113 time=124 ms
+[1607862742.766712] 40 bytes from 50-56-64-4.static.cloud-ips.com (50.56.64.4): icmp_seq=21 ttl=113 time=123 ms
+[1607862743.768459] 40 bytes from 50-56-64-4.static.cloud-ips.com (50.56.64.4): icmp_seq=22 ttl=113 time=124 ms
+[1607862744.769258] 40 bytes from 50-56-64-4.static.cloud-ips.com (50.56.64.4): icmp_seq=23 ttl=113 time=124 ms
+[1607862745.770639] 40 bytes from 50-56-64-4.static.cloud-ips.com (50.56.64.4): icmp_seq=24 ttl=113 time=124 ms
+[1607862746.771978] 40 bytes from 50-56-64-4.static.cloud-ips.com (50.56.64.4): icmp_seq=25 ttl=113 time=124 ms
+[1607862747.773305] 40 bytes from 50-56-64-4.static.cloud-ips.com (50.56.64.4): icmp_seq=26 ttl=113 time=124 ms
+[1607862748.773270] 40 bytes from 50-56-64-4.static.cloud-ips.com (50.56.64.4): icmp_seq=27 ttl=113 time=124 ms
+[1607862754.775655] 40 bytes from 50-56-64-4.static.cloud-ips.com (50.56.64.4): icmp_seq=28 ttl=113 time=125 ms
+[1607862759.903647] 40 bytes from 50-56-64-4.static.cloud-ips.com (50.56.64.4): icmp_seq=29 ttl=113 time=124 ms
+[1607862765.031902] 40 bytes from 50-56-64-4.static.cloud-ips.com (50.56.64.4): icmp_seq=30 ttl=113 time=125 ms
+[1607862770.159871] 40 bytes from 50-56-64-4.static.cloud-ips.com (50.56.64.4): icmp_seq=31 ttl=113 time=124 ms
+[1607862775.288437] 40 bytes from 50-56-64-4.static.cloud-ips.com (50.56.64.4): icmp_seq=32 ttl=113 time=125 ms
+[1607862775.415134] 40 bytes from 50-56-64-4.static.cloud-ips.com (50.56.64.4): icmp_seq=33 ttl=113 time=125 ms
+[1607862776.414133] 40 bytes from 50-56-64-4.static.cloud-ips.com (50.56.64.4): icmp_seq=34 ttl=113 time=124 ms
+[1607862787.418009] 40 bytes from 50.56.64.4: icmp_seq=35 ttl=113 time=124 ms
+[1607862787.544110] 40 bytes from 50-56-64-4.static.cloud-ips.com (50.56.64.4): icmp_seq=36 ttl=113 time=125 ms
+[1607862788.544815] 40 bytes from 50-56-64-4.static.cloud-ips.com (50.56.64.4): icmp_seq=37 ttl=113 time=124 ms
+[1607862789.545463] 40 bytes from 50-56-64-4.static.cloud-ips.com (50.56.64.4): icmp_seq=38 ttl=113 time=124 ms
+[1607862790.547447] 40 bytes from 50-56-64-4.static.cloud-ips.com (50.56.64.4): icmp_seq=39 ttl=113 time=124 ms
+[1607862801.554335] 40 bytes from 50.56.64.4: icmp_seq=40 ttl=113 time=123 ms
+[1607862806.683994] 40 bytes from 50-56-64-4.static.cloud-ips.com (50.56.64.4): icmp_seq=41 ttl=113 time=124 ms
+[1607862811.811927] 40 bytes from 50-56-64-4.static.cloud-ips.com (50.56.64.4): icmp_seq=42 ttl=113 time=125 ms
+[1607862811.938074] 40 bytes from 50-56-64-4.static.cloud-ips.com (50.56.64.4): icmp_seq=43 ttl=113 time=125 ms
+[1607862822.942159] 40 bytes from 50.56.64.4: icmp_seq=44 ttl=113 time=124 ms
+[1607862823.068938] 40 bytes from 50-56-64-4.static.cloud-ips.com (50.56.64.4): icmp_seq=45 ttl=113 time=125 ms
+[1607862824.067907] 40 bytes from 50-56-64-4.static.cloud-ips.com (50.56.64.4): icmp_seq=46 ttl=113 time=123 ms
+[1607862825.068382] 40 bytes from 50-56-64-4.static.cloud-ips.com (50.56.64.4): icmp_seq=47 ttl=113 time=124 ms
+[1607862826.069036] 40 bytes from 50-56-64-4.static.cloud-ips.com (50.56.64.4): icmp_seq=48 ttl=113 time=124 ms
+[1607862827.067600] 40 bytes from 50-56-64-4.static.cloud-ips.com (50.56.64.4): icmp_seq=49 ttl=113 time=124 ms
+[1607862828.941933] 40 bytes from 50.56.64.4: icmp_seq=50 ttl=113 time=124 ms
+
+--- alcorn.edu ping statistics ---
+50 packets transmitted, 49 received, 2% packet loss, time 145090ms
+rtt min/avg/max/mdev = 123.369/124.280/125.178/0.388 ms

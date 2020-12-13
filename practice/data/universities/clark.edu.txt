@@ -1,0 +1,54 @@
+PING clark.edu (192.102.5.10) 32(60) bytes of data.
+[1607862728.674122] 40 bytes from 192.102.5.10: icmp_seq=1 ttl=48 time=175 ms
+[1607862728.850926] 40 bytes from loki.clark.edu (192.102.5.10): icmp_seq=2 ttl=48 time=175 ms
+[1607862740.858015] 40 bytes from 192.102.5.10: icmp_seq=4 ttl=48 time=177 ms
+[1607862751.038045] 40 bytes from 192.102.5.10: icmp_seq=5 ttl=48 time=175 ms
+[1607862751.214464] 40 bytes from loki.clark.edu (192.102.5.10): icmp_seq=6 ttl=48 time=174 ms
+[1607862752.216390] 40 bytes from loki.clark.edu (192.102.5.10): icmp_seq=7 ttl=48 time=175 ms
+[1607862753.216870] 40 bytes from loki.clark.edu (192.102.5.10): icmp_seq=8 ttl=48 time=174 ms
+[1607862754.217688] 40 bytes from loki.clark.edu (192.102.5.10): icmp_seq=9 ttl=48 time=175 ms
+[1607862755.217759] 40 bytes from loki.clark.edu (192.102.5.10): icmp_seq=10 ttl=48 time=175 ms
+[1607862761.223836] 40 bytes from loki.clark.edu (192.102.5.10): icmp_seq=11 ttl=48 time=175 ms
+[1607862766.404658] 40 bytes from loki.clark.edu (192.102.5.10): icmp_seq=12 ttl=48 time=175 ms
+[1607862771.583843] 40 bytes from loki.clark.edu (192.102.5.10): icmp_seq=13 ttl=48 time=174 ms
+[1607862771.761332] 40 bytes from loki.clark.edu (192.102.5.10): icmp_seq=14 ttl=48 time=175 ms
+[1607862772.759965] 40 bytes from loki.clark.edu (192.102.5.10): icmp_seq=15 ttl=48 time=174 ms
+[1607862773.759421] 40 bytes from loki.clark.edu (192.102.5.10): icmp_seq=16 ttl=48 time=174 ms
+[1607862774.759561] 40 bytes from loki.clark.edu (192.102.5.10): icmp_seq=17 ttl=48 time=175 ms
+[1607862775.759427] 40 bytes from loki.clark.edu (192.102.5.10): icmp_seq=18 ttl=48 time=174 ms
+[1607862776.758722] 40 bytes from loki.clark.edu (192.102.5.10): icmp_seq=19 ttl=48 time=175 ms
+[1607862777.758877] 40 bytes from loki.clark.edu (192.102.5.10): icmp_seq=20 ttl=48 time=175 ms
+[1607862778.758777] 40 bytes from loki.clark.edu (192.102.5.10): icmp_seq=21 ttl=48 time=175 ms
+[1607862779.758885] 40 bytes from loki.clark.edu (192.102.5.10): icmp_seq=22 ttl=48 time=175 ms
+[1607862785.763242] 40 bytes from loki.clark.edu (192.102.5.10): icmp_seq=23 ttl=48 time=175 ms
+[1607862790.943855] 40 bytes from loki.clark.edu (192.102.5.10): icmp_seq=24 ttl=48 time=175 ms
+[1607862791.121028] 40 bytes from loki.clark.edu (192.102.5.10): icmp_seq=25 ttl=48 time=175 ms
+[1607862802.126019] 40 bytes from 192.102.5.10: icmp_seq=26 ttl=48 time=175 ms
+[1607862807.304161] 40 bytes from loki.clark.edu (192.102.5.10): icmp_seq=27 ttl=48 time=174 ms
+[1607862817.486392] 40 bytes from 192.102.5.10: icmp_seq=28 ttl=48 time=175 ms
+[1607862817.663242] 40 bytes from loki.clark.edu (192.102.5.10): icmp_seq=29 ttl=48 time=175 ms
+[1607862818.663050] 40 bytes from loki.clark.edu (192.102.5.10): icmp_seq=30 ttl=48 time=175 ms
+[1607862819.663237] 40 bytes from loki.clark.edu (192.102.5.10): icmp_seq=31 ttl=48 time=174 ms
+[1607862820.662734] 40 bytes from loki.clark.edu (192.102.5.10): icmp_seq=32 ttl=48 time=175 ms
+[1607862821.663440] 40 bytes from loki.clark.edu (192.102.5.10): icmp_seq=33 ttl=48 time=175 ms
+[1607862827.667608] 40 bytes from loki.clark.edu (192.102.5.10): icmp_seq=34 ttl=48 time=175 ms
+[1607862832.847778] 40 bytes from loki.clark.edu (192.102.5.10): icmp_seq=35 ttl=48 time=175 ms
+[1607862838.028815] 40 bytes from loki.clark.edu (192.102.5.10): icmp_seq=36 ttl=48 time=175 ms
+[1607862843.207688] 40 bytes from loki.clark.edu (192.102.5.10): icmp_seq=37 ttl=48 time=174 ms
+[1607862848.388413] 40 bytes from loki.clark.edu (192.102.5.10): icmp_seq=38 ttl=48 time=175 ms
+[1607862848.564729] 40 bytes from loki.clark.edu (192.102.5.10): icmp_seq=39 ttl=48 time=174 ms
+[1607862849.566144] 40 bytes from loki.clark.edu (192.102.5.10): icmp_seq=40 ttl=48 time=175 ms
+[1607862850.568058] 40 bytes from loki.clark.edu (192.102.5.10): icmp_seq=41 ttl=48 time=175 ms
+[1607862851.567597] 40 bytes from loki.clark.edu (192.102.5.10): icmp_seq=42 ttl=48 time=175 ms
+[1607862852.570509] 40 bytes from loki.clark.edu (192.102.5.10): icmp_seq=43 ttl=48 time=175 ms
+[1607862853.570861] 40 bytes from loki.clark.edu (192.102.5.10): icmp_seq=44 ttl=48 time=175 ms
+[1607862864.578086] 40 bytes from 192.102.5.10: icmp_seq=45 ttl=48 time=175 ms
+[1607862864.755089] 40 bytes from loki.clark.edu (192.102.5.10): icmp_seq=46 ttl=48 time=175 ms
+[1607862865.755581] 40 bytes from loki.clark.edu (192.102.5.10): icmp_seq=47 ttl=48 time=175 ms
+[1607862866.757180] 40 bytes from loki.clark.edu (192.102.5.10): icmp_seq=48 ttl=48 time=175 ms
+[1607862867.759090] 40 bytes from loki.clark.edu (192.102.5.10): icmp_seq=49 ttl=48 time=175 ms
+[1607862868.759656] 40 bytes from loki.clark.edu (192.102.5.10): icmp_seq=50 ttl=48 time=175 ms
+
+--- clark.edu ping statistics ---
+50 packets transmitted, 49 received, 2% packet loss, time 150090ms
+rtt min/avg/max/mdev = 174.058/174.791/177.460/0.488 ms

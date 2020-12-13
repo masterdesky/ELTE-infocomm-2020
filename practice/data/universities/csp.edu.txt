@@ -1,0 +1,5 @@
+PING csp.edu (54.204.201.113) 32(60) bytes of data.
+
+--- csp.edu ping statistics ---
+50 packets transmitted, 0 received, 100% packet loss, time 49319ms
+

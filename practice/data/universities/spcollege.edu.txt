@@ -1,0 +1,5 @@
+PING spcollege.edu (104.46.99.153) 32(60) bytes of data.
+
+--- spcollege.edu ping statistics ---
+50 packets transmitted, 0 received, 100% packet loss, time 49293ms
+

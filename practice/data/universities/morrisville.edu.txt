@@ -1,0 +1,55 @@
+PING morrisville.edu (52.87.65.167) 32(60) bytes of data.
+[1607862715.324081] 40 bytes from ec2-52-87-65-167.compute-1.amazonaws.com (52.87.65.167): icmp_seq=1 ttl=41 time=113 ms
+[1607862720.445060] 40 bytes from ec2-52-87-65-167.compute-1.amazonaws.com (52.87.65.167): icmp_seq=2 ttl=41 time=114 ms
+[1607862725.563829] 40 bytes from ec2-52-87-65-167.compute-1.amazonaws.com (52.87.65.167): icmp_seq=3 ttl=41 time=114 ms
+[1607862730.684839] 40 bytes from ec2-52-87-65-167.compute-1.amazonaws.com (52.87.65.167): icmp_seq=4 ttl=41 time=114 ms
+[1607862740.806035] 40 bytes from 52.87.65.167: icmp_seq=5 ttl=41 time=114 ms
+[1607862745.923930] 40 bytes from ec2-52-87-65-167.compute-1.amazonaws.com (52.87.65.167): icmp_seq=6 ttl=41 time=114 ms
+[1607862751.043750] 40 bytes from ec2-52-87-65-167.compute-1.amazonaws.com (52.87.65.167): icmp_seq=7 ttl=41 time=114 ms
+[1607862751.159751] 40 bytes from ec2-52-87-65-167.compute-1.amazonaws.com (52.87.65.167): icmp_seq=8 ttl=41 time=114 ms
+[1607862762.167141] 40 bytes from 52.87.65.167: icmp_seq=9 ttl=41 time=113 ms
+[1607862772.290070] 40 bytes from 52.87.65.167: icmp_seq=10 ttl=41 time=114 ms
+[1607862782.410025] 40 bytes from 52.87.65.167: icmp_seq=11 ttl=41 time=114 ms
+[1607862792.530036] 40 bytes from 52.87.65.167: icmp_seq=12 ttl=41 time=114 ms
+[1607862802.650027] 40 bytes from 52.87.65.167: icmp_seq=13 ttl=41 time=114 ms
+[1607862812.774014] 40 bytes from 52.87.65.167: icmp_seq=14 ttl=41 time=114 ms
+[1607862822.894055] 40 bytes from 52.87.65.167: icmp_seq=15 ttl=41 time=114 ms
+[1607862828.014657] 40 bytes from ec2-52-87-65-167.compute-1.amazonaws.com (52.87.65.167): icmp_seq=16 ttl=41 time=114 ms
+[1607862833.135601] 40 bytes from ec2-52-87-65-167.compute-1.amazonaws.com (52.87.65.167): icmp_seq=17 ttl=41 time=114 ms
+[1607862838.256213] 40 bytes from ec2-52-87-65-167.compute-1.amazonaws.com (52.87.65.167): icmp_seq=18 ttl=41 time=114 ms
+[1607862848.378140] 40 bytes from 52.87.65.167: icmp_seq=19 ttl=41 time=114 ms
+[1607862848.494229] 40 bytes from ec2-52-87-65-167.compute-1.amazonaws.com (52.87.65.167): icmp_seq=20 ttl=41 time=114 ms
+[1607862849.494463] 40 bytes from ec2-52-87-65-167.compute-1.amazonaws.com (52.87.65.167): icmp_seq=21 ttl=41 time=113 ms
+[1607862850.496159] 40 bytes from ec2-52-87-65-167.compute-1.amazonaws.com (52.87.65.167): icmp_seq=22 ttl=41 time=114 ms
+[1607862851.497363] 40 bytes from ec2-52-87-65-167.compute-1.amazonaws.com (52.87.65.167): icmp_seq=23 ttl=41 time=114 ms
+[1607862852.499658] 40 bytes from ec2-52-87-65-167.compute-1.amazonaws.com (52.87.65.167): icmp_seq=24 ttl=41 time=114 ms
+[1607862853.500765] 40 bytes from ec2-52-87-65-167.compute-1.amazonaws.com (52.87.65.167): icmp_seq=25 ttl=41 time=114 ms
+[1607862864.506026] 40 bytes from 52.87.65.167: icmp_seq=26 ttl=41 time=113 ms
+[1607862869.624203] 40 bytes from ec2-52-87-65-167.compute-1.amazonaws.com (52.87.65.167): icmp_seq=27 ttl=41 time=114 ms
+[1607862869.739287] 40 bytes from ec2-52-87-65-167.compute-1.amazonaws.com (52.87.65.167): icmp_seq=28 ttl=41 time=114 ms
+[1607862875.744069] 40 bytes from ec2-52-87-65-167.compute-1.amazonaws.com (52.87.65.167): icmp_seq=29 ttl=41 time=114 ms
+[1607862880.864038] 40 bytes from ec2-52-87-65-167.compute-1.amazonaws.com (52.87.65.167): icmp_seq=30 ttl=41 time=114 ms
+[1607862880.980372] 40 bytes from ec2-52-87-65-167.compute-1.amazonaws.com (52.87.65.167): icmp_seq=31 ttl=41 time=114 ms
+[1607862881.980439] 40 bytes from ec2-52-87-65-167.compute-1.amazonaws.com (52.87.65.167): icmp_seq=32 ttl=41 time=114 ms
+[1607862887.984097] 40 bytes from ec2-52-87-65-167.compute-1.amazonaws.com (52.87.65.167): icmp_seq=33 ttl=41 time=114 ms
+[1607862888.099151] 40 bytes from ec2-52-87-65-167.compute-1.amazonaws.com (52.87.65.167): icmp_seq=34 ttl=41 time=113 ms
+[1607862889.100063] 40 bytes from ec2-52-87-65-167.compute-1.amazonaws.com (52.87.65.167): icmp_seq=35 ttl=41 time=114 ms
+[1607862890.100808] 40 bytes from ec2-52-87-65-167.compute-1.amazonaws.com (52.87.65.167): icmp_seq=36 ttl=41 time=114 ms
+[1607862891.102030] 40 bytes from ec2-52-87-65-167.compute-1.amazonaws.com (52.87.65.167): icmp_seq=37 ttl=41 time=114 ms
+[1607862892.102180] 40 bytes from ec2-52-87-65-167.compute-1.amazonaws.com (52.87.65.167): icmp_seq=38 ttl=41 time=114 ms
+[1607862893.102673] 40 bytes from ec2-52-87-65-167.compute-1.amazonaws.com (52.87.65.167): icmp_seq=39 ttl=41 time=114 ms
+[1607862894.102085] 40 bytes from ec2-52-87-65-167.compute-1.amazonaws.com (52.87.65.167): icmp_seq=40 ttl=41 time=114 ms
+[1607862895.102383] 40 bytes from ec2-52-87-65-167.compute-1.amazonaws.com (52.87.65.167): icmp_seq=41 ttl=41 time=114 ms
+[1607862896.102610] 40 bytes from ec2-52-87-65-167.compute-1.amazonaws.com (52.87.65.167): icmp_seq=42 ttl=41 time=114 ms
+[1607862897.104913] 40 bytes from ec2-52-87-65-167.compute-1.amazonaws.com (52.87.65.167): icmp_seq=43 ttl=41 time=114 ms
+[1607862898.102441] 40 bytes from ec2-52-87-65-167.compute-1.amazonaws.com (52.87.65.167): icmp_seq=44 ttl=41 time=114 ms
+[1607862899.102061] 40 bytes from ec2-52-87-65-167.compute-1.amazonaws.com (52.87.65.167): icmp_seq=45 ttl=41 time=114 ms
+[1607862900.101536] 40 bytes from ec2-52-87-65-167.compute-1.amazonaws.com (52.87.65.167): icmp_seq=46 ttl=41 time=114 ms
+[1607862901.102247] 40 bytes from ec2-52-87-65-167.compute-1.amazonaws.com (52.87.65.167): icmp_seq=47 ttl=41 time=114 ms
+[1607862902.101829] 40 bytes from ec2-52-87-65-167.compute-1.amazonaws.com (52.87.65.167): icmp_seq=48 ttl=41 time=113 ms
+[1607862903.102212] 40 bytes from ec2-52-87-65-167.compute-1.amazonaws.com (52.87.65.167): icmp_seq=49 ttl=41 time=114 ms
+[1607862904.102393] 40 bytes from ec2-52-87-65-167.compute-1.amazonaws.com (52.87.65.167): icmp_seq=50 ttl=41 time=114 ms
+
+--- morrisville.edu ping statistics ---
+50 packets transmitted, 50 received, 0% packet loss, time 193780ms
+rtt min/avg/max/mdev = 113.088/113.858/114.137/0.256 ms

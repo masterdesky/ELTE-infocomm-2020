@@ -1,0 +1,55 @@
+PING amcollege.edu (174.129.25.170) 32(60) bytes of data.
+[1607862686.792548] 40 bytes from wwwizer.com (174.129.25.170): icmp_seq=1 ttl=233 time=104 ms
+[1607862692.795472] 40 bytes from wwwizer.com (174.129.25.170): icmp_seq=2 ttl=233 time=104 ms
+[1607862702.907885] 40 bytes from 174.129.25.170: icmp_seq=3 ttl=233 time=104 ms
+[1607862703.014442] 40 bytes from wwwizer.com (174.129.25.170): icmp_seq=4 ttl=233 time=104 ms
+[1607862704.014673] 40 bytes from wwwizer.com (174.129.25.170): icmp_seq=5 ttl=233 time=104 ms
+[1607862715.018038] 40 bytes from 174.129.25.170: icmp_seq=6 ttl=233 time=104 ms
+[1607862720.127113] 40 bytes from wwwizer.com (174.129.25.170): icmp_seq=7 ttl=233 time=104 ms
+[1607862725.235701] 40 bytes from wwwizer.com (174.129.25.170): icmp_seq=8 ttl=233 time=103 ms
+[1607862730.344192] 40 bytes from wwwizer.com (174.129.25.170): icmp_seq=9 ttl=233 time=104 ms
+[1607862735.451967] 40 bytes from wwwizer.com (174.129.25.170): icmp_seq=10 ttl=233 time=103 ms
+[1607862740.560806] 40 bytes from wwwizer.com (174.129.25.170): icmp_seq=11 ttl=233 time=104 ms
+[1607862740.667125] 40 bytes from wwwizer.com (174.129.25.170): icmp_seq=12 ttl=233 time=104 ms
+[1607862741.667418] 40 bytes from wwwizer.com (174.129.25.170): icmp_seq=13 ttl=233 time=104 ms
+[1607862747.672100] 40 bytes from wwwizer.com (174.129.25.170): icmp_seq=14 ttl=233 time=104 ms
+[1607862752.780085] 40 bytes from wwwizer.com (174.129.25.170): icmp_seq=15 ttl=233 time=104 ms
+[1607862752.886278] 40 bytes from wwwizer.com (174.129.25.170): icmp_seq=16 ttl=233 time=104 ms
+[1607862753.885762] 40 bytes from wwwizer.com (174.129.25.170): icmp_seq=17 ttl=233 time=104 ms
+[1607862764.890932] 40 bytes from 174.129.25.170: icmp_seq=18 ttl=233 time=104 ms
+[1607862764.997121] 40 bytes from wwwizer.com (174.129.25.170): icmp_seq=19 ttl=233 time=104 ms
+[1607862776.002027] 40 bytes from 174.129.25.170: icmp_seq=20 ttl=233 time=104 ms
+[1607862776.107037] 40 bytes from wwwizer.com (174.129.25.170): icmp_seq=21 ttl=233 time=104 ms
+[1607862777.109185] 40 bytes from wwwizer.com (174.129.25.170): icmp_seq=22 ttl=233 time=104 ms
+[1607862778.110191] 40 bytes from wwwizer.com (174.129.25.170): icmp_seq=23 ttl=233 time=104 ms
+[1607862779.111348] 40 bytes from wwwizer.com (174.129.25.170): icmp_seq=24 ttl=233 time=104 ms
+[1607862780.111991] 40 bytes from wwwizer.com (174.129.25.170): icmp_seq=25 ttl=233 time=104 ms
+[1607862781.114419] 40 bytes from wwwizer.com (174.129.25.170): icmp_seq=26 ttl=233 time=105 ms
+[1607862782.113212] 40 bytes from wwwizer.com (174.129.25.170): icmp_seq=27 ttl=233 time=104 ms
+[1607862783.113679] 40 bytes from wwwizer.com (174.129.25.170): icmp_seq=28 ttl=233 time=103 ms
+[1607862784.114892] 40 bytes from wwwizer.com (174.129.25.170): icmp_seq=29 ttl=233 time=104 ms
+[1607862785.115477] 40 bytes from wwwizer.com (174.129.25.170): icmp_seq=30 ttl=233 time=104 ms
+[1607862791.119813] 40 bytes from wwwizer.com (174.129.25.170): icmp_seq=31 ttl=233 time=103 ms
+[1607862796.230148] 40 bytes from wwwizer.com (174.129.25.170): icmp_seq=32 ttl=233 time=103 ms
+[1607862796.336251] 40 bytes from wwwizer.com (174.129.25.170): icmp_seq=33 ttl=233 time=104 ms
+[1607862807.342024] 40 bytes from 174.129.25.170: icmp_seq=34 ttl=233 time=104 ms
+[1607862817.454024] 40 bytes from 174.129.25.170: icmp_seq=35 ttl=233 time=104 ms
+[1607862827.566058] 40 bytes from 174.129.25.170: icmp_seq=36 ttl=233 time=104 ms
+[1607862827.671419] 40 bytes from wwwizer.com (174.129.25.170): icmp_seq=37 ttl=233 time=104 ms
+[1607862838.678029] 40 bytes from 174.129.25.170: icmp_seq=38 ttl=233 time=103 ms
+[1607862838.783409] 40 bytes from wwwizer.com (174.129.25.170): icmp_seq=39 ttl=233 time=104 ms
+[1607862839.785152] 40 bytes from wwwizer.com (174.129.25.170): icmp_seq=40 ttl=233 time=104 ms
+[1607862840.786987] 40 bytes from wwwizer.com (174.129.25.170): icmp_seq=41 ttl=233 time=104 ms
+[1607862841.787476] 40 bytes from wwwizer.com (174.129.25.170): icmp_seq=42 ttl=233 time=103 ms
+[1607862842.789639] 40 bytes from wwwizer.com (174.129.25.170): icmp_seq=43 ttl=233 time=104 ms
+[1607862853.794024] 40 bytes from 174.129.25.170: icmp_seq=44 ttl=233 time=104 ms
+[1607862853.899413] 40 bytes from wwwizer.com (174.129.25.170): icmp_seq=45 ttl=233 time=103 ms
+[1607862854.899859] 40 bytes from wwwizer.com (174.129.25.170): icmp_seq=46 ttl=233 time=104 ms
+[1607862855.900087] 40 bytes from wwwizer.com (174.129.25.170): icmp_seq=47 ttl=233 time=104 ms
+[1607862856.901044] 40 bytes from wwwizer.com (174.129.25.170): icmp_seq=48 ttl=233 time=104 ms
+[1607862857.901783] 40 bytes from wwwizer.com (174.129.25.170): icmp_seq=49 ttl=233 time=104 ms
+[1607862858.903571] 40 bytes from wwwizer.com (174.129.25.170): icmp_seq=50 ttl=233 time=104 ms
+
+--- amcollege.edu ping statistics ---
+50 packets transmitted, 50 received, 0% packet loss, time 172112ms
+rtt min/avg/max/mdev = 103.084/103.801/104.552/0.299 ms

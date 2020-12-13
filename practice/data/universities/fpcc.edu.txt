@@ -1,0 +1,55 @@
+PING fpcc.edu (107.180.26.160) 32(60) bytes of data.
+[1607862689.013065] 40 bytes from ip-107-180-26-160.ip.secureserver.net (107.180.26.160): icmp_seq=1 ttl=46 time=108 ms
+[1607862694.127325] 40 bytes from ip-107-180-26-160.ip.secureserver.net (107.180.26.160): icmp_seq=2 ttl=46 time=109 ms
+[1607862704.245588] 40 bytes from 107.180.26.160: icmp_seq=3 ttl=46 time=109 ms
+[1607862704.355822] 40 bytes from ip-107-180-26-160.ip.secureserver.net (107.180.26.160): icmp_seq=4 ttl=46 time=108 ms
+[1607862705.355977] 40 bytes from ip-107-180-26-160.ip.secureserver.net (107.180.26.160): icmp_seq=5 ttl=46 time=108 ms
+[1607862716.366137] 40 bytes from 107.180.26.160: icmp_seq=6 ttl=46 time=109 ms
+[1607862726.482015] 40 bytes from 107.180.26.160: icmp_seq=7 ttl=46 time=109 ms
+[1607862731.595909] 40 bytes from ip-107-180-26-160.ip.secureserver.net (107.180.26.160): icmp_seq=8 ttl=46 time=109 ms
+[1607862731.707036] 40 bytes from ip-107-180-26-160.ip.secureserver.net (107.180.26.160): icmp_seq=9 ttl=46 time=108 ms
+[1607862732.707019] 40 bytes from ip-107-180-26-160.ip.secureserver.net (107.180.26.160): icmp_seq=10 ttl=46 time=109 ms
+[1607862733.705549] 40 bytes from ip-107-180-26-160.ip.secureserver.net (107.180.26.160): icmp_seq=11 ttl=46 time=109 ms
+[1607862734.705684] 40 bytes from ip-107-180-26-160.ip.secureserver.net (107.180.26.160): icmp_seq=12 ttl=46 time=108 ms
+[1607862735.705847] 40 bytes from ip-107-180-26-160.ip.secureserver.net (107.180.26.160): icmp_seq=13 ttl=46 time=108 ms
+[1607862741.709936] 40 bytes from ip-107-180-26-160.ip.secureserver.net (107.180.26.160): icmp_seq=14 ttl=46 time=109 ms
+[1607862746.823667] 40 bytes from ip-107-180-26-160.ip.secureserver.net (107.180.26.160): icmp_seq=15 ttl=46 time=109 ms
+[1607862746.934959] 40 bytes from ip-107-180-26-160.ip.secureserver.net (107.180.26.160): icmp_seq=16 ttl=46 time=109 ms
+[1607862747.936018] 40 bytes from ip-107-180-26-160.ip.secureserver.net (107.180.26.160): icmp_seq=17 ttl=46 time=109 ms
+[1607862748.934876] 40 bytes from ip-107-180-26-160.ip.secureserver.net (107.180.26.160): icmp_seq=18 ttl=46 time=109 ms
+[1607862749.937822] 40 bytes from ip-107-180-26-160.ip.secureserver.net (107.180.26.160): icmp_seq=19 ttl=46 time=109 ms
+[1607862760.942040] 40 bytes from 107.180.26.160: icmp_seq=20 ttl=46 time=109 ms
+[1607862771.058405] 40 bytes from 107.180.26.160: icmp_seq=21 ttl=46 time=109 ms
+[1607862781.174023] 40 bytes from 107.180.26.160: icmp_seq=22 ttl=46 time=108 ms
+[1607862781.284419] 40 bytes from ip-107-180-26-160.ip.secureserver.net (107.180.26.160): icmp_seq=23 ttl=46 time=108 ms
+[1607862782.284761] 40 bytes from ip-107-180-26-160.ip.secureserver.net (107.180.26.160): icmp_seq=24 ttl=46 time=109 ms
+[1607862783.285286] 40 bytes from ip-107-180-26-160.ip.secureserver.net (107.180.26.160): icmp_seq=25 ttl=46 time=108 ms
+[1607862784.287073] 40 bytes from ip-107-180-26-160.ip.secureserver.net (107.180.26.160): icmp_seq=26 ttl=46 time=109 ms
+[1607862785.289106] 40 bytes from ip-107-180-26-160.ip.secureserver.net (107.180.26.160): icmp_seq=27 ttl=46 time=109 ms
+[1607862796.294014] 40 bytes from 107.180.26.160: icmp_seq=28 ttl=46 time=109 ms
+[1607862801.407820] 40 bytes from ip-107-180-26-160.ip.secureserver.net (107.180.26.160): icmp_seq=29 ttl=46 time=109 ms
+[1607862801.518654] 40 bytes from ip-107-180-26-160.ip.secureserver.net (107.180.26.160): icmp_seq=30 ttl=46 time=109 ms
+[1607862812.526032] 40 bytes from 107.180.26.160: icmp_seq=31 ttl=46 time=109 ms
+[1607862822.642059] 40 bytes from 107.180.26.160: icmp_seq=32 ttl=46 time=108 ms
+[1607862827.756327] 40 bytes from ip-107-180-26-160.ip.secureserver.net (107.180.26.160): icmp_seq=33 ttl=46 time=109 ms
+[1607862832.871136] 40 bytes from ip-107-180-26-160.ip.secureserver.net (107.180.26.160): icmp_seq=34 ttl=46 time=109 ms
+[1607862837.983561] 40 bytes from ip-107-180-26-160.ip.secureserver.net (107.180.26.160): icmp_seq=35 ttl=46 time=108 ms
+[1607862838.094509] 40 bytes from ip-107-180-26-160.ip.secureserver.net (107.180.26.160): icmp_seq=36 ttl=46 time=108 ms
+[1607862849.098169] 40 bytes from 107.180.26.160: icmp_seq=37 ttl=46 time=109 ms
+[1607862859.214075] 40 bytes from 107.180.26.160: icmp_seq=38 ttl=46 time=109 ms
+[1607862859.326042] 40 bytes from ip-107-180-26-160.ip.secureserver.net (107.180.26.160): icmp_seq=39 ttl=46 time=110 ms
+[1607862860.326437] 40 bytes from ip-107-180-26-160.ip.secureserver.net (107.180.26.160): icmp_seq=40 ttl=46 time=109 ms
+[1607862861.328608] 40 bytes from ip-107-180-26-160.ip.secureserver.net (107.180.26.160): icmp_seq=41 ttl=46 time=109 ms
+[1607862862.328978] 40 bytes from ip-107-180-26-160.ip.secureserver.net (107.180.26.160): icmp_seq=42 ttl=46 time=109 ms
+[1607862863.330673] 40 bytes from ip-107-180-26-160.ip.secureserver.net (107.180.26.160): icmp_seq=43 ttl=46 time=109 ms
+[1607862864.332136] 40 bytes from ip-107-180-26-160.ip.secureserver.net (107.180.26.160): icmp_seq=44 ttl=46 time=109 ms
+[1607862865.332783] 40 bytes from ip-107-180-26-160.ip.secureserver.net (107.180.26.160): icmp_seq=45 ttl=46 time=109 ms
+[1607862866.334565] 40 bytes from ip-107-180-26-160.ip.secureserver.net (107.180.26.160): icmp_seq=46 ttl=46 time=109 ms
+[1607862867.336412] 40 bytes from ip-107-180-26-160.ip.secureserver.net (107.180.26.160): icmp_seq=47 ttl=46 time=109 ms
+[1607862868.338228] 40 bytes from ip-107-180-26-160.ip.secureserver.net (107.180.26.160): icmp_seq=48 ttl=46 time=109 ms
+[1607862869.340164] 40 bytes from ip-107-180-26-160.ip.secureserver.net (107.180.26.160): icmp_seq=49 ttl=46 time=109 ms
+[1607862870.341027] 40 bytes from ip-107-180-26-160.ip.secureserver.net (107.180.26.160): icmp_seq=50 ttl=46 time=109 ms
+
+--- fpcc.edu ping statistics ---
+50 packets transmitted, 50 received, 0% packet loss, time 186917ms
+rtt min/avg/max/mdev = 107.881/108.645/109.780/0.322 ms

@@ -1,0 +1,5 @@
+PING ualr.edu (144.167.4.20) 32(60) bytes of data.
+
+--- ualr.edu ping statistics ---
+50 packets transmitted, 0 received, 100% packet loss, time 49642ms
+

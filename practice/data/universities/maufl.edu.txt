@@ -1,0 +1,55 @@
+PING maufl.edu (50.116.84.152) 32(60) bytes of data.
+[1607862687.186567] 40 bytes from 50-116-84-152.unifiedlayer.com (50.116.84.152): icmp_seq=1 ttl=42 time=146 ms
+[1607862688.187017] 40 bytes from 50-116-84-152.unifiedlayer.com (50.116.84.152): icmp_seq=2 ttl=42 time=146 ms
+[1607862699.194002] 40 bytes from 50.116.84.152: icmp_seq=3 ttl=42 time=146 ms
+[1607862704.345740] 40 bytes from 50-116-84-152.unifiedlayer.com (50.116.84.152): icmp_seq=4 ttl=42 time=145 ms
+[1607862714.498456] 40 bytes from 50.116.84.152: icmp_seq=5 ttl=42 time=146 ms
+[1607862714.645542] 40 bytes from 50-116-84-152.unifiedlayer.com (50.116.84.152): icmp_seq=6 ttl=42 time=146 ms
+[1607862715.646532] 40 bytes from 50-116-84-152.unifiedlayer.com (50.116.84.152): icmp_seq=7 ttl=42 time=145 ms
+[1607862716.648591] 40 bytes from 50-116-84-152.unifiedlayer.com (50.116.84.152): icmp_seq=8 ttl=42 time=146 ms
+[1607862722.652155] 40 bytes from 50-116-84-152.unifiedlayer.com (50.116.84.152): icmp_seq=9 ttl=42 time=146 ms
+[1607862722.800471] 40 bytes from 50-116-84-152.unifiedlayer.com (50.116.84.152): icmp_seq=10 ttl=42 time=146 ms
+[1607862728.803783] 40 bytes from 50-116-84-152.unifiedlayer.com (50.116.84.152): icmp_seq=11 ttl=42 time=146 ms
+[1607862738.958070] 40 bytes from 50.116.84.152: icmp_seq=12 ttl=42 time=146 ms
+[1607862739.105927] 40 bytes from 50-116-84-152.unifiedlayer.com (50.116.84.152): icmp_seq=13 ttl=42 time=145 ms
+[1607862750.110025] 40 bytes from 50.116.84.152: icmp_seq=14 ttl=42 time=146 ms
+[1607862760.262348] 40 bytes from 50.116.84.152: icmp_seq=15 ttl=42 time=146 ms
+[1607862770.414103] 40 bytes from 50.116.84.152: icmp_seq=16 ttl=42 time=146 ms
+[1607862770.565211] 40 bytes from 50-116-84-152.unifiedlayer.com (50.116.84.152): icmp_seq=17 ttl=42 time=146 ms
+[1607862771.565754] 40 bytes from 50-116-84-152.unifiedlayer.com (50.116.84.152): icmp_seq=18 ttl=42 time=146 ms
+[1607862772.565000] 40 bytes from 50-116-84-152.unifiedlayer.com (50.116.84.152): icmp_seq=19 ttl=42 time=146 ms
+[1607862773.565470] 40 bytes from 50-116-84-152.unifiedlayer.com (50.116.84.152): icmp_seq=20 ttl=42 time=146 ms
+[1607862774.565211] 40 bytes from 50-116-84-152.unifiedlayer.com (50.116.84.152): icmp_seq=21 ttl=42 time=146 ms
+[1607862780.568053] 40 bytes from 50-116-84-152.unifiedlayer.com (50.116.84.152): icmp_seq=22 ttl=42 time=146 ms
+[1607862785.723758] 40 bytes from 50-116-84-152.unifiedlayer.com (50.116.84.152): icmp_seq=23 ttl=42 time=152 ms
+[1607862785.871894] 40 bytes from 50-116-84-152.unifiedlayer.com (50.116.84.152): icmp_seq=24 ttl=42 time=146 ms
+[1607862796.878137] 40 bytes from 50.116.84.152: icmp_seq=25 ttl=42 time=146 ms
+[1607862807.030011] 40 bytes from 50.116.84.152: icmp_seq=26 ttl=42 time=146 ms
+[1607862817.182037] 40 bytes from 50.116.84.152: icmp_seq=27 ttl=42 time=146 ms
+[1607862822.331973] 40 bytes from 50-116-84-152.unifiedlayer.com (50.116.84.152): icmp_seq=28 ttl=42 time=146 ms
+[1607862822.479960] 40 bytes from 50-116-84-152.unifiedlayer.com (50.116.84.152): icmp_seq=29 ttl=42 time=146 ms
+[1607862833.486031] 40 bytes from 50.116.84.152: icmp_seq=30 ttl=42 time=146 ms
+[1607862833.634710] 40 bytes from 50-116-84-152.unifiedlayer.com (50.116.84.152): icmp_seq=31 ttl=42 time=146 ms
+[1607862834.636164] 40 bytes from 50-116-84-152.unifiedlayer.com (50.116.84.152): icmp_seq=32 ttl=42 time=147 ms
+[1607862835.636732] 40 bytes from 50-116-84-152.unifiedlayer.com (50.116.84.152): icmp_seq=33 ttl=42 time=146 ms
+[1607862836.638716] 40 bytes from 50-116-84-152.unifiedlayer.com (50.116.84.152): icmp_seq=34 ttl=42 time=146 ms
+[1607862837.641435] 40 bytes from 50-116-84-152.unifiedlayer.com (50.116.84.152): icmp_seq=35 ttl=42 time=148 ms
+[1607862843.643919] 40 bytes from 50-116-84-152.unifiedlayer.com (50.116.84.152): icmp_seq=36 ttl=42 time=146 ms
+[1607862848.795962] 40 bytes from 50-116-84-152.unifiedlayer.com (50.116.84.152): icmp_seq=37 ttl=42 time=146 ms
+[1607862848.943136] 40 bytes from 50-116-84-152.unifiedlayer.com (50.116.84.152): icmp_seq=38 ttl=42 time=145 ms
+[1607862849.943427] 40 bytes from 50-116-84-152.unifiedlayer.com (50.116.84.152): icmp_seq=39 ttl=42 time=146 ms
+[1607862850.945642] 40 bytes from 50-116-84-152.unifiedlayer.com (50.116.84.152): icmp_seq=40 ttl=42 time=146 ms
+[1607862851.946006] 40 bytes from 50-116-84-152.unifiedlayer.com (50.116.84.152): icmp_seq=41 ttl=42 time=145 ms
+[1607862852.947658] 40 bytes from 50-116-84-152.unifiedlayer.com (50.116.84.152): icmp_seq=42 ttl=42 time=146 ms
+[1607862858.947804] 40 bytes from 50-116-84-152.unifiedlayer.com (50.116.84.152): icmp_seq=43 ttl=42 time=146 ms
+[1607862859.094527] 40 bytes from 50-116-84-152.unifiedlayer.com (50.116.84.152): icmp_seq=44 ttl=42 time=145 ms
+[1607862870.103350] 40 bytes from 50.116.84.152: icmp_seq=45 ttl=42 time=146 ms
+[1607862875.256039] 40 bytes from 50-116-84-152.unifiedlayer.com (50.116.84.152): icmp_seq=46 ttl=42 time=146 ms
+[1607862875.403546] 40 bytes from 50-116-84-152.unifiedlayer.com (50.116.84.152): icmp_seq=47 ttl=42 time=146 ms
+[1607862876.405488] 40 bytes from 50-116-84-152.unifiedlayer.com (50.116.84.152): icmp_seq=48 ttl=42 time=146 ms
+[1607862877.405174] 40 bytes from 50-116-84-152.unifiedlayer.com (50.116.84.152): icmp_seq=49 ttl=42 time=145 ms
+[1607862878.407188] 40 bytes from 50-116-84-152.unifiedlayer.com (50.116.84.152): icmp_seq=50 ttl=42 time=146 ms
+
+--- maufl.edu ping statistics ---
+50 packets transmitted, 50 received, 0% packet loss, time 191221ms
+rtt min/avg/max/mdev = 145.232/146.051/152.148/0.965 ms

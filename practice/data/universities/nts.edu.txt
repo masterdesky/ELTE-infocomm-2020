@@ -1,0 +1,55 @@
+PING nts.edu (104.26.2.75) 32(60) bytes of data.
+[1607862692.575808] 40 bytes from 104.26.2.75 (104.26.2.75): icmp_seq=1 ttl=52 time=2.28 ms
+[1607862697.584022] 40 bytes from 104.26.2.75 (104.26.2.75): icmp_seq=2 ttl=52 time=2.24 ms
+[1607862707.594021] 40 bytes from 104.26.2.75: icmp_seq=3 ttl=52 time=2.57 ms
+[1607862707.598255] 40 bytes from 104.26.2.75 (104.26.2.75): icmp_seq=4 ttl=52 time=1.75 ms
+[1607862708.599732] 40 bytes from 104.26.2.75 (104.26.2.75): icmp_seq=5 ttl=52 time=2.06 ms
+[1607862719.607080] 40 bytes from 104.26.2.75: icmp_seq=6 ttl=52 time=2.17 ms
+[1607862719.610821] 40 bytes from 104.26.2.75 (104.26.2.75): icmp_seq=7 ttl=52 time=1.55 ms
+[1607862720.610600] 40 bytes from 104.26.2.75 (104.26.2.75): icmp_seq=8 ttl=52 time=2.17 ms
+[1607862731.618321] 40 bytes from 104.26.2.75: icmp_seq=9 ttl=52 time=2.09 ms
+[1607862741.626056] 40 bytes from 104.26.2.75: icmp_seq=10 ttl=52 time=2.21 ms
+[1607862741.630890] 40 bytes from 104.26.2.75 (104.26.2.75): icmp_seq=11 ttl=52 time=2.35 ms
+[1607862752.638071] 40 bytes from 104.26.2.75: icmp_seq=12 ttl=52 time=2.06 ms
+[1607862762.650060] 40 bytes from 104.26.2.75: icmp_seq=13 ttl=52 time=2.46 ms
+[1607862762.653580] 40 bytes from 104.26.2.75 (104.26.2.75): icmp_seq=14 ttl=52 time=1.85 ms
+[1607862763.656265] 40 bytes from 104.26.2.75 (104.26.2.75): icmp_seq=15 ttl=52 time=2.33 ms
+[1607862764.656615] 40 bytes from 104.26.2.75 (104.26.2.75): icmp_seq=16 ttl=52 time=2.26 ms
+[1607862775.662024] 40 bytes from 104.26.2.75: icmp_seq=17 ttl=52 time=2.20 ms
+[1607862775.664962] 40 bytes from 104.26.2.75 (104.26.2.75): icmp_seq=18 ttl=52 time=1.39 ms
+[1607862776.666308] 40 bytes from 104.26.2.75 (104.26.2.75): icmp_seq=19 ttl=52 time=2.18 ms
+[1607862787.670388] 40 bytes from 104.26.2.75: icmp_seq=20 ttl=52 time=2.29 ms
+[1607862787.674605] 40 bytes from 104.26.2.75 (104.26.2.75): icmp_seq=21 ttl=52 time=2.11 ms
+[1607862788.676370] 40 bytes from 104.26.2.75 (104.26.2.75): icmp_seq=22 ttl=52 time=2.39 ms
+[1607862789.676528] 40 bytes from 104.26.2.75 (104.26.2.75): icmp_seq=23 ttl=52 time=1.32 ms
+[1607862790.676589] 40 bytes from 104.26.2.75 (104.26.2.75): icmp_seq=24 ttl=52 time=1.27 ms
+[1607862801.686429] 40 bytes from 104.26.2.75: icmp_seq=25 ttl=52 time=1.63 ms
+[1607862806.692247] 40 bytes from 104.26.2.75 (104.26.2.75): icmp_seq=26 ttl=52 time=1.64 ms
+[1607862806.696177] 40 bytes from 104.26.2.75 (104.26.2.75): icmp_seq=27 ttl=52 time=2.03 ms
+[1607862817.702036] 40 bytes from 104.26.2.75: icmp_seq=28 ttl=52 time=2.21 ms
+[1607862817.706087] 40 bytes from 104.26.2.75 (104.26.2.75): icmp_seq=29 ttl=52 time=2.22 ms
+[1607862818.705875] 40 bytes from 104.26.2.75 (104.26.2.75): icmp_seq=30 ttl=52 time=2.13 ms
+[1607862819.707000] 40 bytes from 104.26.2.75 (104.26.2.75): icmp_seq=31 ttl=52 time=2.36 ms
+[1607862820.706298] 40 bytes from 104.26.2.75 (104.26.2.75): icmp_seq=32 ttl=52 time=2.33 ms
+[1607862821.706214] 40 bytes from 104.26.2.75 (104.26.2.75): icmp_seq=33 ttl=52 time=2.27 ms
+[1607862827.709866] 40 bytes from 104.26.2.75 (104.26.2.75): icmp_seq=34 ttl=52 time=1.96 ms
+[1607862827.713919] 40 bytes from 104.26.2.75 (104.26.2.75): icmp_seq=35 ttl=52 time=2.29 ms
+[1607862828.716110] 40 bytes from 104.26.2.75 (104.26.2.75): icmp_seq=36 ttl=52 time=2.15 ms
+[1607862829.717664] 40 bytes from 104.26.2.75 (104.26.2.75): icmp_seq=37 ttl=52 time=2.12 ms
+[1607862830.717822] 40 bytes from 104.26.2.75 (104.26.2.75): icmp_seq=38 ttl=52 time=2.32 ms
+[1607862831.717688] 40 bytes from 104.26.2.75 (104.26.2.75): icmp_seq=39 ttl=52 time=1.76 ms
+[1607862832.719529] 40 bytes from 104.26.2.75 (104.26.2.75): icmp_seq=40 ttl=52 time=1.59 ms
+[1607862838.723146] 40 bytes from 104.26.2.75 (104.26.2.75): icmp_seq=41 ttl=52 time=1.56 ms
+[1607862848.730017] 40 bytes from 104.26.2.75: icmp_seq=42 ttl=52 time=1.30 ms
+[1607862848.734626] 40 bytes from 104.26.2.75 (104.26.2.75): icmp_seq=43 ttl=52 time=2.43 ms
+[1607862849.733556] 40 bytes from 104.26.2.75 (104.26.2.75): icmp_seq=44 ttl=52 time=1.83 ms
+[1607862850.736496] 40 bytes from 104.26.2.75 (104.26.2.75): icmp_seq=45 ttl=52 time=2.25 ms
+[1607862851.737942] 40 bytes from 104.26.2.75 (104.26.2.75): icmp_seq=46 ttl=52 time=2.27 ms
+[1607862852.738219] 40 bytes from 104.26.2.75 (104.26.2.75): icmp_seq=47 ttl=52 time=2.00 ms
+[1607862853.736790] 40 bytes from 104.26.2.75 (104.26.2.75): icmp_seq=48 ttl=52 time=1.83 ms
+[1607862864.742042] 40 bytes from 104.26.2.75: icmp_seq=49 ttl=52 time=2.22 ms
+[1607862865.742117] 40 bytes from 104.26.2.75: icmp_seq=50 ttl=52 time=2.35 ms
+
+--- nts.edu ping statistics ---
+50 packets transmitted, 50 received, 0% packet loss, time 177175ms
+rtt min/avg/max/mdev = 1.268/2.051/2.565/0.325 ms

@@ -1,0 +1,55 @@
+PING owu.edu (104.239.175.178) 32(60) bytes of data.
+[1607862703.964150] 40 bytes from www.owu.edu (104.239.175.178): icmp_seq=1 ttl=49 time=106 ms
+[1607862714.078746] 40 bytes from 104.239.175.178: icmp_seq=2 ttl=49 time=106 ms
+[1607862714.186259] 40 bytes from www.owu.edu (104.239.175.178): icmp_seq=3 ttl=49 time=105 ms
+[1607862715.187952] 40 bytes from www.owu.edu (104.239.175.178): icmp_seq=4 ttl=49 time=106 ms
+[1607862726.195052] 40 bytes from 104.239.175.178: icmp_seq=5 ttl=49 time=105 ms
+[1607862731.303982] 40 bytes from www.owu.edu (104.239.175.178): icmp_seq=6 ttl=49 time=106 ms
+[1607862731.410660] 40 bytes from www.owu.edu (104.239.175.178): icmp_seq=7 ttl=49 time=106 ms
+[1607862732.411688] 40 bytes from www.owu.edu (104.239.175.178): icmp_seq=8 ttl=49 time=105 ms
+[1607862733.412447] 40 bytes from www.owu.edu (104.239.175.178): icmp_seq=9 ttl=49 time=105 ms
+[1607862734.414186] 40 bytes from www.owu.edu (104.239.175.178): icmp_seq=10 ttl=49 time=105 ms
+[1607862735.414098] 40 bytes from www.owu.edu (104.239.175.178): icmp_seq=11 ttl=49 time=105 ms
+[1607862746.422047] 40 bytes from 104.239.175.178: icmp_seq=12 ttl=49 time=105 ms
+[1607862756.534133] 40 bytes from 104.239.175.178: icmp_seq=13 ttl=49 time=105 ms
+[1607862766.646030] 40 bytes from 104.239.175.178: icmp_seq=14 ttl=49 time=106 ms
+[1607862766.754659] 40 bytes from www.owu.edu (104.239.175.178): icmp_seq=15 ttl=49 time=106 ms
+[1607862767.755460] 40 bytes from www.owu.edu (104.239.175.178): icmp_seq=16 ttl=49 time=106 ms
+[1607862768.755191] 40 bytes from www.owu.edu (104.239.175.178): icmp_seq=17 ttl=49 time=105 ms
+[1607862769.754785] 40 bytes from www.owu.edu (104.239.175.178): icmp_seq=18 ttl=49 time=105 ms
+[1607862780.762079] 40 bytes from 104.239.175.178: icmp_seq=19 ttl=49 time=105 ms
+[1607862785.872319] 40 bytes from www.owu.edu (104.239.175.178): icmp_seq=20 ttl=49 time=106 ms
+[1607862790.983734] 40 bytes from www.owu.edu (104.239.175.178): icmp_seq=21 ttl=49 time=105 ms
+[1607862791.090592] 40 bytes from www.owu.edu (104.239.175.178): icmp_seq=22 ttl=49 time=105 ms
+[1607862797.096018] 40 bytes from www.owu.edu (104.239.175.178): icmp_seq=23 ttl=49 time=105 ms
+[1607862807.210027] 40 bytes from 104.239.175.178: icmp_seq=24 ttl=49 time=105 ms
+[1607862807.318116] 40 bytes from www.owu.edu (104.239.175.178): icmp_seq=25 ttl=49 time=106 ms
+[1607862808.316834] 40 bytes from www.owu.edu (104.239.175.178): icmp_seq=26 ttl=49 time=105 ms
+[1607862809.316095] 40 bytes from www.owu.edu (104.239.175.178): icmp_seq=27 ttl=49 time=105 ms
+[1607862810.316955] 40 bytes from www.owu.edu (104.239.175.178): icmp_seq=28 ttl=49 time=105 ms
+[1607862811.316502] 40 bytes from www.owu.edu (104.239.175.178): icmp_seq=29 ttl=49 time=105 ms
+[1607862812.316310] 40 bytes from www.owu.edu (104.239.175.178): icmp_seq=30 ttl=49 time=105 ms
+[1607862813.317424] 40 bytes from www.owu.edu (104.239.175.178): icmp_seq=31 ttl=49 time=105 ms
+[1607862814.318851] 40 bytes from www.owu.edu (104.239.175.178): icmp_seq=32 ttl=49 time=105 ms
+[1607862815.320118] 40 bytes from www.owu.edu (104.239.175.178): icmp_seq=33 ttl=49 time=105 ms
+[1607862816.321904] 40 bytes from www.owu.edu (104.239.175.178): icmp_seq=34 ttl=49 time=106 ms
+[1607862822.327212] 40 bytes from www.owu.edu (104.239.175.178): icmp_seq=35 ttl=49 time=105 ms
+[1607862822.433939] 40 bytes from www.owu.edu (104.239.175.178): icmp_seq=36 ttl=49 time=105 ms
+[1607862823.434167] 40 bytes from www.owu.edu (104.239.175.178): icmp_seq=37 ttl=49 time=105 ms
+[1607862824.433496] 40 bytes from www.owu.edu (104.239.175.178): icmp_seq=38 ttl=49 time=104 ms
+[1607862825.435718] 40 bytes from www.owu.edu (104.239.175.178): icmp_seq=39 ttl=49 time=105 ms
+[1607862826.436607] 40 bytes from www.owu.edu (104.239.175.178): icmp_seq=40 ttl=49 time=105 ms
+[1607862827.437412] 40 bytes from www.owu.edu (104.239.175.178): icmp_seq=41 ttl=49 time=105 ms
+[1607862838.442014] 40 bytes from 104.239.175.178: icmp_seq=42 ttl=49 time=105 ms
+[1607862848.554274] 40 bytes from 104.239.175.178: icmp_seq=43 ttl=49 time=106 ms
+[1607862853.666318] 40 bytes from www.owu.edu (104.239.175.178): icmp_seq=44 ttl=49 time=106 ms
+[1607862853.773698] 40 bytes from www.owu.edu (104.239.175.178): icmp_seq=45 ttl=49 time=105 ms
+[1607862854.773205] 40 bytes from www.owu.edu (104.239.175.178): icmp_seq=46 ttl=49 time=105 ms
+[1607862855.775418] 40 bytes from www.owu.edu (104.239.175.178): icmp_seq=47 ttl=49 time=105 ms
+[1607862856.776428] 40 bytes from www.owu.edu (104.239.175.178): icmp_seq=48 ttl=49 time=105 ms
+[1607862857.778040] 40 bytes from www.owu.edu (104.239.175.178): icmp_seq=49 ttl=49 time=105 ms
+[1607862858.777046] 40 bytes from www.owu.edu (104.239.175.178): icmp_seq=50 ttl=49 time=105 ms
+
+--- owu.edu ping statistics ---
+50 packets transmitted, 50 received, 0% packet loss, time 159818ms
+rtt min/avg/max/mdev = 104.454/105.282/106.227/0.406 ms

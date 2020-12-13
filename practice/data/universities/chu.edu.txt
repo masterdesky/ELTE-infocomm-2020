@@ -1,0 +1,55 @@
+PING chu.edu (173.255.204.167) 32(60) bytes of data.
+[1607862701.022342] 40 bytes from 173.255.204.167: icmp_seq=1 ttl=52 time=131 ms
+[1607862701.155859] 40 bytes from li214-167.members.linode.com (173.255.204.167): icmp_seq=2 ttl=52 time=131 ms
+[1607862712.162228] 40 bytes from 173.255.204.167: icmp_seq=3 ttl=52 time=131 ms
+[1607862712.296082] 40 bytes from li214-167.members.linode.com (173.255.204.167): icmp_seq=4 ttl=52 time=131 ms
+[1607862713.297864] 40 bytes from li214-167.members.linode.com (173.255.204.167): icmp_seq=5 ttl=52 time=132 ms
+[1607862714.297601] 40 bytes from li214-167.members.linode.com (173.255.204.167): icmp_seq=6 ttl=52 time=131 ms
+[1607862725.302032] 40 bytes from 173.255.204.167: icmp_seq=7 ttl=52 time=131 ms
+[1607862735.442051] 40 bytes from 173.255.204.167: icmp_seq=8 ttl=52 time=131 ms
+[1607862740.579083] 40 bytes from li214-167.members.linode.com (173.255.204.167): icmp_seq=9 ttl=52 time=131 ms
+[1607862745.716145] 40 bytes from li214-167.members.linode.com (173.255.204.167): icmp_seq=10 ttl=52 time=131 ms
+[1607862755.854136] 40 bytes from 173.255.204.167: icmp_seq=11 ttl=52 time=131 ms
+[1607862765.994042] 40 bytes from 173.255.204.167: icmp_seq=12 ttl=52 time=131 ms
+[1607862776.134061] 40 bytes from 173.255.204.167: icmp_seq=13 ttl=52 time=131 ms
+[1607862776.266949] 40 bytes from li214-167.members.linode.com (173.255.204.167): icmp_seq=14 ttl=52 time=131 ms
+[1607862777.268438] 40 bytes from li214-167.members.linode.com (173.255.204.167): icmp_seq=15 ttl=52 time=131 ms
+[1607862778.269553] 40 bytes from li214-167.members.linode.com (173.255.204.167): icmp_seq=16 ttl=52 time=131 ms
+[1607862779.271227] 40 bytes from li214-167.members.linode.com (173.255.204.167): icmp_seq=17 ttl=52 time=131 ms
+[1607862780.271721] 40 bytes from li214-167.members.linode.com (173.255.204.167): icmp_seq=18 ttl=52 time=131 ms
+[1607862791.278567] 40 bytes from 173.255.204.167: icmp_seq=19 ttl=52 time=131 ms
+[1607862796.416133] 40 bytes from li214-167.members.linode.com (173.255.204.167): icmp_seq=20 ttl=52 time=131 ms
+[1607862801.553807] 40 bytes from li214-167.members.linode.com (173.255.204.167): icmp_seq=21 ttl=52 time=131 ms
+[1607862806.692294] 40 bytes from li214-167.members.linode.com (173.255.204.167): icmp_seq=22 ttl=52 time=131 ms
+[1607862811.828402] 40 bytes from li214-167.members.linode.com (173.255.204.167): icmp_seq=23 ttl=52 time=131 ms
+[1607862811.961952] 40 bytes from li214-167.members.linode.com (173.255.204.167): icmp_seq=24 ttl=52 time=131 ms
+[1607862822.966169] 40 bytes from 173.255.204.167: icmp_seq=25 ttl=52 time=131 ms
+[1607862828.103781] 40 bytes from li214-167.members.linode.com (173.255.204.167): icmp_seq=26 ttl=52 time=131 ms
+[1607862838.242369] 40 bytes from 173.255.204.167: icmp_seq=27 ttl=52 time=131 ms
+[1607862838.375721] 40 bytes from li214-167.members.linode.com (173.255.204.167): icmp_seq=28 ttl=52 time=131 ms
+[1607862839.376176] 40 bytes from li214-167.members.linode.com (173.255.204.167): icmp_seq=29 ttl=52 time=131 ms
+[1607862840.377482] 40 bytes from li214-167.members.linode.com (173.255.204.167): icmp_seq=30 ttl=52 time=131 ms
+[1607862841.379683] 40 bytes from li214-167.members.linode.com (173.255.204.167): icmp_seq=31 ttl=52 time=131 ms
+[1607862842.380953] 40 bytes from li214-167.members.linode.com (173.255.204.167): icmp_seq=32 ttl=52 time=131 ms
+[1607862843.383443] 40 bytes from li214-167.members.linode.com (173.255.204.167): icmp_seq=33 ttl=52 time=132 ms
+[1607862844.391763] 40 bytes from li214-167.members.linode.com (173.255.204.167): icmp_seq=34 ttl=52 time=140 ms
+[1607862845.383471] 40 bytes from li214-167.members.linode.com (173.255.204.167): icmp_seq=35 ttl=52 time=131 ms
+[1607862846.384490] 40 bytes from li214-167.members.linode.com (173.255.204.167): icmp_seq=36 ttl=52 time=131 ms
+[1607862847.386287] 40 bytes from li214-167.members.linode.com (173.255.204.167): icmp_seq=37 ttl=52 time=132 ms
+[1607862848.385190] 40 bytes from li214-167.members.linode.com (173.255.204.167): icmp_seq=38 ttl=52 time=131 ms
+[1607862849.385430] 40 bytes from li214-167.members.linode.com (173.255.204.167): icmp_seq=39 ttl=52 time=131 ms
+[1607862850.386540] 40 bytes from li214-167.members.linode.com (173.255.204.167): icmp_seq=40 ttl=52 time=131 ms
+[1607862851.389066] 40 bytes from li214-167.members.linode.com (173.255.204.167): icmp_seq=41 ttl=52 time=131 ms
+[1607862852.389855] 40 bytes from li214-167.members.linode.com (173.255.204.167): icmp_seq=42 ttl=52 time=131 ms
+[1607862853.391929] 40 bytes from li214-167.members.linode.com (173.255.204.167): icmp_seq=43 ttl=52 time=132 ms
+[1607862864.398090] 40 bytes from 173.255.204.167: icmp_seq=44 ttl=52 time=131 ms
+[1607862864.531636] 40 bytes from li214-167.members.linode.com (173.255.204.167): icmp_seq=45 ttl=52 time=131 ms
+[1607862875.538082] 40 bytes from 173.255.204.167: icmp_seq=46 ttl=52 time=131 ms
+[1607862875.670997] 40 bytes from li214-167.members.linode.com (173.255.204.167): icmp_seq=47 ttl=52 time=131 ms
+[1607862876.673030] 40 bytes from li214-167.members.linode.com (173.255.204.167): icmp_seq=48 ttl=52 time=131 ms
+[1607862877.672401] 40 bytes from li214-167.members.linode.com (173.255.204.167): icmp_seq=49 ttl=52 time=131 ms
+[1607862878.673918] 40 bytes from li214-167.members.linode.com (173.255.204.167): icmp_seq=50 ttl=52 time=130 ms
+
+--- chu.edu ping statistics ---
+50 packets transmitted, 50 received, 0% packet loss, time 187659ms
+rtt min/avg/max/mdev = 130.423/131.358/139.918/1.267 ms

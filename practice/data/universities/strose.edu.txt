@@ -1,0 +1,55 @@
+PING strose.edu (69.16.200.28) 32(60) bytes of data.
+[1607862716.450416] 40 bytes from 69.16.200.28: icmp_seq=1 ttl=50 time=125 ms
+[1607862726.584382] 40 bytes from 69.16.200.28: icmp_seq=2 ttl=50 time=125 ms
+[1607862733.310864] 40 bytes from cloudvpsserver.host.strose.com (69.16.200.28): icmp_seq=3 ttl=50 time=126 ms
+[1607862733.438292] 40 bytes from cloudvpsserver.host.strose.com (69.16.200.28): icmp_seq=4 ttl=50 time=125 ms
+[1607862744.442002] 40 bytes from 69.16.200.28: icmp_seq=5 ttl=50 time=125 ms
+[1607862754.574686] 40 bytes from 69.16.200.28: icmp_seq=6 ttl=50 time=125 ms
+[1607862759.702972] 40 bytes from cloudvpsserver.host.strose.com (69.16.200.28): icmp_seq=7 ttl=50 time=124 ms
+[1607862759.829355] 40 bytes from cloudvpsserver.host.strose.com (69.16.200.28): icmp_seq=8 ttl=50 time=124 ms
+[1607862770.834844] 40 bytes from 69.16.200.28: icmp_seq=9 ttl=50 time=125 ms
+[1607862775.964320] 40 bytes from cloudvpsserver.host.strose.com (69.16.200.28): icmp_seq=10 ttl=50 time=125 ms
+[1607862781.095071] 40 bytes from cloudvpsserver.host.strose.com (69.16.200.28): icmp_seq=11 ttl=50 time=125 ms
+[1607862781.222277] 40 bytes from cloudvpsserver.host.strose.com (69.16.200.28): icmp_seq=12 ttl=50 time=125 ms
+[1607862782.222322] 40 bytes from cloudvpsserver.host.strose.com (69.16.200.28): icmp_seq=13 ttl=50 time=125 ms
+[1607862783.224015] 40 bytes from cloudvpsserver.host.strose.com (69.16.200.28): icmp_seq=14 ttl=50 time=125 ms
+[1607862784.223850] 40 bytes from cloudvpsserver.host.strose.com (69.16.200.28): icmp_seq=15 ttl=50 time=125 ms
+[1607862785.224754] 40 bytes from cloudvpsserver.host.strose.com (69.16.200.28): icmp_seq=16 ttl=50 time=125 ms
+[1607862786.225478] 40 bytes from cloudvpsserver.host.strose.com (69.16.200.28): icmp_seq=17 ttl=50 time=125 ms
+[1607862787.226208] 40 bytes from cloudvpsserver.host.strose.com (69.16.200.28): icmp_seq=18 ttl=50 time=125 ms
+[1607862788.227091] 40 bytes from cloudvpsserver.host.strose.com (69.16.200.28): icmp_seq=19 ttl=50 time=125 ms
+[1607862789.228502] 40 bytes from cloudvpsserver.host.strose.com (69.16.200.28): icmp_seq=20 ttl=50 time=125 ms
+[1607862790.228737] 40 bytes from cloudvpsserver.host.strose.com (69.16.200.28): icmp_seq=21 ttl=50 time=124 ms
+[1607862796.231732] 40 bytes from cloudvpsserver.host.strose.com (69.16.200.28): icmp_seq=22 ttl=50 time=125 ms
+[1607862796.358697] 40 bytes from cloudvpsserver.host.strose.com (69.16.200.28): icmp_seq=23 ttl=50 time=125 ms
+[1607862807.366125] 40 bytes from 69.16.200.28: icmp_seq=24 ttl=50 time=125 ms
+[1607862817.497993] 40 bytes from 69.16.200.28: icmp_seq=25 ttl=50 time=125 ms
+[1607862827.631915] 40 bytes from 69.16.200.28: icmp_seq=26 ttl=50 time=125 ms
+[1607862827.758422] 40 bytes from cloudvpsserver.host.strose.com (69.16.200.28): icmp_seq=27 ttl=50 time=125 ms
+[1607862838.765993] 40 bytes from 69.16.200.28: icmp_seq=28 ttl=50 time=125 ms
+[1607862843.895071] 40 bytes from cloudvpsserver.host.strose.com (69.16.200.28): icmp_seq=29 ttl=50 time=125 ms
+[1607862849.024043] 40 bytes from cloudvpsserver.host.strose.com (69.16.200.28): icmp_seq=30 ttl=50 time=124 ms
+[1607862854.156003] 40 bytes from cloudvpsserver.host.strose.com (69.16.200.28): icmp_seq=31 ttl=50 time=125 ms
+[1607862854.283393] 40 bytes from cloudvpsserver.host.strose.com (69.16.200.28): icmp_seq=32 ttl=50 time=125 ms
+[1607862855.283401] 40 bytes from cloudvpsserver.host.strose.com (69.16.200.28): icmp_seq=33 ttl=50 time=125 ms
+[1607862856.283759] 40 bytes from cloudvpsserver.host.strose.com (69.16.200.28): icmp_seq=34 ttl=50 time=125 ms
+[1607862857.285355] 40 bytes from cloudvpsserver.host.strose.com (69.16.200.28): icmp_seq=35 ttl=50 time=126 ms
+[1607862858.285733] 40 bytes from cloudvpsserver.host.strose.com (69.16.200.28): icmp_seq=36 ttl=50 time=125 ms
+[1607862859.287594] 40 bytes from cloudvpsserver.host.strose.com (69.16.200.28): icmp_seq=37 ttl=50 time=125 ms
+[1607862870.294103] 40 bytes from 69.16.200.28: icmp_seq=38 ttl=50 time=125 ms
+[1607862870.421256] 40 bytes from cloudvpsserver.host.strose.com (69.16.200.28): icmp_seq=39 ttl=50 time=125 ms
+[1607862871.422165] 40 bytes from cloudvpsserver.host.strose.com (69.16.200.28): icmp_seq=40 ttl=50 time=125 ms
+[1607862872.424112] 40 bytes from cloudvpsserver.host.strose.com (69.16.200.28): icmp_seq=41 ttl=50 time=125 ms
+[1607862873.423884] 40 bytes from cloudvpsserver.host.strose.com (69.16.200.28): icmp_seq=42 ttl=50 time=125 ms
+[1607862874.427158] 40 bytes from cloudvpsserver.host.strose.com (69.16.200.28): icmp_seq=43 ttl=50 time=125 ms
+[1607862875.428328] 40 bytes from cloudvpsserver.host.strose.com (69.16.200.28): icmp_seq=44 ttl=50 time=125 ms
+[1607862876.429326] 40 bytes from cloudvpsserver.host.strose.com (69.16.200.28): icmp_seq=45 ttl=50 time=125 ms
+[1607862877.430674] 40 bytes from cloudvpsserver.host.strose.com (69.16.200.28): icmp_seq=46 ttl=50 time=125 ms
+[1607862878.431679] 40 bytes from cloudvpsserver.host.strose.com (69.16.200.28): icmp_seq=47 ttl=50 time=125 ms
+[1607862879.432840] 40 bytes from cloudvpsserver.host.strose.com (69.16.200.28): icmp_seq=48 ttl=50 time=125 ms
+[1607862880.433431] 40 bytes from cloudvpsserver.host.strose.com (69.16.200.28): icmp_seq=49 ttl=50 time=125 ms
+[1607862881.434121] 40 bytes from cloudvpsserver.host.strose.com (69.16.200.28): icmp_seq=50 ttl=50 time=125 ms
+
+--- strose.edu ping statistics ---
+50 packets transmitted, 50 received, 0% packet loss, time 174989ms
+rtt min/avg/max/mdev = 124.385/125.099/125.543/0.316 ms

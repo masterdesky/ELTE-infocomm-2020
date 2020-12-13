@@ -1,0 +1,55 @@
+PING vcu.edu (128.172.22.56) 32(60) bytes of data.
+[1607862717.555706] 40 bytes from jupiter3.vcu.edu (128.172.22.56): icmp_seq=1 ttl=241 time=106 ms
+[1607862727.670906] 40 bytes from 128.172.22.56: icmp_seq=2 ttl=241 time=106 ms
+[1607862727.778997] 40 bytes from jupiter3.vcu.edu (128.172.22.56): icmp_seq=3 ttl=241 time=106 ms
+[1607862733.779638] 40 bytes from jupiter3.vcu.edu (128.172.22.56): icmp_seq=4 ttl=241 time=106 ms
+[1607862733.886406] 40 bytes from jupiter3.vcu.edu (128.172.22.56): icmp_seq=5 ttl=241 time=105 ms
+[1607862744.893175] 40 bytes from 128.172.22.56: icmp_seq=6 ttl=241 time=105 ms
+[1607862755.006341] 40 bytes from 128.172.22.56: icmp_seq=7 ttl=241 time=106 ms
+[1607862755.114317] 40 bytes from jupiter3.vcu.edu (128.172.22.56): icmp_seq=8 ttl=241 time=106 ms
+[1607862756.116147] 40 bytes from jupiter3.vcu.edu (128.172.22.56): icmp_seq=9 ttl=241 time=106 ms
+[1607862767.122024] 40 bytes from 128.172.22.56: icmp_seq=10 ttl=241 time=106 ms
+[1607862767.230036] 40 bytes from jupiter3.vcu.edu (128.172.22.56): icmp_seq=11 ttl=241 time=106 ms
+[1607862768.228693] 40 bytes from jupiter3.vcu.edu (128.172.22.56): icmp_seq=12 ttl=241 time=106 ms
+[1607862769.230661] 40 bytes from jupiter3.vcu.edu (128.172.22.56): icmp_seq=13 ttl=241 time=106 ms
+[1607862775.231865] 40 bytes from jupiter3.vcu.edu (128.172.22.56): icmp_seq=14 ttl=241 time=105 ms
+[1607862775.339441] 40 bytes from jupiter3.vcu.edu (128.172.22.56): icmp_seq=15 ttl=241 time=106 ms
+[1607862786.346122] 40 bytes from 128.172.22.56: icmp_seq=16 ttl=241 time=107 ms
+[1607862786.454374] 40 bytes from jupiter3.vcu.edu (128.172.22.56): icmp_seq=17 ttl=241 time=106 ms
+[1607862792.456257] 40 bytes from jupiter3.vcu.edu (128.172.22.56): icmp_seq=18 ttl=241 time=106 ms
+[1607862792.564460] 40 bytes from jupiter3.vcu.edu (128.172.22.56): icmp_seq=19 ttl=241 time=106 ms
+[1607862793.565370] 40 bytes from jupiter3.vcu.edu (128.172.22.56): icmp_seq=20 ttl=241 time=106 ms
+[1607862794.567617] 40 bytes from jupiter3.vcu.edu (128.172.22.56): icmp_seq=21 ttl=241 time=107 ms
+[1607862795.569161] 40 bytes from jupiter3.vcu.edu (128.172.22.56): icmp_seq=22 ttl=241 time=106 ms
+[1607862801.571890] 40 bytes from jupiter3.vcu.edu (128.172.22.56): icmp_seq=23 ttl=241 time=106 ms
+[1607862806.684065] 40 bytes from jupiter3.vcu.edu (128.172.22.56): icmp_seq=24 ttl=241 time=106 ms
+[1607862806.792572] 40 bytes from jupiter3.vcu.edu (128.172.22.56): icmp_seq=25 ttl=241 time=106 ms
+[1607862817.797993] 40 bytes from 128.172.22.56: icmp_seq=26 ttl=241 time=105 ms
+[1607862827.910042] 40 bytes from 128.172.22.56: icmp_seq=27 ttl=241 time=106 ms
+[1607862838.022170] 40 bytes from 128.172.22.56: icmp_seq=28 ttl=241 time=106 ms
+[1607862838.130165] 40 bytes from jupiter3.vcu.edu (128.172.22.56): icmp_seq=29 ttl=241 time=106 ms
+[1607862849.134119] 40 bytes from 128.172.22.56: icmp_seq=30 ttl=241 time=106 ms
+[1607862859.246047] 40 bytes from 128.172.22.56: icmp_seq=31 ttl=241 time=106 ms
+[1607862864.360022] 40 bytes from jupiter3.vcu.edu (128.172.22.56): icmp_seq=32 ttl=241 time=108 ms
+[1607862864.467868] 40 bytes from jupiter3.vcu.edu (128.172.22.56): icmp_seq=33 ttl=241 time=106 ms
+[1607862875.474382] 40 bytes from 128.172.22.56: icmp_seq=34 ttl=241 time=106 ms
+[1607862875.581576] 40 bytes from jupiter3.vcu.edu (128.172.22.56): icmp_seq=35 ttl=241 time=106 ms
+[1607862876.582858] 40 bytes from jupiter3.vcu.edu (128.172.22.56): icmp_seq=36 ttl=241 time=106 ms
+[1607862877.584433] 40 bytes from jupiter3.vcu.edu (128.172.22.56): icmp_seq=37 ttl=241 time=106 ms
+[1607862878.586075] 40 bytes from jupiter3.vcu.edu (128.172.22.56): icmp_seq=38 ttl=241 time=106 ms
+[1607862879.587179] 40 bytes from jupiter3.vcu.edu (128.172.22.56): icmp_seq=39 ttl=241 time=106 ms
+[1607862880.588139] 40 bytes from jupiter3.vcu.edu (128.172.22.56): icmp_seq=40 ttl=241 time=106 ms
+[1607862881.589442] 40 bytes from jupiter3.vcu.edu (128.172.22.56): icmp_seq=41 ttl=241 time=106 ms
+[1607862882.590948] 40 bytes from jupiter3.vcu.edu (128.172.22.56): icmp_seq=42 ttl=241 time=106 ms
+[1607862883.592515] 40 bytes from jupiter3.vcu.edu (128.172.22.56): icmp_seq=43 ttl=241 time=106 ms
+[1607862884.592549] 40 bytes from jupiter3.vcu.edu (128.172.22.56): icmp_seq=44 ttl=241 time=106 ms
+[1607862885.593443] 40 bytes from jupiter3.vcu.edu (128.172.22.56): icmp_seq=45 ttl=241 time=106 ms
+[1607862886.593184] 40 bytes from jupiter3.vcu.edu (128.172.22.56): icmp_seq=46 ttl=241 time=106 ms
+[1607862887.595169] 40 bytes from jupiter3.vcu.edu (128.172.22.56): icmp_seq=47 ttl=241 time=106 ms
+[1607862888.596532] 40 bytes from jupiter3.vcu.edu (128.172.22.56): icmp_seq=48 ttl=241 time=106 ms
+[1607862889.597782] 40 bytes from jupiter3.vcu.edu (128.172.22.56): icmp_seq=49 ttl=241 time=106 ms
+[1607862890.598771] 40 bytes from jupiter3.vcu.edu (128.172.22.56): icmp_seq=50 ttl=241 time=106 ms
+
+--- vcu.edu ping statistics ---
+50 packets transmitted, 50 received, 0% packet loss, time 178046ms
+rtt min/avg/max/mdev = 105.249/106.144/107.573/0.373 ms

@@ -1,0 +1,55 @@
+PING msmc.edu (69.20.113.170) 32(60) bytes of data.
+[1607862720.354031] 40 bytes from 69.20.113.170: icmp_seq=1 ttl=46 time=111 ms
+[1607862730.474046] 40 bytes from 69.20.113.170: icmp_seq=2 ttl=46 time=111 ms
+[1607862740.594048] 40 bytes from 69.20.113.170: icmp_seq=3 ttl=46 time=111 ms
+[1607862745.711897] 40 bytes from shadowcat.fastspot.com (69.20.113.170): icmp_seq=4 ttl=46 time=111 ms
+[1607862745.825408] 40 bytes from shadowcat.fastspot.com (69.20.113.170): icmp_seq=5 ttl=46 time=111 ms
+[1607862751.832134] 40 bytes from shadowcat.fastspot.com (69.20.113.170): icmp_seq=6 ttl=46 time=111 ms
+[1607862751.944783] 40 bytes from shadowcat.fastspot.com (69.20.113.170): icmp_seq=7 ttl=46 time=111 ms
+[1607862752.944544] 40 bytes from shadowcat.fastspot.com (69.20.113.170): icmp_seq=8 ttl=46 time=111 ms
+[1607862753.944064] 40 bytes from shadowcat.fastspot.com (69.20.113.170): icmp_seq=9 ttl=46 time=111 ms
+[1607862764.950994] 40 bytes from 69.20.113.170: icmp_seq=10 ttl=46 time=111 ms
+[1607862765.063606] 40 bytes from shadowcat.fastspot.com (69.20.113.170): icmp_seq=11 ttl=46 time=111 ms
+[1607862766.064404] 40 bytes from shadowcat.fastspot.com (69.20.113.170): icmp_seq=12 ttl=46 time=111 ms
+[1607862767.065753] 40 bytes from shadowcat.fastspot.com (69.20.113.170): icmp_seq=13 ttl=46 time=111 ms
+[1607862768.065904] 40 bytes from shadowcat.fastspot.com (69.20.113.170): icmp_seq=14 ttl=46 time=111 ms
+[1607862769.066028] 40 bytes from shadowcat.fastspot.com (69.20.113.170): icmp_seq=15 ttl=46 time=111 ms
+[1607862770.065070] 40 bytes from shadowcat.fastspot.com (69.20.113.170): icmp_seq=16 ttl=46 time=111 ms
+[1607862771.066064] 40 bytes from shadowcat.fastspot.com (69.20.113.170): icmp_seq=17 ttl=46 time=111 ms
+[1607862772.065549] 40 bytes from shadowcat.fastspot.com (69.20.113.170): icmp_seq=18 ttl=46 time=111 ms
+[1607862773.065267] 40 bytes from shadowcat.fastspot.com (69.20.113.170): icmp_seq=19 ttl=46 time=111 ms
+[1607862774.065777] 40 bytes from shadowcat.fastspot.com (69.20.113.170): icmp_seq=20 ttl=46 time=111 ms
+[1607862775.064366] 40 bytes from shadowcat.fastspot.com (69.20.113.170): icmp_seq=21 ttl=46 time=110 ms
+[1607862776.065251] 40 bytes from shadowcat.fastspot.com (69.20.113.170): icmp_seq=22 ttl=46 time=111 ms
+[1607862787.070028] 40 bytes from 69.20.113.170: icmp_seq=23 ttl=46 time=111 ms
+[1607862792.187845] 40 bytes from shadowcat.fastspot.com (69.20.113.170): icmp_seq=24 ttl=46 time=111 ms
+[1607862792.301069] 40 bytes from shadowcat.fastspot.com (69.20.113.170): icmp_seq=25 ttl=46 time=111 ms
+[1607862793.302208] 40 bytes from shadowcat.fastspot.com (69.20.113.170): icmp_seq=26 ttl=46 time=111 ms
+[1607862794.302366] 40 bytes from shadowcat.fastspot.com (69.20.113.170): icmp_seq=27 ttl=46 time=110 ms
+[1607862795.304643] 40 bytes from shadowcat.fastspot.com (69.20.113.170): icmp_seq=28 ttl=46 time=111 ms
+[1607862796.305027] 40 bytes from shadowcat.fastspot.com (69.20.113.170): icmp_seq=29 ttl=46 time=111 ms
+[1607862807.310042] 40 bytes from 69.20.113.170: icmp_seq=30 ttl=46 time=111 ms
+[1607862817.430026] 40 bytes from 69.20.113.170: icmp_seq=31 ttl=46 time=111 ms
+[1607862827.546027] 40 bytes from 69.20.113.170: icmp_seq=32 ttl=46 time=110 ms
+[1607862827.659282] 40 bytes from shadowcat.fastspot.com (69.20.113.170): icmp_seq=33 ttl=46 time=111 ms
+[1607862833.665263] 40 bytes from shadowcat.fastspot.com (69.20.113.170): icmp_seq=34 ttl=46 time=111 ms
+[1607862833.779120] 40 bytes from shadowcat.fastspot.com (69.20.113.170): icmp_seq=35 ttl=46 time=111 ms
+[1607862834.779260] 40 bytes from shadowcat.fastspot.com (69.20.113.170): icmp_seq=36 ttl=46 time=111 ms
+[1607862835.780093] 40 bytes from shadowcat.fastspot.com (69.20.113.170): icmp_seq=37 ttl=46 time=111 ms
+[1607862836.780128] 40 bytes from shadowcat.fastspot.com (69.20.113.170): icmp_seq=38 ttl=46 time=111 ms
+[1607862837.780695] 40 bytes from shadowcat.fastspot.com (69.20.113.170): icmp_seq=39 ttl=46 time=111 ms
+[1607862843.783992] 40 bytes from shadowcat.fastspot.com (69.20.113.170): icmp_seq=40 ttl=46 time=111 ms
+[1607862848.899873] 40 bytes from shadowcat.fastspot.com (69.20.113.170): icmp_seq=41 ttl=46 time=111 ms
+[1607862859.018076] 40 bytes from 69.20.113.170: icmp_seq=42 ttl=46 time=111 ms
+[1607862859.131597] 40 bytes from shadowcat.fastspot.com (69.20.113.170): icmp_seq=43 ttl=46 time=111 ms
+[1607862865.135908] 40 bytes from shadowcat.fastspot.com (69.20.113.170): icmp_seq=44 ttl=46 time=111 ms
+[1607862865.247968] 40 bytes from shadowcat.fastspot.com (69.20.113.170): icmp_seq=45 ttl=46 time=111 ms
+[1607862866.249301] 40 bytes from shadowcat.fastspot.com (69.20.113.170): icmp_seq=46 ttl=46 time=111 ms
+[1607862867.250645] 40 bytes from shadowcat.fastspot.com (69.20.113.170): icmp_seq=47 ttl=46 time=111 ms
+[1607862868.252654] 40 bytes from shadowcat.fastspot.com (69.20.113.170): icmp_seq=48 ttl=46 time=111 ms
+[1607862869.254360] 40 bytes from shadowcat.fastspot.com (69.20.113.170): icmp_seq=49 ttl=46 time=111 ms
+[1607862871.141630] 40 bytes from 69.20.113.170: icmp_seq=50 ttl=46 time=111 ms
+
+--- msmc.edu ping statistics ---
+50 packets transmitted, 50 received, 0% packet loss, time 159907ms
+rtt min/avg/max/mdev = 110.393/111.151/111.492/0.284 ms

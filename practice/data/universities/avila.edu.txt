@@ -1,0 +1,55 @@
+PING avila.edu (161.35.48.58) 32(60) bytes of data.
+[1607862707.275332] 40 bytes from avila.wpmudev.host (161.35.48.58): icmp_seq=1 ttl=49 time=108 ms
+[1607862707.384137] 40 bytes from avila.wpmudev.host (161.35.48.58): icmp_seq=2 ttl=49 time=106 ms
+[1607862708.388898] 40 bytes from avila.wpmudev.host (161.35.48.58): icmp_seq=3 ttl=49 time=107 ms
+[1607862709.385866] 40 bytes from avila.wpmudev.host (161.35.48.58): icmp_seq=4 ttl=49 time=106 ms
+[1607862710.387368] 40 bytes from avila.wpmudev.host (161.35.48.58): icmp_seq=5 ttl=49 time=107 ms
+[1607862721.394088] 40 bytes from 161.35.48.58: icmp_seq=6 ttl=49 time=107 ms
+[1607862721.503828] 40 bytes from avila.wpmudev.host (161.35.48.58): icmp_seq=7 ttl=49 time=107 ms
+[1607862722.503862] 40 bytes from avila.wpmudev.host (161.35.48.58): icmp_seq=8 ttl=49 time=106 ms
+[1607862723.504647] 40 bytes from avila.wpmudev.host (161.35.48.58): icmp_seq=9 ttl=49 time=106 ms
+[1607862734.510010] 40 bytes from 161.35.48.58: icmp_seq=10 ttl=49 time=106 ms
+[1607862734.617726] 40 bytes from avila.wpmudev.host (161.35.48.58): icmp_seq=11 ttl=49 time=106 ms
+[1607862740.619760] 40 bytes from avila.wpmudev.host (161.35.48.58): icmp_seq=12 ttl=49 time=106 ms
+[1607862745.731523] 40 bytes from avila.wpmudev.host (161.35.48.58): icmp_seq=13 ttl=49 time=106 ms
+[1607862750.843880] 40 bytes from avila.wpmudev.host (161.35.48.58): icmp_seq=14 ttl=49 time=106 ms
+[1607862755.955840] 40 bytes from avila.wpmudev.host (161.35.48.58): icmp_seq=15 ttl=49 time=106 ms
+[1607862761.066968] 40 bytes from avila.wpmudev.host (161.35.48.58): icmp_seq=16 ttl=49 time=106 ms
+[1607862761.175510] 40 bytes from avila.wpmudev.host (161.35.48.58): icmp_seq=17 ttl=49 time=106 ms
+[1607862762.176850] 40 bytes from avila.wpmudev.host (161.35.48.58): icmp_seq=18 ttl=49 time=107 ms
+[1607862763.176819] 40 bytes from avila.wpmudev.host (161.35.48.58): icmp_seq=19 ttl=49 time=106 ms
+[1607862764.178211] 40 bytes from avila.wpmudev.host (161.35.48.58): icmp_seq=20 ttl=49 time=107 ms
+[1607862765.179378] 40 bytes from avila.wpmudev.host (161.35.48.58): icmp_seq=21 ttl=49 time=106 ms
+[1607862776.186034] 40 bytes from 161.35.48.58: icmp_seq=22 ttl=49 time=107 ms
+[1607862776.294279] 40 bytes from avila.wpmudev.host (161.35.48.58): icmp_seq=23 ttl=49 time=106 ms
+[1607862777.294252] 40 bytes from avila.wpmudev.host (161.35.48.58): icmp_seq=24 ttl=49 time=107 ms
+[1607862778.293560] 40 bytes from avila.wpmudev.host (161.35.48.58): icmp_seq=25 ttl=49 time=107 ms
+[1607862779.292993] 40 bytes from avila.wpmudev.host (161.35.48.58): icmp_seq=26 ttl=49 time=107 ms
+[1607862780.293060] 40 bytes from avila.wpmudev.host (161.35.48.58): icmp_seq=27 ttl=49 time=106 ms
+[1607862791.298001] 40 bytes from 161.35.48.58: icmp_seq=28 ttl=49 time=106 ms
+[1607862801.410316] 40 bytes from 161.35.48.58: icmp_seq=29 ttl=49 time=107 ms
+[1607862801.520726] 40 bytes from avila.wpmudev.host (161.35.48.58): icmp_seq=30 ttl=49 time=108 ms
+[1607862812.526101] 40 bytes from 161.35.48.58: icmp_seq=31 ttl=49 time=107 ms
+[1607862822.642431] 40 bytes from 161.35.48.58: icmp_seq=32 ttl=49 time=108 ms
+[1607862827.755798] 40 bytes from avila.wpmudev.host (161.35.48.58): icmp_seq=33 ttl=49 time=107 ms
+[1607862827.864291] 40 bytes from avila.wpmudev.host (161.35.48.58): icmp_seq=34 ttl=49 time=106 ms
+[1607862828.865751] 40 bytes from avila.wpmudev.host (161.35.48.58): icmp_seq=35 ttl=49 time=107 ms
+[1607862829.866534] 40 bytes from avila.wpmudev.host (161.35.48.58): icmp_seq=36 ttl=49 time=106 ms
+[1607862830.867961] 40 bytes from avila.wpmudev.host (161.35.48.58): icmp_seq=37 ttl=49 time=107 ms
+[1607862831.868831] 40 bytes from avila.wpmudev.host (161.35.48.58): icmp_seq=38 ttl=49 time=106 ms
+[1607862832.870917] 40 bytes from avila.wpmudev.host (161.35.48.58): icmp_seq=39 ttl=49 time=107 ms
+[1607862843.878088] 40 bytes from 161.35.48.58: icmp_seq=40 ttl=49 time=107 ms
+[1607862853.990128] 40 bytes from 161.35.48.58: icmp_seq=41 ttl=49 time=106 ms
+[1607862854.098899] 40 bytes from avila.wpmudev.host (161.35.48.58): icmp_seq=42 ttl=49 time=107 ms
+[1607862855.098040] 40 bytes from avila.wpmudev.host (161.35.48.58): icmp_seq=43 ttl=49 time=107 ms
+[1607862856.098657] 40 bytes from avila.wpmudev.host (161.35.48.58): icmp_seq=44 ttl=49 time=107 ms
+[1607862857.097225] 40 bytes from avila.wpmudev.host (161.35.48.58): icmp_seq=45 ttl=49 time=106 ms
+[1607862858.098881] 40 bytes from avila.wpmudev.host (161.35.48.58): icmp_seq=46 ttl=49 time=107 ms
+[1607862859.099095] 40 bytes from avila.wpmudev.host (161.35.48.58): icmp_seq=47 ttl=49 time=107 ms
+[1607862870.102014] 40 bytes from 161.35.48.58: icmp_seq=48 ttl=49 time=106 ms
+[1607862875.211824] 40 bytes from avila.wpmudev.host (161.35.48.58): icmp_seq=49 ttl=49 time=106 ms
+[1607862875.319712] 40 bytes from avila.wpmudev.host (161.35.48.58): icmp_seq=50 ttl=49 time=106 ms
+
+--- avila.edu ping statistics ---
+50 packets transmitted, 50 received, 0% packet loss, time 173662ms
+rtt min/avg/max/mdev = 105.662/106.504/108.142/0.480 ms

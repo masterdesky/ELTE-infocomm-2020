@@ -1,0 +1,55 @@
+PING ashford.edu (52.37.121.15) 32(60) bytes of data.
+[1607862693.966035] 40 bytes from 52.37.121.15: icmp_seq=1 ttl=35 time=196 ms
+[1607862704.170031] 40 bytes from 52.37.121.15: icmp_seq=2 ttl=35 time=195 ms
+[1607862704.368260] 40 bytes from ec2-52-37-121-15.us-west-2.compute.amazonaws.com (52.37.121.15): icmp_seq=3 ttl=35 time=196 ms
+[1607862715.374051] 40 bytes from 52.37.121.15: icmp_seq=4 ttl=35 time=196 ms
+[1607862715.571843] 40 bytes from ec2-52-37-121-15.us-west-2.compute.amazonaws.com (52.37.121.15): icmp_seq=5 ttl=35 time=195 ms
+[1607862726.578089] 40 bytes from 52.37.121.15: icmp_seq=6 ttl=35 time=196 ms
+[1607862736.782012] 40 bytes from 52.37.121.15: icmp_seq=7 ttl=35 time=196 ms
+[1607862741.984225] 40 bytes from ec2-52-37-121-15.us-west-2.compute.amazonaws.com (52.37.121.15): icmp_seq=8 ttl=35 time=196 ms
+[1607862747.184162] 40 bytes from ec2-52-37-121-15.us-west-2.compute.amazonaws.com (52.37.121.15): icmp_seq=9 ttl=35 time=196 ms
+[1607862757.386566] 40 bytes from 52.37.121.15: icmp_seq=10 ttl=35 time=195 ms
+[1607862767.590123] 40 bytes from 52.37.121.15: icmp_seq=11 ttl=35 time=196 ms
+[1607862767.788763] 40 bytes from ec2-52-37-121-15.us-west-2.compute.amazonaws.com (52.37.121.15): icmp_seq=12 ttl=35 time=196 ms
+[1607862768.787500] 40 bytes from ec2-52-37-121-15.us-west-2.compute.amazonaws.com (52.37.121.15): icmp_seq=13 ttl=35 time=195 ms
+[1607862769.787687] 40 bytes from ec2-52-37-121-15.us-west-2.compute.amazonaws.com (52.37.121.15): icmp_seq=14 ttl=35 time=196 ms
+[1607862780.794112] 40 bytes from 52.37.121.15: icmp_seq=15 ttl=35 time=199 ms
+[1607862790.998131] 40 bytes from 52.37.121.15: icmp_seq=16 ttl=35 time=196 ms
+[1607862791.195944] 40 bytes from ec2-52-37-121-15.us-west-2.compute.amazonaws.com (52.37.121.15): icmp_seq=17 ttl=35 time=196 ms
+[1607862792.196397] 40 bytes from ec2-52-37-121-15.us-west-2.compute.amazonaws.com (52.37.121.15): icmp_seq=18 ttl=35 time=196 ms
+[1607862793.196454] 40 bytes from ec2-52-37-121-15.us-west-2.compute.amazonaws.com (52.37.121.15): icmp_seq=19 ttl=35 time=196 ms
+[1607862794.196027] 40 bytes from ec2-52-37-121-15.us-west-2.compute.amazonaws.com (52.37.121.15): icmp_seq=20 ttl=35 time=196 ms
+[1607862795.193728] 40 bytes from ec2-52-37-121-15.us-west-2.compute.amazonaws.com (52.37.121.15): icmp_seq=21 ttl=35 time=195 ms
+[1607862796.194717] 40 bytes from ec2-52-37-121-15.us-west-2.compute.amazonaws.com (52.37.121.15): icmp_seq=22 ttl=35 time=196 ms
+[1607862797.194272] 40 bytes from ec2-52-37-121-15.us-west-2.compute.amazonaws.com (52.37.121.15): icmp_seq=23 ttl=35 time=196 ms
+[1607862798.193905] 40 bytes from ec2-52-37-121-15.us-west-2.compute.amazonaws.com (52.37.121.15): icmp_seq=24 ttl=35 time=196 ms
+[1607862799.193209] 40 bytes from ec2-52-37-121-15.us-west-2.compute.amazonaws.com (52.37.121.15): icmp_seq=25 ttl=35 time=196 ms
+[1607862800.192940] 40 bytes from ec2-52-37-121-15.us-west-2.compute.amazonaws.com (52.37.121.15): icmp_seq=26 ttl=35 time=196 ms
+[1607862801.192983] 40 bytes from ec2-52-37-121-15.us-west-2.compute.amazonaws.com (52.37.121.15): icmp_seq=27 ttl=35 time=196 ms
+[1607862812.198022] 40 bytes from 52.37.121.15: icmp_seq=28 ttl=35 time=195 ms
+[1607862822.402920] 40 bytes from 52.37.121.15: icmp_seq=29 ttl=35 time=196 ms
+[1607862827.604201] 40 bytes from ec2-52-37-121-15.us-west-2.compute.amazonaws.com (52.37.121.15): icmp_seq=30 ttl=35 time=196 ms
+[1607862832.806939] 40 bytes from ec2-52-37-121-15.us-west-2.compute.amazonaws.com (52.37.121.15): icmp_seq=31 ttl=35 time=196 ms
+[1607862838.008189] 40 bytes from ec2-52-37-121-15.us-west-2.compute.amazonaws.com (52.37.121.15): icmp_seq=32 ttl=35 time=195 ms
+[1607862843.207931] 40 bytes from ec2-52-37-121-15.us-west-2.compute.amazonaws.com (52.37.121.15): icmp_seq=33 ttl=35 time=196 ms
+[1607862843.405729] 40 bytes from ec2-52-37-121-15.us-west-2.compute.amazonaws.com (52.37.121.15): icmp_seq=34 ttl=35 time=196 ms
+[1607862844.406731] 40 bytes from ec2-52-37-121-15.us-west-2.compute.amazonaws.com (52.37.121.15): icmp_seq=35 ttl=35 time=196 ms
+[1607862845.407515] 40 bytes from ec2-52-37-121-15.us-west-2.compute.amazonaws.com (52.37.121.15): icmp_seq=36 ttl=35 time=196 ms
+[1607862846.408050] 40 bytes from ec2-52-37-121-15.us-west-2.compute.amazonaws.com (52.37.121.15): icmp_seq=37 ttl=35 time=196 ms
+[1607862847.408720] 40 bytes from ec2-52-37-121-15.us-west-2.compute.amazonaws.com (52.37.121.15): icmp_seq=38 ttl=35 time=196 ms
+[1607862848.409250] 40 bytes from ec2-52-37-121-15.us-west-2.compute.amazonaws.com (52.37.121.15): icmp_seq=39 ttl=35 time=196 ms
+[1607862854.414748] 40 bytes from ec2-52-37-121-15.us-west-2.compute.amazonaws.com (52.37.121.15): icmp_seq=40 ttl=35 time=195 ms
+[1607862854.612850] 40 bytes from ec2-52-37-121-15.us-west-2.compute.amazonaws.com (52.37.121.15): icmp_seq=41 ttl=35 time=196 ms
+[1607862855.612856] 40 bytes from ec2-52-37-121-15.us-west-2.compute.amazonaws.com (52.37.121.15): icmp_seq=42 ttl=35 time=196 ms
+[1607862856.614397] 40 bytes from ec2-52-37-121-15.us-west-2.compute.amazonaws.com (52.37.121.15): icmp_seq=43 ttl=35 time=196 ms
+[1607862857.616174] 40 bytes from ec2-52-37-121-15.us-west-2.compute.amazonaws.com (52.37.121.15): icmp_seq=44 ttl=35 time=196 ms
+[1607862858.616778] 40 bytes from ec2-52-37-121-15.us-west-2.compute.amazonaws.com (52.37.121.15): icmp_seq=45 ttl=35 time=195 ms
+[1607862859.617892] 40 bytes from ec2-52-37-121-15.us-west-2.compute.amazonaws.com (52.37.121.15): icmp_seq=46 ttl=35 time=195 ms
+[1607862860.619190] 40 bytes from ec2-52-37-121-15.us-west-2.compute.amazonaws.com (52.37.121.15): icmp_seq=47 ttl=35 time=196 ms
+[1607862861.620530] 40 bytes from ec2-52-37-121-15.us-west-2.compute.amazonaws.com (52.37.121.15): icmp_seq=48 ttl=35 time=195 ms
+[1607862862.622692] 40 bytes from ec2-52-37-121-15.us-west-2.compute.amazonaws.com (52.37.121.15): icmp_seq=49 ttl=35 time=196 ms
+[1607862863.623657] 40 bytes from ec2-52-37-121-15.us-west-2.compute.amazonaws.com (52.37.121.15): icmp_seq=50 ttl=35 time=196 ms
+
+--- ashford.edu ping statistics ---
+50 packets transmitted, 50 received, 0% packet loss, time 179663ms
+rtt min/avg/max/mdev = 195.001/195.787/198.720/0.524 ms

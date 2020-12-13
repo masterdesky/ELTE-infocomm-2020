@@ -1,0 +1,54 @@
+PING centenary.edu (69.20.113.170) 32(60) bytes of data.
+[1607862686.534895] 40 bytes from shadowcat.fastspot.com (69.20.113.170): icmp_seq=1 ttl=46 time=111 ms
+[1607862697.542024] 40 bytes from 69.20.113.170: icmp_seq=2 ttl=46 time=111 ms
+[1607862708.662311] 40 bytes from 69.20.113.170: icmp_seq=4 ttl=46 time=111 ms
+[1607862708.775878] 40 bytes from shadowcat.fastspot.com (69.20.113.170): icmp_seq=5 ttl=46 time=111 ms
+[1607862719.782065] 40 bytes from 69.20.113.170: icmp_seq=6 ttl=46 time=111 ms
+[1607862719.895973] 40 bytes from shadowcat.fastspot.com (69.20.113.170): icmp_seq=7 ttl=46 time=111 ms
+[1607862720.895958] 40 bytes from shadowcat.fastspot.com (69.20.113.170): icmp_seq=8 ttl=46 time=111 ms
+[1607862721.895264] 40 bytes from shadowcat.fastspot.com (69.20.113.170): icmp_seq=9 ttl=46 time=111 ms
+[1607862722.896899] 40 bytes from shadowcat.fastspot.com (69.20.113.170): icmp_seq=10 ttl=46 time=111 ms
+[1607862733.901995] 40 bytes from 69.20.113.170: icmp_seq=11 ttl=46 time=111 ms
+[1607862734.015602] 40 bytes from shadowcat.fastspot.com (69.20.113.170): icmp_seq=12 ttl=46 time=111 ms
+[1607862735.016562] 40 bytes from shadowcat.fastspot.com (69.20.113.170): icmp_seq=13 ttl=46 time=111 ms
+[1607862736.015590] 40 bytes from shadowcat.fastspot.com (69.20.113.170): icmp_seq=14 ttl=46 time=111 ms
+[1607862737.015137] 40 bytes from shadowcat.fastspot.com (69.20.113.170): icmp_seq=15 ttl=46 time=112 ms
+[1607862738.014328] 40 bytes from shadowcat.fastspot.com (69.20.113.170): icmp_seq=16 ttl=46 time=111 ms
+[1607862739.014437] 40 bytes from shadowcat.fastspot.com (69.20.113.170): icmp_seq=17 ttl=46 time=111 ms
+[1607862740.014229] 40 bytes from shadowcat.fastspot.com (69.20.113.170): icmp_seq=18 ttl=46 time=111 ms
+[1607862741.013841] 40 bytes from shadowcat.fastspot.com (69.20.113.170): icmp_seq=19 ttl=46 time=111 ms
+[1607862752.018121] 40 bytes from 69.20.113.170: icmp_seq=20 ttl=46 time=111 ms
+[1607862757.136019] 40 bytes from shadowcat.fastspot.com (69.20.113.170): icmp_seq=21 ttl=46 time=111 ms
+[1607862762.253443] 40 bytes from shadowcat.fastspot.com (69.20.113.170): icmp_seq=22 ttl=46 time=111 ms
+[1607862772.370123] 40 bytes from 69.20.113.170: icmp_seq=23 ttl=46 time=111 ms
+[1607862782.490208] 40 bytes from 69.20.113.170: icmp_seq=24 ttl=46 time=111 ms
+[1607862782.603523] 40 bytes from shadowcat.fastspot.com (69.20.113.170): icmp_seq=25 ttl=46 time=111 ms
+[1607862783.605090] 40 bytes from shadowcat.fastspot.com (69.20.113.170): icmp_seq=26 ttl=46 time=111 ms
+[1607862784.605564] 40 bytes from shadowcat.fastspot.com (69.20.113.170): icmp_seq=27 ttl=46 time=111 ms
+[1607862785.607328] 40 bytes from shadowcat.fastspot.com (69.20.113.170): icmp_seq=28 ttl=46 time=111 ms
+[1607862796.614973] 40 bytes from 69.20.113.170: icmp_seq=29 ttl=46 time=111 ms
+[1607862806.734019] 40 bytes from 69.20.113.170: icmp_seq=30 ttl=46 time=111 ms
+[1607862806.847501] 40 bytes from shadowcat.fastspot.com (69.20.113.170): icmp_seq=31 ttl=46 time=111 ms
+[1607862807.846764] 40 bytes from shadowcat.fastspot.com (69.20.113.170): icmp_seq=32 ttl=46 time=111 ms
+[1607862808.847500] 40 bytes from shadowcat.fastspot.com (69.20.113.170): icmp_seq=33 ttl=46 time=111 ms
+[1607862809.847515] 40 bytes from shadowcat.fastspot.com (69.20.113.170): icmp_seq=34 ttl=46 time=111 ms
+[1607862810.846654] 40 bytes from shadowcat.fastspot.com (69.20.113.170): icmp_seq=35 ttl=46 time=111 ms
+[1607862811.847672] 40 bytes from shadowcat.fastspot.com (69.20.113.170): icmp_seq=36 ttl=46 time=112 ms
+[1607862822.854022] 40 bytes from 69.20.113.170: icmp_seq=37 ttl=46 time=112 ms
+[1607862832.974013] 40 bytes from 69.20.113.170: icmp_seq=38 ttl=46 time=111 ms
+[1607862833.087591] 40 bytes from shadowcat.fastspot.com (69.20.113.170): icmp_seq=39 ttl=46 time=111 ms
+[1607862834.087362] 40 bytes from shadowcat.fastspot.com (69.20.113.170): icmp_seq=40 ttl=46 time=111 ms
+[1607862835.086463] 40 bytes from shadowcat.fastspot.com (69.20.113.170): icmp_seq=41 ttl=46 time=111 ms
+[1607862836.085220] 40 bytes from shadowcat.fastspot.com (69.20.113.170): icmp_seq=42 ttl=46 time=111 ms
+[1607862837.084652] 40 bytes from shadowcat.fastspot.com (69.20.113.170): icmp_seq=43 ttl=46 time=111 ms
+[1607862838.083835] 40 bytes from shadowcat.fastspot.com (69.20.113.170): icmp_seq=44 ttl=46 time=111 ms
+[1607862844.083519] 40 bytes from shadowcat.fastspot.com (69.20.113.170): icmp_seq=45 ttl=46 time=111 ms
+[1607862844.196709] 40 bytes from shadowcat.fastspot.com (69.20.113.170): icmp_seq=46 ttl=46 time=111 ms
+[1607862845.198115] 40 bytes from shadowcat.fastspot.com (69.20.113.170): icmp_seq=47 ttl=46 time=111 ms
+[1607862846.198873] 40 bytes from shadowcat.fastspot.com (69.20.113.170): icmp_seq=48 ttl=46 time=111 ms
+[1607862847.199941] 40 bytes from shadowcat.fastspot.com (69.20.113.170): icmp_seq=49 ttl=46 time=112 ms
+[1607862848.200442] 40 bytes from shadowcat.fastspot.com (69.20.113.170): icmp_seq=50 ttl=46 time=112 ms
+
+--- centenary.edu ping statistics ---
+50 packets transmitted, 49 received, 2% packet loss, time 161665ms
+rtt min/avg/max/mdev = 110.513/111.172/111.595/0.272 ms

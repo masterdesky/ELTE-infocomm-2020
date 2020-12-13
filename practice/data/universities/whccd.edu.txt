@@ -1,0 +1,55 @@
+PING whccd.edu (13.83.86.144) 32(60) bytes of data.
+[1607862700.918091] 40 bytes from 13.83.86.144: icmp_seq=1 ttl=100 time=172 ms
+[1607862706.591110] 40 bytes from 13.83.86.144 (13.83.86.144): icmp_seq=2 ttl=100 time=172 ms
+[1607862711.767696] 40 bytes from 13.83.86.144 (13.83.86.144): icmp_seq=3 ttl=100 time=171 ms
+[1607862716.943103] 40 bytes from 13.83.86.144 (13.83.86.144): icmp_seq=4 ttl=100 time=172 ms
+[1607862717.115981] 40 bytes from 13.83.86.144 (13.83.86.144): icmp_seq=5 ttl=100 time=171 ms
+[1607862718.116576] 40 bytes from 13.83.86.144 (13.83.86.144): icmp_seq=6 ttl=100 time=171 ms
+[1607862719.115700] 40 bytes from 13.83.86.144 (13.83.86.144): icmp_seq=7 ttl=100 time=171 ms
+[1607862720.116236] 40 bytes from 13.83.86.144 (13.83.86.144): icmp_seq=8 ttl=100 time=172 ms
+[1607862721.116316] 40 bytes from 13.83.86.144 (13.83.86.144): icmp_seq=9 ttl=100 time=171 ms
+[1607862732.122124] 40 bytes from 13.83.86.144: icmp_seq=10 ttl=100 time=171 ms
+[1607862737.300190] 40 bytes from 13.83.86.144 (13.83.86.144): icmp_seq=11 ttl=100 time=171 ms
+[1607862737.473796] 40 bytes from 13.83.86.144 (13.83.86.144): icmp_seq=12 ttl=100 time=171 ms
+[1607862738.475205] 40 bytes from 13.83.86.144 (13.83.86.144): icmp_seq=13 ttl=100 time=172 ms
+[1607862739.475659] 40 bytes from 13.83.86.144 (13.83.86.144): icmp_seq=14 ttl=100 time=171 ms
+[1607862740.477243] 40 bytes from 13.83.86.144 (13.83.86.144): icmp_seq=15 ttl=100 time=172 ms
+[1607862741.475464] 40 bytes from 13.83.86.144 (13.83.86.144): icmp_seq=16 ttl=100 time=171 ms
+[1607862752.482033] 40 bytes from 13.83.86.144: icmp_seq=17 ttl=100 time=171 ms
+[1607862752.655634] 40 bytes from 13.83.86.144 (13.83.86.144): icmp_seq=18 ttl=100 time=171 ms
+[1607862753.657551] 40 bytes from 13.83.86.144 (13.83.86.144): icmp_seq=19 ttl=100 time=172 ms
+[1607862754.657858] 40 bytes from 13.83.86.144 (13.83.86.144): icmp_seq=20 ttl=100 time=173 ms
+[1607862765.662029] 40 bytes from 13.83.86.144: icmp_seq=21 ttl=100 time=172 ms
+[1607862765.834762] 40 bytes from 13.83.86.144 (13.83.86.144): icmp_seq=22 ttl=100 time=171 ms
+[1607862766.836455] 40 bytes from 13.83.86.144 (13.83.86.144): icmp_seq=23 ttl=100 time=171 ms
+[1607862767.837934] 40 bytes from 13.83.86.144 (13.83.86.144): icmp_seq=24 ttl=100 time=171 ms
+[1607862768.840258] 40 bytes from 13.83.86.144 (13.83.86.144): icmp_seq=25 ttl=100 time=172 ms
+[1607862769.838961] 40 bytes from 13.83.86.144 (13.83.86.144): icmp_seq=26 ttl=100 time=172 ms
+[1607862770.851600] 40 bytes from 13.83.86.144 (13.83.86.144): icmp_seq=27 ttl=100 time=171 ms
+[1607862781.842039] 40 bytes from 13.83.86.144: icmp_seq=28 ttl=100 time=171 ms
+[1607862782.015766] 40 bytes from 13.83.86.144 (13.83.86.144): icmp_seq=29 ttl=100 time=171 ms
+[1607862783.015559] 40 bytes from 13.83.86.144 (13.83.86.144): icmp_seq=30 ttl=100 time=171 ms
+[1607862784.016488] 40 bytes from 13.83.86.144 (13.83.86.144): icmp_seq=31 ttl=100 time=172 ms
+[1607862785.016447] 40 bytes from 13.83.86.144 (13.83.86.144): icmp_seq=32 ttl=100 time=172 ms
+[1607862791.019699] 40 bytes from 13.83.86.144 (13.83.86.144): icmp_seq=33 ttl=100 time=171 ms
+[1607862796.196008] 40 bytes from 13.83.86.144 (13.83.86.144): icmp_seq=34 ttl=100 time=171 ms
+[1607862796.369098] 40 bytes from 13.83.86.144 (13.83.86.144): icmp_seq=35 ttl=100 time=171 ms
+[1607862807.378053] 40 bytes from 13.83.86.144: icmp_seq=36 ttl=100 time=171 ms
+[1607862812.556113] 40 bytes from 13.83.86.144 (13.83.86.144): icmp_seq=37 ttl=100 time=171 ms
+[1607862822.738671] 40 bytes from 13.83.86.144: icmp_seq=38 ttl=100 time=173 ms
+[1607862827.916066] 40 bytes from 13.83.86.144 (13.83.86.144): icmp_seq=39 ttl=100 time=171 ms
+[1607862833.096138] 40 bytes from 13.83.86.144 (13.83.86.144): icmp_seq=40 ttl=100 time=173 ms
+[1607862843.274003] 40 bytes from 13.83.86.144: icmp_seq=41 ttl=100 time=171 ms
+[1607862848.452041] 40 bytes from 13.83.86.144 (13.83.86.144): icmp_seq=42 ttl=100 time=172 ms
+[1607862848.624854] 40 bytes from 13.83.86.144 (13.83.86.144): icmp_seq=43 ttl=100 time=171 ms
+[1607862849.625446] 40 bytes from 13.83.86.144 (13.83.86.144): icmp_seq=44 ttl=100 time=171 ms
+[1607862850.626976] 40 bytes from 13.83.86.144 (13.83.86.144): icmp_seq=45 ttl=100 time=171 ms
+[1607862851.629662] 40 bytes from 13.83.86.144 (13.83.86.144): icmp_seq=46 ttl=100 time=173 ms
+[1607862852.628135] 40 bytes from 13.83.86.144 (13.83.86.144): icmp_seq=47 ttl=100 time=171 ms
+[1607862853.630928] 40 bytes from 13.83.86.144 (13.83.86.144): icmp_seq=48 ttl=100 time=174 ms
+[1607862864.634000] 40 bytes from 13.83.86.144: icmp_seq=49 ttl=100 time=172 ms
+[1607862864.807346] 40 bytes from 13.83.86.144 (13.83.86.144): icmp_seq=50 ttl=100 time=171 ms
+
+--- whccd.edu ping statistics ---
+50 packets transmitted, 50 received, 0% packet loss, time 173896ms
+rtt min/avg/max/mdev = 170.552/171.572/174.209/0.725 ms

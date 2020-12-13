@@ -1,0 +1,55 @@
+PING keystone.edu (104.197.119.71) 32(60) bytes of data.
+[1607862701.939911] 40 bytes from 71.119.197.104.bc.googleusercontent.com (104.197.119.71): icmp_seq=1 ttl=49 time=122 ms
+[1607862702.062757] 40 bytes from 71.119.197.104.bc.googleusercontent.com (104.197.119.71): icmp_seq=2 ttl=49 time=121 ms
+[1607862703.064326] 40 bytes from 71.119.197.104.bc.googleusercontent.com (104.197.119.71): icmp_seq=3 ttl=49 time=121 ms
+[1607862704.065491] 40 bytes from 71.119.197.104.bc.googleusercontent.com (104.197.119.71): icmp_seq=4 ttl=49 time=121 ms
+[1607862705.064525] 40 bytes from 71.119.197.104.bc.googleusercontent.com (104.197.119.71): icmp_seq=5 ttl=49 time=121 ms
+[1607862716.070069] 40 bytes from 104.197.119.71: icmp_seq=6 ttl=49 time=121 ms
+[1607862721.195863] 40 bytes from 71.119.197.104.bc.googleusercontent.com (104.197.119.71): icmp_seq=7 ttl=49 time=120 ms
+[1607862721.320641] 40 bytes from 71.119.197.104.bc.googleusercontent.com (104.197.119.71): icmp_seq=8 ttl=49 time=121 ms
+[1607862727.323956] 40 bytes from 71.119.197.104.bc.googleusercontent.com (104.197.119.71): icmp_seq=9 ttl=49 time=121 ms
+[1607862737.454034] 40 bytes from 104.197.119.71: icmp_seq=10 ttl=49 time=121 ms
+[1607862737.576639] 40 bytes from 71.119.197.104.bc.googleusercontent.com (104.197.119.71): icmp_seq=11 ttl=49 time=121 ms
+[1607862738.578448] 40 bytes from 71.119.197.104.bc.googleusercontent.com (104.197.119.71): icmp_seq=12 ttl=49 time=121 ms
+[1607862744.583886] 40 bytes from 71.119.197.104.bc.googleusercontent.com (104.197.119.71): icmp_seq=13 ttl=49 time=121 ms
+[1607862744.707249] 40 bytes from 71.119.197.104.bc.googleusercontent.com (104.197.119.71): icmp_seq=14 ttl=49 time=121 ms
+[1607862745.708396] 40 bytes from 71.119.197.104.bc.googleusercontent.com (104.197.119.71): icmp_seq=15 ttl=49 time=121 ms
+[1607862746.709485] 40 bytes from 71.119.197.104.bc.googleusercontent.com (104.197.119.71): icmp_seq=16 ttl=49 time=121 ms
+[1607862757.714055] 40 bytes from 104.197.119.71: icmp_seq=17 ttl=49 time=121 ms
+[1607862757.837212] 40 bytes from 71.119.197.104.bc.googleusercontent.com (104.197.119.71): icmp_seq=18 ttl=49 time=121 ms
+[1607862758.838044] 40 bytes from 71.119.197.104.bc.googleusercontent.com (104.197.119.71): icmp_seq=19 ttl=49 time=121 ms
+[1607862759.839962] 40 bytes from 71.119.197.104.bc.googleusercontent.com (104.197.119.71): icmp_seq=20 ttl=49 time=121 ms
+[1607862770.846042] 40 bytes from 104.197.119.71: icmp_seq=21 ttl=49 time=121 ms
+[1607862780.974027] 40 bytes from 104.197.119.71: icmp_seq=22 ttl=49 time=121 ms
+[1607862791.102524] 40 bytes from 104.197.119.71: icmp_seq=23 ttl=49 time=121 ms
+[1607862796.228024] 40 bytes from 71.119.197.104.bc.googleusercontent.com (104.197.119.71): icmp_seq=24 ttl=49 time=121 ms
+[1607862796.351489] 40 bytes from 71.119.197.104.bc.googleusercontent.com (104.197.119.71): icmp_seq=25 ttl=49 time=121 ms
+[1607862802.355667] 40 bytes from 71.119.197.104.bc.googleusercontent.com (104.197.119.71): icmp_seq=26 ttl=49 time=121 ms
+[1607862812.486645] 40 bytes from 104.197.119.71: icmp_seq=27 ttl=49 time=121 ms
+[1607862822.614026] 40 bytes from 104.197.119.71: icmp_seq=28 ttl=49 time=121 ms
+[1607862827.740543] 40 bytes from 71.119.197.104.bc.googleusercontent.com (104.197.119.71): icmp_seq=29 ttl=49 time=121 ms
+[1607862832.867934] 40 bytes from 71.119.197.104.bc.googleusercontent.com (104.197.119.71): icmp_seq=30 ttl=49 time=122 ms
+[1607862837.995929] 40 bytes from 71.119.197.104.bc.googleusercontent.com (104.197.119.71): icmp_seq=31 ttl=49 time=121 ms
+[1607862838.118806] 40 bytes from 71.119.197.104.bc.googleusercontent.com (104.197.119.71): icmp_seq=32 ttl=49 time=121 ms
+[1607862849.126042] 40 bytes from 104.197.119.71: icmp_seq=33 ttl=49 time=122 ms
+[1607862859.254046] 40 bytes from 104.197.119.71: icmp_seq=34 ttl=49 time=121 ms
+[1607862864.379923] 40 bytes from 71.119.197.104.bc.googleusercontent.com (104.197.119.71): icmp_seq=35 ttl=49 time=122 ms
+[1607862864.502860] 40 bytes from 71.119.197.104.bc.googleusercontent.com (104.197.119.71): icmp_seq=36 ttl=49 time=121 ms
+[1607862875.510025] 40 bytes from 104.197.119.71: icmp_seq=37 ttl=49 time=121 ms
+[1607862875.632847] 40 bytes from 71.119.197.104.bc.googleusercontent.com (104.197.119.71): icmp_seq=38 ttl=49 time=121 ms
+[1607862876.635216] 40 bytes from 71.119.197.104.bc.googleusercontent.com (104.197.119.71): icmp_seq=39 ttl=49 time=122 ms
+[1607862877.636521] 40 bytes from 71.119.197.104.bc.googleusercontent.com (104.197.119.71): icmp_seq=40 ttl=49 time=121 ms
+[1607862878.637385] 40 bytes from 71.119.197.104.bc.googleusercontent.com (104.197.119.71): icmp_seq=41 ttl=49 time=121 ms
+[1607862879.638125] 40 bytes from 71.119.197.104.bc.googleusercontent.com (104.197.119.71): icmp_seq=42 ttl=49 time=121 ms
+[1607862880.638450] 40 bytes from 71.119.197.104.bc.googleusercontent.com (104.197.119.71): icmp_seq=43 ttl=49 time=121 ms
+[1607862881.641381] 40 bytes from 71.119.197.104.bc.googleusercontent.com (104.197.119.71): icmp_seq=44 ttl=49 time=121 ms
+[1607862882.641892] 40 bytes from 71.119.197.104.bc.googleusercontent.com (104.197.119.71): icmp_seq=45 ttl=49 time=122 ms
+[1607862883.643601] 40 bytes from 71.119.197.104.bc.googleusercontent.com (104.197.119.71): icmp_seq=46 ttl=49 time=121 ms
+[1607862884.644481] 40 bytes from 71.119.197.104.bc.googleusercontent.com (104.197.119.71): icmp_seq=47 ttl=49 time=121 ms
+[1607862885.645883] 40 bytes from 71.119.197.104.bc.googleusercontent.com (104.197.119.71): icmp_seq=48 ttl=49 time=121 ms
+[1607862886.647237] 40 bytes from 71.119.197.104.bc.googleusercontent.com (104.197.119.71): icmp_seq=49 ttl=49 time=122 ms
+[1607862887.648837] 40 bytes from 71.119.197.104.bc.googleusercontent.com (104.197.119.71): icmp_seq=50 ttl=49 time=122 ms
+
+--- keystone.edu ping statistics ---
+50 packets transmitted, 50 received, 0% packet loss, time 190711ms
+rtt min/avg/max/mdev = 120.335/121.224/122.392/0.363 ms

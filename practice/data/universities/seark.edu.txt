@@ -1,0 +1,55 @@
+PING seark.edu (108.178.41.170) 32(60) bytes of data.
+[1607862668.608495] 40 bytes from chi-node68.websitehostserver.net (108.178.41.170): icmp_seq=1 ttl=51 time=121 ms
+[1607862679.614929] 40 bytes from 108.178.41.170: icmp_seq=2 ttl=51 time=121 ms
+[1607862684.740903] 40 bytes from chi-node68.websitehostserver.net (108.178.41.170): icmp_seq=3 ttl=51 time=120 ms
+[1607862684.864012] 40 bytes from chi-node68.websitehostserver.net (108.178.41.170): icmp_seq=4 ttl=51 time=121 ms
+[1607862685.864935] 40 bytes from chi-node68.websitehostserver.net (108.178.41.170): icmp_seq=5 ttl=51 time=121 ms
+[1607862686.865178] 40 bytes from chi-node68.websitehostserver.net (108.178.41.170): icmp_seq=6 ttl=51 time=121 ms
+[1607862687.865393] 40 bytes from chi-node68.websitehostserver.net (108.178.41.170): icmp_seq=7 ttl=51 time=120 ms
+[1607862688.866504] 40 bytes from chi-node68.websitehostserver.net (108.178.41.170): icmp_seq=8 ttl=51 time=120 ms
+[1607862689.868471] 40 bytes from chi-node68.websitehostserver.net (108.178.41.170): icmp_seq=9 ttl=51 time=121 ms
+[1607862700.874019] 40 bytes from 108.178.41.170: icmp_seq=10 ttl=51 time=121 ms
+[1607862706.000206] 40 bytes from chi-node68.websitehostserver.net (108.178.41.170): icmp_seq=11 ttl=51 time=120 ms
+[1607862716.134047] 40 bytes from 108.178.41.170: icmp_seq=12 ttl=51 time=121 ms
+[1607862726.262032] 40 bytes from 108.178.41.170: icmp_seq=13 ttl=51 time=121 ms
+[1607862736.390043] 40 bytes from 108.178.41.170: icmp_seq=14 ttl=51 time=120 ms
+[1607862741.515607] 40 bytes from chi-node68.websitehostserver.net (108.178.41.170): icmp_seq=15 ttl=51 time=121 ms
+[1607862751.642126] 40 bytes from 108.178.41.170: icmp_seq=16 ttl=51 time=121 ms
+[1607862751.765045] 40 bytes from chi-node68.websitehostserver.net (108.178.41.170): icmp_seq=17 ttl=51 time=121 ms
+[1607862752.766881] 40 bytes from chi-node68.websitehostserver.net (108.178.41.170): icmp_seq=18 ttl=51 time=121 ms
+[1607862753.768439] 40 bytes from chi-node68.websitehostserver.net (108.178.41.170): icmp_seq=19 ttl=51 time=121 ms
+[1607862759.771524] 40 bytes from chi-node68.websitehostserver.net (108.178.41.170): icmp_seq=20 ttl=51 time=121 ms
+[1607862764.896155] 40 bytes from chi-node68.websitehostserver.net (108.178.41.170): icmp_seq=21 ttl=51 time=120 ms
+[1607862770.024279] 40 bytes from chi-node68.websitehostserver.net (108.178.41.170): icmp_seq=22 ttl=51 time=121 ms
+[1607862770.153590] 40 bytes from chi-node68.websitehostserver.net (108.178.41.170): icmp_seq=23 ttl=51 time=127 ms
+[1607862781.154089] 40 bytes from 108.178.41.170: icmp_seq=24 ttl=51 time=120 ms
+[1607862791.283002] 40 bytes from 108.178.41.170: icmp_seq=25 ttl=51 time=121 ms
+[1607862801.410118] 40 bytes from 108.178.41.170: icmp_seq=26 ttl=51 time=120 ms
+[1607862801.533122] 40 bytes from chi-node68.websitehostserver.net (108.178.41.170): icmp_seq=27 ttl=51 time=121 ms
+[1607862802.534225] 40 bytes from chi-node68.websitehostserver.net (108.178.41.170): icmp_seq=28 ttl=51 time=121 ms
+[1607862803.534632] 40 bytes from chi-node68.websitehostserver.net (108.178.41.170): icmp_seq=29 ttl=51 time=120 ms
+[1607862804.534861] 40 bytes from chi-node68.websitehostserver.net (108.178.41.170): icmp_seq=30 ttl=51 time=120 ms
+[1607862805.536275] 40 bytes from chi-node68.websitehostserver.net (108.178.41.170): icmp_seq=31 ttl=51 time=120 ms
+[1607862806.538406] 40 bytes from chi-node68.websitehostserver.net (108.178.41.170): icmp_seq=32 ttl=51 time=121 ms
+[1607862812.544135] 40 bytes from chi-node68.websitehostserver.net (108.178.41.170): icmp_seq=33 ttl=51 time=121 ms
+[1607862822.674644] 40 bytes from 108.178.41.170: icmp_seq=34 ttl=51 time=121 ms
+[1607862832.802025] 40 bytes from 108.178.41.170: icmp_seq=35 ttl=51 time=120 ms
+[1607862832.946602] 40 bytes from chi-node68.websitehostserver.net (108.178.41.170): icmp_seq=36 ttl=51 time=142 ms
+[1607862833.924349] 40 bytes from chi-node68.websitehostserver.net (108.178.41.170): icmp_seq=37 ttl=51 time=121 ms
+[1607862834.922861] 40 bytes from chi-node68.websitehostserver.net (108.178.41.170): icmp_seq=38 ttl=51 time=121 ms
+[1607862835.921832] 40 bytes from chi-node68.websitehostserver.net (108.178.41.170): icmp_seq=39 ttl=51 time=121 ms
+[1607862836.924150] 40 bytes from chi-node68.websitehostserver.net (108.178.41.170): icmp_seq=40 ttl=51 time=121 ms
+[1607862837.923459] 40 bytes from chi-node68.websitehostserver.net (108.178.41.170): icmp_seq=41 ttl=51 time=121 ms
+[1607862838.923072] 40 bytes from chi-node68.websitehostserver.net (108.178.41.170): icmp_seq=42 ttl=51 time=121 ms
+[1607862839.924237] 40 bytes from chi-node68.websitehostserver.net (108.178.41.170): icmp_seq=43 ttl=51 time=120 ms
+[1607862840.924969] 40 bytes from chi-node68.websitehostserver.net (108.178.41.170): icmp_seq=44 ttl=51 time=121 ms
+[1607862841.926704] 40 bytes from chi-node68.websitehostserver.net (108.178.41.170): icmp_seq=45 ttl=51 time=121 ms
+[1607862842.928908] 40 bytes from chi-node68.websitehostserver.net (108.178.41.170): icmp_seq=46 ttl=51 time=121 ms
+[1607862853.933997] 40 bytes from 108.178.41.170: icmp_seq=47 ttl=51 time=120 ms
+[1607862859.059713] 40 bytes from chi-node68.websitehostserver.net (108.178.41.170): icmp_seq=48 ttl=51 time=121 ms
+[1607862859.182316] 40 bytes from chi-node68.websitehostserver.net (108.178.41.170): icmp_seq=49 ttl=51 time=121 ms
+[1607862861.061266] 40 bytes from 108.178.41.170: icmp_seq=50 ttl=51 time=121 ms
+
+--- seark.edu ping statistics ---
+50 packets transmitted, 50 received, 0% packet loss, time 191576ms
+rtt min/avg/max/mdev = 119.847/121.121/142.329/3.166 ms

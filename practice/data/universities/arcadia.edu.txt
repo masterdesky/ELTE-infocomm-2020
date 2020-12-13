@@ -1,0 +1,55 @@
+PING arcadia.edu (23.185.0.1) 32(60) bytes of data.
+[1607862705.771997] 40 bytes from 23.185.0.1 (23.185.0.1): icmp_seq=1 ttl=54 time=28.2 ms
+[1607862715.806020] 40 bytes from 23.185.0.1: icmp_seq=2 ttl=54 time=28.4 ms
+[1607862715.835749] 40 bytes from 23.185.0.1 (23.185.0.1): icmp_seq=3 ttl=54 time=27.5 ms
+[1607862721.839451] 40 bytes from 23.185.0.1 (23.185.0.1): icmp_seq=4 ttl=54 time=28.3 ms
+[1607862721.870036] 40 bytes from 23.185.0.1 (23.185.0.1): icmp_seq=5 ttl=54 time=28.4 ms
+[1607862722.871173] 40 bytes from 23.185.0.1 (23.185.0.1): icmp_seq=6 ttl=54 time=28.5 ms
+[1607862723.870804] 40 bytes from 23.185.0.1 (23.185.0.1): icmp_seq=7 ttl=54 time=28.6 ms
+[1607862734.878022] 40 bytes from 23.185.0.1: icmp_seq=8 ttl=54 time=28.5 ms
+[1607862744.914209] 40 bytes from 23.185.0.1: icmp_seq=9 ttl=54 time=28.6 ms
+[1607862744.944797] 40 bytes from 23.185.0.1 (23.185.0.1): icmp_seq=10 ttl=54 time=28.4 ms
+[1607862745.945130] 40 bytes from 23.185.0.1 (23.185.0.1): icmp_seq=11 ttl=54 time=28.0 ms
+[1607862746.947611] 40 bytes from 23.185.0.1 (23.185.0.1): icmp_seq=12 ttl=54 time=28.6 ms
+[1607862747.948956] 40 bytes from 23.185.0.1 (23.185.0.1): icmp_seq=13 ttl=54 time=28.4 ms
+[1607862748.948363] 40 bytes from 23.185.0.1 (23.185.0.1): icmp_seq=14 ttl=54 time=28.4 ms
+[1607862749.948352] 40 bytes from 23.185.0.1 (23.185.0.1): icmp_seq=15 ttl=54 time=28.5 ms
+[1607862750.947439] 40 bytes from 23.185.0.1 (23.185.0.1): icmp_seq=16 ttl=54 time=28.4 ms
+[1607862756.951717] 40 bytes from 23.185.0.1 (23.185.0.1): icmp_seq=17 ttl=54 time=28.3 ms
+[1607862761.983767] 40 bytes from 23.185.0.1 (23.185.0.1): icmp_seq=18 ttl=54 time=28.1 ms
+[1607862767.017758] 40 bytes from 23.185.0.1 (23.185.0.1): icmp_seq=19 ttl=54 time=28.1 ms
+[1607862767.048750] 40 bytes from 23.185.0.1 (23.185.0.1): icmp_seq=20 ttl=54 time=28.5 ms
+[1607862768.047217] 40 bytes from 23.185.0.1 (23.185.0.1): icmp_seq=21 ttl=54 time=28.3 ms
+[1607862769.047508] 40 bytes from 23.185.0.1 (23.185.0.1): icmp_seq=22 ttl=54 time=28.5 ms
+[1607862770.046398] 40 bytes from 23.185.0.1 (23.185.0.1): icmp_seq=23 ttl=54 time=27.8 ms
+[1607862781.054058] 40 bytes from 23.185.0.1: icmp_seq=24 ttl=54 time=28.4 ms
+[1607862791.090524] 40 bytes from 23.185.0.1: icmp_seq=25 ttl=54 time=28.5 ms
+[1607862791.119972] 40 bytes from 23.185.0.1 (23.185.0.1): icmp_seq=26 ttl=54 time=28.2 ms
+[1607862802.127668] 40 bytes from 23.185.0.1: icmp_seq=27 ttl=54 time=28.4 ms
+[1607862802.158350] 40 bytes from 23.185.0.1 (23.185.0.1): icmp_seq=28 ttl=54 time=28.5 ms
+[1607862803.158672] 40 bytes from 23.185.0.1 (23.185.0.1): icmp_seq=29 ttl=54 time=28.6 ms
+[1607862804.159647] 40 bytes from 23.185.0.1 (23.185.0.1): icmp_seq=30 ttl=54 time=28.5 ms
+[1607862805.158868] 40 bytes from 23.185.0.1 (23.185.0.1): icmp_seq=31 ttl=54 time=28.3 ms
+[1607862806.160704] 40 bytes from 23.185.0.1 (23.185.0.1): icmp_seq=32 ttl=54 time=28.6 ms
+[1607862817.166048] 40 bytes from 23.185.0.1: icmp_seq=33 ttl=54 time=28.4 ms
+[1607862817.196178] 40 bytes from 23.185.0.1 (23.185.0.1): icmp_seq=34 ttl=54 time=28.5 ms
+[1607862828.202095] 40 bytes from 23.185.0.1: icmp_seq=35 ttl=54 time=28.5 ms
+[1607862838.238068] 40 bytes from 23.185.0.1: icmp_seq=36 ttl=54 time=28.6 ms
+[1607862843.272173] 40 bytes from 23.185.0.1 (23.185.0.1): icmp_seq=37 ttl=54 time=28.6 ms
+[1607862843.302182] 40 bytes from 23.185.0.1 (23.185.0.1): icmp_seq=38 ttl=54 time=28.3 ms
+[1607862844.303108] 40 bytes from 23.185.0.1 (23.185.0.1): icmp_seq=39 ttl=54 time=27.6 ms
+[1607862845.304590] 40 bytes from 23.185.0.1 (23.185.0.1): icmp_seq=40 ttl=54 time=27.5 ms
+[1607862846.306469] 40 bytes from 23.185.0.1 (23.185.0.1): icmp_seq=41 ttl=54 time=27.8 ms
+[1607862847.307435] 40 bytes from 23.185.0.1 (23.185.0.1): icmp_seq=42 ttl=54 time=27.7 ms
+[1607862848.306948] 40 bytes from 23.185.0.1 (23.185.0.1): icmp_seq=43 ttl=54 time=27.9 ms
+[1607862859.314007] 40 bytes from 23.185.0.1: icmp_seq=44 ttl=54 time=28.2 ms
+[1607862864.348653] 40 bytes from 23.185.0.1 (23.185.0.1): icmp_seq=45 ttl=54 time=28.3 ms
+[1607862864.379413] 40 bytes from 23.185.0.1 (23.185.0.1): icmp_seq=46 ttl=54 time=28.4 ms
+[1607862865.379379] 40 bytes from 23.185.0.1 (23.185.0.1): icmp_seq=47 ttl=54 time=28.3 ms
+[1607862866.379944] 40 bytes from 23.185.0.1 (23.185.0.1): icmp_seq=48 ttl=54 time=28.0 ms
+[1607862867.382144] 40 bytes from 23.185.0.1 (23.185.0.1): icmp_seq=49 ttl=54 time=28.3 ms
+[1607862868.382562] 40 bytes from 23.185.0.1 (23.185.0.1): icmp_seq=50 ttl=54 time=28.4 ms
+
+--- arcadia.edu ping statistics ---
+50 packets transmitted, 50 received, 0% packet loss, time 167617ms
+rtt min/avg/max/mdev = 27.480/28.295/28.645/0.290 ms

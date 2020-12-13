@@ -1,0 +1,55 @@
+PING salem.edu (130.211.177.194) 32(60) bytes of data.
+[1607862695.488663] 40 bytes from 194.177.211.130.bc.googleusercontent.com (130.211.177.194): icmp_seq=1 ttl=49 time=121 ms
+[1607862696.163973] 40 bytes from 194.177.211.130.bc.googleusercontent.com (130.211.177.194): icmp_seq=2 ttl=49 time=121 ms
+[1607862697.164265] 40 bytes from 194.177.211.130.bc.googleusercontent.com (130.211.177.194): icmp_seq=3 ttl=49 time=120 ms
+[1607862698.165358] 40 bytes from 194.177.211.130.bc.googleusercontent.com (130.211.177.194): icmp_seq=4 ttl=49 time=121 ms
+[1607862699.167456] 40 bytes from 194.177.211.130.bc.googleusercontent.com (130.211.177.194): icmp_seq=5 ttl=49 time=121 ms
+[1607862710.174567] 40 bytes from 130.211.177.194: icmp_seq=6 ttl=49 time=121 ms
+[1607862710.296944] 40 bytes from 194.177.211.130.bc.googleusercontent.com (130.211.177.194): icmp_seq=7 ttl=49 time=120 ms
+[1607862721.302992] 40 bytes from 130.211.177.194: icmp_seq=8 ttl=49 time=121 ms
+[1607862721.426729] 40 bytes from 194.177.211.130.bc.googleusercontent.com (130.211.177.194): icmp_seq=9 ttl=49 time=121 ms
+[1607862722.426857] 40 bytes from 194.177.211.130.bc.googleusercontent.com (130.211.177.194): icmp_seq=10 ttl=49 time=120 ms
+[1607862723.429218] 40 bytes from 194.177.211.130.bc.googleusercontent.com (130.211.177.194): icmp_seq=11 ttl=49 time=121 ms
+[1607862724.429113] 40 bytes from 194.177.211.130.bc.googleusercontent.com (130.211.177.194): icmp_seq=12 ttl=49 time=121 ms
+[1607862735.434023] 40 bytes from 130.211.177.194: icmp_seq=13 ttl=49 time=120 ms
+[1607862740.560904] 40 bytes from 194.177.211.130.bc.googleusercontent.com (130.211.177.194): icmp_seq=14 ttl=49 time=121 ms
+[1607862740.683961] 40 bytes from 194.177.211.130.bc.googleusercontent.com (130.211.177.194): icmp_seq=15 ttl=49 time=121 ms
+[1607862741.684534] 40 bytes from 194.177.211.130.bc.googleusercontent.com (130.211.177.194): icmp_seq=16 ttl=49 time=121 ms
+[1607862742.685591] 40 bytes from 194.177.211.130.bc.googleusercontent.com (130.211.177.194): icmp_seq=17 ttl=49 time=121 ms
+[1607862743.688430] 40 bytes from 194.177.211.130.bc.googleusercontent.com (130.211.177.194): icmp_seq=18 ttl=49 time=123 ms
+[1607862744.687571] 40 bytes from 194.177.211.130.bc.googleusercontent.com (130.211.177.194): icmp_seq=19 ttl=49 time=121 ms
+[1607862745.687852] 40 bytes from 194.177.211.130.bc.googleusercontent.com (130.211.177.194): icmp_seq=20 ttl=49 time=121 ms
+[1607862746.688232] 40 bytes from 194.177.211.130.bc.googleusercontent.com (130.211.177.194): icmp_seq=21 ttl=49 time=121 ms
+[1607862747.690733] 40 bytes from 194.177.211.130.bc.googleusercontent.com (130.211.177.194): icmp_seq=22 ttl=49 time=121 ms
+[1607862748.689973] 40 bytes from 194.177.211.130.bc.googleusercontent.com (130.211.177.194): icmp_seq=23 ttl=49 time=121 ms
+[1607862749.690089] 40 bytes from 194.177.211.130.bc.googleusercontent.com (130.211.177.194): icmp_seq=24 ttl=49 time=121 ms
+[1607862750.690049] 40 bytes from 194.177.211.130.bc.googleusercontent.com (130.211.177.194): icmp_seq=25 ttl=49 time=121 ms
+[1607862756.691919] 40 bytes from 194.177.211.130.bc.googleusercontent.com (130.211.177.194): icmp_seq=26 ttl=49 time=122 ms
+[1607862756.814916] 40 bytes from 194.177.211.130.bc.googleusercontent.com (130.211.177.194): icmp_seq=27 ttl=49 time=121 ms
+[1607862757.814968] 40 bytes from 194.177.211.130.bc.googleusercontent.com (130.211.177.194): icmp_seq=28 ttl=49 time=121 ms
+[1607862758.816965] 40 bytes from 194.177.211.130.bc.googleusercontent.com (130.211.177.194): icmp_seq=29 ttl=49 time=121 ms
+[1607862759.817056] 40 bytes from 194.177.211.130.bc.googleusercontent.com (130.211.177.194): icmp_seq=30 ttl=49 time=121 ms
+[1607862770.822016] 40 bytes from 130.211.177.194: icmp_seq=31 ttl=49 time=121 ms
+[1607862780.950016] 40 bytes from 130.211.177.194: icmp_seq=32 ttl=49 time=121 ms
+[1607862781.073387] 40 bytes from 194.177.211.130.bc.googleusercontent.com (130.211.177.194): icmp_seq=33 ttl=49 time=121 ms
+[1607862792.078071] 40 bytes from 130.211.177.194: icmp_seq=34 ttl=49 time=121 ms
+[1607862802.210032] 40 bytes from 130.211.177.194: icmp_seq=35 ttl=49 time=122 ms
+[1607862802.333482] 40 bytes from 194.177.211.130.bc.googleusercontent.com (130.211.177.194): icmp_seq=36 ttl=49 time=121 ms
+[1607862803.337112] 40 bytes from 194.177.211.130.bc.googleusercontent.com (130.211.177.194): icmp_seq=37 ttl=49 time=121 ms
+[1607862804.335763] 40 bytes from 194.177.211.130.bc.googleusercontent.com (130.211.177.194): icmp_seq=38 ttl=49 time=121 ms
+[1607862805.336504] 40 bytes from 194.177.211.130.bc.googleusercontent.com (130.211.177.194): icmp_seq=39 ttl=49 time=121 ms
+[1607862806.336876] 40 bytes from 194.177.211.130.bc.googleusercontent.com (130.211.177.194): icmp_seq=40 ttl=49 time=121 ms
+[1607862807.338974] 40 bytes from 194.177.211.130.bc.googleusercontent.com (130.211.177.194): icmp_seq=41 ttl=49 time=121 ms
+[1607862808.338626] 40 bytes from 194.177.211.130.bc.googleusercontent.com (130.211.177.194): icmp_seq=42 ttl=49 time=121 ms
+[1607862809.338726] 40 bytes from 194.177.211.130.bc.googleusercontent.com (130.211.177.194): icmp_seq=43 ttl=49 time=121 ms
+[1607862810.337701] 40 bytes from 194.177.211.130.bc.googleusercontent.com (130.211.177.194): icmp_seq=44 ttl=49 time=120 ms
+[1607862811.338475] 40 bytes from 194.177.211.130.bc.googleusercontent.com (130.211.177.194): icmp_seq=45 ttl=49 time=121 ms
+[1607862822.342010] 40 bytes from 130.211.177.194: icmp_seq=46 ttl=49 time=121 ms
+[1607862822.465698] 40 bytes from 194.177.211.130.bc.googleusercontent.com (130.211.177.194): icmp_seq=47 ttl=49 time=121 ms
+[1607862823.465535] 40 bytes from 194.177.211.130.bc.googleusercontent.com (130.211.177.194): icmp_seq=48 ttl=49 time=121 ms
+[1607862824.464471] 40 bytes from 194.177.211.130.bc.googleusercontent.com (130.211.177.194): icmp_seq=49 ttl=49 time=121 ms
+[1607862825.465590] 40 bytes from 194.177.211.130.bc.googleusercontent.com (130.211.177.194): icmp_seq=50 ttl=49 time=121 ms
+
+--- salem.edu ping statistics ---
+50 packets transmitted, 50 received, 0% packet loss, time 130302ms
+rtt min/avg/max/mdev = 120.304/121.132/123.255/0.454 ms

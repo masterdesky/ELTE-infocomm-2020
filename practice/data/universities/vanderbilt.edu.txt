@@ -1,0 +1,54 @@
+PING vanderbilt.edu (75.2.77.85) 32(60) bytes of data.
+[1607862706.791500] 40 bytes from a51c545f536ac3e2f.awsglobalaccelerator.com (75.2.77.85): icmp_seq=1 ttl=116 time=25.6 ms
+[1607862712.795400] 40 bytes from a51c545f536ac3e2f.awsglobalaccelerator.com (75.2.77.85): icmp_seq=2 ttl=116 time=25.6 ms
+[1607862712.823071] 40 bytes from a51c545f536ac3e2f.awsglobalaccelerator.com (75.2.77.85): icmp_seq=3 ttl=116 time=25.6 ms
+[1607862713.824594] 40 bytes from a51c545f536ac3e2f.awsglobalaccelerator.com (75.2.77.85): icmp_seq=4 ttl=116 time=25.4 ms
+[1607862714.825851] 40 bytes from a51c545f536ac3e2f.awsglobalaccelerator.com (75.2.77.85): icmp_seq=5 ttl=116 time=25.6 ms
+[1607862715.825929] 40 bytes from a51c545f536ac3e2f.awsglobalaccelerator.com (75.2.77.85): icmp_seq=6 ttl=116 time=25.5 ms
+[1607862716.826480] 40 bytes from a51c545f536ac3e2f.awsglobalaccelerator.com (75.2.77.85): icmp_seq=7 ttl=116 time=25.4 ms
+[1607862717.826186] 40 bytes from a51c545f536ac3e2f.awsglobalaccelerator.com (75.2.77.85): icmp_seq=8 ttl=116 time=24.9 ms
+[1607862718.825659] 40 bytes from a51c545f536ac3e2f.awsglobalaccelerator.com (75.2.77.85): icmp_seq=9 ttl=116 time=25.2 ms
+[1607862719.824925] 40 bytes from a51c545f536ac3e2f.awsglobalaccelerator.com (75.2.77.85): icmp_seq=10 ttl=116 time=24.9 ms
+[1607862720.825105] 40 bytes from a51c545f536ac3e2f.awsglobalaccelerator.com (75.2.77.85): icmp_seq=11 ttl=116 time=25.2 ms
+[1607862721.825067] 40 bytes from a51c545f536ac3e2f.awsglobalaccelerator.com (75.2.77.85): icmp_seq=12 ttl=116 time=25.2 ms
+[1607862722.826397] 40 bytes from a51c545f536ac3e2f.awsglobalaccelerator.com (75.2.77.85): icmp_seq=13 ttl=116 time=25.2 ms
+[1607862723.826272] 40 bytes from a51c545f536ac3e2f.awsglobalaccelerator.com (75.2.77.85): icmp_seq=14 ttl=116 time=25.6 ms
+[1607862724.826419] 40 bytes from a51c545f536ac3e2f.awsglobalaccelerator.com (75.2.77.85): icmp_seq=15 ttl=116 time=25.6 ms
+[1607862725.825805] 40 bytes from a51c545f536ac3e2f.awsglobalaccelerator.com (75.2.77.85): icmp_seq=16 ttl=116 time=25.6 ms
+[1607862726.825517] 40 bytes from a51c545f536ac3e2f.awsglobalaccelerator.com (75.2.77.85): icmp_seq=17 ttl=116 time=25.4 ms
+[1607862727.825696] 40 bytes from a51c545f536ac3e2f.awsglobalaccelerator.com (75.2.77.85): icmp_seq=18 ttl=116 time=25.5 ms
+[1607862728.825746] 40 bytes from a51c545f536ac3e2f.awsglobalaccelerator.com (75.2.77.85): icmp_seq=19 ttl=116 time=25.5 ms
+[1607862730.824985] 40 bytes from a51c545f536ac3e2f.awsglobalaccelerator.com (75.2.77.85): icmp_seq=21 ttl=116 time=25.4 ms
+[1607862741.830034] 40 bytes from 75.2.77.85: icmp_seq=22 ttl=116 time=25.6 ms
+[1607862741.856446] 40 bytes from a51c545f536ac3e2f.awsglobalaccelerator.com (75.2.77.85): icmp_seq=23 ttl=116 time=25.0 ms
+[1607862742.859040] 40 bytes from a51c545f536ac3e2f.awsglobalaccelerator.com (75.2.77.85): icmp_seq=24 ttl=116 time=25.5 ms
+[1607862743.859598] 40 bytes from a51c545f536ac3e2f.awsglobalaccelerator.com (75.2.77.85): icmp_seq=25 ttl=116 time=25.4 ms
+[1607862754.866045] 40 bytes from 75.2.77.85: icmp_seq=26 ttl=116 time=25.3 ms
+[1607862764.898027] 40 bytes from 75.2.77.85: icmp_seq=27 ttl=116 time=24.6 ms
+[1607862764.925314] 40 bytes from a51c545f536ac3e2f.awsglobalaccelerator.com (75.2.77.85): icmp_seq=28 ttl=116 time=25.3 ms
+[1607862775.930000] 40 bytes from 75.2.77.85: icmp_seq=29 ttl=116 time=25.2 ms
+[1607862785.962284] 40 bytes from 75.2.77.85: icmp_seq=30 ttl=116 time=24.7 ms
+[1607862790.991806] 40 bytes from a51c545f536ac3e2f.awsglobalaccelerator.com (75.2.77.85): icmp_seq=31 ttl=116 time=25.4 ms
+[1607862791.019353] 40 bytes from a51c545f536ac3e2f.awsglobalaccelerator.com (75.2.77.85): icmp_seq=32 ttl=116 time=25.3 ms
+[1607862792.018580] 40 bytes from a51c545f536ac3e2f.awsglobalaccelerator.com (75.2.77.85): icmp_seq=33 ttl=116 time=25.4 ms
+[1607862793.020131] 40 bytes from a51c545f536ac3e2f.awsglobalaccelerator.com (75.2.77.85): icmp_seq=34 ttl=116 time=25.6 ms
+[1607862794.019922] 40 bytes from a51c545f536ac3e2f.awsglobalaccelerator.com (75.2.77.85): icmp_seq=35 ttl=116 time=25.5 ms
+[1607862795.019658] 40 bytes from a51c545f536ac3e2f.awsglobalaccelerator.com (75.2.77.85): icmp_seq=36 ttl=116 time=25.3 ms
+[1607862796.020539] 40 bytes from a51c545f536ac3e2f.awsglobalaccelerator.com (75.2.77.85): icmp_seq=37 ttl=116 time=25.6 ms
+[1607862807.026035] 40 bytes from 75.2.77.85: icmp_seq=38 ttl=116 time=25.2 ms
+[1607862807.053549] 40 bytes from a51c545f536ac3e2f.awsglobalaccelerator.com (75.2.77.85): icmp_seq=39 ttl=116 time=25.5 ms
+[1607862808.054896] 40 bytes from a51c545f536ac3e2f.awsglobalaccelerator.com (75.2.77.85): icmp_seq=40 ttl=116 time=25.5 ms
+[1607862809.055908] 40 bytes from a51c545f536ac3e2f.awsglobalaccelerator.com (75.2.77.85): icmp_seq=41 ttl=116 time=25.6 ms
+[1607862810.057492] 40 bytes from a51c545f536ac3e2f.awsglobalaccelerator.com (75.2.77.85): icmp_seq=42 ttl=116 time=25.5 ms
+[1607862811.059801] 40 bytes from a51c545f536ac3e2f.awsglobalaccelerator.com (75.2.77.85): icmp_seq=43 ttl=116 time=25.6 ms
+[1607862817.064400] 40 bytes from a51c545f536ac3e2f.awsglobalaccelerator.com (75.2.77.85): icmp_seq=44 ttl=116 time=25.4 ms
+[1607862817.091868] 40 bytes from a51c545f536ac3e2f.awsglobalaccelerator.com (75.2.77.85): icmp_seq=45 ttl=116 time=25.5 ms
+[1607862828.098025] 40 bytes from 75.2.77.85: icmp_seq=46 ttl=116 time=25.4 ms
+[1607862828.125412] 40 bytes from a51c545f536ac3e2f.awsglobalaccelerator.com (75.2.77.85): icmp_seq=47 ttl=116 time=25.7 ms
+[1607862829.126016] 40 bytes from a51c545f536ac3e2f.awsglobalaccelerator.com (75.2.77.85): icmp_seq=48 ttl=116 time=25.4 ms
+[1607862830.125941] 40 bytes from a51c545f536ac3e2f.awsglobalaccelerator.com (75.2.77.85): icmp_seq=49 ttl=116 time=25.1 ms
+[1607862831.127936] 40 bytes from a51c545f536ac3e2f.awsglobalaccelerator.com (75.2.77.85): icmp_seq=50 ttl=116 time=25.6 ms
+
+--- vanderbilt.edu ping statistics ---
+50 packets transmitted, 49 received, 2% packet loss, time 124336ms
+rtt min/avg/max/mdev = 24.597/25.376/25.732/0.244 ms

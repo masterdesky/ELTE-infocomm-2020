@@ -1,0 +1,55 @@
+PING ati.edu (67.20.112.130) 32(60) bytes of data.
+[1607862688.944420] 40 bytes from host2054.hostmonster.com (67.20.112.130): icmp_seq=1 ttl=50 time=164 ms
+[1607862694.947892] 40 bytes from host2054.hostmonster.com (67.20.112.130): icmp_seq=2 ttl=50 time=164 ms
+[1607862700.115880] 40 bytes from host2054.hostmonster.com (67.20.112.130): icmp_seq=3 ttl=50 time=163 ms
+[1607862710.286241] 40 bytes from 67.20.112.130: icmp_seq=4 ttl=50 time=163 ms
+[1607862715.456292] 40 bytes from host2054.hostmonster.com (67.20.112.130): icmp_seq=5 ttl=50 time=163 ms
+[1607862715.622306] 40 bytes from host2054.hostmonster.com (67.20.112.130): icmp_seq=6 ttl=50 time=163 ms
+[1607862721.628232] 40 bytes from host2054.hostmonster.com (67.20.112.130): icmp_seq=7 ttl=50 time=164 ms
+[1607862721.794023] 40 bytes from host2054.hostmonster.com (67.20.112.130): icmp_seq=8 ttl=50 time=163 ms
+[1607862722.795830] 40 bytes from host2054.hostmonster.com (67.20.112.130): icmp_seq=9 ttl=50 time=164 ms
+[1607862723.795941] 40 bytes from host2054.hostmonster.com (67.20.112.130): icmp_seq=10 ttl=50 time=163 ms
+[1607862724.794710] 40 bytes from host2054.hostmonster.com (67.20.112.130): icmp_seq=11 ttl=50 time=164 ms
+[1607862725.795172] 40 bytes from host2054.hostmonster.com (67.20.112.130): icmp_seq=12 ttl=50 time=163 ms
+[1607862736.798009] 40 bytes from 67.20.112.130: icmp_seq=13 ttl=50 time=163 ms
+[1607862736.964760] 40 bytes from host2054.hostmonster.com (67.20.112.130): icmp_seq=14 ttl=50 time=164 ms
+[1607862737.963168] 40 bytes from host2054.hostmonster.com (67.20.112.130): icmp_seq=15 ttl=50 time=164 ms
+[1607862738.963485] 40 bytes from host2054.hostmonster.com (67.20.112.130): icmp_seq=16 ttl=50 time=164 ms
+[1607862744.963722] 40 bytes from host2054.hostmonster.com (67.20.112.130): icmp_seq=17 ttl=50 time=164 ms
+[1607862745.130271] 40 bytes from host2054.hostmonster.com (67.20.112.130): icmp_seq=18 ttl=50 time=164 ms
+[1607862746.129701] 40 bytes from host2054.hostmonster.com (67.20.112.130): icmp_seq=19 ttl=50 time=163 ms
+[1607862747.130158] 40 bytes from host2054.hostmonster.com (67.20.112.130): icmp_seq=20 ttl=50 time=164 ms
+[1607862748.131177] 40 bytes from host2054.hostmonster.com (67.20.112.130): icmp_seq=21 ttl=50 time=164 ms
+[1607862749.131000] 40 bytes from host2054.hostmonster.com (67.20.112.130): icmp_seq=22 ttl=50 time=164 ms
+[1607862760.134067] 40 bytes from 67.20.112.130: icmp_seq=23 ttl=50 time=164 ms
+[1607862770.314025] 40 bytes from 67.20.112.130: icmp_seq=24 ttl=50 time=171 ms
+[1607862770.486343] 40 bytes from host2054.hostmonster.com (67.20.112.130): icmp_seq=25 ttl=50 time=170 ms
+[1607862771.481063] 40 bytes from host2054.hostmonster.com (67.20.112.130): icmp_seq=26 ttl=50 time=164 ms
+[1607862777.484105] 40 bytes from host2054.hostmonster.com (67.20.112.130): icmp_seq=27 ttl=50 time=164 ms
+[1607862787.654093] 40 bytes from 67.20.112.130: icmp_seq=28 ttl=50 time=163 ms
+[1607862792.823825] 40 bytes from host2054.hostmonster.com (67.20.112.130): icmp_seq=29 ttl=50 time=164 ms
+[1607862792.990329] 40 bytes from host2054.hostmonster.com (67.20.112.130): icmp_seq=30 ttl=50 time=164 ms
+[1607862793.990659] 40 bytes from host2054.hostmonster.com (67.20.112.130): icmp_seq=31 ttl=50 time=164 ms
+[1607862794.991775] 40 bytes from host2054.hostmonster.com (67.20.112.130): icmp_seq=32 ttl=50 time=164 ms
+[1607862795.993193] 40 bytes from host2054.hostmonster.com (67.20.112.130): icmp_seq=33 ttl=50 time=163 ms
+[1607862796.993405] 40 bytes from host2054.hostmonster.com (67.20.112.130): icmp_seq=34 ttl=50 time=164 ms
+[1607862797.992796] 40 bytes from host2054.hostmonster.com (67.20.112.130): icmp_seq=35 ttl=50 time=164 ms
+[1607862798.992524] 40 bytes from host2054.hostmonster.com (67.20.112.130): icmp_seq=36 ttl=50 time=164 ms
+[1607862799.991136] 40 bytes from host2054.hostmonster.com (67.20.112.130): icmp_seq=37 ttl=50 time=164 ms
+[1607862800.991647] 40 bytes from host2054.hostmonster.com (67.20.112.130): icmp_seq=38 ttl=50 time=164 ms
+[1607862811.994079] 40 bytes from 67.20.112.130: icmp_seq=39 ttl=50 time=164 ms
+[1607862817.164162] 40 bytes from host2054.hostmonster.com (67.20.112.130): icmp_seq=40 ttl=50 time=164 ms
+[1607862822.333737] 40 bytes from host2054.hostmonster.com (67.20.112.130): icmp_seq=41 ttl=50 time=163 ms
+[1607862822.498944] 40 bytes from host2054.hostmonster.com (67.20.112.130): icmp_seq=42 ttl=50 time=164 ms
+[1607862833.502104] 40 bytes from 67.20.112.130: icmp_seq=43 ttl=50 time=163 ms
+[1607862843.674019] 40 bytes from 67.20.112.130: icmp_seq=44 ttl=50 time=164 ms
+[1607862848.843984] 40 bytes from host2054.hostmonster.com (67.20.112.130): icmp_seq=45 ttl=50 time=164 ms
+[1607862859.013996] 40 bytes from 67.20.112.130: icmp_seq=46 ttl=50 time=164 ms
+[1607862859.179647] 40 bytes from host2054.hostmonster.com (67.20.112.130): icmp_seq=47 ttl=50 time=164 ms
+[1607862865.183874] 40 bytes from host2054.hostmonster.com (67.20.112.130): icmp_seq=48 ttl=50 time=163 ms
+[1607862865.349548] 40 bytes from host2054.hostmonster.com (67.20.112.130): icmp_seq=49 ttl=50 time=164 ms
+[1607862866.351052] 40 bytes from host2054.hostmonster.com (67.20.112.130): icmp_seq=50 ttl=50 time=164 ms
+
+--- ati.edu ping statistics ---
+50 packets transmitted, 50 received, 0% packet loss, time 177407ms
+rtt min/avg/max/mdev = 162.783/163.851/170.635/1.345 ms

@@ -1,0 +1,54 @@
+PING cnm.edu (198.133.182.40) 32(60) bytes of data.
+[1607862714.070407] 40 bytes from 198.133.182.40: icmp_seq=1 ttl=41 time=156 ms
+[1607862719.252739] 40 bytes from 198.133.182.40: icmp_seq=2 ttl=41 time=155 ms
+[1607862729.415078] 40 bytes from 198.133.182.40: icmp_seq=3 ttl=41 time=156 ms
+[1607862740.578212] 40 bytes from 198.133.182.40: icmp_seq=5 ttl=41 time=155 ms
+[1607862745.740033] 40 bytes from 198.133.182.40: icmp_seq=6 ttl=41 time=155 ms
+[1607862750.902033] 40 bytes from 198.133.182.40: icmp_seq=7 ttl=41 time=155 ms
+[1607862756.063888] 40 bytes from 198.133.182.40: icmp_seq=8 ttl=41 time=155 ms
+[1607862761.226162] 40 bytes from 198.133.182.40: icmp_seq=9 ttl=41 time=155 ms
+[1607862766.388867] 40 bytes from 198.133.182.40: icmp_seq=10 ttl=41 time=155 ms
+[1607862771.550072] 40 bytes from 198.133.182.40: icmp_seq=11 ttl=41 time=156 ms
+[1607862781.714042] 40 bytes from 198.133.182.40: icmp_seq=12 ttl=41 time=155 ms
+[1607862791.878174] 40 bytes from 198.133.182.40: icmp_seq=13 ttl=41 time=156 ms
+[1607862797.038266] 40 bytes from 198.133.182.40: icmp_seq=14 ttl=41 time=156 ms
+[1607862807.202018] 40 bytes from 198.133.182.40: icmp_seq=15 ttl=41 time=155 ms
+[1607862812.362048] 40 bytes from 198.133.182.40: icmp_seq=16 ttl=41 time=155 ms
+[1607862817.524030] 40 bytes from 198.133.182.40: icmp_seq=17 ttl=41 time=155 ms
+[1607862827.686142] 40 bytes from 198.133.182.40: icmp_seq=18 ttl=41 time=156 ms
+[1607862832.847964] 40 bytes from 198.133.182.40: icmp_seq=19 ttl=41 time=156 ms
+[1607862838.007741] 40 bytes from 198.133.182.40: icmp_seq=20 ttl=41 time=156 ms
+[1607862843.167289] 40 bytes from 198.133.182.40: icmp_seq=21 ttl=41 time=155 ms
+[1607862843.325631] 40 bytes from 198.133.182.40: icmp_seq=22 ttl=41 time=155 ms
+[1607862854.330053] 40 bytes from 198.133.182.40: icmp_seq=23 ttl=41 time=156 ms
+[1607862864.494036] 40 bytes from 198.133.182.40: icmp_seq=24 ttl=41 time=156 ms
+[1607862869.655669] 40 bytes from 198.133.182.40: icmp_seq=25 ttl=41 time=155 ms
+[1607862869.814826] 40 bytes from 198.133.182.40: icmp_seq=26 ttl=41 time=155 ms
+[1607862875.818092] 40 bytes from 198.133.182.40: icmp_seq=27 ttl=41 time=155 ms
+[1607862880.978089] 40 bytes from 198.133.182.40: icmp_seq=28 ttl=41 time=155 ms
+[1607862881.137256] 40 bytes from 198.133.182.40: icmp_seq=29 ttl=41 time=155 ms
+[1607862882.136863] 40 bytes from 198.133.182.40: icmp_seq=30 ttl=41 time=155 ms
+[1607862883.136511] 40 bytes from 198.133.182.40: icmp_seq=31 ttl=41 time=155 ms
+[1607862884.136113] 40 bytes from 198.133.182.40: icmp_seq=32 ttl=41 time=155 ms
+[1607862885.135796] 40 bytes from 198.133.182.40: icmp_seq=33 ttl=41 time=155 ms
+[1607862886.135207] 40 bytes from 198.133.182.40: icmp_seq=34 ttl=41 time=155 ms
+[1607862887.134241] 40 bytes from 198.133.182.40: icmp_seq=35 ttl=41 time=155 ms
+[1607862888.134662] 40 bytes from 198.133.182.40: icmp_seq=36 ttl=41 time=155 ms
+[1607862889.134295] 40 bytes from 198.133.182.40: icmp_seq=37 ttl=41 time=155 ms
+[1607862890.135131] 40 bytes from 198.133.182.40: icmp_seq=38 ttl=41 time=156 ms
+[1607862891.137684] 40 bytes from 198.133.182.40: icmp_seq=39 ttl=41 time=155 ms
+[1607862892.135728] 40 bytes from 198.133.182.40: icmp_seq=40 ttl=41 time=155 ms
+[1607862893.135319] 40 bytes from 198.133.182.40: icmp_seq=41 ttl=41 time=155 ms
+[1607862894.134661] 40 bytes from 198.133.182.40: icmp_seq=42 ttl=41 time=156 ms
+[1607862895.134878] 40 bytes from 198.133.182.40: icmp_seq=43 ttl=41 time=155 ms
+[1607862896.135325] 40 bytes from 198.133.182.40: icmp_seq=44 ttl=41 time=155 ms
+[1607862897.135829] 40 bytes from 198.133.182.40: icmp_seq=45 ttl=41 time=155 ms
+[1607862898.136019] 40 bytes from 198.133.182.40: icmp_seq=46 ttl=41 time=155 ms
+[1607862899.135725] 40 bytes from 198.133.182.40: icmp_seq=47 ttl=41 time=155 ms
+[1607862900.136835] 40 bytes from 198.133.182.40: icmp_seq=48 ttl=41 time=155 ms
+[1607862901.136948] 40 bytes from 198.133.182.40: icmp_seq=49 ttl=41 time=155 ms
+[1607862902.137584] 40 bytes from 198.133.182.40: icmp_seq=50 ttl=41 time=155 ms
+
+--- cnm.edu ping statistics ---
+50 packets transmitted, 49 received, 2% packet loss, time 194216ms
+rtt min/avg/max/mdev = 154.619/155.320/155.821/0.251 ms

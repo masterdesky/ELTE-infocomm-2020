@@ -1,0 +1,55 @@
+PING scad.edu (104.18.28.24) 32(60) bytes of data.
+[1607862683.050023] 40 bytes from 104.18.28.24: icmp_seq=1 ttl=52 time=2.14 ms
+[1607862683.054975] 40 bytes from 104.18.28.24 (104.18.28.24): icmp_seq=2 ttl=52 time=2.42 ms
+[1607862684.055796] 40 bytes from 104.18.28.24 (104.18.28.24): icmp_seq=3 ttl=52 time=2.24 ms
+[1607862695.066131] 40 bytes from 104.18.28.24: icmp_seq=4 ttl=52 time=2.30 ms
+[1607862695.070560] 40 bytes from 104.18.28.24 (104.18.28.24): icmp_seq=5 ttl=52 time=2.29 ms
+[1607862701.075216] 40 bytes from 104.18.28.24 (104.18.28.24): icmp_seq=6 ttl=52 time=2.00 ms
+[1607862706.084029] 40 bytes from 104.18.28.24 (104.18.28.24): icmp_seq=7 ttl=52 time=1.54 ms
+[1607862716.095311] 40 bytes from 104.18.28.24: icmp_seq=8 ttl=52 time=2.18 ms
+[1607862721.103943] 40 bytes from 104.18.28.24 (104.18.28.24): icmp_seq=9 ttl=52 time=2.23 ms
+[1607862731.114010] 40 bytes from 104.18.28.24: icmp_seq=10 ttl=52 time=2.39 ms
+[1607862741.126037] 40 bytes from 104.18.28.24: icmp_seq=11 ttl=52 time=2.34 ms
+[1607862741.130408] 40 bytes from 104.18.28.24 (104.18.28.24): icmp_seq=12 ttl=52 time=2.12 ms
+[1607862747.135150] 40 bytes from 104.18.28.24 (104.18.28.24): icmp_seq=13 ttl=52 time=1.32 ms
+[1607862757.146006] 40 bytes from 104.18.28.24: icmp_seq=14 ttl=52 time=1.93 ms
+[1607862767.154143] 40 bytes from 104.18.28.24: icmp_seq=15 ttl=52 time=2.49 ms
+[1607862772.163796] 40 bytes from 104.18.28.24 (104.18.28.24): icmp_seq=16 ttl=52 time=2.54 ms
+[1607862772.168296] 40 bytes from 104.18.28.24 (104.18.28.24): icmp_seq=17 ttl=52 time=2.03 ms
+[1607862773.168444] 40 bytes from 104.18.28.24 (104.18.28.24): icmp_seq=18 ttl=52 time=2.41 ms
+[1607862774.167031] 40 bytes from 104.18.28.24 (104.18.28.24): icmp_seq=19 ttl=52 time=2.26 ms
+[1607862775.164866] 40 bytes from 104.18.28.24 (104.18.28.24): icmp_seq=20 ttl=52 time=1.62 ms
+[1607862786.170011] 40 bytes from 104.18.28.24: icmp_seq=21 ttl=52 time=2.20 ms
+[1607862786.174186] 40 bytes from 104.18.28.24 (104.18.28.24): icmp_seq=22 ttl=52 time=2.25 ms
+[1607862787.174098] 40 bytes from 104.18.28.24 (104.18.28.24): icmp_seq=23 ttl=52 time=2.46 ms
+[1607862788.174747] 40 bytes from 104.18.28.24 (104.18.28.24): icmp_seq=24 ttl=52 time=2.36 ms
+[1607862789.175914] 40 bytes from 104.18.28.24 (104.18.28.24): icmp_seq=25 ttl=52 time=2.27 ms
+[1607862790.177012] 40 bytes from 104.18.28.24 (104.18.28.24): icmp_seq=26 ttl=52 time=2.08 ms
+[1607862796.180028] 40 bytes from 104.18.28.24 (104.18.28.24): icmp_seq=27 ttl=52 time=2.18 ms
+[1607862796.183912] 40 bytes from 104.18.28.24 (104.18.28.24): icmp_seq=28 ttl=52 time=1.71 ms
+[1607862797.184409] 40 bytes from 104.18.28.24 (104.18.28.24): icmp_seq=29 ttl=52 time=2.29 ms
+[1607862798.185710] 40 bytes from 104.18.28.24 (104.18.28.24): icmp_seq=30 ttl=52 time=2.43 ms
+[1607862799.186471] 40 bytes from 104.18.28.24 (104.18.28.24): icmp_seq=31 ttl=52 time=1.97 ms
+[1607862800.187396] 40 bytes from 104.18.28.24 (104.18.28.24): icmp_seq=32 ttl=52 time=2.15 ms
+[1607862801.189194] 40 bytes from 104.18.28.24 (104.18.28.24): icmp_seq=33 ttl=52 time=2.51 ms
+[1607862802.189125] 40 bytes from 104.18.28.24 (104.18.28.24): icmp_seq=34 ttl=52 time=2.35 ms
+[1607862803.189735] 40 bytes from 104.18.28.24 (104.18.28.24): icmp_seq=35 ttl=52 time=1.35 ms
+[1607862804.191616] 40 bytes from 104.18.28.24 (104.18.28.24): icmp_seq=36 ttl=52 time=2.22 ms
+[1607862805.191783] 40 bytes from 104.18.28.24 (104.18.28.24): icmp_seq=37 ttl=52 time=2.21 ms
+[1607862806.193242] 40 bytes from 104.18.28.24 (104.18.28.24): icmp_seq=38 ttl=52 time=2.34 ms
+[1607862807.194416] 40 bytes from 104.18.28.24 (104.18.28.24): icmp_seq=39 ttl=52 time=2.17 ms
+[1607862808.194433] 40 bytes from 104.18.28.24 (104.18.28.24): icmp_seq=40 ttl=52 time=2.60 ms
+[1607862809.193865] 40 bytes from 104.18.28.24 (104.18.28.24): icmp_seq=41 ttl=52 time=2.07 ms
+[1607862810.193376] 40 bytes from 104.18.28.24 (104.18.28.24): icmp_seq=42 ttl=52 time=1.56 ms
+[1607862811.193724] 40 bytes from 104.18.28.24 (104.18.28.24): icmp_seq=43 ttl=52 time=2.38 ms
+[1607862817.195521] 40 bytes from 104.18.28.24 (104.18.28.24): icmp_seq=44 ttl=52 time=1.89 ms
+[1607862817.199183] 40 bytes from 104.18.28.24 (104.18.28.24): icmp_seq=45 ttl=52 time=1.43 ms
+[1607862823.203747] 40 bytes from 104.18.28.24 (104.18.28.24): icmp_seq=46 ttl=52 time=2.07 ms
+[1607862833.214008] 40 bytes from 104.18.28.24: icmp_seq=47 ttl=52 time=1.49 ms
+[1607862843.222081] 40 bytes from 104.18.28.24: icmp_seq=48 ttl=52 time=2.25 ms
+[1607862843.226898] 40 bytes from 104.18.28.24 (104.18.28.24): icmp_seq=49 ttl=52 time=2.30 ms
+[1607862844.227541] 40 bytes from 104.18.28.24 (104.18.28.24): icmp_seq=50 ttl=52 time=2.05 ms
+
+--- scad.edu ping statistics ---
+50 packets transmitted, 50 received, 0% packet loss, time 171186ms
+rtt min/avg/max/mdev = 1.317/2.126/2.598/0.316 ms

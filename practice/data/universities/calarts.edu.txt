@@ -1,0 +1,55 @@
+PING calarts.edu (198.182.157.167) 32(60) bytes of data.
+[1607862689.025571] 40 bytes from waf-167.calarts.edu (198.182.157.167): icmp_seq=1 ttl=46 time=173 ms
+[1607862699.210007] 40 bytes from 198.182.157.167: icmp_seq=2 ttl=46 time=173 ms
+[1607862704.388528] 40 bytes from calarts.edu (198.182.157.167): icmp_seq=3 ttl=46 time=173 ms
+[1607862714.570004] 40 bytes from 198.182.157.167: icmp_seq=4 ttl=46 time=173 ms
+[1607862714.745128] 40 bytes from waf-167.calarts.edu (198.182.157.167): icmp_seq=5 ttl=46 time=173 ms
+[1607862720.747757] 40 bytes from waf-167.calarts.edu (198.182.157.167): icmp_seq=6 ttl=46 time=173 ms
+[1607862730.934206] 40 bytes from 198.182.157.167: icmp_seq=7 ttl=46 time=173 ms
+[1607862731.110241] 40 bytes from waf-167.calarts.edu (198.182.157.167): icmp_seq=8 ttl=46 time=174 ms
+[1607862737.111841] 40 bytes from calarts.edu (198.182.157.167): icmp_seq=9 ttl=46 time=173 ms
+[1607862747.294171] 40 bytes from 198.182.157.167: icmp_seq=10 ttl=46 time=173 ms
+[1607862747.470360] 40 bytes from waf-167.calarts.edu (198.182.157.167): icmp_seq=11 ttl=46 time=174 ms
+[1607862748.469884] 40 bytes from waf-167.calarts.edu (198.182.157.167): icmp_seq=12 ttl=46 time=174 ms
+[1607862749.471450] 40 bytes from waf-167.calarts.edu (198.182.157.167): icmp_seq=13 ttl=46 time=173 ms
+[1607862760.479171] 40 bytes from 198.182.157.167: icmp_seq=14 ttl=46 time=173 ms
+[1607862770.662048] 40 bytes from 198.182.157.167: icmp_seq=15 ttl=46 time=174 ms
+[1607862770.837467] 40 bytes from waf-167.calarts.edu (198.182.157.167): icmp_seq=16 ttl=46 time=173 ms
+[1607862771.836287] 40 bytes from waf-167.calarts.edu (198.182.157.167): icmp_seq=17 ttl=46 time=173 ms
+[1607862772.836333] 40 bytes from calarts.edu (198.182.157.167): icmp_seq=18 ttl=46 time=174 ms
+[1607862773.835916] 40 bytes from alum.calarts.edu (198.182.157.167): icmp_seq=19 ttl=46 time=173 ms
+[1607862774.835076] 40 bytes from alum.calarts.edu (198.182.157.167): icmp_seq=20 ttl=46 time=173 ms
+[1607862775.835093] 40 bytes from calarts.edu (198.182.157.167): icmp_seq=21 ttl=46 time=173 ms
+[1607862776.835619] 40 bytes from waf-167.calarts.edu (198.182.157.167): icmp_seq=22 ttl=46 time=173 ms
+[1607862777.835952] 40 bytes from waf-167.calarts.edu (198.182.157.167): icmp_seq=23 ttl=46 time=174 ms
+[1607862778.835842] 40 bytes from waf-167.calarts.edu (198.182.157.167): icmp_seq=24 ttl=46 time=174 ms
+[1607862779.836399] 40 bytes from calarts.edu (198.182.157.167): icmp_seq=25 ttl=46 time=174 ms
+[1607862780.834907] 40 bytes from calarts.edu (198.182.157.167): icmp_seq=26 ttl=46 time=173 ms
+[1607862781.835008] 40 bytes from calarts.edu (198.182.157.167): icmp_seq=27 ttl=46 time=173 ms
+[1607862782.833952] 40 bytes from calarts.edu (198.182.157.167): icmp_seq=28 ttl=46 time=172 ms
+[1607862783.836584] 40 bytes from waf-167.calarts.edu (198.182.157.167): icmp_seq=29 ttl=46 time=173 ms
+[1607862784.837174] 40 bytes from calarts.edu (198.182.157.167): icmp_seq=30 ttl=46 time=173 ms
+[1607862785.837329] 40 bytes from alum.calarts.edu (198.182.157.167): icmp_seq=31 ttl=46 time=172 ms
+[1607862796.842078] 40 bytes from 198.182.157.167: icmp_seq=32 ttl=46 time=173 ms
+[1607862797.017538] 40 bytes from waf-167.calarts.edu (198.182.157.167): icmp_seq=33 ttl=46 time=173 ms
+[1607862798.016923] 40 bytes from alum.calarts.edu (198.182.157.167): icmp_seq=34 ttl=46 time=173 ms
+[1607862799.016582] 40 bytes from alum.calarts.edu (198.182.157.167): icmp_seq=35 ttl=46 time=174 ms
+[1607862800.017337] 40 bytes from calarts.edu (198.182.157.167): icmp_seq=36 ttl=46 time=174 ms
+[1607862801.016175] 40 bytes from waf-167.calarts.edu (198.182.157.167): icmp_seq=37 ttl=46 time=174 ms
+[1607862802.015327] 40 bytes from alum.calarts.edu (198.182.157.167): icmp_seq=38 ttl=46 time=173 ms
+[1607862803.015367] 40 bytes from calarts.edu (198.182.157.167): icmp_seq=39 ttl=46 time=173 ms
+[1607862804.013386] 40 bytes from calarts.edu (198.182.157.167): icmp_seq=40 ttl=46 time=173 ms
+[1607862805.015735] 40 bytes from calarts.edu (198.182.157.167): icmp_seq=41 ttl=46 time=173 ms
+[1607862806.015049] 40 bytes from alum.calarts.edu (198.182.157.167): icmp_seq=42 ttl=46 time=175 ms
+[1607862807.013271] 40 bytes from alum.calarts.edu (198.182.157.167): icmp_seq=43 ttl=46 time=173 ms
+[1607862808.013518] 40 bytes from alum.calarts.edu (198.182.157.167): icmp_seq=44 ttl=46 time=173 ms
+[1607862809.013664] 40 bytes from waf-167.calarts.edu (198.182.157.167): icmp_seq=45 ttl=46 time=173 ms
+[1607862810.013399] 40 bytes from calarts.edu (198.182.157.167): icmp_seq=46 ttl=46 time=173 ms
+[1607862811.014062] 40 bytes from alum.calarts.edu (198.182.157.167): icmp_seq=47 ttl=46 time=174 ms
+[1607862812.013904] 40 bytes from calarts.edu (198.182.157.167): icmp_seq=48 ttl=46 time=174 ms
+[1607862818.016067] 40 bytes from calarts.edu (198.182.157.167): icmp_seq=49 ttl=46 time=174 ms
+[1607862819.016204] 40 bytes from 198.182.157.167: icmp_seq=50 ttl=46 time=174 ms
+
+--- calarts.edu ping statistics ---
+50 packets transmitted, 50 received, 0% packet loss, time 134170ms
+rtt min/avg/max/mdev = 172.351/173.289/174.768/0.428 ms

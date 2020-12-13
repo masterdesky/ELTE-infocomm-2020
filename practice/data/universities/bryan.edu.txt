@@ -1,0 +1,55 @@
+PING bryan.edu (104.198.100.43) 32(60) bytes of data.
+[1607862705.807854] 40 bytes from 43.100.198.104.bc.googleusercontent.com (104.198.100.43): icmp_seq=1 ttl=46 time=156 ms
+[1607862705.964498] 40 bytes from 43.100.198.104.bc.googleusercontent.com (104.198.100.43): icmp_seq=2 ttl=46 time=155 ms
+[1607862706.965455] 40 bytes from 43.100.198.104.bc.googleusercontent.com (104.198.100.43): icmp_seq=3 ttl=46 time=155 ms
+[1607862707.965547] 40 bytes from 43.100.198.104.bc.googleusercontent.com (104.198.100.43): icmp_seq=4 ttl=46 time=155 ms
+[1607862708.966243] 40 bytes from 43.100.198.104.bc.googleusercontent.com (104.198.100.43): icmp_seq=5 ttl=46 time=155 ms
+[1607862709.966599] 40 bytes from 43.100.198.104.bc.googleusercontent.com (104.198.100.43): icmp_seq=6 ttl=46 time=155 ms
+[1607862710.966295] 40 bytes from 43.100.198.104.bc.googleusercontent.com (104.198.100.43): icmp_seq=7 ttl=46 time=155 ms
+[1607862721.974033] 40 bytes from 104.198.100.43: icmp_seq=8 ttl=46 time=155 ms
+[1607862727.134211] 40 bytes from 43.100.198.104.bc.googleusercontent.com (104.198.100.43): icmp_seq=9 ttl=46 time=155 ms
+[1607862732.296172] 40 bytes from 43.100.198.104.bc.googleusercontent.com (104.198.100.43): icmp_seq=10 ttl=46 time=155 ms
+[1607862737.456086] 40 bytes from 43.100.198.104.bc.googleusercontent.com (104.198.100.43): icmp_seq=11 ttl=46 time=155 ms
+[1607862742.615795] 40 bytes from 43.100.198.104.bc.googleusercontent.com (104.198.100.43): icmp_seq=12 ttl=46 time=154 ms
+[1607862742.771475] 40 bytes from 43.100.198.104.bc.googleusercontent.com (104.198.100.43): icmp_seq=13 ttl=46 time=154 ms
+[1607862743.773266] 40 bytes from 43.100.198.104.bc.googleusercontent.com (104.198.100.43): icmp_seq=14 ttl=46 time=154 ms
+[1607862754.778061] 40 bytes from 104.198.100.43: icmp_seq=15 ttl=46 time=154 ms
+[1607862754.933687] 40 bytes from 43.100.198.104.bc.googleusercontent.com (104.198.100.43): icmp_seq=16 ttl=46 time=154 ms
+[1607862765.942016] 40 bytes from 104.198.100.43: icmp_seq=17 ttl=46 time=154 ms
+[1607862776.102033] 40 bytes from 104.198.100.43: icmp_seq=18 ttl=46 time=154 ms
+[1607862786.262173] 40 bytes from 104.198.100.43: icmp_seq=19 ttl=46 time=154 ms
+[1607862796.423131] 40 bytes from 104.198.100.43: icmp_seq=20 ttl=46 time=154 ms
+[1607862796.580171] 40 bytes from 43.100.198.104.bc.googleusercontent.com (104.198.100.43): icmp_seq=21 ttl=46 time=155 ms
+[1607862797.579775] 40 bytes from 43.100.198.104.bc.googleusercontent.com (104.198.100.43): icmp_seq=22 ttl=46 time=155 ms
+[1607862798.581370] 40 bytes from 43.100.198.104.bc.googleusercontent.com (104.198.100.43): icmp_seq=23 ttl=46 time=155 ms
+[1607862799.582604] 40 bytes from 43.100.198.104.bc.googleusercontent.com (104.198.100.43): icmp_seq=24 ttl=46 time=155 ms
+[1607862800.583814] 40 bytes from 43.100.198.104.bc.googleusercontent.com (104.198.100.43): icmp_seq=25 ttl=46 time=155 ms
+[1607862806.589061] 40 bytes from 43.100.198.104.bc.googleusercontent.com (104.198.100.43): icmp_seq=26 ttl=46 time=154 ms
+[1607862806.746078] 40 bytes from 43.100.198.104.bc.googleusercontent.com (104.198.100.43): icmp_seq=27 ttl=46 time=155 ms
+[1607862817.750091] 40 bytes from 104.198.100.43: icmp_seq=28 ttl=46 time=155 ms
+[1607862827.914069] 40 bytes from 104.198.100.43: icmp_seq=29 ttl=46 time=156 ms
+[1607862838.078043] 40 bytes from 104.198.100.43: icmp_seq=30 ttl=46 time=156 ms
+[1607862843.240161] 40 bytes from 43.100.198.104.bc.googleusercontent.com (104.198.100.43): icmp_seq=31 ttl=46 time=156 ms
+[1607862848.401299] 40 bytes from 43.100.198.104.bc.googleusercontent.com (104.198.100.43): icmp_seq=32 ttl=46 time=155 ms
+[1607862848.557695] 40 bytes from 43.100.198.104.bc.googleusercontent.com (104.198.100.43): icmp_seq=33 ttl=46 time=154 ms
+[1607862859.566068] 40 bytes from 104.198.100.43: icmp_seq=34 ttl=46 time=156 ms
+[1607862869.730513] 40 bytes from 104.198.100.43: icmp_seq=35 ttl=46 time=156 ms
+[1607862869.887449] 40 bytes from 43.100.198.104.bc.googleusercontent.com (104.198.100.43): icmp_seq=36 ttl=46 time=156 ms
+[1607862880.898178] 40 bytes from 104.198.100.43: icmp_seq=37 ttl=46 time=155 ms
+[1607862881.054856] 40 bytes from 43.100.198.104.bc.googleusercontent.com (104.198.100.43): icmp_seq=38 ttl=46 time=155 ms
+[1607862887.056171] 40 bytes from 43.100.198.104.bc.googleusercontent.com (104.198.100.43): icmp_seq=39 ttl=46 time=154 ms
+[1607862887.212406] 40 bytes from 43.100.198.104.bc.googleusercontent.com (104.198.100.43): icmp_seq=40 ttl=46 time=154 ms
+[1607862888.212656] 40 bytes from 43.100.198.104.bc.googleusercontent.com (104.198.100.43): icmp_seq=41 ttl=46 time=153 ms
+[1607862889.214717] 40 bytes from 43.100.198.104.bc.googleusercontent.com (104.198.100.43): icmp_seq=42 ttl=46 time=154 ms
+[1607862890.215719] 40 bytes from 43.100.198.104.bc.googleusercontent.com (104.198.100.43): icmp_seq=43 ttl=46 time=154 ms
+[1607862891.216216] 40 bytes from 43.100.198.104.bc.googleusercontent.com (104.198.100.43): icmp_seq=44 ttl=46 time=154 ms
+[1607862892.218558] 40 bytes from 43.100.198.104.bc.googleusercontent.com (104.198.100.43): icmp_seq=45 ttl=46 time=154 ms
+[1607862893.219968] 40 bytes from 43.100.198.104.bc.googleusercontent.com (104.198.100.43): icmp_seq=46 ttl=46 time=155 ms
+[1607862894.220501] 40 bytes from 43.100.198.104.bc.googleusercontent.com (104.198.100.43): icmp_seq=47 ttl=46 time=154 ms
+[1607862895.222256] 40 bytes from 43.100.198.104.bc.googleusercontent.com (104.198.100.43): icmp_seq=48 ttl=46 time=154 ms
+[1607862896.223587] 40 bytes from 43.100.198.104.bc.googleusercontent.com (104.198.100.43): icmp_seq=49 ttl=46 time=155 ms
+[1607862897.224523] 40 bytes from 43.100.198.104.bc.googleusercontent.com (104.198.100.43): icmp_seq=50 ttl=46 time=154 ms
+
+--- bryan.edu ping statistics ---
+50 packets transmitted, 50 received, 0% packet loss, time 196421ms
+rtt min/avg/max/mdev = 153.223/154.697/156.085/0.578 ms

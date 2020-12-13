@@ -1,0 +1,5 @@
+PING lbwcc.edu (20.36.222.204) 32(60) bytes of data.
+
+--- lbwcc.edu ping statistics ---
+50 packets transmitted, 0 received, 100% packet loss, time 49627ms
+

@@ -1,0 +1,54 @@
+PING azwestern.edu (198.60.183.184) 32(60) bytes of data.
+[1607862671.327057] 40 bytes from 198.60.183.184: icmp_seq=1 ttl=47 time=174 ms
+[1607862676.506058] 40 bytes from 198.60.183.184: icmp_seq=2 ttl=47 time=174 ms
+[1607862686.686508] 40 bytes from 198.60.183.184: icmp_seq=3 ttl=47 time=174 ms
+[1607862694.647694] 40 bytes from 198.60.183.184: icmp_seq=4 ttl=47 time=174 ms
+[1607862699.828273] 40 bytes from 198.60.183.184: icmp_seq=5 ttl=47 time=174 ms
+[1607862705.010092] 40 bytes from 198.60.183.184: icmp_seq=6 ttl=47 time=175 ms
+[1607862715.190058] 40 bytes from 198.60.183.184: icmp_seq=7 ttl=47 time=173 ms
+[1607862725.374025] 40 bytes from 198.60.183.184: icmp_seq=8 ttl=47 time=175 ms
+[1607862735.554051] 40 bytes from 198.60.183.184: icmp_seq=9 ttl=47 time=174 ms
+[1607862745.738221] 40 bytes from 198.60.183.184: icmp_seq=10 ttl=47 time=175 ms
+[1607862755.922030] 40 bytes from 198.60.183.184: icmp_seq=11 ttl=47 time=174 ms
+[1607862766.106011] 40 bytes from 198.60.183.184: icmp_seq=12 ttl=47 time=175 ms
+[1607862776.287128] 40 bytes from 198.60.183.184: icmp_seq=13 ttl=47 time=174 ms
+[1607862776.465123] 40 bytes from 198.60.183.184: icmp_seq=14 ttl=47 time=174 ms
+[1607862785.046477] 40 bytes from 198.60.183.184: icmp_seq=15 ttl=47 time=174 ms
+[1607862785.223757] 40 bytes from 198.60.183.184: icmp_seq=16 ttl=47 time=173 ms
+[1607862796.230035] 40 bytes from 198.60.183.184: icmp_seq=17 ttl=47 time=174 ms
+[1607862803.882391] 40 bytes from 198.60.183.184: icmp_seq=18 ttl=47 time=174 ms
+[1607862804.061536] 40 bytes from 198.60.183.184: icmp_seq=19 ttl=47 time=175 ms
+[1607862805.060086] 40 bytes from 198.60.183.184: icmp_seq=20 ttl=47 time=174 ms
+[1607862806.059450] 40 bytes from 198.60.183.184: icmp_seq=21 ttl=47 time=174 ms
+[1607862817.062028] 40 bytes from 198.60.183.184: icmp_seq=22 ttl=47 time=174 ms
+[1607862820.010837] 40 bytes from 198.60.183.184: icmp_seq=23 ttl=47 time=174 ms
+[1607862821.189005] 40 bytes from 198.60.183.184: icmp_seq=25 ttl=47 time=174 ms
+[1607862822.192001] 40 bytes from 198.60.183.184: icmp_seq=26 ttl=47 time=174 ms
+[1607862833.198039] 40 bytes from 198.60.183.184: icmp_seq=27 ttl=47 time=174 ms
+[1607862843.378004] 40 bytes from 198.60.183.184: icmp_seq=28 ttl=47 time=175 ms
+[1607862853.558727] 40 bytes from 198.60.183.184: icmp_seq=29 ttl=47 time=174 ms
+[1607862853.736253] 40 bytes from 198.60.183.184: icmp_seq=30 ttl=47 time=174 ms
+[1607862864.738032] 40 bytes from 198.60.183.184: icmp_seq=31 ttl=47 time=174 ms
+[1607862869.917212] 40 bytes from 198.60.183.184: icmp_seq=32 ttl=47 time=174 ms
+[1607862870.095264] 40 bytes from 198.60.183.184: icmp_seq=33 ttl=47 time=174 ms
+[1607862871.093415] 40 bytes from 198.60.183.184: icmp_seq=34 ttl=47 time=174 ms
+[1607862872.095284] 40 bytes from 198.60.183.184: icmp_seq=35 ttl=47 time=174 ms
+[1607862873.094779] 40 bytes from 198.60.183.184: icmp_seq=36 ttl=47 time=174 ms
+[1607862874.093873] 40 bytes from 198.60.183.184: icmp_seq=37 ttl=47 time=174 ms
+[1607862877.363310] 40 bytes from 198.60.183.184: icmp_seq=38 ttl=47 time=174 ms
+[1607862877.540962] 40 bytes from 198.60.183.184: icmp_seq=39 ttl=47 time=174 ms
+[1607862878.542211] 40 bytes from 198.60.183.184: icmp_seq=40 ttl=47 time=174 ms
+[1607862879.543926] 40 bytes from 198.60.183.184: icmp_seq=41 ttl=47 time=174 ms
+[1607862880.545891] 40 bytes from 198.60.183.184: icmp_seq=42 ttl=47 time=174 ms
+[1607862881.547055] 40 bytes from 198.60.183.184: icmp_seq=43 ttl=47 time=174 ms
+[1607862882.548244] 40 bytes from 198.60.183.184: icmp_seq=44 ttl=47 time=174 ms
+[1607862886.491318] 40 bytes from 198.60.183.184: icmp_seq=45 ttl=47 time=174 ms
+[1607862886.669642] 40 bytes from 198.60.183.184: icmp_seq=46 ttl=47 time=174 ms
+[1607862887.670007] 40 bytes from 198.60.183.184: icmp_seq=47 ttl=47 time=174 ms
+[1607862888.672098] 40 bytes from 198.60.183.184: icmp_seq=48 ttl=47 time=175 ms
+[1607862889.671475] 40 bytes from 198.60.183.184: icmp_seq=49 ttl=47 time=174 ms
+[1607862890.674704] 40 bytes from 198.60.183.184: icmp_seq=50 ttl=47 time=174 ms
+
+--- azwestern.edu ping statistics ---
+50 packets transmitted, 49 received, 2% packet loss, time 221934ms
+rtt min/avg/max/mdev = 173.313/174.194/174.604/0.279 ms

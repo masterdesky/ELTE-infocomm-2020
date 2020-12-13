@@ -1,0 +1,55 @@
+PING sjcme.edu (35.229.65.215) 32(60) bytes of data.
+[1607862699.305492] 40 bytes from 215.65.229.35.bc.googleusercontent.com (35.229.65.215): icmp_seq=1 ttl=56 time=113 ms
+[1607862700.307741] 40 bytes from 215.65.229.35.bc.googleusercontent.com (35.229.65.215): icmp_seq=2 ttl=56 time=114 ms
+[1607862701.308312] 40 bytes from 215.65.229.35.bc.googleusercontent.com (35.229.65.215): icmp_seq=3 ttl=56 time=114 ms
+[1607862712.318035] 40 bytes from 35.229.65.215: icmp_seq=4 ttl=56 time=113 ms
+[1607862712.433402] 40 bytes from 215.65.229.35.bc.googleusercontent.com (35.229.65.215): icmp_seq=5 ttl=56 time=113 ms
+[1607862713.435452] 40 bytes from 215.65.229.35.bc.googleusercontent.com (35.229.65.215): icmp_seq=6 ttl=56 time=113 ms
+[1607862714.436171] 40 bytes from 215.65.229.35.bc.googleusercontent.com (35.229.65.215): icmp_seq=7 ttl=56 time=114 ms
+[1607862715.436603] 40 bytes from 215.65.229.35.bc.googleusercontent.com (35.229.65.215): icmp_seq=8 ttl=56 time=113 ms
+[1607862716.438677] 40 bytes from 215.65.229.35.bc.googleusercontent.com (35.229.65.215): icmp_seq=9 ttl=56 time=113 ms
+[1607862717.437214] 40 bytes from 215.65.229.35.bc.googleusercontent.com (35.229.65.215): icmp_seq=10 ttl=56 time=114 ms
+[1607862718.437516] 40 bytes from 215.65.229.35.bc.googleusercontent.com (35.229.65.215): icmp_seq=11 ttl=56 time=114 ms
+[1607862729.442524] 40 bytes from 35.229.65.215: icmp_seq=12 ttl=56 time=113 ms
+[1607862739.562008] 40 bytes from 35.229.65.215: icmp_seq=13 ttl=56 time=114 ms
+[1607862739.677748] 40 bytes from 215.65.229.35.bc.googleusercontent.com (35.229.65.215): icmp_seq=14 ttl=56 time=114 ms
+[1607862745.683730] 40 bytes from 215.65.229.35.bc.googleusercontent.com (35.229.65.215): icmp_seq=15 ttl=56 time=113 ms
+[1607862750.804104] 40 bytes from 215.65.229.35.bc.googleusercontent.com (35.229.65.215): icmp_seq=16 ttl=56 time=113 ms
+[1607862760.926034] 40 bytes from 35.229.65.215: icmp_seq=17 ttl=56 time=114 ms
+[1607862771.046045] 40 bytes from 35.229.65.215: icmp_seq=18 ttl=56 time=114 ms
+[1607862781.166037] 40 bytes from 35.229.65.215: icmp_seq=19 ttl=56 time=114 ms
+[1607862791.286032] 40 bytes from 35.229.65.215: icmp_seq=20 ttl=56 time=113 ms
+[1607862801.406229] 40 bytes from 35.229.65.215: icmp_seq=21 ttl=56 time=114 ms
+[1607862801.522462] 40 bytes from 215.65.229.35.bc.googleusercontent.com (35.229.65.215): icmp_seq=22 ttl=56 time=114 ms
+[1607862812.530027] 40 bytes from 35.229.65.215: icmp_seq=23 ttl=56 time=114 ms
+[1607862822.650022] 40 bytes from 35.229.65.215: icmp_seq=24 ttl=56 time=114 ms
+[1607862832.770453] 40 bytes from 35.229.65.215: icmp_seq=25 ttl=56 time=114 ms
+[1607862832.886075] 40 bytes from 215.65.229.35.bc.googleusercontent.com (35.229.65.215): icmp_seq=26 ttl=56 time=114 ms
+[1607862833.887780] 40 bytes from 215.65.229.35.bc.googleusercontent.com (35.229.65.215): icmp_seq=27 ttl=56 time=113 ms
+[1607862834.889910] 40 bytes from 215.65.229.35.bc.googleusercontent.com (35.229.65.215): icmp_seq=28 ttl=56 time=114 ms
+[1607862835.889467] 40 bytes from 215.65.229.35.bc.googleusercontent.com (35.229.65.215): icmp_seq=29 ttl=56 time=113 ms
+[1607862836.891301] 40 bytes from 215.65.229.35.bc.googleusercontent.com (35.229.65.215): icmp_seq=30 ttl=56 time=114 ms
+[1607862837.889663] 40 bytes from 215.65.229.35.bc.googleusercontent.com (35.229.65.215): icmp_seq=31 ttl=56 time=113 ms
+[1607862848.894049] 40 bytes from 35.229.65.215: icmp_seq=32 ttl=56 time=114 ms
+[1607862849.008221] 40 bytes from 215.65.229.35.bc.googleusercontent.com (35.229.65.215): icmp_seq=33 ttl=56 time=113 ms
+[1607862850.009749] 40 bytes from 215.65.229.35.bc.googleusercontent.com (35.229.65.215): icmp_seq=34 ttl=56 time=114 ms
+[1607862851.009137] 40 bytes from 215.65.229.35.bc.googleusercontent.com (35.229.65.215): icmp_seq=35 ttl=56 time=113 ms
+[1607862852.010489] 40 bytes from 215.65.229.35.bc.googleusercontent.com (35.229.65.215): icmp_seq=36 ttl=56 time=115 ms
+[1607862853.009658] 40 bytes from 215.65.229.35.bc.googleusercontent.com (35.229.65.215): icmp_seq=37 ttl=56 time=114 ms
+[1607862859.011353] 40 bytes from 215.65.229.35.bc.googleusercontent.com (35.229.65.215): icmp_seq=38 ttl=56 time=114 ms
+[1607862859.126642] 40 bytes from 215.65.229.35.bc.googleusercontent.com (35.229.65.215): icmp_seq=39 ttl=56 time=113 ms
+[1607862860.128394] 40 bytes from 215.65.229.35.bc.googleusercontent.com (35.229.65.215): icmp_seq=40 ttl=56 time=114 ms
+[1607862861.128958] 40 bytes from 215.65.229.35.bc.googleusercontent.com (35.229.65.215): icmp_seq=41 ttl=56 time=113 ms
+[1607862862.130667] 40 bytes from 215.65.229.35.bc.googleusercontent.com (35.229.65.215): icmp_seq=42 ttl=56 time=113 ms
+[1607862863.131977] 40 bytes from 215.65.229.35.bc.googleusercontent.com (35.229.65.215): icmp_seq=43 ttl=56 time=114 ms
+[1607862864.131666] 40 bytes from 215.65.229.35.bc.googleusercontent.com (35.229.65.215): icmp_seq=44 ttl=56 time=113 ms
+[1607862870.135902] 40 bytes from 215.65.229.35.bc.googleusercontent.com (35.229.65.215): icmp_seq=45 ttl=56 time=113 ms
+[1607862875.256345] 40 bytes from 215.65.229.35.bc.googleusercontent.com (35.229.65.215): icmp_seq=46 ttl=56 time=114 ms
+[1607862875.371779] 40 bytes from 215.65.229.35.bc.googleusercontent.com (35.229.65.215): icmp_seq=47 ttl=56 time=114 ms
+[1607862876.373139] 40 bytes from 215.65.229.35.bc.googleusercontent.com (35.229.65.215): icmp_seq=48 ttl=56 time=114 ms
+[1607862877.374555] 40 bytes from 215.65.229.35.bc.googleusercontent.com (35.229.65.215): icmp_seq=49 ttl=56 time=114 ms
+[1607862878.376020] 40 bytes from 215.65.229.35.bc.googleusercontent.com (35.229.65.215): icmp_seq=50 ttl=56 time=113 ms
+
+--- sjcme.edu ping statistics ---
+50 packets transmitted, 50 received, 0% packet loss, time 179070ms
+rtt min/avg/max/mdev = 112.825/113.545/114.863/0.350 ms

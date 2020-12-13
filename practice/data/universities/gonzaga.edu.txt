@@ -1,0 +1,55 @@
+PING gonzaga.edu (147.222.6.71) 32(60) bytes of data.
+[1607862725.400902] 40 bytes from 147.222.6.71 (147.222.6.71): icmp_seq=1 ttl=47 time=176 ms
+[1607862735.582007] 40 bytes from 147.222.6.71: icmp_seq=2 ttl=47 time=176 ms
+[1607862740.763793] 40 bytes from 147.222.6.71 (147.222.6.71): icmp_seq=3 ttl=47 time=176 ms
+[1607862740.941293] 40 bytes from 147.222.6.71 (147.222.6.71): icmp_seq=4 ttl=47 time=176 ms
+[1607862751.946230] 40 bytes from 147.222.6.71: icmp_seq=5 ttl=47 time=176 ms
+[1607862752.123827] 40 bytes from 147.222.6.71 (147.222.6.71): icmp_seq=6 ttl=47 time=176 ms
+[1607862753.122707] 40 bytes from 147.222.6.71 (147.222.6.71): icmp_seq=7 ttl=47 time=175 ms
+[1607862754.123608] 40 bytes from 147.222.6.71 (147.222.6.71): icmp_seq=8 ttl=47 time=176 ms
+[1607862760.131518] 40 bytes from 147.222.6.71 (147.222.6.71): icmp_seq=9 ttl=47 time=176 ms
+[1607862770.314004] 40 bytes from 147.222.6.71: icmp_seq=10 ttl=47 time=175 ms
+[1607862770.497910] 40 bytes from 147.222.6.71 (147.222.6.71): icmp_seq=11 ttl=47 time=182 ms
+[1607862771.493147] 40 bytes from 147.222.6.71 (147.222.6.71): icmp_seq=12 ttl=47 time=176 ms
+[1607862772.494509] 40 bytes from 147.222.6.71 (147.222.6.71): icmp_seq=13 ttl=47 time=176 ms
+[1607862773.494848] 40 bytes from 147.222.6.71 (147.222.6.71): icmp_seq=14 ttl=47 time=176 ms
+[1607862774.493791] 40 bytes from 147.222.6.71 (147.222.6.71): icmp_seq=15 ttl=47 time=176 ms
+[1607862775.494254] 40 bytes from 147.222.6.71 (147.222.6.71): icmp_seq=16 ttl=47 time=175 ms
+[1607862776.494494] 40 bytes from 147.222.6.71 (147.222.6.71): icmp_seq=17 ttl=47 time=176 ms
+[1607862787.498982] 40 bytes from 147.222.6.71: icmp_seq=18 ttl=47 time=176 ms
+[1607862797.684261] 40 bytes from 147.222.6.71: icmp_seq=19 ttl=47 time=176 ms
+[1607862797.861064] 40 bytes from 147.222.6.71 (147.222.6.71): icmp_seq=20 ttl=47 time=175 ms
+[1607862798.862101] 40 bytes from 147.222.6.71 (147.222.6.71): icmp_seq=21 ttl=47 time=175 ms
+[1607862799.862038] 40 bytes from 147.222.6.71 (147.222.6.71): icmp_seq=22 ttl=47 time=176 ms
+[1607862800.861814] 40 bytes from 147.222.6.71 (147.222.6.71): icmp_seq=23 ttl=47 time=176 ms
+[1607862806.863545] 40 bytes from 147.222.6.71 (147.222.6.71): icmp_seq=24 ttl=47 time=175 ms
+[1607862812.043717] 40 bytes from 147.222.6.71 (147.222.6.71): icmp_seq=25 ttl=47 time=175 ms
+[1607862817.224010] 40 bytes from 147.222.6.71 (147.222.6.71): icmp_seq=26 ttl=47 time=176 ms
+[1607862822.404700] 40 bytes from 147.222.6.71 (147.222.6.71): icmp_seq=27 ttl=47 time=176 ms
+[1607862827.584192] 40 bytes from 147.222.6.71 (147.222.6.71): icmp_seq=28 ttl=47 time=176 ms
+[1607862827.761065] 40 bytes from 147.222.6.71 (147.222.6.71): icmp_seq=29 ttl=47 time=175 ms
+[1607862838.766009] 40 bytes from 147.222.6.71: icmp_seq=30 ttl=47 time=175 ms
+[1607862848.950179] 40 bytes from 147.222.6.71: icmp_seq=31 ttl=47 time=175 ms
+[1607862859.134025] 40 bytes from 147.222.6.71: icmp_seq=32 ttl=47 time=176 ms
+[1607862864.315914] 40 bytes from 147.222.6.71 (147.222.6.71): icmp_seq=33 ttl=47 time=176 ms
+[1607862864.493091] 40 bytes from 147.222.6.71 (147.222.6.71): icmp_seq=34 ttl=47 time=176 ms
+[1607862870.495369] 40 bytes from 147.222.6.71 (147.222.6.71): icmp_seq=35 ttl=47 time=175 ms
+[1607862870.673090] 40 bytes from 147.222.6.71 (147.222.6.71): icmp_seq=36 ttl=47 time=176 ms
+[1607862871.674884] 40 bytes from 147.222.6.71 (147.222.6.71): icmp_seq=37 ttl=47 time=176 ms
+[1607862872.675680] 40 bytes from 147.222.6.71 (147.222.6.71): icmp_seq=38 ttl=47 time=176 ms
+[1607862873.676742] 40 bytes from 147.222.6.71 (147.222.6.71): icmp_seq=39 ttl=47 time=176 ms
+[1607862874.678228] 40 bytes from 147.222.6.71 (147.222.6.71): icmp_seq=40 ttl=47 time=176 ms
+[1607862875.680249] 40 bytes from 147.222.6.71 (147.222.6.71): icmp_seq=41 ttl=47 time=177 ms
+[1607862881.683621] 40 bytes from 147.222.6.71 (147.222.6.71): icmp_seq=42 ttl=47 time=175 ms
+[1607862881.861215] 40 bytes from 147.222.6.71 (147.222.6.71): icmp_seq=43 ttl=47 time=176 ms
+[1607862882.862746] 40 bytes from 147.222.6.71 (147.222.6.71): icmp_seq=44 ttl=47 time=176 ms
+[1607862883.862967] 40 bytes from 147.222.6.71 (147.222.6.71): icmp_seq=45 ttl=47 time=175 ms
+[1607862884.864267] 40 bytes from 147.222.6.71 (147.222.6.71): icmp_seq=46 ttl=47 time=176 ms
+[1607862885.865801] 40 bytes from 147.222.6.71 (147.222.6.71): icmp_seq=47 ttl=47 time=176 ms
+[1607862886.866664] 40 bytes from 147.222.6.71 (147.222.6.71): icmp_seq=48 ttl=47 time=176 ms
+[1607862887.867911] 40 bytes from 147.222.6.71 (147.222.6.71): icmp_seq=49 ttl=47 time=176 ms
+[1607862888.869680] 40 bytes from 147.222.6.71 (147.222.6.71): icmp_seq=50 ttl=47 time=176 ms
+
+--- gonzaga.edu ping statistics ---
+50 packets transmitted, 50 received, 0% packet loss, time 169858ms
+rtt min/avg/max/mdev = 174.687/175.728/182.151/0.993 ms

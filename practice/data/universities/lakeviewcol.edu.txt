@@ -1,0 +1,55 @@
+PING lakeviewcol.edu (69.163.177.236) 32(60) bytes of data.
+[1607862689.449076] 40 bytes from ps582236.dreamhostps.com (69.163.177.236): icmp_seq=1 ttl=46 time=165 ms
+[1607862700.454029] 40 bytes from 69.163.177.236: icmp_seq=2 ttl=46 time=165 ms
+[1607862705.624084] 40 bytes from ps582236.dreamhostps.com (69.163.177.236): icmp_seq=3 ttl=46 time=165 ms
+[1607862715.798006] 40 bytes from 69.163.177.236: icmp_seq=4 ttl=46 time=165 ms
+[1607862715.965853] 40 bytes from ps582236.dreamhostps.com (69.163.177.236): icmp_seq=5 ttl=46 time=165 ms
+[1607862726.970642] 40 bytes from 69.163.177.236: icmp_seq=6 ttl=46 time=165 ms
+[1607862737.142024] 40 bytes from 69.163.177.236: icmp_seq=7 ttl=46 time=165 ms
+[1607862747.314140] 40 bytes from 69.163.177.236: icmp_seq=8 ttl=46 time=165 ms
+[1607862752.484319] 40 bytes from ps582236.dreamhostps.com (69.163.177.236): icmp_seq=9 ttl=46 time=165 ms
+[1607862757.656201] 40 bytes from ps582236.dreamhostps.com (69.163.177.236): icmp_seq=10 ttl=46 time=165 ms
+[1607862767.831384] 40 bytes from 69.163.177.236: icmp_seq=11 ttl=46 time=165 ms
+[1607862773.004082] 40 bytes from ps582236.dreamhostps.com (69.163.177.236): icmp_seq=12 ttl=46 time=165 ms
+[1607862773.171840] 40 bytes from ps582236.dreamhostps.com (69.163.177.236): icmp_seq=13 ttl=46 time=165 ms
+[1607862774.173105] 40 bytes from ps582236.dreamhostps.com (69.163.177.236): icmp_seq=14 ttl=46 time=165 ms
+[1607862775.173749] 40 bytes from ps582236.dreamhostps.com (69.163.177.236): icmp_seq=15 ttl=46 time=165 ms
+[1607862776.175285] 40 bytes from ps582236.dreamhostps.com (69.163.177.236): icmp_seq=16 ttl=46 time=165 ms
+[1607862777.175966] 40 bytes from ps582236.dreamhostps.com (69.163.177.236): icmp_seq=17 ttl=46 time=165 ms
+[1607862778.176024] 40 bytes from ps582236.dreamhostps.com (69.163.177.236): icmp_seq=18 ttl=46 time=165 ms
+[1607862779.177553] 40 bytes from ps582236.dreamhostps.com (69.163.177.236): icmp_seq=19 ttl=46 time=165 ms
+[1607862780.178766] 40 bytes from ps582236.dreamhostps.com (69.163.177.236): icmp_seq=20 ttl=46 time=165 ms
+[1607862786.184013] 40 bytes from ps582236.dreamhostps.com (69.163.177.236): icmp_seq=21 ttl=46 time=165 ms
+[1607862796.354021] 40 bytes from 69.163.177.236: icmp_seq=22 ttl=46 time=165 ms
+[1607862801.524240] 40 bytes from ps582236.dreamhostps.com (69.163.177.236): icmp_seq=23 ttl=46 time=165 ms
+[1607862806.695956] 40 bytes from ps582236.dreamhostps.com (69.163.177.236): icmp_seq=24 ttl=46 time=165 ms
+[1607862811.867885] 40 bytes from ps582236.dreamhostps.com (69.163.177.236): icmp_seq=25 ttl=46 time=165 ms
+[1607862812.034895] 40 bytes from ps582236.dreamhostps.com (69.163.177.236): icmp_seq=26 ttl=46 time=164 ms
+[1607862823.042006] 40 bytes from 69.163.177.236: icmp_seq=27 ttl=46 time=165 ms
+[1607862833.214081] 40 bytes from 69.163.177.236: icmp_seq=28 ttl=46 time=165 ms
+[1607862843.386037] 40 bytes from 69.163.177.236: icmp_seq=29 ttl=46 time=165 ms
+[1607862848.556323] 40 bytes from ps582236.dreamhostps.com (69.163.177.236): icmp_seq=30 ttl=46 time=166 ms
+[1607862848.723060] 40 bytes from ps582236.dreamhostps.com (69.163.177.236): icmp_seq=31 ttl=46 time=165 ms
+[1607862849.723281] 40 bytes from ps582236.dreamhostps.com (69.163.177.236): icmp_seq=32 ttl=46 time=165 ms
+[1607862850.724058] 40 bytes from ps582236.dreamhostps.com (69.163.177.236): icmp_seq=33 ttl=46 time=165 ms
+[1607862851.726367] 40 bytes from ps582236.dreamhostps.com (69.163.177.236): icmp_seq=34 ttl=46 time=165 ms
+[1607862852.728107] 40 bytes from ps582236.dreamhostps.com (69.163.177.236): icmp_seq=35 ttl=46 time=165 ms
+[1607862853.726758] 40 bytes from ps582236.dreamhostps.com (69.163.177.236): icmp_seq=36 ttl=46 time=165 ms
+[1607862854.726134] 40 bytes from ps582236.dreamhostps.com (69.163.177.236): icmp_seq=37 ttl=46 time=165 ms
+[1607862855.728379] 40 bytes from ps582236.dreamhostps.com (69.163.177.236): icmp_seq=38 ttl=46 time=165 ms
+[1607862856.729762] 40 bytes from ps582236.dreamhostps.com (69.163.177.236): icmp_seq=39 ttl=46 time=165 ms
+[1607862857.730683] 40 bytes from ps582236.dreamhostps.com (69.163.177.236): icmp_seq=40 ttl=46 time=165 ms
+[1607862858.732360] 40 bytes from ps582236.dreamhostps.com (69.163.177.236): icmp_seq=41 ttl=46 time=165 ms
+[1607862859.733938] 40 bytes from ps582236.dreamhostps.com (69.163.177.236): icmp_seq=42 ttl=46 time=165 ms
+[1607862860.733378] 40 bytes from ps582236.dreamhostps.com (69.163.177.236): icmp_seq=43 ttl=46 time=165 ms
+[1607862861.734687] 40 bytes from ps582236.dreamhostps.com (69.163.177.236): icmp_seq=44 ttl=46 time=165 ms
+[1607862862.736187] 40 bytes from ps582236.dreamhostps.com (69.163.177.236): icmp_seq=45 ttl=46 time=165 ms
+[1607862863.737264] 40 bytes from ps582236.dreamhostps.com (69.163.177.236): icmp_seq=46 ttl=46 time=165 ms
+[1607862864.738668] 40 bytes from ps582236.dreamhostps.com (69.163.177.236): icmp_seq=47 ttl=46 time=166 ms
+[1607862865.738967] 40 bytes from ps582236.dreamhostps.com (69.163.177.236): icmp_seq=48 ttl=46 time=165 ms
+[1607862866.740288] 40 bytes from ps582236.dreamhostps.com (69.163.177.236): icmp_seq=49 ttl=46 time=165 ms
+[1607862867.741508] 40 bytes from ps582236.dreamhostps.com (69.163.177.236): icmp_seq=50 ttl=46 time=166 ms
+
+--- lakeviewcol.edu ping statistics ---
+50 packets transmitted, 50 received, 0% packet loss, time 178292ms
+rtt min/avg/max/mdev = 164.483/165.254/165.604/0.236 ms

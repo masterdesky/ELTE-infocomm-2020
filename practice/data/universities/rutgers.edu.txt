@@ -1,0 +1,55 @@
+PING rutgers.edu (128.6.46.111) 32(60) bytes of data.
+[1607862702.658033] 40 bytes from 128.6.46.111: icmp_seq=1 ttl=234 time=113 ms
+[1607862712.778051] 40 bytes from 128.6.46.111: icmp_seq=2 ttl=234 time=113 ms
+[1607862713.308167] 40 bytes from rutgers.edu (128.6.46.111): icmp_seq=3 ttl=234 time=113 ms
+[1607862718.895719] 40 bytes from rutgers.edu (128.6.46.111): icmp_seq=4 ttl=234 time=112 ms
+[1607862719.010537] 40 bytes from rutgers.edu (128.6.46.111): icmp_seq=5 ttl=234 time=112 ms
+[1607862720.015809] 40 bytes from rutgers.edu (128.6.46.111): icmp_seq=6 ttl=234 time=113 ms
+[1607862721.011885] 40 bytes from rutgers.edu (128.6.46.111): icmp_seq=7 ttl=234 time=113 ms
+[1607862727.012737] 40 bytes from rutgers.edu (128.6.46.111): icmp_seq=8 ttl=234 time=112 ms
+[1607862727.127487] 40 bytes from rutgers.edu (128.6.46.111): icmp_seq=9 ttl=234 time=112 ms
+[1607862728.129588] 40 bytes from rutgers.edu (128.6.46.111): icmp_seq=10 ttl=234 time=113 ms
+[1607862729.132512] 40 bytes from rutgers.edu (128.6.46.111): icmp_seq=11 ttl=234 time=112 ms
+[1607862730.131849] 40 bytes from rutgers.edu (128.6.46.111): icmp_seq=12 ttl=234 time=113 ms
+[1607862731.136091] 40 bytes from rutgers.edu (128.6.46.111): icmp_seq=13 ttl=234 time=118 ms
+[1607862732.133426] 40 bytes from rutgers.edu (128.6.46.111): icmp_seq=14 ttl=234 time=113 ms
+[1607862733.134706] 40 bytes from rutgers.edu (128.6.46.111): icmp_seq=15 ttl=234 time=113 ms
+[1607862734.135281] 40 bytes from rutgers.edu (128.6.46.111): icmp_seq=16 ttl=234 time=113 ms
+[1607862735.135843] 40 bytes from rutgers.edu (128.6.46.111): icmp_seq=17 ttl=234 time=113 ms
+[1607862736.136728] 40 bytes from rutgers.edu (128.6.46.111): icmp_seq=18 ttl=234 time=113 ms
+[1607862737.137233] 40 bytes from rutgers.edu (128.6.46.111): icmp_seq=19 ttl=234 time=113 ms
+[1607862738.137907] 40 bytes from rutgers.edu (128.6.46.111): icmp_seq=20 ttl=234 time=113 ms
+[1607862744.140016] 40 bytes from rutgers.edu (128.6.46.111): icmp_seq=21 ttl=234 time=112 ms
+[1607862744.254790] 40 bytes from rutgers.edu (128.6.46.111): icmp_seq=22 ttl=234 time=113 ms
+[1607862745.255492] 40 bytes from rutgers.edu (128.6.46.111): icmp_seq=23 ttl=234 time=112 ms
+[1607862746.257467] 40 bytes from rutgers.edu (128.6.46.111): icmp_seq=24 ttl=234 time=113 ms
+[1607862747.258005] 40 bytes from rutgers.edu (128.6.46.111): icmp_seq=25 ttl=234 time=113 ms
+[1607862748.257929] 40 bytes from rutgers.edu (128.6.46.111): icmp_seq=26 ttl=234 time=112 ms
+[1607862749.260110] 40 bytes from rutgers.edu (128.6.46.111): icmp_seq=27 ttl=234 time=113 ms
+[1607862755.264069] 40 bytes from rutgers.edu (128.6.46.111): icmp_seq=28 ttl=234 time=113 ms
+[1607862765.387060] 40 bytes from 128.6.46.111: icmp_seq=29 ttl=234 time=113 ms
+[1607862775.506036] 40 bytes from 128.6.46.111: icmp_seq=30 ttl=234 time=113 ms
+[1607862780.625216] 40 bytes from rutgers.edu (128.6.46.111): icmp_seq=31 ttl=234 time=114 ms
+[1607862785.743383] 40 bytes from rutgers.edu (128.6.46.111): icmp_seq=32 ttl=234 time=113 ms
+[1607862785.858121] 40 bytes from rutgers.edu (128.6.46.111): icmp_seq=33 ttl=234 time=113 ms
+[1607862796.862067] 40 bytes from 128.6.46.111: icmp_seq=34 ttl=234 time=113 ms
+[1607862801.983674] 40 bytes from rutgers.edu (128.6.46.111): icmp_seq=35 ttl=234 time=112 ms
+[1607862807.103869] 40 bytes from rutgers.edu (128.6.46.111): icmp_seq=36 ttl=234 time=114 ms
+[1607862807.219490] 40 bytes from rutgers.edu (128.6.46.111): icmp_seq=37 ttl=234 time=113 ms
+[1607862808.217436] 40 bytes from rutgers.edu (128.6.46.111): icmp_seq=38 ttl=234 time=113 ms
+[1607862809.217102] 40 bytes from rutgers.edu (128.6.46.111): icmp_seq=39 ttl=234 time=113 ms
+[1607862810.216303] 40 bytes from rutgers.edu (128.6.46.111): icmp_seq=40 ttl=234 time=113 ms
+[1607862811.215025] 40 bytes from rutgers.edu (128.6.46.111): icmp_seq=41 ttl=234 time=113 ms
+[1607862812.214072] 40 bytes from rutgers.edu (128.6.46.111): icmp_seq=42 ttl=234 time=113 ms
+[1607862813.215338] 40 bytes from rutgers.edu (128.6.46.111): icmp_seq=43 ttl=234 time=113 ms
+[1607862814.214989] 40 bytes from rutgers.edu (128.6.46.111): icmp_seq=44 ttl=234 time=113 ms
+[1607862815.216714] 40 bytes from rutgers.edu (128.6.46.111): icmp_seq=45 ttl=234 time=113 ms
+[1607862816.218412] 40 bytes from rutgers.edu (128.6.46.111): icmp_seq=46 ttl=234 time=113 ms
+[1607862817.218301] 40 bytes from rutgers.edu (128.6.46.111): icmp_seq=47 ttl=234 time=112 ms
+[1607862828.226053] 40 bytes from 128.6.46.111: icmp_seq=48 ttl=234 time=113 ms
+[1607862838.346044] 40 bytes from 128.6.46.111: icmp_seq=49 ttl=234 time=113 ms
+[1607862839.346124] 40 bytes from 128.6.46.111: icmp_seq=50 ttl=234 time=113 ms
+
+--- rutgers.edu ping statistics ---
+50 packets transmitted, 50 received, 0% packet loss, time 145808ms
+rtt min/avg/max/mdev = 112.220/112.983/117.770/0.780 ms

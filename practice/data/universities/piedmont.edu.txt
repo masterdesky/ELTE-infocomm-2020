@@ -1,0 +1,54 @@
+PING piedmont.edu (45.79.216.127) 32(60) bytes of data.
+[1607862673.098081] 40 bytes from li1315-127.members.linode.com (45.79.216.127): icmp_seq=1 ttl=50 time=111 ms
+[1607862674.098605] 40 bytes from li1315-127.members.linode.com (45.79.216.127): icmp_seq=2 ttl=50 time=111 ms
+[1607862685.103057] 40 bytes from 45.79.216.127: icmp_seq=3 ttl=50 time=111 ms
+[1607862685.216458] 40 bytes from li1315-127.members.linode.com (45.79.216.127): icmp_seq=4 ttl=50 time=111 ms
+[1607862686.216589] 40 bytes from li1315-127.members.linode.com (45.79.216.127): icmp_seq=5 ttl=50 time=111 ms
+[1607862697.222008] 40 bytes from 45.79.216.127: icmp_seq=6 ttl=50 time=111 ms
+[1607862697.335102] 40 bytes from li1315-127.members.linode.com (45.79.216.127): icmp_seq=7 ttl=50 time=111 ms
+[1607862698.334962] 40 bytes from li1315-127.members.linode.com (45.79.216.127): icmp_seq=8 ttl=50 time=111 ms
+[1607862699.335696] 40 bytes from li1315-127.members.linode.com (45.79.216.127): icmp_seq=9 ttl=50 time=111 ms
+[1607862710.342086] 40 bytes from 45.79.216.127: icmp_seq=10 ttl=50 time=110 ms
+[1607862710.454460] 40 bytes from li1315-127.members.linode.com (45.79.216.127): icmp_seq=11 ttl=50 time=110 ms
+[1607862721.462094] 40 bytes from 45.79.216.127: icmp_seq=12 ttl=50 time=111 ms
+[1607862721.575297] 40 bytes from li1315-127.members.linode.com (45.79.216.127): icmp_seq=13 ttl=50 time=110 ms
+[1607862722.576683] 40 bytes from li1315-127.members.linode.com (45.79.216.127): icmp_seq=14 ttl=50 time=110 ms
+[1607862723.579691] 40 bytes from li1315-127.members.linode.com (45.79.216.127): icmp_seq=15 ttl=50 time=111 ms
+[1607862724.577935] 40 bytes from li1315-127.members.linode.com (45.79.216.127): icmp_seq=16 ttl=50 time=111 ms
+[1607862725.577611] 40 bytes from li1315-127.members.linode.com (45.79.216.127): icmp_seq=17 ttl=50 time=110 ms
+[1607862726.576926] 40 bytes from li1315-127.members.linode.com (45.79.216.127): icmp_seq=18 ttl=50 time=110 ms
+[1607862727.578957] 40 bytes from li1315-127.members.linode.com (45.79.216.127): icmp_seq=19 ttl=50 time=111 ms
+[1607862728.579428] 40 bytes from li1315-127.members.linode.com (45.79.216.127): icmp_seq=20 ttl=50 time=110 ms
+[1607862740.590018] 40 bytes from 45.79.216.127: icmp_seq=22 ttl=50 time=110 ms
+[1607862745.703971] 40 bytes from li1315-127.members.linode.com (45.79.216.127): icmp_seq=23 ttl=50 time=111 ms
+[1607862750.819827] 40 bytes from li1315-127.members.linode.com (45.79.216.127): icmp_seq=24 ttl=50 time=111 ms
+[1607862760.937995] 40 bytes from 45.79.216.127: icmp_seq=25 ttl=50 time=111 ms
+[1607862771.054117] 40 bytes from 45.79.216.127: icmp_seq=26 ttl=50 time=110 ms
+[1607862781.174130] 40 bytes from 45.79.216.127: icmp_seq=27 ttl=50 time=110 ms
+[1607862791.290079] 40 bytes from 45.79.216.127: icmp_seq=28 ttl=50 time=111 ms
+[1607862801.406034] 40 bytes from 45.79.216.127: icmp_seq=29 ttl=50 time=111 ms
+[1607862801.518875] 40 bytes from li1315-127.members.linode.com (45.79.216.127): icmp_seq=30 ttl=50 time=111 ms
+[1607862807.523910] 40 bytes from li1315-127.members.linode.com (45.79.216.127): icmp_seq=31 ttl=50 time=110 ms
+[1607862807.637164] 40 bytes from li1315-127.members.linode.com (45.79.216.127): icmp_seq=32 ttl=50 time=111 ms
+[1607862808.636425] 40 bytes from li1315-127.members.linode.com (45.79.216.127): icmp_seq=33 ttl=50 time=110 ms
+[1607862809.635055] 40 bytes from li1315-127.members.linode.com (45.79.216.127): icmp_seq=34 ttl=50 time=110 ms
+[1607862810.637131] 40 bytes from li1315-127.members.linode.com (45.79.216.127): icmp_seq=35 ttl=50 time=111 ms
+[1607862811.636855] 40 bytes from li1315-127.members.linode.com (45.79.216.127): icmp_seq=36 ttl=50 time=111 ms
+[1607862822.642260] 40 bytes from 45.79.216.127: icmp_seq=37 ttl=50 time=111 ms
+[1607862827.759965] 40 bytes from li1315-127.members.linode.com (45.79.216.127): icmp_seq=38 ttl=50 time=111 ms
+[1607862827.873356] 40 bytes from li1315-127.members.linode.com (45.79.216.127): icmp_seq=39 ttl=50 time=111 ms
+[1607862828.872925] 40 bytes from li1315-127.members.linode.com (45.79.216.127): icmp_seq=40 ttl=50 time=110 ms
+[1607862829.875993] 40 bytes from li1315-127.members.linode.com (45.79.216.127): icmp_seq=41 ttl=50 time=111 ms
+[1607862830.876439] 40 bytes from li1315-127.members.linode.com (45.79.216.127): icmp_seq=42 ttl=50 time=110 ms
+[1607862831.878417] 40 bytes from li1315-127.members.linode.com (45.79.216.127): icmp_seq=43 ttl=50 time=111 ms
+[1607862832.878541] 40 bytes from li1315-127.members.linode.com (45.79.216.127): icmp_seq=44 ttl=50 time=111 ms
+[1607862838.884038] 40 bytes from li1315-127.members.linode.com (45.79.216.127): icmp_seq=45 ttl=50 time=111 ms
+[1607862849.002066] 40 bytes from 45.79.216.127: icmp_seq=46 ttl=50 time=111 ms
+[1607862859.122002] 40 bytes from 45.79.216.127: icmp_seq=47 ttl=50 time=111 ms
+[1607862859.234468] 40 bytes from li1315-127.members.linode.com (45.79.216.127): icmp_seq=48 ttl=50 time=110 ms
+[1607862860.234768] 40 bytes from li1315-127.members.linode.com (45.79.216.127): icmp_seq=49 ttl=50 time=110 ms
+[1607862861.236116] 40 bytes from li1315-127.members.linode.com (45.79.216.127): icmp_seq=50 ttl=50 time=110 ms
+
+--- piedmont.edu ping statistics ---
+50 packets transmitted, 49 received, 2% packet loss, time 188138ms
+rtt min/avg/max/mdev = 109.738/110.511/110.944/0.270 ms

@@ -1,0 +1,55 @@
+PING ctcd.edu (67.79.90.68) 32(60) bytes of data.
+[1607862722.914855] 40 bytes from www.ctcd.edu (67.79.90.68): icmp_seq=1 ttl=238 time=139 ms
+[1607862723.564383] 40 bytes from www.ctcd.edu (67.79.90.68): icmp_seq=2 ttl=238 time=138 ms
+[1607862734.570970] 40 bytes from 67.79.90.68: icmp_seq=3 ttl=238 time=138 ms
+[1607862734.710566] 40 bytes from www.ctcd.edu (67.79.90.68): icmp_seq=4 ttl=238 time=138 ms
+[1607862745.715079] 40 bytes from 67.79.90.68: icmp_seq=5 ttl=238 time=138 ms
+[1607862745.855498] 40 bytes from www.ctcd.edu (67.79.90.68): icmp_seq=6 ttl=238 time=138 ms
+[1607862746.855323] 40 bytes from www.ctcd.edu (67.79.90.68): icmp_seq=7 ttl=238 time=138 ms
+[1607862747.857461] 40 bytes from www.ctcd.edu (67.79.90.68): icmp_seq=8 ttl=238 time=139 ms
+[1607862748.856384] 40 bytes from www.ctcd.edu (67.79.90.68): icmp_seq=9 ttl=238 time=138 ms
+[1607862749.855670] 40 bytes from www.ctcd.edu (67.79.90.68): icmp_seq=10 ttl=238 time=139 ms
+[1607862750.853725] 40 bytes from www.ctcd.edu (67.79.90.68): icmp_seq=11 ttl=238 time=138 ms
+[1607862751.854328] 40 bytes from www.ctcd.edu (67.79.90.68): icmp_seq=12 ttl=238 time=138 ms
+[1607862752.854199] 40 bytes from www.ctcd.edu (67.79.90.68): icmp_seq=13 ttl=238 time=138 ms
+[1607862753.854335] 40 bytes from www.ctcd.edu (67.79.90.68): icmp_seq=14 ttl=238 time=138 ms
+[1607862764.858003] 40 bytes from 67.79.90.68: icmp_seq=15 ttl=238 time=138 ms
+[1607862764.998798] 40 bytes from www.ctcd.edu (67.79.90.68): icmp_seq=16 ttl=238 time=138 ms
+[1607862771.003732] 40 bytes from www.ctcd.edu (67.79.90.68): icmp_seq=17 ttl=238 time=138 ms
+[1607862781.150087] 40 bytes from 67.79.90.68: icmp_seq=18 ttl=238 time=138 ms
+[1607862791.294110] 40 bytes from 67.79.90.68: icmp_seq=19 ttl=238 time=139 ms
+[1607862791.434925] 40 bytes from www.ctcd.edu (67.79.90.68): icmp_seq=20 ttl=238 time=139 ms
+[1607862792.433411] 40 bytes from www.ctcd.edu (67.79.90.68): icmp_seq=21 ttl=238 time=138 ms
+[1607862793.434282] 40 bytes from www.ctcd.edu (67.79.90.68): icmp_seq=22 ttl=238 time=138 ms
+[1607862794.435112] 40 bytes from www.ctcd.edu (67.79.90.68): icmp_seq=23 ttl=238 time=138 ms
+[1607862795.437132] 40 bytes from www.ctcd.edu (67.79.90.68): icmp_seq=24 ttl=238 time=138 ms
+[1607862801.441223] 40 bytes from www.ctcd.edu (67.79.90.68): icmp_seq=25 ttl=238 time=138 ms
+[1607862806.584121] 40 bytes from www.ctcd.edu (67.79.90.68): icmp_seq=26 ttl=238 time=138 ms
+[1607862806.724168] 40 bytes from www.ctcd.edu (67.79.90.68): icmp_seq=27 ttl=238 time=138 ms
+[1607862817.730155] 40 bytes from 67.79.90.68: icmp_seq=28 ttl=238 time=138 ms
+[1607862827.874255] 40 bytes from 67.79.90.68: icmp_seq=29 ttl=238 time=138 ms
+[1607862838.018053] 40 bytes from 67.79.90.68: icmp_seq=30 ttl=238 time=138 ms
+[1607862843.160123] 40 bytes from www.ctcd.edu (67.79.90.68): icmp_seq=31 ttl=238 time=139 ms
+[1607862843.300037] 40 bytes from www.ctcd.edu (67.79.90.68): icmp_seq=32 ttl=238 time=138 ms
+[1607862854.306050] 40 bytes from 67.79.90.68: icmp_seq=33 ttl=238 time=138 ms
+[1607862864.450992] 40 bytes from 67.79.90.68: icmp_seq=34 ttl=238 time=138 ms
+[1607862869.596083] 40 bytes from www.ctcd.edu (67.79.90.68): icmp_seq=35 ttl=238 time=139 ms
+[1607862869.736369] 40 bytes from www.ctcd.edu (67.79.90.68): icmp_seq=36 ttl=238 time=138 ms
+[1607862875.739274] 40 bytes from www.ctcd.edu (67.79.90.68): icmp_seq=37 ttl=238 time=138 ms
+[1607862880.884082] 40 bytes from www.ctcd.edu (67.79.90.68): icmp_seq=38 ttl=238 time=138 ms
+[1607862881.024346] 40 bytes from www.ctcd.edu (67.79.90.68): icmp_seq=39 ttl=238 time=139 ms
+[1607862882.024182] 40 bytes from www.ctcd.edu (67.79.90.68): icmp_seq=40 ttl=238 time=138 ms
+[1607862888.028014] 40 bytes from www.ctcd.edu (67.79.90.68): icmp_seq=41 ttl=238 time=138 ms
+[1607862888.167686] 40 bytes from www.ctcd.edu (67.79.90.68): icmp_seq=42 ttl=238 time=138 ms
+[1607862889.170075] 40 bytes from www.ctcd.edu (67.79.90.68): icmp_seq=43 ttl=238 time=138 ms
+[1607862890.171480] 40 bytes from www.ctcd.edu (67.79.90.68): icmp_seq=44 ttl=238 time=138 ms
+[1607862891.172899] 40 bytes from www.ctcd.edu (67.79.90.68): icmp_seq=45 ttl=238 time=139 ms
+[1607862892.174305] 40 bytes from www.ctcd.edu (67.79.90.68): icmp_seq=46 ttl=238 time=138 ms
+[1607862893.175651] 40 bytes from www.ctcd.edu (67.79.90.68): icmp_seq=47 ttl=238 time=138 ms
+[1607862894.176601] 40 bytes from www.ctcd.edu (67.79.90.68): icmp_seq=48 ttl=238 time=138 ms
+[1607862895.177851] 40 bytes from www.ctcd.edu (67.79.90.68): icmp_seq=49 ttl=238 time=138 ms
+[1607862896.178391] 40 bytes from www.ctcd.edu (67.79.90.68): icmp_seq=50 ttl=238 time=138 ms
+
+--- ctcd.edu ping statistics ---
+50 packets transmitted, 50 received, 0% packet loss, time 173616ms
+rtt min/avg/max/mdev = 137.756/138.320/138.698/0.217 ms

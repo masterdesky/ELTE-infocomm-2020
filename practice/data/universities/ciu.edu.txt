@@ -1,0 +1,55 @@
+PING ciu.edu (52.87.69.102) 32(60) bytes of data.
+[1607862705.987440] 40 bytes from ec2-52-87-69-102.compute-1.amazonaws.com (52.87.69.102): icmp_seq=1 ttl=36 time=107 ms
+[1607862706.988712] 40 bytes from ec2-52-87-69-102.compute-1.amazonaws.com (52.87.69.102): icmp_seq=2 ttl=36 time=107 ms
+[1607862717.994995] 40 bytes from 52.87.69.102: icmp_seq=3 ttl=36 time=107 ms
+[1607862718.104401] 40 bytes from ec2-52-87-69-102.compute-1.amazonaws.com (52.87.69.102): icmp_seq=4 ttl=36 time=107 ms
+[1607862724.107162] 40 bytes from ec2-52-87-69-102.compute-1.amazonaws.com (52.87.69.102): icmp_seq=5 ttl=36 time=107 ms
+[1607862724.215811] 40 bytes from ec2-52-87-69-102.compute-1.amazonaws.com (52.87.69.102): icmp_seq=6 ttl=36 time=107 ms
+[1607862725.215928] 40 bytes from ec2-52-87-69-102.compute-1.amazonaws.com (52.87.69.102): icmp_seq=7 ttl=36 time=107 ms
+[1607862726.215657] 40 bytes from ec2-52-87-69-102.compute-1.amazonaws.com (52.87.69.102): icmp_seq=8 ttl=36 time=107 ms
+[1607862737.222068] 40 bytes from 52.87.69.102: icmp_seq=9 ttl=36 time=108 ms
+[1607862742.335828] 40 bytes from ec2-52-87-69-102.compute-1.amazonaws.com (52.87.69.102): icmp_seq=10 ttl=36 time=108 ms
+[1607862747.447128] 40 bytes from ec2-52-87-69-102.compute-1.amazonaws.com (52.87.69.102): icmp_seq=11 ttl=36 time=107 ms
+[1607862747.555453] 40 bytes from ec2-52-87-69-102.compute-1.amazonaws.com (52.87.69.102): icmp_seq=12 ttl=36 time=107 ms
+[1607862748.556550] 40 bytes from ec2-52-87-69-102.compute-1.amazonaws.com (52.87.69.102): icmp_seq=13 ttl=36 time=108 ms
+[1607862754.559831] 40 bytes from ec2-52-87-69-102.compute-1.amazonaws.com (52.87.69.102): icmp_seq=14 ttl=36 time=107 ms
+[1607862759.671473] 40 bytes from ec2-52-87-69-102.compute-1.amazonaws.com (52.87.69.102): icmp_seq=15 ttl=36 time=108 ms
+[1607862759.781402] 40 bytes from ec2-52-87-69-102.compute-1.amazonaws.com (52.87.69.102): icmp_seq=16 ttl=36 time=107 ms
+[1607862765.783508] 40 bytes from ec2-52-87-69-102.compute-1.amazonaws.com (52.87.69.102): icmp_seq=17 ttl=36 time=108 ms
+[1607862765.893012] 40 bytes from ec2-52-87-69-102.compute-1.amazonaws.com (52.87.69.102): icmp_seq=18 ttl=36 time=107 ms
+[1607862766.894096] 40 bytes from ec2-52-87-69-102.compute-1.amazonaws.com (52.87.69.102): icmp_seq=19 ttl=36 time=107 ms
+[1607862767.894696] 40 bytes from ec2-52-87-69-102.compute-1.amazonaws.com (52.87.69.102): icmp_seq=20 ttl=36 time=107 ms
+[1607862768.894785] 40 bytes from ec2-52-87-69-102.compute-1.amazonaws.com (52.87.69.102): icmp_seq=21 ttl=36 time=107 ms
+[1607862769.894487] 40 bytes from ec2-52-87-69-102.compute-1.amazonaws.com (52.87.69.102): icmp_seq=22 ttl=36 time=107 ms
+[1607862780.902029] 40 bytes from 52.87.69.102: icmp_seq=23 ttl=36 time=109 ms
+[1607862791.018045] 40 bytes from 52.87.69.102: icmp_seq=24 ttl=36 time=108 ms
+[1607862791.127126] 40 bytes from ec2-52-87-69-102.compute-1.amazonaws.com (52.87.69.102): icmp_seq=25 ttl=36 time=108 ms
+[1607862802.134149] 40 bytes from 52.87.69.102: icmp_seq=26 ttl=36 time=107 ms
+[1607862802.243613] 40 bytes from ec2-52-87-69-102.compute-1.amazonaws.com (52.87.69.102): icmp_seq=27 ttl=36 time=107 ms
+[1607862803.242482] 40 bytes from ec2-52-87-69-102.compute-1.amazonaws.com (52.87.69.102): icmp_seq=28 ttl=36 time=107 ms
+[1607862804.245824] 40 bytes from ec2-52-87-69-102.compute-1.amazonaws.com (52.87.69.102): icmp_seq=29 ttl=36 time=108 ms
+[1607862805.245747] 40 bytes from ec2-52-87-69-102.compute-1.amazonaws.com (52.87.69.102): icmp_seq=30 ttl=36 time=107 ms
+[1607862806.256946] 40 bytes from ec2-52-87-69-102.compute-1.amazonaws.com (52.87.69.102): icmp_seq=31 ttl=36 time=108 ms
+[1607862812.256211] 40 bytes from ec2-52-87-69-102.compute-1.amazonaws.com (52.87.69.102): icmp_seq=32 ttl=36 time=108 ms
+[1607862812.365443] 40 bytes from ec2-52-87-69-102.compute-1.amazonaws.com (52.87.69.102): icmp_seq=33 ttl=36 time=107 ms
+[1607862813.367251] 40 bytes from ec2-52-87-69-102.compute-1.amazonaws.com (52.87.69.102): icmp_seq=34 ttl=36 time=108 ms
+[1607862814.368089] 40 bytes from ec2-52-87-69-102.compute-1.amazonaws.com (52.87.69.102): icmp_seq=35 ttl=36 time=107 ms
+[1607862815.370828] 40 bytes from ec2-52-87-69-102.compute-1.amazonaws.com (52.87.69.102): icmp_seq=36 ttl=36 time=108 ms
+[1607862816.371515] 40 bytes from ec2-52-87-69-102.compute-1.amazonaws.com (52.87.69.102): icmp_seq=37 ttl=36 time=107 ms
+[1607862822.379454] 40 bytes from ec2-52-87-69-102.compute-1.amazonaws.com (52.87.69.102): icmp_seq=38 ttl=36 time=108 ms
+[1607862822.488325] 40 bytes from ec2-52-87-69-102.compute-1.amazonaws.com (52.87.69.102): icmp_seq=39 ttl=36 time=108 ms
+[1607862833.493993] 40 bytes from 52.87.69.102: icmp_seq=40 ttl=36 time=107 ms
+[1607862833.603468] 40 bytes from ec2-52-87-69-102.compute-1.amazonaws.com (52.87.69.102): icmp_seq=41 ttl=36 time=108 ms
+[1607862834.604555] 40 bytes from ec2-52-87-69-102.compute-1.amazonaws.com (52.87.69.102): icmp_seq=42 ttl=36 time=107 ms
+[1607862835.606058] 40 bytes from ec2-52-87-69-102.compute-1.amazonaws.com (52.87.69.102): icmp_seq=43 ttl=36 time=108 ms
+[1607862836.607264] 40 bytes from ec2-52-87-69-102.compute-1.amazonaws.com (52.87.69.102): icmp_seq=44 ttl=36 time=108 ms
+[1607862837.607960] 40 bytes from ec2-52-87-69-102.compute-1.amazonaws.com (52.87.69.102): icmp_seq=45 ttl=36 time=108 ms
+[1607862848.614029] 40 bytes from 52.87.69.102: icmp_seq=46 ttl=36 time=108 ms
+[1607862853.727458] 40 bytes from ec2-52-87-69-102.compute-1.amazonaws.com (52.87.69.102): icmp_seq=47 ttl=36 time=108 ms
+[1607862853.836987] 40 bytes from ec2-52-87-69-102.compute-1.amazonaws.com (52.87.69.102): icmp_seq=48 ttl=36 time=108 ms
+[1607862864.842086] 40 bytes from 52.87.69.102: icmp_seq=49 ttl=36 time=108 ms
+[1607862865.842128] 40 bytes from 52.87.69.102: icmp_seq=50 ttl=36 time=108 ms
+
+--- ciu.edu ping statistics ---
+50 packets transmitted, 50 received, 0% packet loss, time 158964ms
+rtt min/avg/max/mdev = 106.632/107.418/109.462/0.415 ms

@@ -1,0 +1,55 @@
+PING forrestcollege.edu (35.206.106.77) 32(60) bytes of data.
+[1607862724.834047] 40 bytes from 35.206.106.77: icmp_seq=1 ttl=100 time=127 ms
+[1607862734.970041] 40 bytes from 35.206.106.77: icmp_seq=2 ttl=100 time=127 ms
+[1607862735.163318] 40 bytes from 77.106.206.35.bc.googleusercontent.com (35.206.106.77): icmp_seq=3 ttl=100 time=127 ms
+[1607862746.106011] 40 bytes from 35.206.106.77: icmp_seq=4 ttl=100 time=127 ms
+[1607862746.234596] 40 bytes from 77.106.206.35.bc.googleusercontent.com (35.206.106.77): icmp_seq=5 ttl=100 time=127 ms
+[1607862747.236676] 40 bytes from 77.106.206.35.bc.googleusercontent.com (35.206.106.77): icmp_seq=6 ttl=100 time=127 ms
+[1607862748.234602] 40 bytes from 77.106.206.35.bc.googleusercontent.com (35.206.106.77): icmp_seq=7 ttl=100 time=127 ms
+[1607862749.236620] 40 bytes from 77.106.206.35.bc.googleusercontent.com (35.206.106.77): icmp_seq=8 ttl=100 time=127 ms
+[1607862760.242062] 40 bytes from 35.206.106.77: icmp_seq=9 ttl=100 time=127 ms
+[1607862760.371475] 40 bytes from 77.106.206.35.bc.googleusercontent.com (35.206.106.77): icmp_seq=10 ttl=100 time=127 ms
+[1607862761.372852] 40 bytes from 77.106.206.35.bc.googleusercontent.com (35.206.106.77): icmp_seq=11 ttl=100 time=127 ms
+[1607862767.376052] 40 bytes from 77.106.206.35.bc.googleusercontent.com (35.206.106.77): icmp_seq=12 ttl=100 time=127 ms
+[1607862767.505268] 40 bytes from 77.106.206.35.bc.googleusercontent.com (35.206.106.77): icmp_seq=13 ttl=100 time=127 ms
+[1607862768.504076] 40 bytes from 77.106.206.35.bc.googleusercontent.com (35.206.106.77): icmp_seq=14 ttl=100 time=127 ms
+[1607862769.503642] 40 bytes from 77.106.206.35.bc.googleusercontent.com (35.206.106.77): icmp_seq=15 ttl=100 time=127 ms
+[1607862770.503834] 40 bytes from 77.106.206.35.bc.googleusercontent.com (35.206.106.77): icmp_seq=16 ttl=100 time=127 ms
+[1607862771.503643] 40 bytes from 77.106.206.35.bc.googleusercontent.com (35.206.106.77): icmp_seq=17 ttl=100 time=127 ms
+[1607862777.508725] 40 bytes from 77.106.206.35.bc.googleusercontent.com (35.206.106.77): icmp_seq=18 ttl=100 time=126 ms
+[1607862787.644132] 40 bytes from 35.206.106.77: icmp_seq=19 ttl=100 time=127 ms
+[1607862792.776044] 40 bytes from 77.106.206.35.bc.googleusercontent.com (35.206.106.77): icmp_seq=20 ttl=100 time=127 ms
+[1607862792.904715] 40 bytes from 77.106.206.35.bc.googleusercontent.com (35.206.106.77): icmp_seq=21 ttl=100 time=126 ms
+[1607862793.906779] 40 bytes from 77.106.206.35.bc.googleusercontent.com (35.206.106.77): icmp_seq=22 ttl=100 time=127 ms
+[1607862794.906282] 40 bytes from 77.106.206.35.bc.googleusercontent.com (35.206.106.77): icmp_seq=23 ttl=100 time=127 ms
+[1607862795.908023] 40 bytes from 77.106.206.35.bc.googleusercontent.com (35.206.106.77): icmp_seq=24 ttl=100 time=127 ms
+[1607862796.907005] 40 bytes from 77.106.206.35.bc.googleusercontent.com (35.206.106.77): icmp_seq=25 ttl=100 time=127 ms
+[1607862797.906980] 40 bytes from 77.106.206.35.bc.googleusercontent.com (35.206.106.77): icmp_seq=26 ttl=100 time=127 ms
+[1607862798.907126] 40 bytes from 77.106.206.35.bc.googleusercontent.com (35.206.106.77): icmp_seq=27 ttl=100 time=127 ms
+[1607862799.907049] 40 bytes from 77.106.206.35.bc.googleusercontent.com (35.206.106.77): icmp_seq=28 ttl=100 time=127 ms
+[1607862800.906048] 40 bytes from 77.106.206.35.bc.googleusercontent.com (35.206.106.77): icmp_seq=29 ttl=100 time=127 ms
+[1607862811.910039] 40 bytes from 35.206.106.77: icmp_seq=30 ttl=100 time=127 ms
+[1607862812.038514] 40 bytes from 77.106.206.35.bc.googleusercontent.com (35.206.106.77): icmp_seq=31 ttl=100 time=127 ms
+[1607862823.042175] 40 bytes from 35.206.106.77: icmp_seq=32 ttl=100 time=127 ms
+[1607862833.178297] 40 bytes from 35.206.106.77: icmp_seq=33 ttl=100 time=127 ms
+[1607862843.314013] 40 bytes from 35.206.106.77: icmp_seq=34 ttl=100 time=127 ms
+[1607862848.447765] 40 bytes from 77.106.206.35.bc.googleusercontent.com (35.206.106.77): icmp_seq=35 ttl=100 time=127 ms
+[1607862848.575914] 40 bytes from 77.106.206.35.bc.googleusercontent.com (35.206.106.77): icmp_seq=36 ttl=100 time=126 ms
+[1607862859.582045] 40 bytes from 35.206.106.77: icmp_seq=37 ttl=100 time=127 ms
+[1607862869.718035] 40 bytes from 35.206.106.77: icmp_seq=38 ttl=100 time=127 ms
+[1607862869.847115] 40 bytes from 77.106.206.35.bc.googleusercontent.com (35.206.106.77): icmp_seq=39 ttl=100 time=127 ms
+[1607862880.855589] 40 bytes from 35.206.106.77: icmp_seq=40 ttl=100 time=127 ms
+[1607862880.985124] 40 bytes from 77.106.206.35.bc.googleusercontent.com (35.206.106.77): icmp_seq=41 ttl=100 time=127 ms
+[1607862881.985090] 40 bytes from 77.106.206.35.bc.googleusercontent.com (35.206.106.77): icmp_seq=42 ttl=100 time=127 ms
+[1607862882.986959] 40 bytes from 77.106.206.35.bc.googleusercontent.com (35.206.106.77): icmp_seq=43 ttl=100 time=127 ms
+[1607862883.988224] 40 bytes from 77.106.206.35.bc.googleusercontent.com (35.206.106.77): icmp_seq=44 ttl=100 time=127 ms
+[1607862884.991477] 40 bytes from 77.106.206.35.bc.googleusercontent.com (35.206.106.77): icmp_seq=45 ttl=100 time=127 ms
+[1607862885.992992] 40 bytes from 77.106.206.35.bc.googleusercontent.com (35.206.106.77): icmp_seq=46 ttl=100 time=127 ms
+[1607862886.993747] 40 bytes from 77.106.206.35.bc.googleusercontent.com (35.206.106.77): icmp_seq=47 ttl=100 time=127 ms
+[1607862887.994695] 40 bytes from 77.106.206.35.bc.googleusercontent.com (35.206.106.77): icmp_seq=48 ttl=100 time=127 ms
+[1607862888.996872] 40 bytes from 77.106.206.35.bc.googleusercontent.com (35.206.106.77): icmp_seq=49 ttl=100 time=127 ms
+[1607862889.998063] 40 bytes from 77.106.206.35.bc.googleusercontent.com (35.206.106.77): icmp_seq=50 ttl=100 time=127 ms
+
+--- forrestcollege.edu ping statistics ---
+50 packets transmitted, 50 received, 0% packet loss, time 175170ms
+rtt min/avg/max/mdev = 126.287/126.912/127.235/0.230 ms

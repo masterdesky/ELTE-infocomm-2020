@@ -1,0 +1,55 @@
+PING gustavus.edu (138.236.127.126) 32(60) bytes of data.
+[1607862687.024931] 40 bytes from nginxspace1.virtual.gac.edu (138.236.127.126): icmp_seq=1 ttl=49 time=127 ms
+[1607862687.527498] 40 bytes from nginxspace1.virtual.gac.edu (138.236.127.126): icmp_seq=2 ttl=49 time=126 ms
+[1607862688.528252] 40 bytes from nginxspace1.virtual.gac.edu (138.236.127.126): icmp_seq=3 ttl=49 time=126 ms
+[1607862694.537687] 40 bytes from nginxspace1.virtual.gac.edu (138.236.127.126): icmp_seq=4 ttl=49 time=126 ms
+[1607862694.666031] 40 bytes from nginxspace1.virtual.gac.edu (138.236.127.126): icmp_seq=5 ttl=49 time=127 ms
+[1607862700.672312] 40 bytes from nginxspace1.virtual.gac.edu (138.236.127.126): icmp_seq=6 ttl=49 time=126 ms
+[1607862710.806913] 40 bytes from 138.236.127.126: icmp_seq=7 ttl=49 time=126 ms
+[1607862710.935613] 40 bytes from nginxspace1.virtual.gac.edu (138.236.127.126): icmp_seq=8 ttl=49 time=127 ms
+[1607862711.940055] 40 bytes from nginxspace1.virtual.gac.edu (138.236.127.126): icmp_seq=9 ttl=49 time=126 ms
+[1607862712.936149] 40 bytes from nginxspace1.virtual.gac.edu (138.236.127.126): icmp_seq=10 ttl=49 time=127 ms
+[1607862723.942040] 40 bytes from 138.236.127.126: icmp_seq=11 ttl=49 time=127 ms
+[1607862724.070730] 40 bytes from nginxspace1.virtual.gac.edu (138.236.127.126): icmp_seq=12 ttl=49 time=127 ms
+[1607862725.070508] 40 bytes from nginxspace1.virtual.gac.edu (138.236.127.126): icmp_seq=13 ttl=49 time=126 ms
+[1607862726.069883] 40 bytes from nginxspace1.virtual.gac.edu (138.236.127.126): icmp_seq=14 ttl=49 time=126 ms
+[1607862727.070519] 40 bytes from nginxspace1.virtual.gac.edu (138.236.127.126): icmp_seq=15 ttl=49 time=127 ms
+[1607862728.069849] 40 bytes from nginxspace1.virtual.gac.edu (138.236.127.126): icmp_seq=16 ttl=49 time=126 ms
+[1607862729.070125] 40 bytes from nginxspace1.virtual.gac.edu (138.236.127.126): icmp_seq=17 ttl=49 time=127 ms
+[1607862730.069502] 40 bytes from nginxspace1.virtual.gac.edu (138.236.127.126): icmp_seq=18 ttl=49 time=127 ms
+[1607862731.067779] 40 bytes from nginxspace1.virtual.gac.edu (138.236.127.126): icmp_seq=19 ttl=49 time=127 ms
+[1607862742.074111] 40 bytes from 138.236.127.126: icmp_seq=20 ttl=49 time=126 ms
+[1607862747.203791] 40 bytes from nginxspace1.virtual.gac.edu (138.236.127.126): icmp_seq=21 ttl=49 time=126 ms
+[1607862752.335660] 40 bytes from nginxspace1.virtual.gac.edu (138.236.127.126): icmp_seq=22 ttl=49 time=126 ms
+[1607862752.464384] 40 bytes from nginxspace1.virtual.gac.edu (138.236.127.126): icmp_seq=23 ttl=49 time=126 ms
+[1607862753.465287] 40 bytes from nginxspace1.virtual.gac.edu (138.236.127.126): icmp_seq=24 ttl=49 time=126 ms
+[1607862754.464011] 40 bytes from nginxspace1.virtual.gac.edu (138.236.127.126): icmp_seq=25 ttl=49 time=127 ms
+[1607862755.465909] 40 bytes from nginxspace1.virtual.gac.edu (138.236.127.126): icmp_seq=26 ttl=49 time=127 ms
+[1607862756.466291] 40 bytes from nginxspace1.virtual.gac.edu (138.236.127.126): icmp_seq=27 ttl=49 time=126 ms
+[1607862757.467464] 40 bytes from nginxspace1.virtual.gac.edu (138.236.127.126): icmp_seq=28 ttl=49 time=127 ms
+[1607862758.468091] 40 bytes from nginxspace1.virtual.gac.edu (138.236.127.126): icmp_seq=29 ttl=49 time=126 ms
+[1607862759.468460] 40 bytes from nginxspace1.virtual.gac.edu (138.236.127.126): icmp_seq=30 ttl=49 time=126 ms
+[1607862770.474085] 40 bytes from 138.236.127.126: icmp_seq=31 ttl=49 time=127 ms
+[1607862780.606356] 40 bytes from 138.236.127.126: icmp_seq=32 ttl=49 time=126 ms
+[1607862780.734779] 40 bytes from nginxspace1.virtual.gac.edu (138.236.127.126): icmp_seq=33 ttl=49 time=126 ms
+[1607862781.734635] 40 bytes from nginxspace1.virtual.gac.edu (138.236.127.126): icmp_seq=34 ttl=49 time=127 ms
+[1607862782.733985] 40 bytes from nginxspace1.virtual.gac.edu (138.236.127.126): icmp_seq=35 ttl=49 time=126 ms
+[1607862783.735299] 40 bytes from nginxspace1.virtual.gac.edu (138.236.127.126): icmp_seq=36 ttl=49 time=127 ms
+[1607862784.736217] 40 bytes from nginxspace1.virtual.gac.edu (138.236.127.126): icmp_seq=37 ttl=49 time=127 ms
+[1607862785.738174] 40 bytes from nginxspace1.virtual.gac.edu (138.236.127.126): icmp_seq=38 ttl=49 time=127 ms
+[1607862796.744084] 40 bytes from 138.236.127.126: icmp_seq=39 ttl=49 time=127 ms
+[1607862806.878021] 40 bytes from 138.236.127.126: icmp_seq=40 ttl=49 time=127 ms
+[1607862812.012362] 40 bytes from nginxspace1.virtual.gac.edu (138.236.127.126): icmp_seq=41 ttl=49 time=127 ms
+[1607862817.144439] 40 bytes from nginxspace1.virtual.gac.edu (138.236.127.126): icmp_seq=42 ttl=49 time=127 ms
+[1607862817.273374] 40 bytes from nginxspace1.virtual.gac.edu (138.236.127.126): icmp_seq=43 ttl=49 time=127 ms
+[1607862818.273245] 40 bytes from nginxspace1.virtual.gac.edu (138.236.127.126): icmp_seq=44 ttl=49 time=127 ms
+[1607862819.272047] 40 bytes from nginxspace1.virtual.gac.edu (138.236.127.126): icmp_seq=45 ttl=49 time=126 ms
+[1607862820.274056] 40 bytes from nginxspace1.virtual.gac.edu (138.236.127.126): icmp_seq=46 ttl=49 time=126 ms
+[1607862821.274678] 40 bytes from nginxspace1.virtual.gac.edu (138.236.127.126): icmp_seq=47 ttl=49 time=127 ms
+[1607862822.274984] 40 bytes from nginxspace1.virtual.gac.edu (138.236.127.126): icmp_seq=48 ttl=49 time=127 ms
+[1607862833.282013] 40 bytes from 138.236.127.126: icmp_seq=49 ttl=49 time=126 ms
+[1607862834.282066] 40 bytes from 138.236.127.126: icmp_seq=50 ttl=49 time=127 ms
+
+--- gustavus.edu ping statistics ---
+50 packets transmitted, 50 received, 0% packet loss, time 146883ms
+rtt min/avg/max/mdev = 125.651/126.392/126.826/0.328 ms

@@ -1,0 +1,55 @@
+PING epcc.edu (192.94.29.29) 32(60) bytes of data.
+[1607862707.064264] 40 bytes from wat.epcc.edu (192.94.29.29): icmp_seq=1 ttl=114 time=157 ms
+[1607862707.222984] 40 bytes from go.epcc.edu (192.94.29.29): icmp_seq=2 ttl=114 time=157 ms
+[1607862708.223722] 40 bytes from go.epcc.edu (192.94.29.29): icmp_seq=3 ttl=114 time=156 ms
+[1607862719.230058] 40 bytes from 192.94.29.29: icmp_seq=4 ttl=114 time=157 ms
+[1607862719.389066] 40 bytes from go.epcc.edu (192.94.29.29): icmp_seq=5 ttl=114 time=157 ms
+[1607862725.395788] 40 bytes from wat.epcc.edu (192.94.29.29): icmp_seq=6 ttl=114 time=158 ms
+[1607862725.554993] 40 bytes from go.epcc.edu (192.94.29.29): icmp_seq=7 ttl=114 time=157 ms
+[1607862726.554323] 40 bytes from go.epcc.edu (192.94.29.29): icmp_seq=8 ttl=114 time=157 ms
+[1607862727.555647] 40 bytes from wat.epcc.edu (192.94.29.29): icmp_seq=9 ttl=114 time=157 ms
+[1607862728.556997] 40 bytes from go.epcc.edu (192.94.29.29): icmp_seq=10 ttl=114 time=157 ms
+[1607862734.560057] 40 bytes from go.epcc.edu (192.94.29.29): icmp_seq=11 ttl=114 time=157 ms
+[1607862734.719043] 40 bytes from elp-192-94-29-29.epcc.edu (192.94.29.29): icmp_seq=12 ttl=114 time=157 ms
+[1607862735.717833] 40 bytes from elp-192-94-29-29.epcc.edu (192.94.29.29): icmp_seq=13 ttl=114 time=157 ms
+[1607862741.719863] 40 bytes from wat.epcc.edu (192.94.29.29): icmp_seq=14 ttl=114 time=156 ms
+[1607862746.879482] 40 bytes from go.epcc.edu (192.94.29.29): icmp_seq=15 ttl=114 time=157 ms
+[1607862757.042039] 40 bytes from 192.94.29.29: icmp_seq=16 ttl=114 time=157 ms
+[1607862757.200811] 40 bytes from go.epcc.edu (192.94.29.29): icmp_seq=17 ttl=114 time=157 ms
+[1607862758.201059] 40 bytes from wat.epcc.edu (192.94.29.29): icmp_seq=18 ttl=114 time=157 ms
+[1607862759.203845] 40 bytes from epcc.edu (192.94.29.29): icmp_seq=19 ttl=114 time=158 ms
+[1607862770.210110] 40 bytes from 192.94.29.29: icmp_seq=20 ttl=114 time=156 ms
+[1607862775.372233] 40 bytes from elp-192-94-29-29.epcc.edu (192.94.29.29): icmp_seq=21 ttl=114 time=157 ms
+[1607862780.532324] 40 bytes from epcc.edu (192.94.29.29): icmp_seq=22 ttl=114 time=156 ms
+[1607862785.696104] 40 bytes from go.epcc.edu (192.94.29.29): icmp_seq=23 ttl=114 time=157 ms
+[1607862785.854177] 40 bytes from go.epcc.edu (192.94.29.29): icmp_seq=24 ttl=114 time=156 ms
+[1607862786.854684] 40 bytes from elp-192-94-29-29.epcc.edu (192.94.29.29): icmp_seq=25 ttl=114 time=157 ms
+[1607862787.854964] 40 bytes from elp-192-94-29-29.epcc.edu (192.94.29.29): icmp_seq=26 ttl=114 time=157 ms
+[1607862788.856477] 40 bytes from elp-192-94-29-29.epcc.edu (192.94.29.29): icmp_seq=27 ttl=114 time=157 ms
+[1607862789.855953] 40 bytes from epcc.edu (192.94.29.29): icmp_seq=28 ttl=114 time=157 ms
+[1607862790.862258] 40 bytes from go.epcc.edu (192.94.29.29): icmp_seq=29 ttl=114 time=157 ms
+[1607862796.863358] 40 bytes from epcc.edu (192.94.29.29): icmp_seq=30 ttl=114 time=157 ms
+[1607862802.023375] 40 bytes from wat.epcc.edu (192.94.29.29): icmp_seq=31 ttl=114 time=156 ms
+[1607862807.183898] 40 bytes from elp-192-94-29-29.epcc.edu (192.94.29.29): icmp_seq=32 ttl=114 time=156 ms
+[1607862817.350022] 40 bytes from 192.94.29.29: icmp_seq=33 ttl=114 time=157 ms
+[1607862822.512127] 40 bytes from go.epcc.edu (192.94.29.29): icmp_seq=34 ttl=114 time=157 ms
+[1607862827.675931] 40 bytes from elp-192-94-29-29.epcc.edu (192.94.29.29): icmp_seq=35 ttl=114 time=157 ms
+[1607862832.840145] 40 bytes from elp-192-94-29-29.epcc.edu (192.94.29.29): icmp_seq=36 ttl=114 time=157 ms
+[1607862838.004081] 40 bytes from go.epcc.edu (192.94.29.29): icmp_seq=37 ttl=114 time=157 ms
+[1607862843.168057] 40 bytes from go.epcc.edu (192.94.29.29): icmp_seq=38 ttl=114 time=158 ms
+[1607862843.326493] 40 bytes from epcc.edu (192.94.29.29): icmp_seq=39 ttl=114 time=157 ms
+[1607862854.334039] 40 bytes from 192.94.29.29: icmp_seq=40 ttl=114 time=157 ms
+[1607862854.493034] 40 bytes from wat.epcc.edu (192.94.29.29): icmp_seq=41 ttl=114 time=157 ms
+[1607862855.495808] 40 bytes from wat.epcc.edu (192.94.29.29): icmp_seq=42 ttl=114 time=159 ms
+[1607862856.495785] 40 bytes from elp-192-94-29-29.epcc.edu (192.94.29.29): icmp_seq=43 ttl=114 time=157 ms
+[1607862857.496211] 40 bytes from wat.epcc.edu (192.94.29.29): icmp_seq=44 ttl=114 time=157 ms
+[1607862858.496720] 40 bytes from go.epcc.edu (192.94.29.29): icmp_seq=45 ttl=114 time=156 ms
+[1607862864.503705] 40 bytes from go.epcc.edu (192.94.29.29): icmp_seq=46 ttl=114 time=157 ms
+[1607862869.666220] 40 bytes from wat.epcc.edu (192.94.29.29): icmp_seq=47 ttl=114 time=157 ms
+[1607862869.824160] 40 bytes from wat.epcc.edu (192.94.29.29): icmp_seq=48 ttl=114 time=157 ms
+[1607862880.834009] 40 bytes from 192.94.29.29: icmp_seq=49 ttl=114 time=157 ms
+[1607862880.993329] 40 bytes from wat.epcc.edu (192.94.29.29): icmp_seq=50 ttl=114 time=157 ms
+
+--- epcc.edu ping statistics ---
+50 packets transmitted, 50 received, 0% packet loss, time 176697ms
+rtt min/avg/max/mdev = 155.972/156.870/158.544/0.472 ms

@@ -1,0 +1,55 @@
+PING ssw.edu (104.198.106.132) 32(60) bytes of data.
+[1607862714.090649] 40 bytes from 132.106.198.104.bc.googleusercontent.com (104.198.106.132): icmp_seq=1 ttl=47 time=154 ms
+[1607862715.090526] 40 bytes from 132.106.198.104.bc.googleusercontent.com (104.198.106.132): icmp_seq=2 ttl=47 time=155 ms
+[1607862716.090742] 40 bytes from 132.106.198.104.bc.googleusercontent.com (104.198.106.132): icmp_seq=3 ttl=47 time=155 ms
+[1607862717.090787] 40 bytes from 132.106.198.104.bc.googleusercontent.com (104.198.106.132): icmp_seq=4 ttl=47 time=155 ms
+[1607862718.089970] 40 bytes from 132.106.198.104.bc.googleusercontent.com (104.198.106.132): icmp_seq=5 ttl=47 time=154 ms
+[1607862719.089107] 40 bytes from 132.106.198.104.bc.googleusercontent.com (104.198.106.132): icmp_seq=6 ttl=47 time=154 ms
+[1607862720.088475] 40 bytes from 132.106.198.104.bc.googleusercontent.com (104.198.106.132): icmp_seq=7 ttl=47 time=154 ms
+[1607862731.094017] 40 bytes from 104.198.106.132: icmp_seq=8 ttl=47 time=154 ms
+[1607862741.254315] 40 bytes from 104.198.106.132: icmp_seq=9 ttl=47 time=154 ms
+[1607862751.414074] 40 bytes from 104.198.106.132: icmp_seq=10 ttl=47 time=154 ms
+[1607862761.574047] 40 bytes from 104.198.106.132: icmp_seq=11 ttl=47 time=154 ms
+[1607862766.735316] 40 bytes from 132.106.198.104.bc.googleusercontent.com (104.198.106.132): icmp_seq=12 ttl=47 time=155 ms
+[1607862766.890890] 40 bytes from 132.106.198.104.bc.googleusercontent.com (104.198.106.132): icmp_seq=13 ttl=47 time=154 ms
+[1607862767.892814] 40 bytes from 132.106.198.104.bc.googleusercontent.com (104.198.106.132): icmp_seq=14 ttl=47 time=155 ms
+[1607862768.891415] 40 bytes from 132.106.198.104.bc.googleusercontent.com (104.198.106.132): icmp_seq=15 ttl=47 time=155 ms
+[1607862769.892669] 40 bytes from 132.106.198.104.bc.googleusercontent.com (104.198.106.132): icmp_seq=16 ttl=47 time=155 ms
+[1607862775.895699] 40 bytes from 132.106.198.104.bc.googleusercontent.com (104.198.106.132): icmp_seq=17 ttl=47 time=155 ms
+[1607862781.055659] 40 bytes from 132.106.198.104.bc.googleusercontent.com (104.198.106.132): icmp_seq=18 ttl=47 time=154 ms
+[1607862786.216148] 40 bytes from 132.106.198.104.bc.googleusercontent.com (104.198.106.132): icmp_seq=19 ttl=47 time=155 ms
+[1607862791.375952] 40 bytes from 132.106.198.104.bc.googleusercontent.com (104.198.106.132): icmp_seq=20 ttl=47 time=154 ms
+[1607862796.535879] 40 bytes from 132.106.198.104.bc.googleusercontent.com (104.198.106.132): icmp_seq=21 ttl=47 time=154 ms
+[1607862806.698260] 40 bytes from 104.198.106.132: icmp_seq=22 ttl=47 time=154 ms
+[1607862806.855177] 40 bytes from 132.106.198.104.bc.googleusercontent.com (104.198.106.132): icmp_seq=23 ttl=47 time=155 ms
+[1607862807.855661] 40 bytes from 132.106.198.104.bc.googleusercontent.com (104.198.106.132): icmp_seq=24 ttl=47 time=155 ms
+[1607862808.855490] 40 bytes from 132.106.198.104.bc.googleusercontent.com (104.198.106.132): icmp_seq=25 ttl=47 time=156 ms
+[1607862809.855727] 40 bytes from 132.106.198.104.bc.googleusercontent.com (104.198.106.132): icmp_seq=26 ttl=47 time=156 ms
+[1607862810.855046] 40 bytes from 132.106.198.104.bc.googleusercontent.com (104.198.106.132): icmp_seq=27 ttl=47 time=156 ms
+[1607862811.855723] 40 bytes from 132.106.198.104.bc.googleusercontent.com (104.198.106.132): icmp_seq=28 ttl=47 time=157 ms
+[1607862812.855490] 40 bytes from 132.106.198.104.bc.googleusercontent.com (104.198.106.132): icmp_seq=29 ttl=47 time=156 ms
+[1607862813.854516] 40 bytes from 132.106.198.104.bc.googleusercontent.com (104.198.106.132): icmp_seq=30 ttl=47 time=154 ms
+[1607862814.855506] 40 bytes from 132.106.198.104.bc.googleusercontent.com (104.198.106.132): icmp_seq=31 ttl=47 time=154 ms
+[1607862815.857214] 40 bytes from 132.106.198.104.bc.googleusercontent.com (104.198.106.132): icmp_seq=32 ttl=47 time=154 ms
+[1607862816.857858] 40 bytes from 132.106.198.104.bc.googleusercontent.com (104.198.106.132): icmp_seq=33 ttl=47 time=154 ms
+[1607862827.862077] 40 bytes from 104.198.106.132: icmp_seq=34 ttl=47 time=155 ms
+[1607862833.023676] 40 bytes from 132.106.198.104.bc.googleusercontent.com (104.198.106.132): icmp_seq=35 ttl=47 time=155 ms
+[1607862843.186673] 40 bytes from 104.198.106.132: icmp_seq=36 ttl=47 time=154 ms
+[1607862843.342282] 40 bytes from 132.106.198.104.bc.googleusercontent.com (104.198.106.132): icmp_seq=37 ttl=47 time=154 ms
+[1607862844.343467] 40 bytes from 132.106.198.104.bc.googleusercontent.com (104.198.106.132): icmp_seq=38 ttl=47 time=154 ms
+[1607862845.344234] 40 bytes from 132.106.198.104.bc.googleusercontent.com (104.198.106.132): icmp_seq=39 ttl=47 time=154 ms
+[1607862846.345138] 40 bytes from 132.106.198.104.bc.googleusercontent.com (104.198.106.132): icmp_seq=40 ttl=47 time=154 ms
+[1607862847.362966] 40 bytes from 132.106.198.104.bc.googleusercontent.com (104.198.106.132): icmp_seq=41 ttl=47 time=171 ms
+[1607862848.347096] 40 bytes from 132.106.198.104.bc.googleusercontent.com (104.198.106.132): icmp_seq=42 ttl=47 time=154 ms
+[1607862859.366191] 40 bytes from 104.198.106.132: icmp_seq=43 ttl=47 time=167 ms
+[1607862859.521613] 40 bytes from 132.106.198.104.bc.googleusercontent.com (104.198.106.132): icmp_seq=44 ttl=47 time=153 ms
+[1607862860.524260] 40 bytes from 132.106.198.104.bc.googleusercontent.com (104.198.106.132): icmp_seq=45 ttl=47 time=154 ms
+[1607862861.524716] 40 bytes from 132.106.198.104.bc.googleusercontent.com (104.198.106.132): icmp_seq=46 ttl=47 time=154 ms
+[1607862862.526122] 40 bytes from 132.106.198.104.bc.googleusercontent.com (104.198.106.132): icmp_seq=47 ttl=47 time=154 ms
+[1607862863.525912] 40 bytes from 132.106.198.104.bc.googleusercontent.com (104.198.106.132): icmp_seq=48 ttl=47 time=154 ms
+[1607862864.527124] 40 bytes from 132.106.198.104.bc.googleusercontent.com (104.198.106.132): icmp_seq=49 ttl=47 time=154 ms
+[1607862866.372737] 40 bytes from 104.198.106.132: icmp_seq=50 ttl=47 time=154 ms
+
+--- ssw.edu ping statistics ---
+50 packets transmitted, 50 received, 0% packet loss, time 151439ms
+rtt min/avg/max/mdev = 153.498/155.066/170.901/2.968 ms

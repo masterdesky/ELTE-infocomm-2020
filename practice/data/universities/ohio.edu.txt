@@ -1,0 +1,55 @@
+PING ohio.edu (132.235.8.52) 32(60) bytes of data.
+[1607862703.398018] 40 bytes from 132.235.8.52: icmp_seq=1 ttl=230 time=121 ms
+[1607862713.526160] 40 bytes from 132.235.8.52: icmp_seq=2 ttl=230 time=121 ms
+[1607862723.654501] 40 bytes from 132.235.8.52: icmp_seq=3 ttl=230 time=121 ms
+[1607862724.162499] 40 bytes from ohio.edu (132.235.8.52): icmp_seq=4 ttl=230 time=121 ms
+[1607862734.782013] 40 bytes from 132.235.8.52: icmp_seq=5 ttl=230 time=121 ms
+[1607862734.906213] 40 bytes from ohio.edu (132.235.8.52): icmp_seq=6 ttl=230 time=121 ms
+[1607862745.910045] 40 bytes from 132.235.8.52: icmp_seq=7 ttl=230 time=121 ms
+[1607862751.036186] 40 bytes from ohio.edu (132.235.8.52): icmp_seq=8 ttl=230 time=121 ms
+[1607862751.159886] 40 bytes from ohio.edu (132.235.8.52): icmp_seq=9 ttl=230 time=122 ms
+[1607862757.163780] 40 bytes from ohio.edu (132.235.8.52): icmp_seq=10 ttl=230 time=121 ms
+[1607862757.286490] 40 bytes from ohio.edu (132.235.8.52): icmp_seq=11 ttl=230 time=121 ms
+[1607862758.288887] 40 bytes from ohio.edu (132.235.8.52): icmp_seq=12 ttl=230 time=121 ms
+[1607862759.288714] 40 bytes from ohio.edu (132.235.8.52): icmp_seq=13 ttl=230 time=121 ms
+[1607862760.289495] 40 bytes from ohio.edu (132.235.8.52): icmp_seq=14 ttl=230 time=121 ms
+[1607862761.290200] 40 bytes from ohio.edu (132.235.8.52): icmp_seq=15 ttl=230 time=122 ms
+[1607862772.294059] 40 bytes from 132.235.8.52: icmp_seq=16 ttl=230 time=121 ms
+[1607862772.417814] 40 bytes from ohio.edu (132.235.8.52): icmp_seq=17 ttl=230 time=121 ms
+[1607862773.417203] 40 bytes from ohio.edu (132.235.8.52): icmp_seq=18 ttl=230 time=121 ms
+[1607862774.416696] 40 bytes from ohio.edu (132.235.8.52): icmp_seq=19 ttl=230 time=121 ms
+[1607862775.416756] 40 bytes from ohio.edu (132.235.8.52): icmp_seq=20 ttl=230 time=121 ms
+[1607862786.422051] 40 bytes from 132.235.8.52: icmp_seq=21 ttl=230 time=121 ms
+[1607862796.550000] 40 bytes from 132.235.8.52: icmp_seq=22 ttl=230 time=122 ms
+[1607862806.678988] 40 bytes from 132.235.8.52: icmp_seq=23 ttl=230 time=121 ms
+[1607862811.803951] 40 bytes from ohio.edu (132.235.8.52): icmp_seq=24 ttl=230 time=121 ms
+[1607862811.927905] 40 bytes from ohio.edu (132.235.8.52): icmp_seq=25 ttl=230 time=121 ms
+[1607862812.927313] 40 bytes from ohio.edu (132.235.8.52): icmp_seq=26 ttl=230 time=121 ms
+[1607862813.928685] 40 bytes from ohio.edu (132.235.8.52): icmp_seq=27 ttl=230 time=121 ms
+[1607862814.929676] 40 bytes from ohio.edu (132.235.8.52): icmp_seq=28 ttl=230 time=121 ms
+[1607862815.930297] 40 bytes from ohio.edu (132.235.8.52): icmp_seq=29 ttl=230 time=121 ms
+[1607862816.932522] 40 bytes from ohio.edu (132.235.8.52): icmp_seq=30 ttl=230 time=121 ms
+[1607862822.936134] 40 bytes from ohio.edu (132.235.8.52): icmp_seq=31 ttl=230 time=122 ms
+[1607862828.063699] 40 bytes from ohio.edu (132.235.8.52): icmp_seq=32 ttl=230 time=121 ms
+[1607862838.194027] 40 bytes from 132.235.8.52: icmp_seq=33 ttl=230 time=121 ms
+[1607862843.319917] 40 bytes from ohio.edu (132.235.8.52): icmp_seq=34 ttl=230 time=121 ms
+[1607862848.447470] 40 bytes from ohio.edu (132.235.8.52): icmp_seq=35 ttl=230 time=121 ms
+[1607862848.569848] 40 bytes from ohio.edu (132.235.8.52): icmp_seq=36 ttl=230 time=121 ms
+[1607862859.574010] 40 bytes from 132.235.8.52: icmp_seq=37 ttl=230 time=121 ms
+[1607862869.702023] 40 bytes from 132.235.8.52: icmp_seq=38 ttl=230 time=121 ms
+[1607862869.825420] 40 bytes from ohio.edu (132.235.8.52): icmp_seq=39 ttl=230 time=121 ms
+[1607862880.830003] 40 bytes from 132.235.8.52: icmp_seq=40 ttl=230 time=121 ms
+[1607862880.953825] 40 bytes from ohio.edu (132.235.8.52): icmp_seq=41 ttl=230 time=122 ms
+[1607862881.953402] 40 bytes from ohio.edu (132.235.8.52): icmp_seq=42 ttl=230 time=121 ms
+[1607862882.954720] 40 bytes from ohio.edu (132.235.8.52): icmp_seq=43 ttl=230 time=121 ms
+[1607862883.956022] 40 bytes from ohio.edu (132.235.8.52): icmp_seq=44 ttl=230 time=121 ms
+[1607862884.956974] 40 bytes from ohio.edu (132.235.8.52): icmp_seq=45 ttl=230 time=122 ms
+[1607862885.958698] 40 bytes from ohio.edu (132.235.8.52): icmp_seq=46 ttl=230 time=122 ms
+[1607862886.960608] 40 bytes from ohio.edu (132.235.8.52): icmp_seq=47 ttl=230 time=121 ms
+[1607862887.960981] 40 bytes from ohio.edu (132.235.8.52): icmp_seq=48 ttl=230 time=121 ms
+[1607862888.962564] 40 bytes from ohio.edu (132.235.8.52): icmp_seq=49 ttl=230 time=122 ms
+[1607862889.964037] 40 bytes from ohio.edu (132.235.8.52): icmp_seq=50 ttl=230 time=121 ms
+
+--- ohio.edu ping statistics ---
+50 packets transmitted, 50 received, 0% packet loss, time 196572ms
+rtt min/avg/max/mdev = 120.559/121.278/121.924/0.293 ms

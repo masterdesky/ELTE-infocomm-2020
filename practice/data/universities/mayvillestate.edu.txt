@@ -1,0 +1,54 @@
+PING mayvillestate.edu (148.62.23.244) 32(60) bytes of data.
+[1607862695.846970] 40 bytes from 884956-LinDB.leightoninteractive.com (148.62.23.244): icmp_seq=1 ttl=42 time=142 ms
+[1607862696.847022] 40 bytes from 884956-LinDB.leightoninteractive.com (148.62.23.244): icmp_seq=2 ttl=42 time=142 ms
+[1607862708.858012] 40 bytes from 148.62.23.244: icmp_seq=4 ttl=42 time=142 ms
+[1607862719.006014] 40 bytes from 148.62.23.244: icmp_seq=5 ttl=42 time=142 ms
+[1607862729.158072] 40 bytes from 148.62.23.244: icmp_seq=6 ttl=42 time=142 ms
+[1607862739.310010] 40 bytes from 148.62.23.244: icmp_seq=7 ttl=42 time=143 ms
+[1607862739.454723] 40 bytes from 884956-LinDB.leightoninteractive.com (148.62.23.244): icmp_seq=8 ttl=42 time=142 ms
+[1607862740.456361] 40 bytes from 884956-LinDB.leightoninteractive.com (148.62.23.244): icmp_seq=9 ttl=42 time=142 ms
+[1607862751.466051] 40 bytes from 148.62.23.244: icmp_seq=10 ttl=42 time=150 ms
+[1607862761.614139] 40 bytes from 148.62.23.244: icmp_seq=11 ttl=42 time=142 ms
+[1607862771.766041] 40 bytes from 148.62.23.244: icmp_seq=12 ttl=42 time=143 ms
+[1607862781.914009] 40 bytes from 148.62.23.244: icmp_seq=13 ttl=42 time=142 ms
+[1607862782.058699] 40 bytes from 884956-LinDB.leightoninteractive.com (148.62.23.244): icmp_seq=14 ttl=42 time=142 ms
+[1607862783.058415] 40 bytes from 884956-LinDB.leightoninteractive.com (148.62.23.244): icmp_seq=15 ttl=42 time=142 ms
+[1607862784.058769] 40 bytes from 884956-LinDB.leightoninteractive.com (148.62.23.244): icmp_seq=16 ttl=42 time=143 ms
+[1607862785.058455] 40 bytes from 884956-LinDB.leightoninteractive.com (148.62.23.244): icmp_seq=17 ttl=42 time=142 ms
+[1607862791.063900] 40 bytes from 884956-LinDB.leightoninteractive.com (148.62.23.244): icmp_seq=18 ttl=42 time=143 ms
+[1607862796.211931] 40 bytes from 884956-LinDB.leightoninteractive.com (148.62.23.244): icmp_seq=19 ttl=42 time=142 ms
+[1607862796.355444] 40 bytes from 884956-LinDB.leightoninteractive.com (148.62.23.244): icmp_seq=20 ttl=42 time=141 ms
+[1607862807.362031] 40 bytes from 148.62.23.244: icmp_seq=21 ttl=42 time=142 ms
+[1607862817.510055] 40 bytes from 148.62.23.244: icmp_seq=22 ttl=42 time=143 ms
+[1607862827.663090] 40 bytes from 148.62.23.244: icmp_seq=23 ttl=42 time=143 ms
+[1607862832.811626] 40 bytes from 884956-LinDB.leightoninteractive.com (148.62.23.244): icmp_seq=24 ttl=42 time=143 ms
+[1607862832.956192] 40 bytes from 884956-LinDB.leightoninteractive.com (148.62.23.244): icmp_seq=25 ttl=42 time=142 ms
+[1607862843.962052] 40 bytes from 148.62.23.244: icmp_seq=26 ttl=42 time=142 ms
+[1607862854.110052] 40 bytes from 148.62.23.244: icmp_seq=27 ttl=42 time=143 ms
+[1607862854.253968] 40 bytes from 884956-LinDB.leightoninteractive.com (148.62.23.244): icmp_seq=28 ttl=42 time=142 ms
+[1607862855.255357] 40 bytes from 884956-LinDB.leightoninteractive.com (148.62.23.244): icmp_seq=29 ttl=42 time=142 ms
+[1607862856.256030] 40 bytes from 884956-LinDB.leightoninteractive.com (148.62.23.244): icmp_seq=30 ttl=42 time=142 ms
+[1607862857.258232] 40 bytes from 884956-LinDB.leightoninteractive.com (148.62.23.244): icmp_seq=31 ttl=42 time=142 ms
+[1607862858.259155] 40 bytes from 884956-LinDB.leightoninteractive.com (148.62.23.244): icmp_seq=32 ttl=42 time=142 ms
+[1607862859.261456] 40 bytes from 884956-LinDB.leightoninteractive.com (148.62.23.244): icmp_seq=33 ttl=42 time=142 ms
+[1607862870.266100] 40 bytes from 148.62.23.244: icmp_seq=34 ttl=42 time=142 ms
+[1607862870.410539] 40 bytes from 884956-LinDB.leightoninteractive.com (148.62.23.244): icmp_seq=35 ttl=42 time=142 ms
+[1607862871.412167] 40 bytes from 884956-LinDB.leightoninteractive.com (148.62.23.244): icmp_seq=36 ttl=42 time=142 ms
+[1607862872.413040] 40 bytes from 884956-LinDB.leightoninteractive.com (148.62.23.244): icmp_seq=37 ttl=42 time=142 ms
+[1607862873.415489] 40 bytes from 884956-LinDB.leightoninteractive.com (148.62.23.244): icmp_seq=38 ttl=42 time=143 ms
+[1607862874.415959] 40 bytes from 884956-LinDB.leightoninteractive.com (148.62.23.244): icmp_seq=39 ttl=42 time=142 ms
+[1607862875.418211] 40 bytes from 884956-LinDB.leightoninteractive.com (148.62.23.244): icmp_seq=40 ttl=42 time=142 ms
+[1607862876.418609] 40 bytes from 884956-LinDB.leightoninteractive.com (148.62.23.244): icmp_seq=41 ttl=42 time=142 ms
+[1607862877.419750] 40 bytes from 884956-LinDB.leightoninteractive.com (148.62.23.244): icmp_seq=42 ttl=42 time=142 ms
+[1607862878.420261] 40 bytes from 884956-LinDB.leightoninteractive.com (148.62.23.244): icmp_seq=43 ttl=42 time=142 ms
+[1607862879.422232] 40 bytes from 884956-LinDB.leightoninteractive.com (148.62.23.244): icmp_seq=44 ttl=42 time=142 ms
+[1607862880.424197] 40 bytes from 884956-LinDB.leightoninteractive.com (148.62.23.244): icmp_seq=45 ttl=42 time=143 ms
+[1607862881.424488] 40 bytes from 884956-LinDB.leightoninteractive.com (148.62.23.244): icmp_seq=46 ttl=42 time=142 ms
+[1607862882.424659] 40 bytes from 884956-LinDB.leightoninteractive.com (148.62.23.244): icmp_seq=47 ttl=42 time=141 ms
+[1607862883.427100] 40 bytes from 884956-LinDB.leightoninteractive.com (148.62.23.244): icmp_seq=48 ttl=42 time=142 ms
+[1607862884.427226] 40 bytes from 884956-LinDB.leightoninteractive.com (148.62.23.244): icmp_seq=49 ttl=42 time=142 ms
+[1607862885.427391] 40 bytes from 884956-LinDB.leightoninteractive.com (148.62.23.244): icmp_seq=50 ttl=42 time=142 ms
+
+--- mayvillestate.edu ping statistics ---
+50 packets transmitted, 49 received, 2% packet loss, time 189581ms
+rtt min/avg/max/mdev = 141.364/142.415/149.547/1.080 ms

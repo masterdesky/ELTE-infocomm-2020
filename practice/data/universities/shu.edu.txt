@@ -1,0 +1,55 @@
+PING shu.edu (52.216.141.11) 32(60) bytes of data.
+[1607862697.962013] 40 bytes from 52.216.141.11: icmp_seq=1 ttl=41 time=114 ms
+[1607862703.645881] 40 bytes from s3-website-us-east-1.amazonaws.com (52.216.141.11): icmp_seq=2 ttl=41 time=113 ms
+[1607862708.763917] 40 bytes from s3-website-us-east-1.amazonaws.com (52.216.141.11): icmp_seq=3 ttl=41 time=114 ms
+[1607862713.883830] 40 bytes from s3-website-us-east-1.amazonaws.com (52.216.141.11): icmp_seq=4 ttl=41 time=114 ms
+[1607862724.006081] 40 bytes from 52.216.141.11: icmp_seq=5 ttl=41 time=114 ms
+[1607862724.122266] 40 bytes from s3-website-us-east-1.amazonaws.com (52.216.141.11): icmp_seq=6 ttl=41 time=114 ms
+[1607862730.130133] 40 bytes from s3-website-us-east-1.amazonaws.com (52.216.141.11): icmp_seq=7 ttl=41 time=113 ms
+[1607862730.250480] 40 bytes from s3-website-us-east-1.amazonaws.com (52.216.141.11): icmp_seq=8 ttl=41 time=114 ms
+[1607862731.246790] 40 bytes from s3-website-us-east-1.amazonaws.com (52.216.141.11): icmp_seq=9 ttl=41 time=114 ms
+[1607862732.247085] 40 bytes from s3-website-us-east-1.amazonaws.com (52.216.141.11): icmp_seq=10 ttl=41 time=114 ms
+[1607862733.249816] 40 bytes from s3-website-us-east-1.amazonaws.com (52.216.141.11): icmp_seq=11 ttl=41 time=115 ms
+[1607862734.249492] 40 bytes from s3-website-us-east-1.amazonaws.com (52.216.141.11): icmp_seq=12 ttl=41 time=114 ms
+[1607862735.249776] 40 bytes from s3-website-us-east-1.amazonaws.com (52.216.141.11): icmp_seq=13 ttl=41 time=115 ms
+[1607862741.252239] 40 bytes from s3-website-us-east-1.amazonaws.com (52.216.141.11): icmp_seq=14 ttl=41 time=114 ms
+[1607862751.374140] 40 bytes from 52.216.141.11: icmp_seq=15 ttl=41 time=114 ms
+[1607862761.494048] 40 bytes from 52.216.141.11: icmp_seq=16 ttl=41 time=114 ms
+[1607862766.612235] 40 bytes from s3-website-us-east-1.amazonaws.com (52.216.141.11): icmp_seq=17 ttl=41 time=114 ms
+[1607862776.734116] 40 bytes from 52.216.141.11: icmp_seq=18 ttl=41 time=114 ms
+[1607862776.850401] 40 bytes from s3-website-us-east-1.amazonaws.com (52.216.141.11): icmp_seq=19 ttl=41 time=114 ms
+[1607862777.849204] 40 bytes from s3-website-us-east-1.amazonaws.com (52.216.141.11): icmp_seq=20 ttl=41 time=114 ms
+[1607862778.849935] 40 bytes from s3-website-us-east-1.amazonaws.com (52.216.141.11): icmp_seq=21 ttl=41 time=114 ms
+[1607862779.849738] 40 bytes from s3-website-us-east-1.amazonaws.com (52.216.141.11): icmp_seq=22 ttl=41 time=114 ms
+[1607862785.854099] 40 bytes from s3-website-us-east-1.amazonaws.com (52.216.141.11): icmp_seq=23 ttl=41 time=114 ms
+[1607862790.971809] 40 bytes from s3-website-us-east-1.amazonaws.com (52.216.141.11): icmp_seq=24 ttl=41 time=114 ms
+[1607862791.087433] 40 bytes from s3-website-us-east-1.amazonaws.com (52.216.141.11): icmp_seq=25 ttl=41 time=113 ms
+[1607862802.094018] 40 bytes from 52.216.141.11: icmp_seq=26 ttl=41 time=113 ms
+[1607862812.214067] 40 bytes from 52.216.141.11: icmp_seq=27 ttl=41 time=114 ms
+[1607862822.334076] 40 bytes from 52.216.141.11: icmp_seq=28 ttl=41 time=114 ms
+[1607862822.450552] 40 bytes from s3-website-us-east-1.amazonaws.com (52.216.141.11): icmp_seq=29 ttl=41 time=114 ms
+[1607862833.454043] 40 bytes from 52.216.141.11: icmp_seq=30 ttl=41 time=114 ms
+[1607862843.574070] 40 bytes from 52.216.141.11: icmp_seq=31 ttl=41 time=114 ms
+[1607862853.694182] 40 bytes from 52.216.141.11: icmp_seq=32 ttl=41 time=114 ms
+[1607862853.809861] 40 bytes from s3-website-us-east-1.amazonaws.com (52.216.141.11): icmp_seq=33 ttl=41 time=114 ms
+[1607862864.814213] 40 bytes from 52.216.141.11: icmp_seq=34 ttl=41 time=114 ms
+[1607862874.934008] 40 bytes from 52.216.141.11: icmp_seq=35 ttl=41 time=114 ms
+[1607862875.050349] 40 bytes from s3-website-us-east-1.amazonaws.com (52.216.141.11): icmp_seq=36 ttl=41 time=114 ms
+[1607862881.052155] 40 bytes from s3-website-us-east-1.amazonaws.com (52.216.141.11): icmp_seq=37 ttl=41 time=114 ms
+[1607862881.168121] 40 bytes from s3-website-us-east-1.amazonaws.com (52.216.141.11): icmp_seq=38 ttl=41 time=114 ms
+[1607862882.168957] 40 bytes from s3-website-us-east-1.amazonaws.com (52.216.141.11): icmp_seq=39 ttl=41 time=114 ms
+[1607862883.169629] 40 bytes from s3-website-us-east-1.amazonaws.com (52.216.141.11): icmp_seq=40 ttl=41 time=114 ms
+[1607862884.169522] 40 bytes from s3-website-us-east-1.amazonaws.com (52.216.141.11): icmp_seq=41 ttl=41 time=114 ms
+[1607862885.170552] 40 bytes from s3-website-us-east-1.amazonaws.com (52.216.141.11): icmp_seq=42 ttl=41 time=114 ms
+[1607862886.170844] 40 bytes from s3-website-us-east-1.amazonaws.com (52.216.141.11): icmp_seq=43 ttl=41 time=114 ms
+[1607862887.172174] 40 bytes from s3-website-us-east-1.amazonaws.com (52.216.141.11): icmp_seq=44 ttl=41 time=114 ms
+[1607862888.172565] 40 bytes from s3-website-us-east-1.amazonaws.com (52.216.141.11): icmp_seq=45 ttl=41 time=113 ms
+[1607862889.174765] 40 bytes from s3-website-us-east-1.amazonaws.com (52.216.141.11): icmp_seq=46 ttl=41 time=114 ms
+[1607862890.176067] 40 bytes from s3-website-us-east-1.amazonaws.com (52.216.141.11): icmp_seq=47 ttl=41 time=114 ms
+[1607862891.176849] 40 bytes from s3-website-us-east-1.amazonaws.com (52.216.141.11): icmp_seq=48 ttl=41 time=114 ms
+[1607862892.177468] 40 bytes from s3-website-us-east-1.amazonaws.com (52.216.141.11): icmp_seq=49 ttl=41 time=114 ms
+[1607862893.178589] 40 bytes from s3-website-us-east-1.amazonaws.com (52.216.141.11): icmp_seq=50 ttl=41 time=114 ms
+
+--- shu.edu ping statistics ---
+50 packets transmitted, 50 received, 0% packet loss, time 205225ms
+rtt min/avg/max/mdev = 113.204/114.075/115.133/0.354 ms

@@ -1,0 +1,54 @@
+PING uakron.edu (99.83.163.78) 32(60) bytes of data.
+[1607862708.545753] 40 bytes from ac742d090472ce23f.awsglobalaccelerator.com (99.83.163.78): icmp_seq=1 ttl=117 time=28.9 ms
+[1607862709.546563] 40 bytes from ac742d090472ce23f.awsglobalaccelerator.com (99.83.163.78): icmp_seq=2 ttl=117 time=28.8 ms
+[1607862720.550038] 40 bytes from 99.83.163.78: icmp_seq=3 ttl=117 time=28.6 ms
+[1607862725.584180] 40 bytes from ac742d090472ce23f.awsglobalaccelerator.com (99.83.163.78): icmp_seq=4 ttl=117 time=28.3 ms
+[1607862725.615162] 40 bytes from ac742d090472ce23f.awsglobalaccelerator.com (99.83.163.78): icmp_seq=5 ttl=117 time=28.8 ms
+[1607862726.615756] 40 bytes from ac742d090472ce23f.awsglobalaccelerator.com (99.83.163.78): icmp_seq=6 ttl=117 time=29.1 ms
+[1607862727.616284] 40 bytes from ac742d090472ce23f.awsglobalaccelerator.com (99.83.163.78): icmp_seq=7 ttl=117 time=28.2 ms
+[1607862728.616889] 40 bytes from ac742d090472ce23f.awsglobalaccelerator.com (99.83.163.78): icmp_seq=8 ttl=117 time=28.4 ms
+[1607862740.622042] 40 bytes from 99.83.163.78: icmp_seq=10 ttl=117 time=28.7 ms
+[1607862740.652777] 40 bytes from ac742d090472ce23f.awsglobalaccelerator.com (99.83.163.78): icmp_seq=11 ttl=117 time=28.9 ms
+[1607862751.658255] 40 bytes from 99.83.163.78: icmp_seq=12 ttl=117 time=28.8 ms
+[1607862761.694034] 40 bytes from 99.83.163.78: icmp_seq=13 ttl=117 time=28.9 ms
+[1607862771.730579] 40 bytes from 99.83.163.78: icmp_seq=14 ttl=117 time=28.3 ms
+[1607862781.765994] 40 bytes from 99.83.163.78: icmp_seq=15 ttl=117 time=29.1 ms
+[1607862781.797030] 40 bytes from ac742d090472ce23f.awsglobalaccelerator.com (99.83.163.78): icmp_seq=16 ttl=117 time=28.7 ms
+[1607862782.796891] 40 bytes from ac742d090472ce23f.awsglobalaccelerator.com (99.83.163.78): icmp_seq=17 ttl=117 time=28.5 ms
+[1607862783.798550] 40 bytes from ac742d090472ce23f.awsglobalaccelerator.com (99.83.163.78): icmp_seq=18 ttl=117 time=29.0 ms
+[1607862784.798017] 40 bytes from ac742d090472ce23f.awsglobalaccelerator.com (99.83.163.78): icmp_seq=19 ttl=117 time=29.0 ms
+[1607862785.799804] 40 bytes from ac742d090472ce23f.awsglobalaccelerator.com (99.83.163.78): icmp_seq=20 ttl=117 time=28.8 ms
+[1607862796.806329] 40 bytes from 99.83.163.78: icmp_seq=21 ttl=117 time=28.2 ms
+[1607862801.840392] 40 bytes from ac742d090472ce23f.awsglobalaccelerator.com (99.83.163.78): icmp_seq=22 ttl=117 time=28.0 ms
+[1607862806.875655] 40 bytes from ac742d090472ce23f.awsglobalaccelerator.com (99.83.163.78): icmp_seq=23 ttl=117 time=28.7 ms
+[1607862811.907805] 40 bytes from ac742d090472ce23f.awsglobalaccelerator.com (99.83.163.78): icmp_seq=24 ttl=117 time=28.6 ms
+[1607862811.937790] 40 bytes from ac742d090472ce23f.awsglobalaccelerator.com (99.83.163.78): icmp_seq=25 ttl=117 time=28.6 ms
+[1607862822.942035] 40 bytes from 99.83.163.78: icmp_seq=26 ttl=117 time=28.4 ms
+[1607862822.973447] 40 bytes from ac742d090472ce23f.awsglobalaccelerator.com (99.83.163.78): icmp_seq=27 ttl=117 time=29.1 ms
+[1607862823.971686] 40 bytes from ac742d090472ce23f.awsglobalaccelerator.com (99.83.163.78): icmp_seq=28 ttl=117 time=27.9 ms
+[1607862824.972843] 40 bytes from ac742d090472ce23f.awsglobalaccelerator.com (99.83.163.78): icmp_seq=29 ttl=117 time=28.8 ms
+[1607862825.973911] 40 bytes from ac742d090472ce23f.awsglobalaccelerator.com (99.83.163.78): icmp_seq=30 ttl=117 time=28.9 ms
+[1607862826.976929] 40 bytes from ac742d090472ce23f.awsglobalaccelerator.com (99.83.163.78): icmp_seq=31 ttl=117 time=28.8 ms
+[1607862837.982037] 40 bytes from 99.83.163.78: icmp_seq=32 ttl=117 time=28.8 ms
+[1607862838.012763] 40 bytes from ac742d090472ce23f.awsglobalaccelerator.com (99.83.163.78): icmp_seq=33 ttl=117 time=29.0 ms
+[1607862839.012816] 40 bytes from ac742d090472ce23f.awsglobalaccelerator.com (99.83.163.78): icmp_seq=34 ttl=117 time=28.8 ms
+[1607862840.012855] 40 bytes from ac742d090472ce23f.awsglobalaccelerator.com (99.83.163.78): icmp_seq=35 ttl=117 time=28.7 ms
+[1607862841.014974] 40 bytes from ac742d090472ce23f.awsglobalaccelerator.com (99.83.163.78): icmp_seq=36 ttl=117 time=28.7 ms
+[1607862842.013486] 40 bytes from ac742d090472ce23f.awsglobalaccelerator.com (99.83.163.78): icmp_seq=37 ttl=117 time=28.7 ms
+[1607862843.014015] 40 bytes from ac742d090472ce23f.awsglobalaccelerator.com (99.83.163.78): icmp_seq=38 ttl=117 time=28.5 ms
+[1607862844.013295] 40 bytes from ac742d090472ce23f.awsglobalaccelerator.com (99.83.163.78): icmp_seq=39 ttl=117 time=28.4 ms
+[1607862845.013144] 40 bytes from ac742d090472ce23f.awsglobalaccelerator.com (99.83.163.78): icmp_seq=40 ttl=117 time=28.7 ms
+[1607862846.012391] 40 bytes from ac742d090472ce23f.awsglobalaccelerator.com (99.83.163.78): icmp_seq=41 ttl=117 time=28.3 ms
+[1607862847.012787] 40 bytes from ac742d090472ce23f.awsglobalaccelerator.com (99.83.163.78): icmp_seq=42 ttl=117 time=28.9 ms
+[1607862848.012669] 40 bytes from ac742d090472ce23f.awsglobalaccelerator.com (99.83.163.78): icmp_seq=43 ttl=117 time=28.6 ms
+[1607862854.015133] 40 bytes from ac742d090472ce23f.awsglobalaccelerator.com (99.83.163.78): icmp_seq=44 ttl=117 time=28.9 ms
+[1607862859.047663] 40 bytes from ac742d090472ce23f.awsglobalaccelerator.com (99.83.163.78): icmp_seq=45 ttl=117 time=27.9 ms
+[1607862859.078547] 40 bytes from ac742d090472ce23f.awsglobalaccelerator.com (99.83.163.78): icmp_seq=46 ttl=117 time=28.7 ms
+[1607862870.086005] 40 bytes from 99.83.163.78: icmp_seq=47 ttl=117 time=28.5 ms
+[1607862870.116920] 40 bytes from ac742d090472ce23f.awsglobalaccelerator.com (99.83.163.78): icmp_seq=48 ttl=117 time=28.9 ms
+[1607862871.117872] 40 bytes from ac742d090472ce23f.awsglobalaccelerator.com (99.83.163.78): icmp_seq=49 ttl=117 time=28.6 ms
+[1607862872.119689] 40 bytes from ac742d090472ce23f.awsglobalaccelerator.com (99.83.163.78): icmp_seq=50 ttl=117 time=28.8 ms
+
+--- uakron.edu ping statistics ---
+50 packets transmitted, 49 received, 2% packet loss, time 163574ms
+rtt min/avg/max/mdev = 27.916/28.654/29.147/0.287 ms

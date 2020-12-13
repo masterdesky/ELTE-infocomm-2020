@@ -1,0 +1,55 @@
+PING subr.edu (23.20.96.111) 32(60) bytes of data.
+[1607862701.777997] 40 bytes from 23.20.96.111: icmp_seq=1 ttl=105 time=111 ms
+[1607862701.890317] 40 bytes from ec2-23-20-96-111.compute-1.amazonaws.com (23.20.96.111): icmp_seq=2 ttl=105 time=111 ms
+[1607862712.898105] 40 bytes from 23.20.96.111: icmp_seq=3 ttl=105 time=112 ms
+[1607862713.011860] 40 bytes from ec2-23-20-96-111.compute-1.amazonaws.com (23.20.96.111): icmp_seq=4 ttl=105 time=111 ms
+[1607862719.015810] 40 bytes from ec2-23-20-96-111.compute-1.amazonaws.com (23.20.96.111): icmp_seq=5 ttl=105 time=112 ms
+[1607862729.133998] 40 bytes from 23.20.96.111: icmp_seq=6 ttl=105 time=111 ms
+[1607862729.246828] 40 bytes from ec2-23-20-96-111.compute-1.amazonaws.com (23.20.96.111): icmp_seq=7 ttl=105 time=111 ms
+[1607862730.250473] 40 bytes from ec2-23-20-96-111.compute-1.amazonaws.com (23.20.96.111): icmp_seq=8 ttl=105 time=111 ms
+[1607862741.254509] 40 bytes from 23.20.96.111: icmp_seq=9 ttl=105 time=111 ms
+[1607862751.374057] 40 bytes from 23.20.96.111: icmp_seq=10 ttl=105 time=111 ms
+[1607862751.487636] 40 bytes from ec2-23-20-96-111.compute-1.amazonaws.com (23.20.96.111): icmp_seq=11 ttl=105 time=111 ms
+[1607862762.494010] 40 bytes from 23.20.96.111: icmp_seq=12 ttl=105 time=112 ms
+[1607862772.614615] 40 bytes from 23.20.96.111: icmp_seq=13 ttl=105 time=111 ms
+[1607862772.728276] 40 bytes from ec2-23-20-96-111.compute-1.amazonaws.com (23.20.96.111): icmp_seq=14 ttl=105 time=111 ms
+[1607862773.728845] 40 bytes from ec2-23-20-96-111.compute-1.amazonaws.com (23.20.96.111): icmp_seq=15 ttl=105 time=111 ms
+[1607862774.728045] 40 bytes from ec2-23-20-96-111.compute-1.amazonaws.com (23.20.96.111): icmp_seq=16 ttl=105 time=111 ms
+[1607862785.733999] 40 bytes from 23.20.96.111: icmp_seq=17 ttl=105 time=111 ms
+[1607862785.847132] 40 bytes from ec2-23-20-96-111.compute-1.amazonaws.com (23.20.96.111): icmp_seq=18 ttl=105 time=111 ms
+[1607862786.846511] 40 bytes from ec2-23-20-96-111.compute-1.amazonaws.com (23.20.96.111): icmp_seq=19 ttl=105 time=111 ms
+[1607862787.846038] 40 bytes from ec2-23-20-96-111.compute-1.amazonaws.com (23.20.96.111): icmp_seq=20 ttl=105 time=111 ms
+[1607862788.848622] 40 bytes from ec2-23-20-96-111.compute-1.amazonaws.com (23.20.96.111): icmp_seq=21 ttl=105 time=111 ms
+[1607862789.849545] 40 bytes from ec2-23-20-96-111.compute-1.amazonaws.com (23.20.96.111): icmp_seq=22 ttl=105 time=111 ms
+[1607862790.850816] 40 bytes from ec2-23-20-96-111.compute-1.amazonaws.com (23.20.96.111): icmp_seq=23 ttl=105 time=111 ms
+[1607862796.855693] 40 bytes from ec2-23-20-96-111.compute-1.amazonaws.com (23.20.96.111): icmp_seq=24 ttl=105 time=112 ms
+[1607862806.974031] 40 bytes from 23.20.96.111: icmp_seq=25 ttl=105 time=111 ms
+[1607862817.094124] 40 bytes from 23.20.96.111: icmp_seq=26 ttl=105 time=112 ms
+[1607862817.207861] 40 bytes from ec2-23-20-96-111.compute-1.amazonaws.com (23.20.96.111): icmp_seq=27 ttl=105 time=111 ms
+[1607862828.214014] 40 bytes from 23.20.96.111: icmp_seq=28 ttl=105 time=111 ms
+[1607862838.334102] 40 bytes from 23.20.96.111: icmp_seq=29 ttl=105 time=111 ms
+[1607862838.447170] 40 bytes from ec2-23-20-96-111.compute-1.amazonaws.com (23.20.96.111): icmp_seq=30 ttl=105 time=111 ms
+[1607862839.448476] 40 bytes from ec2-23-20-96-111.compute-1.amazonaws.com (23.20.96.111): icmp_seq=31 ttl=105 time=111 ms
+[1607862840.449501] 40 bytes from ec2-23-20-96-111.compute-1.amazonaws.com (23.20.96.111): icmp_seq=32 ttl=105 time=111 ms
+[1607862841.450896] 40 bytes from ec2-23-20-96-111.compute-1.amazonaws.com (23.20.96.111): icmp_seq=33 ttl=105 time=112 ms
+[1607862842.451467] 40 bytes from ec2-23-20-96-111.compute-1.amazonaws.com (23.20.96.111): icmp_seq=34 ttl=105 time=112 ms
+[1607862848.456136] 40 bytes from ec2-23-20-96-111.compute-1.amazonaws.com (23.20.96.111): icmp_seq=35 ttl=105 time=111 ms
+[1607862848.569102] 40 bytes from ec2-23-20-96-111.compute-1.amazonaws.com (23.20.96.111): icmp_seq=36 ttl=105 time=111 ms
+[1607862859.574046] 40 bytes from 23.20.96.111: icmp_seq=37 ttl=105 time=111 ms
+[1607862869.694062] 40 bytes from 23.20.96.111: icmp_seq=38 ttl=105 time=111 ms
+[1607862869.806741] 40 bytes from ec2-23-20-96-111.compute-1.amazonaws.com (23.20.96.111): icmp_seq=39 ttl=105 time=111 ms
+[1607862880.814000] 40 bytes from 23.20.96.111: icmp_seq=40 ttl=105 time=111 ms
+[1607862880.927814] 40 bytes from ec2-23-20-96-111.compute-1.amazonaws.com (23.20.96.111): icmp_seq=41 ttl=105 time=112 ms
+[1607862881.928020] 40 bytes from ec2-23-20-96-111.compute-1.amazonaws.com (23.20.96.111): icmp_seq=42 ttl=105 time=111 ms
+[1607862882.929091] 40 bytes from ec2-23-20-96-111.compute-1.amazonaws.com (23.20.96.111): icmp_seq=43 ttl=105 time=111 ms
+[1607862883.929525] 40 bytes from ec2-23-20-96-111.compute-1.amazonaws.com (23.20.96.111): icmp_seq=44 ttl=105 time=111 ms
+[1607862884.929840] 40 bytes from ec2-23-20-96-111.compute-1.amazonaws.com (23.20.96.111): icmp_seq=45 ttl=105 time=111 ms
+[1607862885.932915] 40 bytes from ec2-23-20-96-111.compute-1.amazonaws.com (23.20.96.111): icmp_seq=46 ttl=105 time=112 ms
+[1607862886.933958] 40 bytes from ec2-23-20-96-111.compute-1.amazonaws.com (23.20.96.111): icmp_seq=47 ttl=105 time=111 ms
+[1607862887.935012] 40 bytes from ec2-23-20-96-111.compute-1.amazonaws.com (23.20.96.111): icmp_seq=48 ttl=105 time=111 ms
+[1607862888.936195] 40 bytes from ec2-23-20-96-111.compute-1.amazonaws.com (23.20.96.111): icmp_seq=49 ttl=105 time=111 ms
+[1607862889.937686] 40 bytes from ec2-23-20-96-111.compute-1.amazonaws.com (23.20.96.111): icmp_seq=50 ttl=105 time=111 ms
+
+--- subr.edu ping statistics ---
+50 packets transmitted, 50 received, 0% packet loss, time 198166ms
+rtt min/avg/max/mdev = 110.509/111.196/111.671/0.325 ms

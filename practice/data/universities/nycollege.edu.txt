@@ -1,0 +1,55 @@
+PING nycollege.edu (74.208.236.210) 32(60) bytes of data.
+[1607862711.156116] 40 bytes from 74-208-236-210.elastic-ssl.ui-r.com (74.208.236.210): icmp_seq=1 ttl=52 time=132 ms
+[1607862711.635338] 40 bytes from 74-208-236-210.elastic-ssl.ui-r.com (74.208.236.210): icmp_seq=2 ttl=52 time=133 ms
+[1607862712.635689] 40 bytes from 74-208-236-210.elastic-ssl.ui-r.com (74.208.236.210): icmp_seq=3 ttl=52 time=133 ms
+[1607862713.637177] 40 bytes from 74-208-236-210.elastic-ssl.ui-r.com (74.208.236.210): icmp_seq=4 ttl=52 time=133 ms
+[1607862724.642065] 40 bytes from 74.208.236.210: icmp_seq=5 ttl=52 time=133 ms
+[1607862724.776619] 40 bytes from 74-208-236-210.elastic-ssl.ui-r.com (74.208.236.210): icmp_seq=6 ttl=52 time=132 ms
+[1607862725.777859] 40 bytes from 74-208-236-210.elastic-ssl.ui-r.com (74.208.236.210): icmp_seq=7 ttl=52 time=133 ms
+[1607862736.782028] 40 bytes from 74.208.236.210: icmp_seq=8 ttl=52 time=133 ms
+[1607862736.917274] 40 bytes from 74-208-236-210.elastic-ssl.ui-r.com (74.208.236.210): icmp_seq=9 ttl=52 time=133 ms
+[1607862737.916755] 40 bytes from 74-208-236-210.elastic-ssl.ui-r.com (74.208.236.210): icmp_seq=10 ttl=52 time=133 ms
+[1607862738.915696] 40 bytes from 74-208-236-210.elastic-ssl.ui-r.com (74.208.236.210): icmp_seq=11 ttl=52 time=133 ms
+[1607862744.919634] 40 bytes from 74-208-236-210.elastic-ssl.ui-r.com (74.208.236.210): icmp_seq=12 ttl=52 time=133 ms
+[1607862745.054373] 40 bytes from 74-208-236-210.elastic-ssl.ui-r.com (74.208.236.210): icmp_seq=13 ttl=52 time=132 ms
+[1607862746.054808] 40 bytes from 74-208-236-210.elastic-ssl.ui-r.com (74.208.236.210): icmp_seq=14 ttl=52 time=132 ms
+[1607862747.055232] 40 bytes from 74-208-236-210.elastic-ssl.ui-r.com (74.208.236.210): icmp_seq=15 ttl=52 time=133 ms
+[1607862748.056821] 40 bytes from 74-208-236-210.elastic-ssl.ui-r.com (74.208.236.210): icmp_seq=16 ttl=52 time=133 ms
+[1607862749.056327] 40 bytes from 74-208-236-210.elastic-ssl.ui-r.com (74.208.236.210): icmp_seq=17 ttl=52 time=133 ms
+[1607862750.055691] 40 bytes from 74-208-236-210.elastic-ssl.ui-r.com (74.208.236.210): icmp_seq=18 ttl=52 time=133 ms
+[1607862751.055096] 40 bytes from 74-208-236-210.elastic-ssl.ui-r.com (74.208.236.210): icmp_seq=19 ttl=52 time=133 ms
+[1607862752.054493] 40 bytes from 74-208-236-210.elastic-ssl.ui-r.com (74.208.236.210): icmp_seq=20 ttl=52 time=133 ms
+[1607862753.054758] 40 bytes from 74-208-236-210.elastic-ssl.ui-r.com (74.208.236.210): icmp_seq=21 ttl=52 time=133 ms
+[1607862754.053923] 40 bytes from 74-208-236-210.elastic-ssl.ui-r.com (74.208.236.210): icmp_seq=22 ttl=52 time=133 ms
+[1607862755.054227] 40 bytes from 74-208-236-210.elastic-ssl.ui-r.com (74.208.236.210): icmp_seq=23 ttl=52 time=133 ms
+[1607862761.055605] 40 bytes from 74-208-236-210.elastic-ssl.ui-r.com (74.208.236.210): icmp_seq=24 ttl=52 time=133 ms
+[1607862771.194010] 40 bytes from 74.208.236.210: icmp_seq=25 ttl=52 time=133 ms
+[1607862771.328971] 40 bytes from 74-208-236-210.elastic-ssl.ui-r.com (74.208.236.210): icmp_seq=26 ttl=52 time=133 ms
+[1607862782.334029] 40 bytes from 74.208.236.210: icmp_seq=27 ttl=52 time=133 ms
+[1607862782.469373] 40 bytes from 74-208-236-210.elastic-ssl.ui-r.com (74.208.236.210): icmp_seq=28 ttl=52 time=133 ms
+[1607862783.469510] 40 bytes from 74-208-236-210.elastic-ssl.ui-r.com (74.208.236.210): icmp_seq=29 ttl=52 time=133 ms
+[1607862784.470126] 40 bytes from 74-208-236-210.elastic-ssl.ui-r.com (74.208.236.210): icmp_seq=30 ttl=52 time=133 ms
+[1607862785.472106] 40 bytes from 74-208-236-210.elastic-ssl.ui-r.com (74.208.236.210): icmp_seq=31 ttl=52 time=133 ms
+[1607862796.478813] 40 bytes from 74.208.236.210: icmp_seq=32 ttl=52 time=133 ms
+[1607862796.614484] 40 bytes from 74-208-236-210.elastic-ssl.ui-r.com (74.208.236.210): icmp_seq=33 ttl=52 time=133 ms
+[1607862797.613917] 40 bytes from 74-208-236-210.elastic-ssl.ui-r.com (74.208.236.210): icmp_seq=34 ttl=52 time=133 ms
+[1607862798.613151] 40 bytes from 74-208-236-210.elastic-ssl.ui-r.com (74.208.236.210): icmp_seq=35 ttl=52 time=132 ms
+[1607862799.613288] 40 bytes from 74-208-236-210.elastic-ssl.ui-r.com (74.208.236.210): icmp_seq=36 ttl=52 time=133 ms
+[1607862800.611902] 40 bytes from 74-208-236-210.elastic-ssl.ui-r.com (74.208.236.210): icmp_seq=37 ttl=52 time=132 ms
+[1607862806.615816] 40 bytes from 74-208-236-210.elastic-ssl.ui-r.com (74.208.236.210): icmp_seq=38 ttl=52 time=133 ms
+[1607862806.750788] 40 bytes from 74-208-236-210.elastic-ssl.ui-r.com (74.208.236.210): icmp_seq=39 ttl=52 time=133 ms
+[1607862812.754330] 40 bytes from 74-208-236-210.elastic-ssl.ui-r.com (74.208.236.210): icmp_seq=40 ttl=52 time=133 ms
+[1607862822.894055] 40 bytes from 74.208.236.210: icmp_seq=41 ttl=52 time=133 ms
+[1607862833.034042] 40 bytes from 74.208.236.210: icmp_seq=42 ttl=52 time=133 ms
+[1607862843.174012] 40 bytes from 74.208.236.210: icmp_seq=43 ttl=52 time=133 ms
+[1607862843.308704] 40 bytes from 74-208-236-210.elastic-ssl.ui-r.com (74.208.236.210): icmp_seq=44 ttl=52 time=133 ms
+[1607862854.314012] 40 bytes from 74.208.236.210: icmp_seq=45 ttl=52 time=133 ms
+[1607862864.454052] 40 bytes from 74.208.236.210: icmp_seq=46 ttl=52 time=133 ms
+[1607862869.591493] 40 bytes from 74-208-236-210.elastic-ssl.ui-r.com (74.208.236.210): icmp_seq=47 ttl=52 time=133 ms
+[1607862869.726400] 40 bytes from 74-208-236-210.elastic-ssl.ui-r.com (74.208.236.210): icmp_seq=48 ttl=52 time=133 ms
+[1607862870.727492] 40 bytes from 74-208-236-210.elastic-ssl.ui-r.com (74.208.236.210): icmp_seq=49 ttl=52 time=134 ms
+[1607862871.728483] 40 bytes from 74-208-236-210.elastic-ssl.ui-r.com (74.208.236.210): icmp_seq=50 ttl=52 time=133 ms
+
+--- nycollege.edu ping statistics ---
+50 packets transmitted, 50 received, 0% packet loss, time 161094ms
+rtt min/avg/max/mdev = 132.345/133.037/133.523/0.319 ms

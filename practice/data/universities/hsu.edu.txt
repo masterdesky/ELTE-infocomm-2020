@@ -1,0 +1,55 @@
+PING hsu.edu (172.241.25.136) 32(60) bytes of data.
+[1607862668.537057] 40 bytes from opal4.opalstack.com (172.241.25.136): icmp_seq=1 ttl=46 time=141 ms
+[1607862679.541999] 40 bytes from 172.241.25.136: icmp_seq=2 ttl=46 time=141 ms
+[1607862679.689923] 40 bytes from opal4.opalstack.com (172.241.25.136): icmp_seq=3 ttl=46 time=141 ms
+[1607862680.686663] 40 bytes from opal4.opalstack.com (172.241.25.136): icmp_seq=4 ttl=46 time=141 ms
+[1607862686.695880] 40 bytes from opal4.opalstack.com (172.241.25.136): icmp_seq=5 ttl=46 time=141 ms
+[1607862696.846027] 40 bytes from 172.241.25.136: icmp_seq=6 ttl=46 time=141 ms
+[1607862702.004251] 40 bytes from opal4.opalstack.com (172.241.25.136): icmp_seq=7 ttl=46 time=153 ms
+[1607862712.154003] 40 bytes from 172.241.25.136: icmp_seq=8 ttl=46 time=141 ms
+[1607862722.302055] 40 bytes from 172.241.25.136: icmp_seq=9 ttl=46 time=141 ms
+[1607862722.445588] 40 bytes from opal4.opalstack.com (172.241.25.136): icmp_seq=10 ttl=46 time=141 ms
+[1607862723.446082] 40 bytes from opal4.opalstack.com (172.241.25.136): icmp_seq=11 ttl=46 time=140 ms
+[1607862734.450004] 40 bytes from 172.241.25.136: icmp_seq=12 ttl=46 time=141 ms
+[1607862744.598012] 40 bytes from 172.241.25.136: icmp_seq=13 ttl=46 time=141 ms
+[1607862749.744146] 40 bytes from opal4.opalstack.com (172.241.25.136): icmp_seq=14 ttl=46 time=141 ms
+[1607862759.894006] 40 bytes from 172.241.25.136: icmp_seq=15 ttl=46 time=141 ms
+[1607862770.042021] 40 bytes from 172.241.25.136: icmp_seq=16 ttl=46 time=141 ms
+[1607862770.184635] 40 bytes from opal4.opalstack.com (172.241.25.136): icmp_seq=17 ttl=46 time=141 ms
+[1607862781.190307] 40 bytes from 172.241.25.136: icmp_seq=18 ttl=46 time=140 ms
+[1607862791.338009] 40 bytes from 172.241.25.136: icmp_seq=19 ttl=46 time=141 ms
+[1607862801.514649] 40 bytes from 172.241.25.136: icmp_seq=20 ttl=46 time=168 ms
+[1607862806.659975] 40 bytes from opal4.opalstack.com (172.241.25.136): icmp_seq=21 ttl=46 time=141 ms
+[1607862811.805769] 40 bytes from opal4.opalstack.com (172.241.25.136): icmp_seq=22 ttl=46 time=140 ms
+[1607862811.948588] 40 bytes from opal4.opalstack.com (172.241.25.136): icmp_seq=23 ttl=46 time=141 ms
+[1607862822.954413] 40 bytes from 172.241.25.136: icmp_seq=24 ttl=46 time=141 ms
+[1607862833.102130] 40 bytes from 172.241.25.136: icmp_seq=25 ttl=46 time=141 ms
+[1607862843.250028] 40 bytes from 172.241.25.136: icmp_seq=26 ttl=46 time=141 ms
+[1607862843.394511] 40 bytes from opal4.opalstack.com (172.241.25.136): icmp_seq=27 ttl=46 time=142 ms
+[1607862844.393805] 40 bytes from opal4.opalstack.com (172.241.25.136): icmp_seq=28 ttl=46 time=141 ms
+[1607862845.393740] 40 bytes from opal4.opalstack.com (172.241.25.136): icmp_seq=29 ttl=46 time=141 ms
+[1607862846.395356] 40 bytes from opal4.opalstack.com (172.241.25.136): icmp_seq=30 ttl=46 time=141 ms
+[1607862847.398114] 40 bytes from opal4.opalstack.com (172.241.25.136): icmp_seq=31 ttl=46 time=141 ms
+[1607862848.396579] 40 bytes from opal4.opalstack.com (172.241.25.136): icmp_seq=32 ttl=46 time=141 ms
+[1607862849.397160] 40 bytes from opal4.opalstack.com (172.241.25.136): icmp_seq=33 ttl=46 time=141 ms
+[1607862850.399334] 40 bytes from opal4.opalstack.com (172.241.25.136): icmp_seq=34 ttl=46 time=141 ms
+[1607862851.399221] 40 bytes from opal4.opalstack.com (172.241.25.136): icmp_seq=35 ttl=46 time=141 ms
+[1607862852.400365] 40 bytes from opal4.opalstack.com (172.241.25.136): icmp_seq=36 ttl=46 time=141 ms
+[1607862853.402951] 40 bytes from opal4.opalstack.com (172.241.25.136): icmp_seq=37 ttl=46 time=141 ms
+[1607862854.403477] 40 bytes from opal4.opalstack.com (172.241.25.136): icmp_seq=38 ttl=46 time=141 ms
+[1607862855.404556] 40 bytes from opal4.opalstack.com (172.241.25.136): icmp_seq=39 ttl=46 time=141 ms
+[1607862856.405249] 40 bytes from opal4.opalstack.com (172.241.25.136): icmp_seq=40 ttl=46 time=141 ms
+[1607862857.405478] 40 bytes from opal4.opalstack.com (172.241.25.136): icmp_seq=41 ttl=46 time=141 ms
+[1607862858.406916] 40 bytes from opal4.opalstack.com (172.241.25.136): icmp_seq=42 ttl=46 time=141 ms
+[1607862859.407962] 40 bytes from opal4.opalstack.com (172.241.25.136): icmp_seq=43 ttl=46 time=141 ms
+[1607862860.409347] 40 bytes from opal4.opalstack.com (172.241.25.136): icmp_seq=44 ttl=46 time=141 ms
+[1607862861.410586] 40 bytes from opal4.opalstack.com (172.241.25.136): icmp_seq=45 ttl=46 time=141 ms
+[1607862862.411680] 40 bytes from opal4.opalstack.com (172.241.25.136): icmp_seq=46 ttl=46 time=141 ms
+[1607862863.412819] 40 bytes from opal4.opalstack.com (172.241.25.136): icmp_seq=47 ttl=46 time=141 ms
+[1607862864.414996] 40 bytes from opal4.opalstack.com (172.241.25.136): icmp_seq=48 ttl=46 time=141 ms
+[1607862865.414118] 40 bytes from opal4.opalstack.com (172.241.25.136): icmp_seq=49 ttl=46 time=141 ms
+[1607862866.416619] 40 bytes from opal4.opalstack.com (172.241.25.136): icmp_seq=50 ttl=46 time=141 ms
+
+--- hsu.edu ping statistics ---
+50 packets transmitted, 50 received, 0% packet loss, time 197879ms
+rtt min/avg/max/mdev = 140.121/141.772/167.574/4.062 ms

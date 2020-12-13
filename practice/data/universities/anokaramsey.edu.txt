@@ -1,0 +1,55 @@
+PING anokaramsey.edu (204.77.45.10) 32(60) bytes of data.
+[1607862690.655834] 40 bytes from www.anokaramsey.edu (204.77.45.10): icmp_seq=1 ttl=112 time=126 ms
+[1607862695.787671] 40 bytes from www.anokaramsey.edu (204.77.45.10): icmp_seq=2 ttl=112 time=126 ms
+[1607862695.914971] 40 bytes from www.anokaramsey.edu (204.77.45.10): icmp_seq=3 ttl=112 time=125 ms
+[1607862706.924035] 40 bytes from 204.77.45.10: icmp_seq=4 ttl=112 time=125 ms
+[1607862712.055828] 40 bytes from www.anokaramsey.edu (204.77.45.10): icmp_seq=5 ttl=112 time=126 ms
+[1607862712.183935] 40 bytes from www.anokaramsey.edu (204.77.45.10): icmp_seq=6 ttl=112 time=125 ms
+[1607862718.188061] 40 bytes from www.anokaramsey.edu (204.77.45.10): icmp_seq=7 ttl=112 time=125 ms
+[1607862718.314626] 40 bytes from www.anokaramsey.edu (204.77.45.10): icmp_seq=8 ttl=112 time=125 ms
+[1607862719.315680] 40 bytes from www.anokaramsey.edu (204.77.45.10): icmp_seq=9 ttl=112 time=125 ms
+[1607862720.315297] 40 bytes from www.anokaramsey.edu (204.77.45.10): icmp_seq=10 ttl=112 time=125 ms
+[1607862721.318547] 40 bytes from www.anokaramsey.edu (204.77.45.10): icmp_seq=11 ttl=112 time=125 ms
+[1607862727.320154] 40 bytes from www.anokaramsey.edu (204.77.45.10): icmp_seq=12 ttl=112 time=125 ms
+[1607862737.454225] 40 bytes from 204.77.45.10: icmp_seq=13 ttl=112 time=126 ms
+[1607862737.581354] 40 bytes from www.anokaramsey.edu (204.77.45.10): icmp_seq=14 ttl=112 time=126 ms
+[1607862738.582129] 40 bytes from www.anokaramsey.edu (204.77.45.10): icmp_seq=15 ttl=112 time=125 ms
+[1607862749.586016] 40 bytes from 204.77.45.10: icmp_seq=16 ttl=112 time=125 ms
+[1607862749.713684] 40 bytes from www.anokaramsey.edu (204.77.45.10): icmp_seq=17 ttl=112 time=125 ms
+[1607862750.712469] 40 bytes from www.anokaramsey.edu (204.77.45.10): icmp_seq=18 ttl=112 time=125 ms
+[1607862751.712716] 40 bytes from www.anokaramsey.edu (204.77.45.10): icmp_seq=19 ttl=112 time=125 ms
+[1607862752.713883] 40 bytes from www.anokaramsey.edu (204.77.45.10): icmp_seq=20 ttl=112 time=126 ms
+[1607862753.715466] 40 bytes from www.anokaramsey.edu (204.77.45.10): icmp_seq=21 ttl=112 time=125 ms
+[1607862754.715339] 40 bytes from www.anokaramsey.edu (204.77.45.10): icmp_seq=22 ttl=112 time=125 ms
+[1607862755.717238] 40 bytes from www.anokaramsey.edu (204.77.45.10): icmp_seq=23 ttl=112 time=126 ms
+[1607862766.722071] 40 bytes from 204.77.45.10: icmp_seq=24 ttl=112 time=125 ms
+[1607862766.849823] 40 bytes from www.anokaramsey.edu (204.77.45.10): icmp_seq=25 ttl=112 time=126 ms
+[1607862767.850133] 40 bytes from www.anokaramsey.edu (204.77.45.10): icmp_seq=26 ttl=112 time=126 ms
+[1607862768.851070] 40 bytes from www.anokaramsey.edu (204.77.45.10): icmp_seq=27 ttl=112 time=126 ms
+[1607862769.850845] 40 bytes from www.anokaramsey.edu (204.77.45.10): icmp_seq=28 ttl=112 time=126 ms
+[1607862775.851039] 40 bytes from www.anokaramsey.edu (204.77.45.10): icmp_seq=29 ttl=112 time=125 ms
+[1607862785.982013] 40 bytes from 204.77.45.10: icmp_seq=30 ttl=112 time=125 ms
+[1607862791.111718] 40 bytes from www.anokaramsey.edu (204.77.45.10): icmp_seq=31 ttl=112 time=125 ms
+[1607862796.244000] 40 bytes from www.anokaramsey.edu (204.77.45.10): icmp_seq=32 ttl=112 time=125 ms
+[1607862796.371940] 40 bytes from www.anokaramsey.edu (204.77.45.10): icmp_seq=33 ttl=112 time=126 ms
+[1607862807.378079] 40 bytes from 204.77.45.10: icmp_seq=34 ttl=112 time=125 ms
+[1607862817.510148] 40 bytes from 204.77.45.10: icmp_seq=35 ttl=112 time=125 ms
+[1607862827.642031] 40 bytes from 204.77.45.10: icmp_seq=36 ttl=112 time=126 ms
+[1607862832.771862] 40 bytes from www.anokaramsey.edu (204.77.45.10): icmp_seq=37 ttl=112 time=126 ms
+[1607862832.899645] 40 bytes from www.anokaramsey.edu (204.77.45.10): icmp_seq=38 ttl=112 time=126 ms
+[1607862838.904439] 40 bytes from www.anokaramsey.edu (204.77.45.10): icmp_seq=39 ttl=112 time=126 ms
+[1607862844.035964] 40 bytes from www.anokaramsey.edu (204.77.45.10): icmp_seq=40 ttl=112 time=125 ms
+[1607862844.163418] 40 bytes from www.anokaramsey.edu (204.77.45.10): icmp_seq=41 ttl=112 time=126 ms
+[1607862845.164536] 40 bytes from www.anokaramsey.edu (204.77.45.10): icmp_seq=42 ttl=112 time=126 ms
+[1607862846.165335] 40 bytes from www.anokaramsey.edu (204.77.45.10): icmp_seq=43 ttl=112 time=126 ms
+[1607862847.166504] 40 bytes from www.anokaramsey.edu (204.77.45.10): icmp_seq=44 ttl=112 time=125 ms
+[1607862848.166802] 40 bytes from www.anokaramsey.edu (204.77.45.10): icmp_seq=45 ttl=112 time=125 ms
+[1607862854.172666] 40 bytes from www.anokaramsey.edu (204.77.45.10): icmp_seq=46 ttl=112 time=126 ms
+[1607862864.306176] 40 bytes from 204.77.45.10: icmp_seq=47 ttl=112 time=125 ms
+[1607862864.433493] 40 bytes from www.anokaramsey.edu (204.77.45.10): icmp_seq=48 ttl=112 time=125 ms
+[1607862865.434241] 40 bytes from www.anokaramsey.edu (204.77.45.10): icmp_seq=49 ttl=112 time=125 ms
+[1607862866.435438] 40 bytes from www.anokaramsey.edu (204.77.45.10): icmp_seq=50 ttl=112 time=125 ms
+
+--- anokaramsey.edu ping statistics ---
+50 packets transmitted, 50 received, 0% packet loss, time 180784ms
+rtt min/avg/max/mdev = 124.557/125.346/126.120/0.365 ms

@@ -1,0 +1,55 @@
+PING mcny.edu (70.32.90.65) 32(60) bytes of data.
+[1607862710.250012] 40 bytes from 70.32.90.65: icmp_seq=1 ttl=49 time=106 ms
+[1607862720.363862] 40 bytes from 70.32.90.65: icmp_seq=2 ttl=49 time=105 ms
+[1607862725.936178] 40 bytes from sljv-8pd6.accessdomain.com (70.32.90.65): icmp_seq=3 ttl=49 time=105 ms
+[1607862726.042853] 40 bytes from sljv-8pd6.accessdomain.com (70.32.90.65): icmp_seq=4 ttl=49 time=105 ms
+[1607862727.043780] 40 bytes from sljv-8pd6.accessdomain.com (70.32.90.65): icmp_seq=5 ttl=49 time=105 ms
+[1607862728.044166] 40 bytes from sljv-8pd6.accessdomain.com (70.32.90.65): icmp_seq=6 ttl=49 time=105 ms
+[1607862734.083780] 40 bytes from sljv-8pd6.accessdomain.com (70.32.90.65): icmp_seq=7 ttl=49 time=141 ms
+[1607862734.191167] 40 bytes from sljv-8pd6.accessdomain.com (70.32.90.65): icmp_seq=8 ttl=49 time=105 ms
+[1607862735.190395] 40 bytes from sljv-8pd6.accessdomain.com (70.32.90.65): icmp_seq=9 ttl=49 time=105 ms
+[1607862736.191340] 40 bytes from sljv-8pd6.accessdomain.com (70.32.90.65): icmp_seq=10 ttl=49 time=105 ms
+[1607862737.192337] 40 bytes from sljv-8pd6.accessdomain.com (70.32.90.65): icmp_seq=11 ttl=49 time=105 ms
+[1607862738.193206] 40 bytes from sljv-8pd6.accessdomain.com (70.32.90.65): icmp_seq=12 ttl=49 time=105 ms
+[1607862739.193848] 40 bytes from sljv-8pd6.accessdomain.com (70.32.90.65): icmp_seq=13 ttl=49 time=105 ms
+[1607862740.194232] 40 bytes from sljv-8pd6.accessdomain.com (70.32.90.65): icmp_seq=14 ttl=49 time=105 ms
+[1607862741.193671] 40 bytes from sljv-8pd6.accessdomain.com (70.32.90.65): icmp_seq=15 ttl=49 time=105 ms
+[1607862742.195664] 40 bytes from sljv-8pd6.accessdomain.com (70.32.90.65): icmp_seq=16 ttl=49 time=105 ms
+[1607862743.197485] 40 bytes from sljv-8pd6.accessdomain.com (70.32.90.65): icmp_seq=17 ttl=49 time=105 ms
+[1607862744.197703] 40 bytes from sljv-8pd6.accessdomain.com (70.32.90.65): icmp_seq=18 ttl=49 time=105 ms
+[1607862745.199536] 40 bytes from sljv-8pd6.accessdomain.com (70.32.90.65): icmp_seq=19 ttl=49 time=105 ms
+[1607862746.201258] 40 bytes from sljv-8pd6.accessdomain.com (70.32.90.65): icmp_seq=20 ttl=49 time=105 ms
+[1607862747.202541] 40 bytes from sljv-8pd6.accessdomain.com (70.32.90.65): icmp_seq=21 ttl=49 time=105 ms
+[1607862748.203142] 40 bytes from sljv-8pd6.accessdomain.com (70.32.90.65): icmp_seq=22 ttl=49 time=105 ms
+[1607862749.205248] 40 bytes from sljv-8pd6.accessdomain.com (70.32.90.65): icmp_seq=23 ttl=49 time=105 ms
+[1607862760.210064] 40 bytes from 70.32.90.65: icmp_seq=24 ttl=49 time=105 ms
+[1607862760.317208] 40 bytes from sljv-8pd6.accessdomain.com (70.32.90.65): icmp_seq=25 ttl=49 time=105 ms
+[1607862761.317141] 40 bytes from sljv-8pd6.accessdomain.com (70.32.90.65): icmp_seq=26 ttl=49 time=105 ms
+[1607862762.317208] 40 bytes from sljv-8pd6.accessdomain.com (70.32.90.65): icmp_seq=27 ttl=49 time=105 ms
+[1607862763.318736] 40 bytes from sljv-8pd6.accessdomain.com (70.32.90.65): icmp_seq=28 ttl=49 time=105 ms
+[1607862764.319683] 40 bytes from sljv-8pd6.accessdomain.com (70.32.90.65): icmp_seq=29 ttl=49 time=105 ms
+[1607862770.324023] 40 bytes from sljv-8pd6.accessdomain.com (70.32.90.65): icmp_seq=30 ttl=49 time=105 ms
+[1607862780.438029] 40 bytes from 70.32.90.65: icmp_seq=31 ttl=49 time=105 ms
+[1607862780.544785] 40 bytes from sljv-8pd6.accessdomain.com (70.32.90.65): icmp_seq=32 ttl=49 time=105 ms
+[1607862781.544925] 40 bytes from sljv-8pd6.accessdomain.com (70.32.90.65): icmp_seq=33 ttl=49 time=105 ms
+[1607862782.544680] 40 bytes from sljv-8pd6.accessdomain.com (70.32.90.65): icmp_seq=34 ttl=49 time=104 ms
+[1607862783.546540] 40 bytes from sljv-8pd6.accessdomain.com (70.32.90.65): icmp_seq=35 ttl=49 time=105 ms
+[1607862784.547818] 40 bytes from sljv-8pd6.accessdomain.com (70.32.90.65): icmp_seq=36 ttl=49 time=105 ms
+[1607862785.548520] 40 bytes from sljv-8pd6.accessdomain.com (70.32.90.65): icmp_seq=37 ttl=49 time=106 ms
+[1607862796.554063] 40 bytes from 70.32.90.65: icmp_seq=38 ttl=49 time=106 ms
+[1607862801.663688] 40 bytes from sljv-8pd6.accessdomain.com (70.32.90.65): icmp_seq=39 ttl=49 time=105 ms
+[1607862806.775849] 40 bytes from sljv-8pd6.accessdomain.com (70.32.90.65): icmp_seq=40 ttl=49 time=105 ms
+[1607862806.883323] 40 bytes from sljv-8pd6.accessdomain.com (70.32.90.65): icmp_seq=41 ttl=49 time=105 ms
+[1607862812.883891] 40 bytes from sljv-8pd6.accessdomain.com (70.32.90.65): icmp_seq=42 ttl=49 time=105 ms
+[1607862822.994100] 40 bytes from 70.32.90.65: icmp_seq=43 ttl=49 time=104 ms
+[1607862833.106030] 40 bytes from 70.32.90.65: icmp_seq=44 ttl=49 time=105 ms
+[1607862833.213183] 40 bytes from sljv-8pd6.accessdomain.com (70.32.90.65): icmp_seq=45 ttl=49 time=105 ms
+[1607862834.213392] 40 bytes from sljv-8pd6.accessdomain.com (70.32.90.65): icmp_seq=46 ttl=49 time=105 ms
+[1607862835.214264] 40 bytes from sljv-8pd6.accessdomain.com (70.32.90.65): icmp_seq=47 ttl=49 time=105 ms
+[1607862836.215020] 40 bytes from sljv-8pd6.accessdomain.com (70.32.90.65): icmp_seq=48 ttl=49 time=105 ms
+[1607862837.216407] 40 bytes from sljv-8pd6.accessdomain.com (70.32.90.65): icmp_seq=49 ttl=49 time=105 ms
+[1607862839.108980] 40 bytes from 70.32.90.65: icmp_seq=50 ttl=49 time=105 ms
+
+--- mcny.edu ping statistics ---
+50 packets transmitted, 50 received, 0% packet loss, time 137973ms
+rtt min/avg/max/mdev = 104.368/105.922/141.243/5.053 ms

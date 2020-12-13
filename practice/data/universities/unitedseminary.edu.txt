@@ -1,0 +1,54 @@
+PING unitedseminary.edu (132.148.91.158) 32(60) bytes of data.
+[1607862696.502333] 40 bytes from 132.148.91.158: icmp_seq=1 ttl=45 time=148 ms
+[1607862696.652317] 40 bytes from ip-132-148-91-158.ip.secureserver.net (132.148.91.158): icmp_seq=2 ttl=45 time=148 ms
+[1607862698.655317] 40 bytes from ip-132-148-91-158.ip.secureserver.net (132.148.91.158): icmp_seq=4 ttl=45 time=148 ms
+[1607862709.662021] 40 bytes from 132.148.91.158: icmp_seq=5 ttl=45 time=148 ms
+[1607862709.812048] 40 bytes from ip-132-148-91-158.ip.secureserver.net (132.148.91.158): icmp_seq=6 ttl=45 time=148 ms
+[1607862710.811272] 40 bytes from ip-132-148-91-158.ip.secureserver.net (132.148.91.158): icmp_seq=7 ttl=45 time=148 ms
+[1607862716.815426] 40 bytes from ip-132-148-91-158.ip.secureserver.net (132.148.91.158): icmp_seq=8 ttl=45 time=147 ms
+[1607862716.965031] 40 bytes from ip-132-148-91-158.ip.secureserver.net (132.148.91.158): icmp_seq=9 ttl=45 time=147 ms
+[1607862717.965728] 40 bytes from ip-132-148-91-158.ip.secureserver.net (132.148.91.158): icmp_seq=10 ttl=45 time=148 ms
+[1607862718.965923] 40 bytes from ip-132-148-91-158.ip.secureserver.net (132.148.91.158): icmp_seq=11 ttl=45 time=148 ms
+[1607862719.965509] 40 bytes from ip-132-148-91-158.ip.secureserver.net (132.148.91.158): icmp_seq=12 ttl=45 time=148 ms
+[1607862720.966688] 40 bytes from ip-132-148-91-158.ip.secureserver.net (132.148.91.158): icmp_seq=13 ttl=45 time=148 ms
+[1607862721.964389] 40 bytes from ip-132-148-91-158.ip.secureserver.net (132.148.91.158): icmp_seq=14 ttl=45 time=148 ms
+[1607862722.966583] 40 bytes from ip-132-148-91-158.ip.secureserver.net (132.148.91.158): icmp_seq=15 ttl=45 time=148 ms
+[1607862723.966938] 40 bytes from ip-132-148-91-158.ip.secureserver.net (132.148.91.158): icmp_seq=16 ttl=45 time=148 ms
+[1607862724.967257] 40 bytes from ip-132-148-91-158.ip.secureserver.net (132.148.91.158): icmp_seq=17 ttl=45 time=148 ms
+[1607862730.971731] 40 bytes from ip-132-148-91-158.ip.secureserver.net (132.148.91.158): icmp_seq=18 ttl=45 time=148 ms
+[1607862736.124438] 40 bytes from ip-132-148-91-158.ip.secureserver.net (132.148.91.158): icmp_seq=19 ttl=45 time=148 ms
+[1607862736.275910] 40 bytes from ip-132-148-91-158.ip.secureserver.net (132.148.91.158): icmp_seq=20 ttl=45 time=149 ms
+[1607862737.276093] 40 bytes from ip-132-148-91-158.ip.secureserver.net (132.148.91.158): icmp_seq=21 ttl=45 time=148 ms
+[1607862738.277533] 40 bytes from ip-132-148-91-158.ip.secureserver.net (132.148.91.158): icmp_seq=22 ttl=45 time=148 ms
+[1607862744.279734] 40 bytes from ip-132-148-91-158.ip.secureserver.net (132.148.91.158): icmp_seq=23 ttl=45 time=148 ms
+[1607862749.431850] 40 bytes from ip-132-148-91-158.ip.secureserver.net (132.148.91.158): icmp_seq=24 ttl=45 time=148 ms
+[1607862754.584176] 40 bytes from ip-132-148-91-158.ip.secureserver.net (132.148.91.158): icmp_seq=25 ttl=45 time=148 ms
+[1607862754.734250] 40 bytes from ip-132-148-91-158.ip.secureserver.net (132.148.91.158): icmp_seq=26 ttl=45 time=148 ms
+[1607862755.733894] 40 bytes from ip-132-148-91-158.ip.secureserver.net (132.148.91.158): icmp_seq=27 ttl=45 time=147 ms
+[1607862756.735168] 40 bytes from ip-132-148-91-158.ip.secureserver.net (132.148.91.158): icmp_seq=28 ttl=45 time=148 ms
+[1607862757.734308] 40 bytes from ip-132-148-91-158.ip.secureserver.net (132.148.91.158): icmp_seq=29 ttl=45 time=148 ms
+[1607862758.736198] 40 bytes from ip-132-148-91-158.ip.secureserver.net (132.148.91.158): icmp_seq=30 ttl=45 time=148 ms
+[1607862759.737806] 40 bytes from ip-132-148-91-158.ip.secureserver.net (132.148.91.158): icmp_seq=31 ttl=45 time=148 ms
+[1607862760.737391] 40 bytes from ip-132-148-91-158.ip.secureserver.net (132.148.91.158): icmp_seq=32 ttl=45 time=147 ms
+[1607862761.738522] 40 bytes from ip-132-148-91-158.ip.secureserver.net (132.148.91.158): icmp_seq=33 ttl=45 time=148 ms
+[1607862762.738742] 40 bytes from ip-132-148-91-158.ip.secureserver.net (132.148.91.158): icmp_seq=34 ttl=45 time=148 ms
+[1607862763.739714] 40 bytes from ip-132-148-91-158.ip.secureserver.net (132.148.91.158): icmp_seq=35 ttl=45 time=148 ms
+[1607862764.739981] 40 bytes from ip-132-148-91-158.ip.secureserver.net (132.148.91.158): icmp_seq=36 ttl=45 time=148 ms
+[1607862770.743911] 40 bytes from ip-132-148-91-158.ip.secureserver.net (132.148.91.158): icmp_seq=37 ttl=45 time=149 ms
+[1607862775.896017] 40 bytes from ip-132-148-91-158.ip.secureserver.net (132.148.91.158): icmp_seq=38 ttl=45 time=147 ms
+[1607862781.048147] 40 bytes from ip-132-148-91-158.ip.secureserver.net (132.148.91.158): icmp_seq=39 ttl=45 time=148 ms
+[1607862791.202031] 40 bytes from 132.148.91.158: icmp_seq=40 ttl=45 time=148 ms
+[1607862796.355735] 40 bytes from ip-132-148-91-158.ip.secureserver.net (132.148.91.158): icmp_seq=41 ttl=45 time=148 ms
+[1607862796.506161] 40 bytes from ip-132-148-91-158.ip.secureserver.net (132.148.91.158): icmp_seq=42 ttl=45 time=148 ms
+[1607862797.505719] 40 bytes from ip-132-148-91-158.ip.secureserver.net (132.148.91.158): icmp_seq=43 ttl=45 time=148 ms
+[1607862798.507398] 40 bytes from ip-132-148-91-158.ip.secureserver.net (132.148.91.158): icmp_seq=44 ttl=45 time=148 ms
+[1607862799.507504] 40 bytes from ip-132-148-91-158.ip.secureserver.net (132.148.91.158): icmp_seq=45 ttl=45 time=148 ms
+[1607862800.507855] 40 bytes from ip-132-148-91-158.ip.secureserver.net (132.148.91.158): icmp_seq=46 ttl=45 time=148 ms
+[1607862801.509390] 40 bytes from ip-132-148-91-158.ip.secureserver.net (132.148.91.158): icmp_seq=47 ttl=45 time=148 ms
+[1607862812.514025] 40 bytes from 132.148.91.158: icmp_seq=48 ttl=45 time=148 ms
+[1607862822.671064] 40 bytes from 132.148.91.158: icmp_seq=49 ttl=45 time=148 ms
+[1607862823.671141] 40 bytes from 132.148.91.158: icmp_seq=50 ttl=45 time=148 ms
+
+--- unitedseminary.edu ping statistics ---
+50 packets transmitted, 49 received, 2% packet loss, time 136325ms
+rtt min/avg/max/mdev = 147.257/148.094/149.026/0.346 ms

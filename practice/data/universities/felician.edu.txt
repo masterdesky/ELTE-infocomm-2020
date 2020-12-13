@@ -1,0 +1,55 @@
+PING felician.edu (3.218.19.112) 32(60) bytes of data.
+[1607862707.033045] 40 bytes from ec2-3-218-19-112.compute-1.amazonaws.com (3.218.19.112): icmp_seq=1 ttl=41 time=114 ms
+[1607862708.033724] 40 bytes from ec2-3-218-19-112.compute-1.amazonaws.com (3.218.19.112): icmp_seq=2 ttl=41 time=114 ms
+[1607862709.033946] 40 bytes from ec2-3-218-19-112.compute-1.amazonaws.com (3.218.19.112): icmp_seq=3 ttl=41 time=114 ms
+[1607862720.038055] 40 bytes from 3.218.19.112: icmp_seq=4 ttl=41 time=114 ms
+[1607862725.155908] 40 bytes from ec2-3-218-19-112.compute-1.amazonaws.com (3.218.19.112): icmp_seq=5 ttl=41 time=114 ms
+[1607862730.276187] 40 bytes from ec2-3-218-19-112.compute-1.amazonaws.com (3.218.19.112): icmp_seq=6 ttl=41 time=114 ms
+[1607862730.392476] 40 bytes from ec2-3-218-19-112.compute-1.amazonaws.com (3.218.19.112): icmp_seq=7 ttl=41 time=114 ms
+[1607862736.396038] 40 bytes from ec2-3-218-19-112.compute-1.amazonaws.com (3.218.19.112): icmp_seq=8 ttl=41 time=113 ms
+[1607862736.512030] 40 bytes from ec2-3-218-19-112.compute-1.amazonaws.com (3.218.19.112): icmp_seq=9 ttl=41 time=114 ms
+[1607862742.515811] 40 bytes from ec2-3-218-19-112.compute-1.amazonaws.com (3.218.19.112): icmp_seq=10 ttl=41 time=114 ms
+[1607862747.636557] 40 bytes from ec2-3-218-19-112.compute-1.amazonaws.com (3.218.19.112): icmp_seq=11 ttl=41 time=114 ms
+[1607862747.752615] 40 bytes from ec2-3-218-19-112.compute-1.amazonaws.com (3.218.19.112): icmp_seq=12 ttl=41 time=114 ms
+[1607862748.751628] 40 bytes from ec2-3-218-19-112.compute-1.amazonaws.com (3.218.19.112): icmp_seq=13 ttl=41 time=113 ms
+[1607862754.755814] 40 bytes from ec2-3-218-19-112.compute-1.amazonaws.com (3.218.19.112): icmp_seq=14 ttl=41 time=114 ms
+[1607862764.878042] 40 bytes from 3.218.19.112: icmp_seq=15 ttl=41 time=113 ms
+[1607862764.994440] 40 bytes from ec2-3-218-19-112.compute-1.amazonaws.com (3.218.19.112): icmp_seq=16 ttl=41 time=114 ms
+[1607862765.995044] 40 bytes from ec2-3-218-19-112.compute-1.amazonaws.com (3.218.19.112): icmp_seq=17 ttl=41 time=114 ms
+[1607862766.995472] 40 bytes from ec2-3-218-19-112.compute-1.amazonaws.com (3.218.19.112): icmp_seq=18 ttl=41 time=114 ms
+[1607862767.997520] 40 bytes from ec2-3-218-19-112.compute-1.amazonaws.com (3.218.19.112): icmp_seq=19 ttl=41 time=114 ms
+[1607862768.997228] 40 bytes from ec2-3-218-19-112.compute-1.amazonaws.com (3.218.19.112): icmp_seq=20 ttl=41 time=114 ms
+[1607862769.996077] 40 bytes from ec2-3-218-19-112.compute-1.amazonaws.com (3.218.19.112): icmp_seq=21 ttl=41 time=114 ms
+[1607862770.995541] 40 bytes from ec2-3-218-19-112.compute-1.amazonaws.com (3.218.19.112): icmp_seq=22 ttl=41 time=113 ms
+[1607862771.995315] 40 bytes from ec2-3-218-19-112.compute-1.amazonaws.com (3.218.19.112): icmp_seq=23 ttl=41 time=114 ms
+[1607862772.996324] 40 bytes from ec2-3-218-19-112.compute-1.amazonaws.com (3.218.19.112): icmp_seq=24 ttl=41 time=114 ms
+[1607862773.996246] 40 bytes from ec2-3-218-19-112.compute-1.amazonaws.com (3.218.19.112): icmp_seq=25 ttl=41 time=114 ms
+[1607862774.995998] 40 bytes from ec2-3-218-19-112.compute-1.amazonaws.com (3.218.19.112): icmp_seq=26 ttl=41 time=114 ms
+[1607862775.995430] 40 bytes from ec2-3-218-19-112.compute-1.amazonaws.com (3.218.19.112): icmp_seq=27 ttl=41 time=114 ms
+[1607862776.994811] 40 bytes from ec2-3-218-19-112.compute-1.amazonaws.com (3.218.19.112): icmp_seq=28 ttl=41 time=114 ms
+[1607862777.994029] 40 bytes from ec2-3-218-19-112.compute-1.amazonaws.com (3.218.19.112): icmp_seq=29 ttl=41 time=114 ms
+[1607862778.993866] 40 bytes from ec2-3-218-19-112.compute-1.amazonaws.com (3.218.19.112): icmp_seq=30 ttl=41 time=114 ms
+[1607862779.994187] 40 bytes from ec2-3-218-19-112.compute-1.amazonaws.com (3.218.19.112): icmp_seq=31 ttl=41 time=113 ms
+[1607862780.993497] 40 bytes from ec2-3-218-19-112.compute-1.amazonaws.com (3.218.19.112): icmp_seq=32 ttl=41 time=114 ms
+[1607862786.995853] 40 bytes from ec2-3-218-19-112.compute-1.amazonaws.com (3.218.19.112): icmp_seq=33 ttl=41 time=114 ms
+[1607862787.112100] 40 bytes from ec2-3-218-19-112.compute-1.amazonaws.com (3.218.19.112): icmp_seq=34 ttl=41 time=114 ms
+[1607862788.111402] 40 bytes from ec2-3-218-19-112.compute-1.amazonaws.com (3.218.19.112): icmp_seq=35 ttl=41 time=114 ms
+[1607862789.112438] 40 bytes from ec2-3-218-19-112.compute-1.amazonaws.com (3.218.19.112): icmp_seq=36 ttl=41 time=114 ms
+[1607862790.111529] 40 bytes from ec2-3-218-19-112.compute-1.amazonaws.com (3.218.19.112): icmp_seq=37 ttl=41 time=114 ms
+[1607862791.110862] 40 bytes from ec2-3-218-19-112.compute-1.amazonaws.com (3.218.19.112): icmp_seq=38 ttl=41 time=114 ms
+[1607862802.118408] 40 bytes from 3.218.19.112: icmp_seq=39 ttl=41 time=114 ms
+[1607862807.235745] 40 bytes from ec2-3-218-19-112.compute-1.amazonaws.com (3.218.19.112): icmp_seq=40 ttl=41 time=114 ms
+[1607862817.358332] 40 bytes from 3.218.19.112: icmp_seq=41 ttl=41 time=114 ms
+[1607862817.474374] 40 bytes from ec2-3-218-19-112.compute-1.amazonaws.com (3.218.19.112): icmp_seq=42 ttl=41 time=114 ms
+[1607862818.473254] 40 bytes from ec2-3-218-19-112.compute-1.amazonaws.com (3.218.19.112): icmp_seq=43 ttl=41 time=113 ms
+[1607862819.473648] 40 bytes from ec2-3-218-19-112.compute-1.amazonaws.com (3.218.19.112): icmp_seq=44 ttl=41 time=114 ms
+[1607862820.473001] 40 bytes from ec2-3-218-19-112.compute-1.amazonaws.com (3.218.19.112): icmp_seq=45 ttl=41 time=114 ms
+[1607862821.472486] 40 bytes from ec2-3-218-19-112.compute-1.amazonaws.com (3.218.19.112): icmp_seq=46 ttl=41 time=114 ms
+[1607862822.472185] 40 bytes from ec2-3-218-19-112.compute-1.amazonaws.com (3.218.19.112): icmp_seq=47 ttl=41 time=114 ms
+[1607862833.478180] 40 bytes from 3.218.19.112: icmp_seq=48 ttl=41 time=114 ms
+[1607862833.594005] 40 bytes from ec2-3-218-19-112.compute-1.amazonaws.com (3.218.19.112): icmp_seq=49 ttl=41 time=114 ms
+[1607862834.596107] 40 bytes from ec2-3-218-19-112.compute-1.amazonaws.com (3.218.19.112): icmp_seq=50 ttl=41 time=114 ms
+
+--- felician.edu ping statistics ---
+50 packets transmitted, 50 received, 0% packet loss, time 127562ms
+rtt min/avg/max/mdev = 112.855/113.670/114.057/0.246 ms

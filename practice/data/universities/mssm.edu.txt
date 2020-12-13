@@ -1,0 +1,11 @@
+PING mssm.edu (146.203.139.18) 32(60) bytes of data.
+[1607862695.832254] From 204.148.113.130 (204.148.113.130) icmp_seq=1 Packet filtered
+[1607862707.996003] From 204.148.113.130 (204.148.113.130) icmp_seq=9 Packet filtered
+[1607862719.045295] From 204.148.113.130 (204.148.113.130) icmp_seq=20 Packet filtered
+[1607862724.059965] From 204.148.113.130 (204.148.113.130) icmp_seq=25 Packet filtered
+[1607862735.082215] From 204.148.113.130 (204.148.113.130) icmp_seq=36 Packet filtered
+[1607862741.101665] From 204.148.113.130 (204.148.113.130) icmp_seq=42 Packet filtered
+
+--- mssm.edu ping statistics ---
+50 packets transmitted, 0 received, +6 errors, 100% packet loss, time 53392ms
+pipe 2

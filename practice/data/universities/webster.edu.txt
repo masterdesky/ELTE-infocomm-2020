@@ -1,0 +1,5 @@
+PING webster.edu (173.213.236.147) 32(60) bytes of data.
+
+--- webster.edu ping statistics ---
+50 packets transmitted, 0 received, 100% packet loss, time 49225ms
+

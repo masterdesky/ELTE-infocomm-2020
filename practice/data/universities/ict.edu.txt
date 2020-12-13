@@ -1,0 +1,55 @@
+PING ict.edu (104.26.12.25) 32(60) bytes of data.
+[1607862672.873771] 40 bytes from 104.26.12.25 (104.26.12.25): icmp_seq=1 ttl=53 time=2.39 ms
+[1607862673.815547] 40 bytes from 104.26.12.25 (104.26.12.25): icmp_seq=2 ttl=53 time=2.18 ms
+[1607862674.817133] 40 bytes from 104.26.12.25 (104.26.12.25): icmp_seq=3 ttl=53 time=2.05 ms
+[1607862675.817673] 40 bytes from 104.26.12.25 (104.26.12.25): icmp_seq=4 ttl=53 time=1.56 ms
+[1607862681.820296] 40 bytes from 104.26.12.25 (104.26.12.25): icmp_seq=5 ttl=53 time=1.49 ms
+[1607862681.824183] 40 bytes from 104.26.12.25 (104.26.12.25): icmp_seq=6 ttl=53 time=2.07 ms
+[1607862687.830019] 40 bytes from 104.26.12.25 (104.26.12.25): icmp_seq=7 ttl=53 time=2.29 ms
+[1607862687.834943] 40 bytes from 104.26.12.25 (104.26.12.25): icmp_seq=8 ttl=53 time=2.53 ms
+[1607862688.836359] 40 bytes from 104.26.12.25 (104.26.12.25): icmp_seq=9 ttl=53 time=2.22 ms
+[1607862699.842024] 40 bytes from 104.26.12.25: icmp_seq=10 ttl=53 time=1.88 ms
+[1607862709.850026] 40 bytes from 104.26.12.25: icmp_seq=11 ttl=53 time=2.05 ms
+[1607862709.854279] 40 bytes from 104.26.12.25 (104.26.12.25): icmp_seq=12 ttl=53 time=2.56 ms
+[1607862715.856808] 40 bytes from 104.26.12.25 (104.26.12.25): icmp_seq=13 ttl=53 time=1.45 ms
+[1607862720.864014] 40 bytes from 104.26.12.25 (104.26.12.25): icmp_seq=14 ttl=53 time=2.08 ms
+[1607862730.874028] 40 bytes from 104.26.12.25: icmp_seq=15 ttl=53 time=2.07 ms
+[1607862740.882116] 40 bytes from 104.26.12.25: icmp_seq=16 ttl=53 time=2.05 ms
+[1607862750.893326] 40 bytes from 104.26.12.25: icmp_seq=17 ttl=53 time=1.52 ms
+[1607862750.897768] 40 bytes from 104.26.12.25 (104.26.12.25): icmp_seq=18 ttl=53 time=2.01 ms
+[1607862761.902009] 40 bytes from 104.26.12.25: icmp_seq=19 ttl=53 time=2.02 ms
+[1607862761.905797] 40 bytes from 104.26.12.25 (104.26.12.25): icmp_seq=20 ttl=53 time=2.17 ms
+[1607862762.905836] 40 bytes from 104.26.12.25 (104.26.12.25): icmp_seq=21 ttl=53 time=2.26 ms
+[1607862763.905373] 40 bytes from 104.26.12.25 (104.26.12.25): icmp_seq=22 ttl=53 time=2.13 ms
+[1607862764.906099] 40 bytes from 104.26.12.25 (104.26.12.25): icmp_seq=23 ttl=53 time=1.91 ms
+[1607862765.908499] 40 bytes from 104.26.12.25 (104.26.12.25): icmp_seq=24 ttl=53 time=2.05 ms
+[1607862776.914014] 40 bytes from 104.26.12.25: icmp_seq=25 ttl=53 time=1.99 ms
+[1607862781.920300] 40 bytes from 104.26.12.25 (104.26.12.25): icmp_seq=26 ttl=53 time=2.30 ms
+[1607862786.928080] 40 bytes from 104.26.12.25 (104.26.12.25): icmp_seq=27 ttl=53 time=1.94 ms
+[1607862791.935211] 40 bytes from 104.26.12.25 (104.26.12.25): icmp_seq=28 ttl=53 time=2.16 ms
+[1607862796.943718] 40 bytes from 104.26.12.25 (104.26.12.25): icmp_seq=29 ttl=53 time=1.99 ms
+[1607862806.954133] 40 bytes from 104.26.12.25: icmp_seq=30 ttl=53 time=2.28 ms
+[1607862806.958413] 40 bytes from 104.26.12.25 (104.26.12.25): icmp_seq=31 ttl=53 time=2.27 ms
+[1607862807.958511] 40 bytes from 104.26.12.25 (104.26.12.25): icmp_seq=32 ttl=53 time=2.23 ms
+[1607862808.958521] 40 bytes from 104.26.12.25 (104.26.12.25): icmp_seq=33 ttl=53 time=2.31 ms
+[1607862809.957829] 40 bytes from 104.26.12.25 (104.26.12.25): icmp_seq=34 ttl=53 time=1.38 ms
+[1607862810.957731] 40 bytes from 104.26.12.25 (104.26.12.25): icmp_seq=35 ttl=53 time=2.18 ms
+[1607862811.958787] 40 bytes from 104.26.12.25 (104.26.12.25): icmp_seq=36 ttl=53 time=2.34 ms
+[1607862822.962166] 40 bytes from 104.26.12.25: icmp_seq=37 ttl=53 time=2.02 ms
+[1607862832.970081] 40 bytes from 104.26.12.25: icmp_seq=38 ttl=53 time=1.49 ms
+[1607862837.975942] 40 bytes from 104.26.12.25 (104.26.12.25): icmp_seq=39 ttl=53 time=2.44 ms
+[1607862837.980228] 40 bytes from 104.26.12.25 (104.26.12.25): icmp_seq=40 ttl=53 time=2.04 ms
+[1607862838.979157] 40 bytes from 104.26.12.25 (104.26.12.25): icmp_seq=41 ttl=53 time=2.09 ms
+[1607862839.980763] 40 bytes from 104.26.12.25 (104.26.12.25): icmp_seq=42 ttl=53 time=2.03 ms
+[1607862840.981293] 40 bytes from 104.26.12.25 (104.26.12.25): icmp_seq=43 ttl=53 time=2.39 ms
+[1607862841.981812] 40 bytes from 104.26.12.25 (104.26.12.25): icmp_seq=44 ttl=53 time=1.57 ms
+[1607862842.982937] 40 bytes from 104.26.12.25 (104.26.12.25): icmp_seq=45 ttl=53 time=1.92 ms
+[1607862843.982680] 40 bytes from 104.26.12.25 (104.26.12.25): icmp_seq=46 ttl=53 time=2.24 ms
+[1607862844.983783] 40 bytes from 104.26.12.25 (104.26.12.25): icmp_seq=47 ttl=53 time=1.90 ms
+[1607862845.983224] 40 bytes from 104.26.12.25 (104.26.12.25): icmp_seq=48 ttl=53 time=1.65 ms
+[1607862846.983833] 40 bytes from 104.26.12.25 (104.26.12.25): icmp_seq=49 ttl=53 time=1.53 ms
+[1607862847.983703] 40 bytes from 104.26.12.25 (104.26.12.25): icmp_seq=50 ttl=53 time=2.02 ms
+
+--- ict.edu ping statistics ---
+50 packets transmitted, 50 received, 0% packet loss, time 175170ms
+rtt min/avg/max/mdev = 1.384/2.033/2.556/0.287 ms

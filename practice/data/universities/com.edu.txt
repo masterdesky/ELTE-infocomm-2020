@@ -1,0 +1,55 @@
+PING com.edu (70.32.103.68) 32(60) bytes of data.
+[1607862712.596269] 40 bytes from com.edu (70.32.103.68): icmp_seq=1 ttl=50 time=103 ms
+[1607862723.602012] 40 bytes from 70.32.103.68: icmp_seq=2 ttl=50 time=102 ms
+[1607862723.707036] 40 bytes from com.edu (70.32.103.68): icmp_seq=3 ttl=50 time=103 ms
+[1607862724.706084] 40 bytes from com.edu (70.32.103.68): icmp_seq=4 ttl=50 time=102 ms
+[1607862725.706961] 40 bytes from com.edu (70.32.103.68): icmp_seq=5 ttl=50 time=103 ms
+[1607862736.714116] 40 bytes from 70.32.103.68: icmp_seq=6 ttl=50 time=103 ms
+[1607862746.822059] 40 bytes from 70.32.103.68: icmp_seq=7 ttl=50 time=102 ms
+[1607862746.927211] 40 bytes from com.edu (70.32.103.68): icmp_seq=8 ttl=50 time=103 ms
+[1607862747.927463] 40 bytes from com.edu (70.32.103.68): icmp_seq=9 ttl=50 time=102 ms
+[1607862748.927329] 40 bytes from com.edu (70.32.103.68): icmp_seq=10 ttl=50 time=102 ms
+[1607862749.927895] 40 bytes from com.edu (70.32.103.68): icmp_seq=11 ttl=50 time=103 ms
+[1607862760.934023] 40 bytes from 70.32.103.68: icmp_seq=12 ttl=50 time=103 ms
+[1607862766.043986] 40 bytes from com.edu (70.32.103.68): icmp_seq=13 ttl=50 time=103 ms
+[1607862776.154101] 40 bytes from 70.32.103.68: icmp_seq=14 ttl=50 time=103 ms
+[1607862786.266031] 40 bytes from 70.32.103.68: icmp_seq=15 ttl=50 time=103 ms
+[1607862796.374008] 40 bytes from 70.32.103.68: icmp_seq=16 ttl=50 time=103 ms
+[1607862801.484015] 40 bytes from com.edu (70.32.103.68): icmp_seq=17 ttl=50 time=103 ms
+[1607862806.594890] 40 bytes from com.edu (70.32.103.68): icmp_seq=18 ttl=50 time=103 ms
+[1607862806.699230] 40 bytes from com.edu (70.32.103.68): icmp_seq=19 ttl=50 time=103 ms
+[1607862817.706032] 40 bytes from 70.32.103.68: icmp_seq=20 ttl=50 time=103 ms
+[1607862822.815779] 40 bytes from com.edu (70.32.103.68): icmp_seq=21 ttl=50 time=103 ms
+[1607862827.923867] 40 bytes from com.edu (70.32.103.68): icmp_seq=22 ttl=50 time=103 ms
+[1607862838.034051] 40 bytes from 70.32.103.68: icmp_seq=23 ttl=50 time=103 ms
+[1607862838.138515] 40 bytes from com.edu (70.32.103.68): icmp_seq=24 ttl=50 time=102 ms
+[1607862849.146102] 40 bytes from 70.32.103.68: icmp_seq=25 ttl=50 time=103 ms
+[1607862859.258009] 40 bytes from 70.32.103.68: icmp_seq=26 ttl=50 time=103 ms
+[1607862864.367831] 40 bytes from com.edu (70.32.103.68): icmp_seq=27 ttl=50 time=103 ms
+[1607862864.472846] 40 bytes from com.edu (70.32.103.68): icmp_seq=28 ttl=50 time=103 ms
+[1607862865.473631] 40 bytes from com.edu (70.32.103.68): icmp_seq=29 ttl=50 time=103 ms
+[1607862866.474930] 40 bytes from com.edu (70.32.103.68): icmp_seq=30 ttl=50 time=103 ms
+[1607862867.475262] 40 bytes from com.edu (70.32.103.68): icmp_seq=31 ttl=50 time=102 ms
+[1607862868.476662] 40 bytes from com.edu (70.32.103.68): icmp_seq=32 ttl=50 time=102 ms
+[1607862869.478436] 40 bytes from com.edu (70.32.103.68): icmp_seq=33 ttl=50 time=103 ms
+[1607862875.483873] 40 bytes from com.edu (70.32.103.68): icmp_seq=34 ttl=50 time=103 ms
+[1607862875.588902] 40 bytes from com.edu (70.32.103.68): icmp_seq=35 ttl=50 time=103 ms
+[1607862881.591777] 40 bytes from com.edu (70.32.103.68): icmp_seq=36 ttl=50 time=103 ms
+[1607862881.696885] 40 bytes from com.edu (70.32.103.68): icmp_seq=37 ttl=50 time=103 ms
+[1607862882.696901] 40 bytes from com.edu (70.32.103.68): icmp_seq=38 ttl=50 time=103 ms
+[1607862883.697668] 40 bytes from com.edu (70.32.103.68): icmp_seq=39 ttl=50 time=103 ms
+[1607862884.699283] 40 bytes from com.edu (70.32.103.68): icmp_seq=40 ttl=50 time=103 ms
+[1607862885.699232] 40 bytes from com.edu (70.32.103.68): icmp_seq=41 ttl=50 time=102 ms
+[1607862886.699943] 40 bytes from com.edu (70.32.103.68): icmp_seq=42 ttl=50 time=102 ms
+[1607862887.702222] 40 bytes from com.edu (70.32.103.68): icmp_seq=43 ttl=50 time=103 ms
+[1607862888.703061] 40 bytes from com.edu (70.32.103.68): icmp_seq=44 ttl=50 time=103 ms
+[1607862889.704043] 40 bytes from com.edu (70.32.103.68): icmp_seq=45 ttl=50 time=103 ms
+[1607862890.704658] 40 bytes from com.edu (70.32.103.68): icmp_seq=46 ttl=50 time=102 ms
+[1607862891.706626] 40 bytes from com.edu (70.32.103.68): icmp_seq=47 ttl=50 time=103 ms
+[1607862892.706396] 40 bytes from com.edu (70.32.103.68): icmp_seq=48 ttl=50 time=103 ms
+[1607862893.708771] 40 bytes from com.edu (70.32.103.68): icmp_seq=49 ttl=50 time=103 ms
+[1607862894.710056] 40 bytes from com.edu (70.32.103.68): icmp_seq=50 ttl=50 time=103 ms
+
+--- com.edu ping statistics ---
+50 packets transmitted, 50 received, 0% packet loss, time 182114ms
+rtt min/avg/max/mdev = 102.081/102.748/103.146/0.300 ms

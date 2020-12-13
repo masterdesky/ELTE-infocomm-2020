@@ -1,0 +1,55 @@
+PING nmsu.edu (128.123.88.128) 32(60) bytes of data.
+[1607862703.146070] 40 bytes from 128.123.88.128: icmp_seq=1 ttl=234 time=151 ms
+[1607862704.172790] 40 bytes from cas-web-p.nmsu.edu (128.123.88.128): icmp_seq=2 ttl=234 time=151 ms
+[1607862704.326204] 40 bytes from cas-web-p.nmsu.edu (128.123.88.128): icmp_seq=3 ttl=234 time=151 ms
+[1607862715.334013] 40 bytes from 128.123.88.128: icmp_seq=4 ttl=234 time=151 ms
+[1607862725.494007] 40 bytes from 128.123.88.128: icmp_seq=5 ttl=234 time=151 ms
+[1607862735.654402] 40 bytes from 128.123.88.128: icmp_seq=6 ttl=234 time=151 ms
+[1607862745.814026] 40 bytes from 128.123.88.128: icmp_seq=7 ttl=234 time=151 ms
+[1607862745.967412] 40 bytes from cas-web-p.nmsu.edu (128.123.88.128): icmp_seq=8 ttl=234 time=151 ms
+[1607862756.974551] 40 bytes from 128.123.88.128: icmp_seq=9 ttl=234 time=152 ms
+[1607862767.134112] 40 bytes from 128.123.88.128: icmp_seq=10 ttl=234 time=151 ms
+[1607862777.294009] 40 bytes from 128.123.88.128: icmp_seq=11 ttl=234 time=151 ms
+[1607862787.454058] 40 bytes from 128.123.88.128: icmp_seq=12 ttl=234 time=151 ms
+[1607862797.614015] 40 bytes from 128.123.88.128: icmp_seq=13 ttl=234 time=151 ms
+[1607862807.774032] 40 bytes from 128.123.88.128: icmp_seq=14 ttl=234 time=151 ms
+[1607862817.934070] 40 bytes from 128.123.88.128: icmp_seq=15 ttl=234 time=151 ms
+[1607862823.094021] 40 bytes from cas-web-p.nmsu.edu (128.123.88.128): icmp_seq=16 ttl=234 time=151 ms
+[1607862833.254053] 40 bytes from 128.123.88.128: icmp_seq=17 ttl=234 time=151 ms
+[1607862843.414110] 40 bytes from 128.123.88.128: icmp_seq=18 ttl=234 time=152 ms
+[1607862848.567303] 40 bytes from cas-web-p.nmsu.edu (128.123.88.128): icmp_seq=19 ttl=234 time=150 ms
+[1607862853.723435] 40 bytes from cas-web-p.nmsu.edu (128.123.88.128): icmp_seq=20 ttl=234 time=151 ms
+[1607862853.875882] 40 bytes from cas-web-p.nmsu.edu (128.123.88.128): icmp_seq=21 ttl=234 time=150 ms
+[1607862864.882719] 40 bytes from 128.123.88.128: icmp_seq=22 ttl=234 time=151 ms
+[1607862865.036006] 40 bytes from cas-web-p.nmsu.edu (128.123.88.128): icmp_seq=23 ttl=234 time=151 ms
+[1607862866.036279] 40 bytes from cas-web-p.nmsu.edu (128.123.88.128): icmp_seq=24 ttl=234 time=151 ms
+[1607862867.035524] 40 bytes from cas-web-p.nmsu.edu (128.123.88.128): icmp_seq=25 ttl=234 time=151 ms
+[1607862868.035378] 40 bytes from cas-web-p.nmsu.edu (128.123.88.128): icmp_seq=26 ttl=234 time=151 ms
+[1607862869.035454] 40 bytes from cas-web-p.nmsu.edu (128.123.88.128): icmp_seq=27 ttl=234 time=151 ms
+[1607862870.034833] 40 bytes from cas-web-p.nmsu.edu (128.123.88.128): icmp_seq=28 ttl=234 time=151 ms
+[1607862871.034937] 40 bytes from cas-web-p.nmsu.edu (128.123.88.128): icmp_seq=29 ttl=234 time=151 ms
+[1607862872.035554] 40 bytes from cas-web-p.nmsu.edu (128.123.88.128): icmp_seq=30 ttl=234 time=151 ms
+[1607862873.034706] 40 bytes from cas-web-p.nmsu.edu (128.123.88.128): icmp_seq=31 ttl=234 time=151 ms
+[1607862874.034530] 40 bytes from cas-web-p.nmsu.edu (128.123.88.128): icmp_seq=32 ttl=234 time=151 ms
+[1607862875.035206] 40 bytes from cas-web-p.nmsu.edu (128.123.88.128): icmp_seq=33 ttl=234 time=151 ms
+[1607862876.034527] 40 bytes from cas-web-p.nmsu.edu (128.123.88.128): icmp_seq=34 ttl=234 time=151 ms
+[1607862877.035456] 40 bytes from cas-web-p.nmsu.edu (128.123.88.128): icmp_seq=35 ttl=234 time=151 ms
+[1607862878.035234] 40 bytes from cas-web-p.nmsu.edu (128.123.88.128): icmp_seq=36 ttl=234 time=151 ms
+[1607862879.035482] 40 bytes from cas-web-p.nmsu.edu (128.123.88.128): icmp_seq=37 ttl=234 time=151 ms
+[1607862880.035023] 40 bytes from cas-web-p.nmsu.edu (128.123.88.128): icmp_seq=38 ttl=234 time=151 ms
+[1607862881.036247] 40 bytes from cas-web-p.nmsu.edu (128.123.88.128): icmp_seq=39 ttl=234 time=151 ms
+[1607862882.035727] 40 bytes from cas-web-p.nmsu.edu (128.123.88.128): icmp_seq=40 ttl=234 time=151 ms
+[1607862883.036956] 40 bytes from cas-web-p.nmsu.edu (128.123.88.128): icmp_seq=41 ttl=234 time=151 ms
+[1607862884.036319] 40 bytes from cas-web-p.nmsu.edu (128.123.88.128): icmp_seq=42 ttl=234 time=151 ms
+[1607862885.037862] 40 bytes from cas-web-p.nmsu.edu (128.123.88.128): icmp_seq=43 ttl=234 time=151 ms
+[1607862886.038071] 40 bytes from cas-web-p.nmsu.edu (128.123.88.128): icmp_seq=44 ttl=234 time=151 ms
+[1607862887.038395] 40 bytes from cas-web-p.nmsu.edu (128.123.88.128): icmp_seq=45 ttl=234 time=151 ms
+[1607862888.038841] 40 bytes from cas-web-p.nmsu.edu (128.123.88.128): icmp_seq=46 ttl=234 time=151 ms
+[1607862889.038558] 40 bytes from cas-web-p.nmsu.edu (128.123.88.128): icmp_seq=47 ttl=234 time=151 ms
+[1607862890.039797] 40 bytes from cas-web-p.nmsu.edu (128.123.88.128): icmp_seq=48 ttl=234 time=152 ms
+[1607862891.039065] 40 bytes from cas-web-p.nmsu.edu (128.123.88.128): icmp_seq=49 ttl=234 time=151 ms
+[1607862892.040395] 40 bytes from cas-web-p.nmsu.edu (128.123.88.128): icmp_seq=50 ttl=234 time=151 ms
+
+--- nmsu.edu ping statistics ---
+50 packets transmitted, 50 received, 0% packet loss, time 198898ms
+rtt min/avg/max/mdev = 150.238/151.150/151.662/0.308 ms

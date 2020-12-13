@@ -1,0 +1,55 @@
+PING westliberty.edu (172.67.72.89) 32(60) bytes of data.
+[1607862737.238475] 40 bytes from 172.67.72.89 (172.67.72.89): icmp_seq=1 ttl=53 time=2.19 ms
+[1607862742.243927] 40 bytes from 172.67.72.89 (172.67.72.89): icmp_seq=2 ttl=53 time=1.95 ms
+[1607862752.254053] 40 bytes from 172.67.72.89: icmp_seq=3 ttl=53 time=2.27 ms
+[1607862752.258520] 40 bytes from 172.67.72.89 (172.67.72.89): icmp_seq=4 ttl=53 time=2.25 ms
+[1607862753.259138] 40 bytes from 172.67.72.89 (172.67.72.89): icmp_seq=5 ttl=53 time=2.15 ms
+[1607862754.257851] 40 bytes from 172.67.72.89 (172.67.72.89): icmp_seq=6 ttl=53 time=1.75 ms
+[1607862755.258862] 40 bytes from 172.67.72.89 (172.67.72.89): icmp_seq=7 ttl=53 time=1.89 ms
+[1607862756.261201] 40 bytes from 172.67.72.89 (172.67.72.89): icmp_seq=8 ttl=53 time=2.22 ms
+[1607862757.260605] 40 bytes from 172.67.72.89 (172.67.72.89): icmp_seq=9 ttl=53 time=1.98 ms
+[1607862758.262156] 40 bytes from 172.67.72.89 (172.67.72.89): icmp_seq=10 ttl=53 time=1.43 ms
+[1607862759.261903] 40 bytes from 172.67.72.89 (172.67.72.89): icmp_seq=11 ttl=53 time=1.56 ms
+[1607862765.267737] 40 bytes from 172.67.72.89 (172.67.72.89): icmp_seq=12 ttl=53 time=1.93 ms
+[1607862775.279512] 40 bytes from 172.67.72.89: icmp_seq=13 ttl=53 time=1.73 ms
+[1607862775.282243] 40 bytes from 172.67.72.89 (172.67.72.89): icmp_seq=14 ttl=53 time=1.51 ms
+[1607862776.283931] 40 bytes from 172.67.72.89 (172.67.72.89): icmp_seq=15 ttl=53 time=2.25 ms
+[1607862777.282663] 40 bytes from 172.67.72.89 (172.67.72.89): icmp_seq=16 ttl=53 time=2.03 ms
+[1607862778.282097] 40 bytes from 172.67.72.89 (172.67.72.89): icmp_seq=17 ttl=53 time=2.17 ms
+[1607862779.281949] 40 bytes from 172.67.72.89 (172.67.72.89): icmp_seq=18 ttl=53 time=2.32 ms
+[1607862780.281606] 40 bytes from 172.67.72.89 (172.67.72.89): icmp_seq=19 ttl=53 time=2.19 ms
+[1607862791.286043] 40 bytes from 172.67.72.89: icmp_seq=20 ttl=53 time=1.68 ms
+[1607862791.290428] 40 bytes from 172.67.72.89 (172.67.72.89): icmp_seq=21 ttl=53 time=1.99 ms
+[1607862792.289226] 40 bytes from 172.67.72.89 (172.67.72.89): icmp_seq=22 ttl=53 time=2.39 ms
+[1607862793.290275] 40 bytes from 172.67.72.89 (172.67.72.89): icmp_seq=23 ttl=53 time=1.72 ms
+[1607862794.292612] 40 bytes from 172.67.72.89 (172.67.72.89): icmp_seq=24 ttl=53 time=2.51 ms
+[1607862795.293246] 40 bytes from 172.67.72.89 (172.67.72.89): icmp_seq=25 ttl=53 time=1.34 ms
+[1607862796.295175] 40 bytes from 172.67.72.89 (172.67.72.89): icmp_seq=26 ttl=53 time=2.04 ms
+[1607862797.296868] 40 bytes from 172.67.72.89 (172.67.72.89): icmp_seq=27 ttl=53 time=2.09 ms
+[1607862798.297425] 40 bytes from 172.67.72.89 (172.67.72.89): icmp_seq=28 ttl=53 time=2.09 ms
+[1607862799.298008] 40 bytes from 172.67.72.89 (172.67.72.89): icmp_seq=29 ttl=53 time=1.92 ms
+[1607862800.300303] 40 bytes from 172.67.72.89 (172.67.72.89): icmp_seq=30 ttl=53 time=2.08 ms
+[1607862801.299858] 40 bytes from 172.67.72.89 (172.67.72.89): icmp_seq=31 ttl=53 time=1.67 ms
+[1607862812.306034] 40 bytes from 172.67.72.89: icmp_seq=32 ttl=53 time=2.09 ms
+[1607862822.314009] 40 bytes from 172.67.72.89: icmp_seq=33 ttl=53 time=2.19 ms
+[1607862822.317775] 40 bytes from 172.67.72.89 (172.67.72.89): icmp_seq=34 ttl=53 time=2.26 ms
+[1607862823.317427] 40 bytes from 172.67.72.89 (172.67.72.89): icmp_seq=35 ttl=53 time=2.01 ms
+[1607862824.318555] 40 bytes from 172.67.72.89 (172.67.72.89): icmp_seq=36 ttl=53 time=2.41 ms
+[1607862825.319183] 40 bytes from 172.67.72.89 (172.67.72.89): icmp_seq=37 ttl=53 time=1.82 ms
+[1607862826.322032] 40 bytes from 172.67.72.89 (172.67.72.89): icmp_seq=38 ttl=53 time=2.36 ms
+[1607862827.321136] 40 bytes from 172.67.72.89 (172.67.72.89): icmp_seq=39 ttl=53 time=2.19 ms
+[1607862828.321086] 40 bytes from 172.67.72.89 (172.67.72.89): icmp_seq=40 ttl=53 time=1.42 ms
+[1607862829.321864] 40 bytes from 172.67.72.89 (172.67.72.89): icmp_seq=41 ttl=53 time=2.19 ms
+[1607862830.323064] 40 bytes from 172.67.72.89 (172.67.72.89): icmp_seq=42 ttl=53 time=2.27 ms
+[1607862831.325212] 40 bytes from 172.67.72.89 (172.67.72.89): icmp_seq=43 ttl=53 time=2.41 ms
+[1607862832.325432] 40 bytes from 172.67.72.89 (172.67.72.89): icmp_seq=44 ttl=53 time=2.07 ms
+[1607862843.334030] 40 bytes from 172.67.72.89: icmp_seq=45 ttl=53 time=2.18 ms
+[1607862843.337817] 40 bytes from 172.67.72.89 (172.67.72.89): icmp_seq=46 ttl=53 time=1.74 ms
+[1607862854.346083] 40 bytes from 172.67.72.89: icmp_seq=47 ttl=53 time=2.11 ms
+[1607862864.354029] 40 bytes from 172.67.72.89: icmp_seq=48 ttl=53 time=2.14 ms
+[1607862864.358047] 40 bytes from 172.67.72.89 (172.67.72.89): icmp_seq=49 ttl=53 time=2.12 ms
+[1607862866.355281] 40 bytes from 172.67.72.89: icmp_seq=50 ttl=53 time=2.03 ms
+
+--- westliberty.edu ping statistics ---
+50 packets transmitted, 50 received, 0% packet loss, time 133597ms
+rtt min/avg/max/mdev = 1.343/2.025/2.509/0.273 ms

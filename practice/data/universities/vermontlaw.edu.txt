@@ -1,0 +1,55 @@
+PING vermontlaw.edu (54.83.189.142) 32(60) bytes of data.
+[1607862718.479237] 40 bytes from ec2-54-83-189-142.compute-1.amazonaws.com (54.83.189.142): icmp_seq=1 ttl=36 time=105 ms
+[1607862718.585606] 40 bytes from ec2-54-83-189-142.compute-1.amazonaws.com (54.83.189.142): icmp_seq=2 ttl=36 time=105 ms
+[1607862719.584853] 40 bytes from ec2-54-83-189-142.compute-1.amazonaws.com (54.83.189.142): icmp_seq=3 ttl=36 time=104 ms
+[1607862730.590001] 40 bytes from 54.83.189.142: icmp_seq=4 ttl=36 time=105 ms
+[1607862730.696760] 40 bytes from ec2-54-83-189-142.compute-1.amazonaws.com (54.83.189.142): icmp_seq=5 ttl=36 time=105 ms
+[1607862731.696345] 40 bytes from ec2-54-83-189-142.compute-1.amazonaws.com (54.83.189.142): icmp_seq=6 ttl=36 time=105 ms
+[1607862732.695280] 40 bytes from ec2-54-83-189-142.compute-1.amazonaws.com (54.83.189.142): icmp_seq=7 ttl=36 time=105 ms
+[1607862733.695468] 40 bytes from ec2-54-83-189-142.compute-1.amazonaws.com (54.83.189.142): icmp_seq=8 ttl=36 time=105 ms
+[1607862734.693912] 40 bytes from ec2-54-83-189-142.compute-1.amazonaws.com (54.83.189.142): icmp_seq=9 ttl=36 time=105 ms
+[1607862735.694614] 40 bytes from ec2-54-83-189-142.compute-1.amazonaws.com (54.83.189.142): icmp_seq=10 ttl=36 time=104 ms
+[1607862741.695977] 40 bytes from ec2-54-83-189-142.compute-1.amazonaws.com (54.83.189.142): icmp_seq=11 ttl=36 time=104 ms
+[1607862746.804006] 40 bytes from ec2-54-83-189-142.compute-1.amazonaws.com (54.83.189.142): icmp_seq=12 ttl=36 time=105 ms
+[1607862756.914012] 40 bytes from 54.83.189.142: icmp_seq=13 ttl=36 time=105 ms
+[1607862767.026194] 40 bytes from 54.83.189.142: icmp_seq=14 ttl=36 time=105 ms
+[1607862767.133372] 40 bytes from ec2-54-83-189-142.compute-1.amazonaws.com (54.83.189.142): icmp_seq=15 ttl=36 time=105 ms
+[1607862768.131662] 40 bytes from ec2-54-83-189-142.compute-1.amazonaws.com (54.83.189.142): icmp_seq=16 ttl=36 time=104 ms
+[1607862769.132785] 40 bytes from ec2-54-83-189-142.compute-1.amazonaws.com (54.83.189.142): icmp_seq=17 ttl=36 time=104 ms
+[1607862770.133804] 40 bytes from ec2-54-83-189-142.compute-1.amazonaws.com (54.83.189.142): icmp_seq=18 ttl=36 time=105 ms
+[1607862771.134169] 40 bytes from ec2-54-83-189-142.compute-1.amazonaws.com (54.83.189.142): icmp_seq=19 ttl=36 time=104 ms
+[1607862772.136532] 40 bytes from ec2-54-83-189-142.compute-1.amazonaws.com (54.83.189.142): icmp_seq=20 ttl=36 time=105 ms
+[1607862773.137794] 40 bytes from ec2-54-83-189-142.compute-1.amazonaws.com (54.83.189.142): icmp_seq=21 ttl=36 time=105 ms
+[1607862774.137700] 40 bytes from ec2-54-83-189-142.compute-1.amazonaws.com (54.83.189.142): icmp_seq=22 ttl=36 time=105 ms
+[1607862775.138596] 40 bytes from ec2-54-83-189-142.compute-1.amazonaws.com (54.83.189.142): icmp_seq=23 ttl=36 time=105 ms
+[1607862786.146030] 40 bytes from 54.83.189.142: icmp_seq=24 ttl=36 time=105 ms
+[1607862796.258102] 40 bytes from 54.83.189.142: icmp_seq=25 ttl=36 time=105 ms
+[1607862796.363634] 40 bytes from ec2-54-83-189-142.compute-1.amazonaws.com (54.83.189.142): icmp_seq=26 ttl=36 time=104 ms
+[1607862807.370063] 40 bytes from 54.83.189.142: icmp_seq=27 ttl=36 time=104 ms
+[1607862807.476677] 40 bytes from ec2-54-83-189-142.compute-1.amazonaws.com (54.83.189.142): icmp_seq=28 ttl=36 time=105 ms
+[1607862808.476436] 40 bytes from ec2-54-83-189-142.compute-1.amazonaws.com (54.83.189.142): icmp_seq=29 ttl=36 time=105 ms
+[1607862809.475643] 40 bytes from ec2-54-83-189-142.compute-1.amazonaws.com (54.83.189.142): icmp_seq=30 ttl=36 time=104 ms
+[1607862810.483427] 40 bytes from ec2-54-83-189-142.compute-1.amazonaws.com (54.83.189.142): icmp_seq=31 ttl=36 time=105 ms
+[1607862811.474860] 40 bytes from ec2-54-83-189-142.compute-1.amazonaws.com (54.83.189.142): icmp_seq=32 ttl=36 time=104 ms
+[1607862812.475155] 40 bytes from ec2-54-83-189-142.compute-1.amazonaws.com (54.83.189.142): icmp_seq=33 ttl=36 time=105 ms
+[1607862813.476885] 40 bytes from ec2-54-83-189-142.compute-1.amazonaws.com (54.83.189.142): icmp_seq=34 ttl=36 time=105 ms
+[1607862814.477166] 40 bytes from ec2-54-83-189-142.compute-1.amazonaws.com (54.83.189.142): icmp_seq=35 ttl=36 time=104 ms
+[1607862815.478755] 40 bytes from ec2-54-83-189-142.compute-1.amazonaws.com (54.83.189.142): icmp_seq=36 ttl=36 time=105 ms
+[1607862816.480324] 40 bytes from ec2-54-83-189-142.compute-1.amazonaws.com (54.83.189.142): icmp_seq=37 ttl=36 time=104 ms
+[1607862822.483749] 40 bytes from ec2-54-83-189-142.compute-1.amazonaws.com (54.83.189.142): icmp_seq=38 ttl=36 time=104 ms
+[1607862827.591980] 40 bytes from ec2-54-83-189-142.compute-1.amazonaws.com (54.83.189.142): icmp_seq=39 ttl=36 time=104 ms
+[1607862827.698184] 40 bytes from ec2-54-83-189-142.compute-1.amazonaws.com (54.83.189.142): icmp_seq=40 ttl=36 time=104 ms
+[1607862838.706048] 40 bytes from 54.83.189.142: icmp_seq=41 ttl=36 time=104 ms
+[1607862843.816070] 40 bytes from ec2-54-83-189-142.compute-1.amazonaws.com (54.83.189.142): icmp_seq=42 ttl=36 time=104 ms
+[1607862853.926413] 40 bytes from 54.83.189.142: icmp_seq=43 ttl=36 time=104 ms
+[1607862859.036084] 40 bytes from ec2-54-83-189-142.compute-1.amazonaws.com (54.83.189.142): icmp_seq=44 ttl=36 time=104 ms
+[1607862859.141648] 40 bytes from ec2-54-83-189-142.compute-1.amazonaws.com (54.83.189.142): icmp_seq=45 ttl=36 time=104 ms
+[1607862860.144005] 40 bytes from ec2-54-83-189-142.compute-1.amazonaws.com (54.83.189.142): icmp_seq=46 ttl=36 time=104 ms
+[1607862861.145410] 40 bytes from ec2-54-83-189-142.compute-1.amazonaws.com (54.83.189.142): icmp_seq=47 ttl=36 time=104 ms
+[1607862862.146176] 40 bytes from ec2-54-83-189-142.compute-1.amazonaws.com (54.83.189.142): icmp_seq=48 ttl=36 time=104 ms
+[1607862863.148271] 40 bytes from ec2-54-83-189-142.compute-1.amazonaws.com (54.83.189.142): icmp_seq=49 ttl=36 time=104 ms
+[1607862864.149297] 40 bytes from ec2-54-83-189-142.compute-1.amazonaws.com (54.83.189.142): icmp_seq=50 ttl=36 time=104 ms
+
+--- vermontlaw.edu ping statistics ---
+50 packets transmitted, 50 received, 0% packet loss, time 150676ms
+rtt min/avg/max/mdev = 103.910/104.459/105.496/0.289 ms

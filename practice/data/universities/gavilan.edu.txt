@@ -1,0 +1,54 @@
+PING gavilan.edu (207.62.201.80) 32(60) bytes of data.
+[1607862694.666286] 40 bytes from 207.62.201.80: icmp_seq=1 ttl=48 time=169 ms
+[1607862704.842097] 40 bytes from 207.62.201.80: icmp_seq=2 ttl=48 time=168 ms
+[1607862710.239746] 40 bytes from www.gavilan.edu (207.62.201.80): icmp_seq=3 ttl=48 time=169 ms
+[1607862720.414269] 40 bytes from 207.62.201.80: icmp_seq=4 ttl=48 time=168 ms
+[1607862720.585671] 40 bytes from www.gavilan.edu (207.62.201.80): icmp_seq=5 ttl=48 time=169 ms
+[1607862721.587999] 40 bytes from www.gavilan.edu (207.62.201.80): icmp_seq=6 ttl=48 time=169 ms
+[1607862722.586999] 40 bytes from www.gavilan.edu (207.62.201.80): icmp_seq=7 ttl=48 time=168 ms
+[1607862723.588304] 40 bytes from www.gavilan.edu (207.62.201.80): icmp_seq=8 ttl=48 time=169 ms
+[1607862729.591444] 40 bytes from 207.62.201.80: icmp_seq=9 ttl=48 time=169 ms
+[1607862735.767156] 40 bytes from www.gavilan.edu (207.62.201.80): icmp_seq=11 ttl=48 time=169 ms
+[1607862735.938383] 40 bytes from www.gavilan.edu (207.62.201.80): icmp_seq=12 ttl=48 time=169 ms
+[1607862736.937615] 40 bytes from www.gavilan.edu (207.62.201.80): icmp_seq=13 ttl=48 time=169 ms
+[1607862737.936313] 40 bytes from www.gavilan.edu (207.62.201.80): icmp_seq=14 ttl=48 time=169 ms
+[1607862738.936157] 40 bytes from www.gavilan.edu (207.62.201.80): icmp_seq=15 ttl=48 time=169 ms
+[1607862739.934482] 40 bytes from www.gavilan.edu (207.62.201.80): icmp_seq=16 ttl=48 time=169 ms
+[1607862740.936237] 40 bytes from www.gavilan.edu (207.62.201.80): icmp_seq=17 ttl=48 time=168 ms
+[1607862751.942025] 40 bytes from 207.62.201.80: icmp_seq=18 ttl=48 time=169 ms
+[1607862752.113264] 40 bytes from www.gavilan.edu (207.62.201.80): icmp_seq=19 ttl=48 time=169 ms
+[1607862753.112921] 40 bytes from www.gavilan.edu (207.62.201.80): icmp_seq=20 ttl=48 time=169 ms
+[1607862754.111731] 40 bytes from www.gavilan.edu (207.62.201.80): icmp_seq=21 ttl=48 time=169 ms
+[1607862760.117712] 40 bytes from www.gavilan.edu (207.62.201.80): icmp_seq=22 ttl=48 time=169 ms
+[1607862760.289115] 40 bytes from www.gavilan.edu (207.62.201.80): icmp_seq=23 ttl=48 time=169 ms
+[1607862761.290221] 40 bytes from www.gavilan.edu (207.62.201.80): icmp_seq=24 ttl=48 time=169 ms
+[1607862767.295015] 40 bytes from www.gavilan.edu (207.62.201.80): icmp_seq=25 ttl=48 time=169 ms
+[1607862772.467060] 40 bytes from www.gavilan.edu (207.62.201.80): icmp_seq=26 ttl=48 time=169 ms
+[1607862782.645169] 40 bytes from 207.62.201.80: icmp_seq=27 ttl=48 time=169 ms
+[1607862782.816369] 40 bytes from www.gavilan.edu (207.62.201.80): icmp_seq=28 ttl=48 time=169 ms
+[1607862783.817416] 40 bytes from www.gavilan.edu (207.62.201.80): icmp_seq=29 ttl=48 time=169 ms
+[1607862784.818199] 40 bytes from www.gavilan.edu (207.62.201.80): icmp_seq=30 ttl=48 time=169 ms
+[1607862785.819167] 40 bytes from www.gavilan.edu (207.62.201.80): icmp_seq=31 ttl=48 time=169 ms
+[1607862791.824330] 40 bytes from www.gavilan.edu (207.62.201.80): icmp_seq=32 ttl=48 time=169 ms
+[1607862802.002063] 40 bytes from 207.62.201.80: icmp_seq=33 ttl=48 time=169 ms
+[1607862812.178048] 40 bytes from 207.62.201.80: icmp_seq=34 ttl=48 time=169 ms
+[1607862822.354044] 40 bytes from 207.62.201.80: icmp_seq=35 ttl=48 time=169 ms
+[1607862827.528053] 40 bytes from www.gavilan.edu (207.62.201.80): icmp_seq=36 ttl=48 time=169 ms
+[1607862827.698921] 40 bytes from www.gavilan.edu (207.62.201.80): icmp_seq=37 ttl=48 time=169 ms
+[1607862838.706124] 40 bytes from 207.62.201.80: icmp_seq=38 ttl=48 time=169 ms
+[1607862843.879411] 40 bytes from www.gavilan.edu (207.62.201.80): icmp_seq=39 ttl=48 time=169 ms
+[1607862854.054031] 40 bytes from 207.62.201.80: icmp_seq=40 ttl=48 time=168 ms
+[1607862859.228136] 40 bytes from www.gavilan.edu (207.62.201.80): icmp_seq=41 ttl=48 time=168 ms
+[1607862864.405251] 40 bytes from www.gavilan.edu (207.62.201.80): icmp_seq=42 ttl=48 time=169 ms
+[1607862864.575577] 40 bytes from www.gavilan.edu (207.62.201.80): icmp_seq=43 ttl=48 time=168 ms
+[1607862865.577672] 40 bytes from www.gavilan.edu (207.62.201.80): icmp_seq=44 ttl=48 time=169 ms
+[1607862866.579011] 40 bytes from www.gavilan.edu (207.62.201.80): icmp_seq=45 ttl=48 time=169 ms
+[1607862867.580612] 40 bytes from www.gavilan.edu (207.62.201.80): icmp_seq=46 ttl=48 time=169 ms
+[1607862868.580629] 40 bytes from www.gavilan.edu (207.62.201.80): icmp_seq=47 ttl=48 time=169 ms
+[1607862869.581348] 40 bytes from www.gavilan.edu (207.62.201.80): icmp_seq=48 ttl=48 time=169 ms
+[1607862875.587723] 40 bytes from www.gavilan.edu (207.62.201.80): icmp_seq=49 ttl=48 time=168 ms
+[1607862876.587858] 40 bytes from 207.62.201.80: icmp_seq=50 ttl=48 time=169 ms
+
+--- gavilan.edu ping statistics ---
+50 packets transmitted, 49 received, 2% packet loss, time 191098ms
+rtt min/avg/max/mdev = 168.291/168.877/169.457/0.306 ms

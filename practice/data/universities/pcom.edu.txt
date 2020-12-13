@@ -1,0 +1,55 @@
+PING pcom.edu (162.241.156.152) 32(60) bytes of data.
+[1607862712.990021] 40 bytes from 162.241.156.152: icmp_seq=1 ttl=43 time=147 ms
+[1607862713.638945] 40 bytes from 162-241-156-152.unifiedlayer.com (162.241.156.152): icmp_seq=2 ttl=43 time=147 ms
+[1607862724.142831] 40 bytes from 162.241.156.152: icmp_seq=3 ttl=43 time=147 ms
+[1607862734.298011] 40 bytes from 162.241.156.152: icmp_seq=4 ttl=43 time=147 ms
+[1607862734.445702] 40 bytes from 162-241-156-152.unifiedlayer.com (162.241.156.152): icmp_seq=5 ttl=43 time=146 ms
+[1607862735.445040] 40 bytes from 162-241-156-152.unifiedlayer.com (162.241.156.152): icmp_seq=6 ttl=43 time=146 ms
+[1607862746.450758] 40 bytes from 162.241.156.152: icmp_seq=7 ttl=43 time=146 ms
+[1607862756.606052] 40 bytes from 162.241.156.152: icmp_seq=8 ttl=43 time=146 ms
+[1607862756.753809] 40 bytes from 162-241-156-152.unifiedlayer.com (162.241.156.152): icmp_seq=9 ttl=43 time=146 ms
+[1607862757.754379] 40 bytes from 162-241-156-152.unifiedlayer.com (162.241.156.152): icmp_seq=10 ttl=43 time=146 ms
+[1607862758.754542] 40 bytes from 162-241-156-152.unifiedlayer.com (162.241.156.152): icmp_seq=11 ttl=43 time=146 ms
+[1607862759.755480] 40 bytes from 162-241-156-152.unifiedlayer.com (162.241.156.152): icmp_seq=12 ttl=43 time=146 ms
+[1607862760.754896] 40 bytes from 162-241-156-152.unifiedlayer.com (162.241.156.152): icmp_seq=13 ttl=43 time=146 ms
+[1607862761.754639] 40 bytes from 162-241-156-152.unifiedlayer.com (162.241.156.152): icmp_seq=14 ttl=43 time=146 ms
+[1607862762.754396] 40 bytes from 162-241-156-152.unifiedlayer.com (162.241.156.152): icmp_seq=15 ttl=43 time=146 ms
+[1607862763.755533] 40 bytes from 162-241-156-152.unifiedlayer.com (162.241.156.152): icmp_seq=16 ttl=43 time=146 ms
+[1607862764.757230] 40 bytes from 162-241-156-152.unifiedlayer.com (162.241.156.152): icmp_seq=17 ttl=43 time=146 ms
+[1607862765.758478] 40 bytes from 162-241-156-152.unifiedlayer.com (162.241.156.152): icmp_seq=18 ttl=43 time=146 ms
+[1607862771.763950] 40 bytes from 162-241-156-152.unifiedlayer.com (162.241.156.152): icmp_seq=19 ttl=43 time=146 ms
+[1607862781.918290] 40 bytes from 162.241.156.152: icmp_seq=20 ttl=43 time=146 ms
+[1607862782.066501] 40 bytes from 162-241-156-152.unifiedlayer.com (162.241.156.152): icmp_seq=21 ttl=43 time=146 ms
+[1607862783.065949] 40 bytes from 162-241-156-152.unifiedlayer.com (162.241.156.152): icmp_seq=22 ttl=43 time=146 ms
+[1607862784.066269] 40 bytes from 162-241-156-152.unifiedlayer.com (162.241.156.152): icmp_seq=23 ttl=43 time=146 ms
+[1607862785.076775] 40 bytes from 162-241-156-152.unifiedlayer.com (162.241.156.152): icmp_seq=24 ttl=43 time=147 ms
+[1607862791.067827] 40 bytes from 162-241-156-152.unifiedlayer.com (162.241.156.152): icmp_seq=25 ttl=43 time=147 ms
+[1607862796.219841] 40 bytes from 162-241-156-152.unifiedlayer.com (162.241.156.152): icmp_seq=26 ttl=43 time=146 ms
+[1607862796.368246] 40 bytes from 162-241-156-152.unifiedlayer.com (162.241.156.152): icmp_seq=27 ttl=43 time=146 ms
+[1607862807.374051] 40 bytes from 162.241.156.152: icmp_seq=28 ttl=43 time=146 ms
+[1607862817.526021] 40 bytes from 162.241.156.152: icmp_seq=29 ttl=43 time=147 ms
+[1607862817.674183] 40 bytes from 162-241-156-152.unifiedlayer.com (162.241.156.152): icmp_seq=30 ttl=43 time=146 ms
+[1607862818.674528] 40 bytes from 162-241-156-152.unifiedlayer.com (162.241.156.152): icmp_seq=31 ttl=43 time=146 ms
+[1607862819.673630] 40 bytes from 162-241-156-152.unifiedlayer.com (162.241.156.152): icmp_seq=32 ttl=43 time=146 ms
+[1607862820.673860] 40 bytes from 162-241-156-152.unifiedlayer.com (162.241.156.152): icmp_seq=33 ttl=43 time=147 ms
+[1607862821.674866] 40 bytes from 162-241-156-152.unifiedlayer.com (162.241.156.152): icmp_seq=34 ttl=43 time=147 ms
+[1607862822.674025] 40 bytes from 162-241-156-152.unifiedlayer.com (162.241.156.152): icmp_seq=35 ttl=43 time=146 ms
+[1607862823.673888] 40 bytes from 162-241-156-152.unifiedlayer.com (162.241.156.152): icmp_seq=36 ttl=43 time=146 ms
+[1607862824.673878] 40 bytes from 162-241-156-152.unifiedlayer.com (162.241.156.152): icmp_seq=37 ttl=43 time=147 ms
+[1607862825.673792] 40 bytes from 162-241-156-152.unifiedlayer.com (162.241.156.152): icmp_seq=38 ttl=43 time=146 ms
+[1607862826.676107] 40 bytes from 162-241-156-152.unifiedlayer.com (162.241.156.152): icmp_seq=39 ttl=43 time=146 ms
+[1607862827.676132] 40 bytes from 162-241-156-152.unifiedlayer.com (162.241.156.152): icmp_seq=40 ttl=43 time=146 ms
+[1607862838.681993] 40 bytes from 162.241.156.152: icmp_seq=41 ttl=43 time=146 ms
+[1607862848.834059] 40 bytes from 162.241.156.152: icmp_seq=42 ttl=43 time=146 ms
+[1607862853.984156] 40 bytes from 162-241-156-152.unifiedlayer.com (162.241.156.152): icmp_seq=43 ttl=43 time=146 ms
+[1607862859.135745] 40 bytes from 162-241-156-152.unifiedlayer.com (162.241.156.152): icmp_seq=44 ttl=43 time=146 ms
+[1607862859.282745] 40 bytes from 162-241-156-152.unifiedlayer.com (162.241.156.152): icmp_seq=45 ttl=43 time=146 ms
+[1607862860.285650] 40 bytes from 162-241-156-152.unifiedlayer.com (162.241.156.152): icmp_seq=46 ttl=43 time=146 ms
+[1607862861.287042] 40 bytes from 162-241-156-152.unifiedlayer.com (162.241.156.152): icmp_seq=47 ttl=43 time=145 ms
+[1607862862.288342] 40 bytes from 162-241-156-152.unifiedlayer.com (162.241.156.152): icmp_seq=48 ttl=43 time=145 ms
+[1607862863.290456] 40 bytes from 162-241-156-152.unifiedlayer.com (162.241.156.152): icmp_seq=49 ttl=43 time=146 ms
+[1607862864.290906] 40 bytes from 162-241-156-152.unifiedlayer.com (162.241.156.152): icmp_seq=50 ttl=43 time=146 ms
+
+--- pcom.edu ping statistics ---
+50 packets transmitted, 50 received, 0% packet loss, time 161305ms
+rtt min/avg/max/mdev = 145.451/146.239/146.723/0.316 ms

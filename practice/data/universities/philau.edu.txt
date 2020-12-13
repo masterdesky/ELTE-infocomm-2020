@@ -1,0 +1,55 @@
+PING philau.edu (208.103.188.82) 32(60) bytes of data.
+[1607862702.921253] 40 bytes from philau.us (208.103.188.82): icmp_seq=1 ttl=110 time=130 ms
+[1607862713.930046] 40 bytes from 208.103.188.82: icmp_seq=2 ttl=110 time=129 ms
+[1607862724.066024] 40 bytes from 208.103.188.82: icmp_seq=3 ttl=110 time=130 ms
+[1607862734.202056] 40 bytes from 208.103.188.82: icmp_seq=4 ttl=110 time=129 ms
+[1607862744.338320] 40 bytes from 208.103.188.82: icmp_seq=5 ttl=110 time=130 ms
+[1607862749.472042] 40 bytes from philadelphiauniversity.edu (208.103.188.82): icmp_seq=6 ttl=110 time=129 ms
+[1607862754.608179] 40 bytes from philadelphiauniversity.com (208.103.188.82): icmp_seq=7 ttl=110 time=129 ms
+[1607862759.743873] 40 bytes from www.philau.us (208.103.188.82): icmp_seq=8 ttl=110 time=129 ms
+[1607862764.880046] 40 bytes from philau.us (208.103.188.82): icmp_seq=9 ttl=110 time=129 ms
+[1607862770.016144] 40 bytes from philadelphiauniversity.net (208.103.188.82): icmp_seq=10 ttl=110 time=129 ms
+[1607862770.147863] 40 bytes from philadelphiauniversity.net (208.103.188.82): icmp_seq=11 ttl=110 time=130 ms
+[1607862781.154173] 40 bytes from 208.103.188.82: icmp_seq=12 ttl=110 time=129 ms
+[1607862791.290010] 40 bytes from 208.103.188.82: icmp_seq=13 ttl=110 time=130 ms
+[1607862801.425995] 40 bytes from 208.103.188.82: icmp_seq=14 ttl=110 time=129 ms
+[1607862801.557029] 40 bytes from www.philau.us (208.103.188.82): icmp_seq=15 ttl=110 time=130 ms
+[1607862812.562161] 40 bytes from 208.103.188.82: icmp_seq=16 ttl=110 time=129 ms
+[1607862822.698049] 40 bytes from 208.103.188.82: icmp_seq=17 ttl=110 time=129 ms
+[1607862832.834009] 40 bytes from 208.103.188.82: icmp_seq=18 ttl=110 time=130 ms
+[1607862837.972272] 40 bytes from phillyu.xxx (208.103.188.82): icmp_seq=19 ttl=110 time=132 ms
+[1607862838.103904] 40 bytes from www.philau.us (208.103.188.82): icmp_seq=20 ttl=110 time=129 ms
+[1607862849.110749] 40 bytes from 208.103.188.82: icmp_seq=21 ttl=110 time=129 ms
+[1607862859.246053] 40 bytes from 208.103.188.82: icmp_seq=22 ttl=110 time=130 ms
+[1607862864.380172] 40 bytes from philau.org (208.103.188.82): icmp_seq=23 ttl=110 time=130 ms
+[1607862864.510492] 40 bytes from philadelphiauniversity.com (208.103.188.82): icmp_seq=24 ttl=110 time=129 ms
+[1607862870.516008] 40 bytes from philadelphiauniversity.net (208.103.188.82): icmp_seq=25 ttl=110 time=130 ms
+[1607862875.652085] 40 bytes from phillyu.net (208.103.188.82): icmp_seq=26 ttl=110 time=130 ms
+[1607862875.783337] 40 bytes from phillyu.xxx (208.103.188.82): icmp_seq=27 ttl=110 time=130 ms
+[1607862876.786237] 40 bytes from philau.edu (208.103.188.82): icmp_seq=28 ttl=110 time=131 ms
+[1607862877.785729] 40 bytes from philau.net (208.103.188.82): icmp_seq=29 ttl=110 time=130 ms
+[1607862878.786844] 40 bytes from aristotle.philau.edu (208.103.188.82): icmp_seq=30 ttl=110 time=130 ms
+[1607862879.788722] 40 bytes from phillyu.xxx (208.103.188.82): icmp_seq=31 ttl=110 time=130 ms
+[1607862880.789053] 40 bytes from philadelphiauniversity.com (208.103.188.82): icmp_seq=32 ttl=110 time=129 ms
+[1607862881.789987] 40 bytes from test.philadelphiauniversity.edu (208.103.188.82): icmp_seq=33 ttl=110 time=129 ms
+[1607862882.790364] 40 bytes from philau.edu (208.103.188.82): icmp_seq=34 ttl=110 time=129 ms
+[1607862883.791516] 40 bytes from test.philadelphiauniversity.edu (208.103.188.82): icmp_seq=35 ttl=110 time=129 ms
+[1607862884.792965] 40 bytes from philau.net (208.103.188.82): icmp_seq=36 ttl=110 time=130 ms
+[1607862885.793831] 40 bytes from philadelphiauniversity.net (208.103.188.82): icmp_seq=37 ttl=110 time=129 ms
+[1607862886.795461] 40 bytes from phillyu.net (208.103.188.82): icmp_seq=38 ttl=110 time=130 ms
+[1607862887.796519] 40 bytes from test.philadelphiauniversity.edu (208.103.188.82): icmp_seq=39 ttl=110 time=130 ms
+[1607862888.797826] 40 bytes from philau.org (208.103.188.82): icmp_seq=40 ttl=110 time=130 ms
+[1607862889.798888] 40 bytes from phillyu.xxx (208.103.188.82): icmp_seq=41 ttl=110 time=129 ms
+[1607862890.800290] 40 bytes from philadelphiauniversity.org (208.103.188.82): icmp_seq=42 ttl=110 time=129 ms
+[1607862891.801677] 40 bytes from philau.edu (208.103.188.82): icmp_seq=43 ttl=110 time=130 ms
+[1607862892.803052] 40 bytes from www.philau.us (208.103.188.82): icmp_seq=44 ttl=110 time=130 ms
+[1607862893.804768] 40 bytes from philadelphiauniversity.net (208.103.188.82): icmp_seq=45 ttl=110 time=130 ms
+[1607862894.805984] 40 bytes from phillyu.xxx (208.103.188.82): icmp_seq=46 ttl=110 time=130 ms
+[1607862895.805272] 40 bytes from philadelphiauniversity.org (208.103.188.82): icmp_seq=47 ttl=110 time=129 ms
+[1607862896.807544] 40 bytes from philau.us (208.103.188.82): icmp_seq=48 ttl=110 time=129 ms
+[1607862897.807657] 40 bytes from powertodo.com (208.103.188.82): icmp_seq=49 ttl=110 time=130 ms
+[1607862898.808668] 40 bytes from aristotle.philau.edu (208.103.188.82): icmp_seq=50 ttl=110 time=130 ms
+
+--- philau.edu ping statistics ---
+50 packets transmitted, 50 received, 0% packet loss, time 195888ms
+rtt min/avg/max/mdev = 128.723/129.525/132.171/0.522 ms

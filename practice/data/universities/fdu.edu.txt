@@ -1,0 +1,55 @@
+PING fdu.edu (23.185.0.1) 32(60) bytes of data.
+[1607862697.025440] 40 bytes from 23.185.0.1 (23.185.0.1): icmp_seq=1 ttl=54 time=28.3 ms
+[1607862703.027449] 40 bytes from 23.185.0.1 (23.185.0.1): icmp_seq=2 ttl=54 time=28.6 ms
+[1607862713.063576] 40 bytes from 23.185.0.1: icmp_seq=3 ttl=54 time=27.6 ms
+[1607862713.094099] 40 bytes from 23.185.0.1 (23.185.0.1): icmp_seq=4 ttl=54 time=28.4 ms
+[1607862714.094425] 40 bytes from 23.185.0.1 (23.185.0.1): icmp_seq=5 ttl=54 time=28.5 ms
+[1607862725.102028] 40 bytes from 23.185.0.1: icmp_seq=6 ttl=54 time=28.5 ms
+[1607862730.136505] 40 bytes from 23.185.0.1 (23.185.0.1): icmp_seq=7 ttl=54 time=28.4 ms
+[1607862730.167353] 40 bytes from 23.185.0.1 (23.185.0.1): icmp_seq=8 ttl=54 time=28.4 ms
+[1607862731.166913] 40 bytes from 23.185.0.1 (23.185.0.1): icmp_seq=9 ttl=54 time=27.7 ms
+[1607862732.168642] 40 bytes from 23.185.0.1 (23.185.0.1): icmp_seq=10 ttl=54 time=28.5 ms
+[1607862733.169990] 40 bytes from 23.185.0.1 (23.185.0.1): icmp_seq=11 ttl=54 time=28.4 ms
+[1607862744.175078] 40 bytes from 23.185.0.1: icmp_seq=12 ttl=54 time=28.4 ms
+[1607862744.205268] 40 bytes from 23.185.0.1 (23.185.0.1): icmp_seq=13 ttl=54 time=28.5 ms
+[1607862755.210016] 40 bytes from 23.185.0.1: icmp_seq=14 ttl=54 time=28.3 ms
+[1607862765.246079] 40 bytes from 23.185.0.1: icmp_seq=15 ttl=54 time=28.3 ms
+[1607862765.276483] 40 bytes from 23.185.0.1 (23.185.0.1): icmp_seq=16 ttl=54 time=28.3 ms
+[1607862776.282017] 40 bytes from 23.185.0.1: icmp_seq=17 ttl=54 time=28.8 ms
+[1607862786.318011] 40 bytes from 23.185.0.1: icmp_seq=18 ttl=54 time=28.2 ms
+[1607862796.354071] 40 bytes from 23.185.0.1: icmp_seq=19 ttl=54 time=28.4 ms
+[1607862801.388084] 40 bytes from 23.185.0.1 (23.185.0.1): icmp_seq=20 ttl=54 time=28.4 ms
+[1607862801.418728] 40 bytes from 23.185.0.1 (23.185.0.1): icmp_seq=21 ttl=54 time=28.6 ms
+[1607862812.426037] 40 bytes from 23.185.0.1: icmp_seq=22 ttl=54 time=28.5 ms
+[1607862822.462025] 40 bytes from 23.185.0.1: icmp_seq=23 ttl=54 time=28.5 ms
+[1607862822.492394] 40 bytes from 23.185.0.1 (23.185.0.1): icmp_seq=24 ttl=54 time=28.4 ms
+[1607862828.495660] 40 bytes from 23.185.0.1 (23.185.0.1): icmp_seq=25 ttl=54 time=28.4 ms
+[1607862838.530321] 40 bytes from 23.185.0.1: icmp_seq=26 ttl=54 time=27.8 ms
+[1607862843.563991] 40 bytes from 23.185.0.1 (23.185.0.1): icmp_seq=27 ttl=54 time=28.5 ms
+[1607862843.594365] 40 bytes from 23.185.0.1 (23.185.0.1): icmp_seq=28 ttl=54 time=28.4 ms
+[1607862844.594747] 40 bytes from 23.185.0.1 (23.185.0.1): icmp_seq=29 ttl=54 time=27.9 ms
+[1607862845.595201] 40 bytes from 23.185.0.1 (23.185.0.1): icmp_seq=30 ttl=54 time=28.3 ms
+[1607862846.594193] 40 bytes from 23.185.0.1 (23.185.0.1): icmp_seq=31 ttl=54 time=28.4 ms
+[1607862847.593140] 40 bytes from 23.185.0.1 (23.185.0.1): icmp_seq=32 ttl=54 time=28.3 ms
+[1607862848.592537] 40 bytes from 23.185.0.1 (23.185.0.1): icmp_seq=33 ttl=54 time=27.8 ms
+[1607862849.593340] 40 bytes from 23.185.0.1 (23.185.0.1): icmp_seq=34 ttl=54 time=28.5 ms
+[1607862850.595226] 40 bytes from 23.185.0.1 (23.185.0.1): icmp_seq=35 ttl=54 time=28.5 ms
+[1607862851.596021] 40 bytes from 23.185.0.1 (23.185.0.1): icmp_seq=36 ttl=54 time=28.0 ms
+[1607862852.597736] 40 bytes from 23.185.0.1 (23.185.0.1): icmp_seq=37 ttl=54 time=28.5 ms
+[1607862853.596638] 40 bytes from 23.185.0.1 (23.185.0.1): icmp_seq=38 ttl=54 time=28.4 ms
+[1607862854.595688] 40 bytes from 23.185.0.1 (23.185.0.1): icmp_seq=39 ttl=54 time=27.8 ms
+[1607862855.596975] 40 bytes from 23.185.0.1 (23.185.0.1): icmp_seq=40 ttl=54 time=28.0 ms
+[1607862856.598759] 40 bytes from 23.185.0.1 (23.185.0.1): icmp_seq=41 ttl=54 time=28.6 ms
+[1607862857.600401] 40 bytes from 23.185.0.1 (23.185.0.1): icmp_seq=42 ttl=54 time=28.6 ms
+[1607862858.601466] 40 bytes from 23.185.0.1 (23.185.0.1): icmp_seq=43 ttl=54 time=28.5 ms
+[1607862869.610054] 40 bytes from 23.185.0.1: icmp_seq=44 ttl=54 time=28.5 ms
+[1607862869.640608] 40 bytes from 23.185.0.1 (23.185.0.1): icmp_seq=45 ttl=54 time=28.5 ms
+[1607862870.641893] 40 bytes from 23.185.0.1 (23.185.0.1): icmp_seq=46 ttl=54 time=28.5 ms
+[1607862871.642501] 40 bytes from 23.185.0.1 (23.185.0.1): icmp_seq=47 ttl=54 time=28.5 ms
+[1607862872.644305] 40 bytes from 23.185.0.1 (23.185.0.1): icmp_seq=48 ttl=54 time=28.5 ms
+[1607862873.645753] 40 bytes from 23.185.0.1 (23.185.0.1): icmp_seq=49 ttl=54 time=28.4 ms
+[1607862874.646681] 40 bytes from 23.185.0.1 (23.185.0.1): icmp_seq=50 ttl=54 time=28.3 ms
+
+--- fdu.edu ping statistics ---
+50 packets transmitted, 50 received, 0% packet loss, time 177621ms
+rtt min/avg/max/mdev = 27.596/28.347/28.849/0.254 ms

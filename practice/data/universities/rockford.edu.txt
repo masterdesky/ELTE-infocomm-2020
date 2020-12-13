@@ -1,0 +1,53 @@
+PING rockford.edu (209.87.159.165) 32(60) bytes of data.
+[1607862695.002026] 40 bytes from cloudhost-326325.us-midwest-1.nxcli.net (209.87.159.165): icmp_seq=1 ttl=48 time=114 ms
+[1607862695.774887] 40 bytes from cloudhost-326325.us-midwest-1.nxcli.net (209.87.159.165): icmp_seq=2 ttl=48 time=114 ms
+[1607862696.774913] 40 bytes from cloudhost-326325.us-midwest-1.nxcli.net (209.87.159.165): icmp_seq=3 ttl=48 time=114 ms
+[1607862708.782136] 40 bytes from 209.87.159.165: icmp_seq=5 ttl=48 time=114 ms
+[1607862718.902726] 40 bytes from 209.87.159.165: icmp_seq=6 ttl=48 time=114 ms
+[1607862724.023831] 40 bytes from cloudhost-326325.us-midwest-1.nxcli.net (209.87.159.165): icmp_seq=7 ttl=48 time=114 ms
+[1607862734.146035] 40 bytes from 209.87.159.165: icmp_seq=8 ttl=48 time=114 ms
+[1607862739.263693] 40 bytes from cloudhost-326325.us-midwest-1.nxcli.net (209.87.159.165): icmp_seq=9 ttl=48 time=114 ms
+[1607862739.380282] 40 bytes from cloudhost-326325.us-midwest-1.nxcli.net (209.87.159.165): icmp_seq=10 ttl=48 time=114 ms
+[1607862740.380871] 40 bytes from cloudhost-326325.us-midwest-1.nxcli.net (209.87.159.165): icmp_seq=11 ttl=48 time=114 ms
+[1607862741.381181] 40 bytes from cloudhost-326325.us-midwest-1.nxcli.net (209.87.159.165): icmp_seq=12 ttl=48 time=114 ms
+[1607862747.383650] 40 bytes from cloudhost-326325.us-midwest-1.nxcli.net (209.87.159.165): icmp_seq=13 ttl=48 time=114 ms
+[1607862752.504345] 40 bytes from cloudhost-326325.us-midwest-1.nxcli.net (209.87.159.165): icmp_seq=14 ttl=48 time=113 ms
+[1607862757.623882] 40 bytes from cloudhost-326325.us-midwest-1.nxcli.net (209.87.159.165): icmp_seq=15 ttl=48 time=114 ms
+[1607862762.743747] 40 bytes from cloudhost-326325.us-midwest-1.nxcli.net (209.87.159.165): icmp_seq=16 ttl=48 time=114 ms
+[1607862762.859862] 40 bytes from cloudhost-326325.us-midwest-1.nxcli.net (209.87.159.165): icmp_seq=17 ttl=48 time=114 ms
+[1607862763.860252] 40 bytes from cloudhost-326325.us-midwest-1.nxcli.net (209.87.159.165): icmp_seq=18 ttl=48 time=113 ms
+[1607862764.861973] 40 bytes from cloudhost-326325.us-midwest-1.nxcli.net (209.87.159.165): icmp_seq=19 ttl=48 time=114 ms
+[1607862775.870026] 40 bytes from 209.87.159.165: icmp_seq=20 ttl=48 time=114 ms
+[1607862785.990034] 40 bytes from 209.87.159.165: icmp_seq=21 ttl=48 time=114 ms
+[1607862791.107870] 40 bytes from cloudhost-326325.us-midwest-1.nxcli.net (209.87.159.165): icmp_seq=22 ttl=48 time=114 ms
+[1607862796.227945] 40 bytes from cloudhost-326325.us-midwest-1.nxcli.net (209.87.159.165): icmp_seq=23 ttl=48 time=114 ms
+[1607862807.350012] 40 bytes from 209.87.159.165: icmp_seq=25 ttl=48 time=114 ms
+[1607862817.470022] 40 bytes from 209.87.159.165: icmp_seq=26 ttl=48 time=114 ms
+[1607862827.590126] 40 bytes from 209.87.159.165: icmp_seq=27 ttl=48 time=113 ms
+[1607862827.706185] 40 bytes from cloudhost-326325.us-midwest-1.nxcli.net (209.87.159.165): icmp_seq=28 ttl=48 time=114 ms
+[1607862828.706918] 40 bytes from cloudhost-326325.us-midwest-1.nxcli.net (209.87.159.165): icmp_seq=29 ttl=48 time=114 ms
+[1607862829.708660] 40 bytes from cloudhost-326325.us-midwest-1.nxcli.net (209.87.159.165): icmp_seq=30 ttl=48 time=114 ms
+[1607862830.710064] 40 bytes from cloudhost-326325.us-midwest-1.nxcli.net (209.87.159.165): icmp_seq=31 ttl=48 time=114 ms
+[1607862831.712131] 40 bytes from cloudhost-326325.us-midwest-1.nxcli.net (209.87.159.165): icmp_seq=32 ttl=48 time=114 ms
+[1607862832.712940] 40 bytes from cloudhost-326325.us-midwest-1.nxcli.net (209.87.159.165): icmp_seq=33 ttl=48 time=114 ms
+[1607862833.714168] 40 bytes from cloudhost-326325.us-midwest-1.nxcli.net (209.87.159.165): icmp_seq=34 ttl=48 time=114 ms
+[1607862834.715290] 40 bytes from cloudhost-326325.us-midwest-1.nxcli.net (209.87.159.165): icmp_seq=35 ttl=48 time=114 ms
+[1607862835.717037] 40 bytes from cloudhost-326325.us-midwest-1.nxcli.net (209.87.159.165): icmp_seq=36 ttl=48 time=114 ms
+[1607862836.717937] 40 bytes from cloudhost-326325.us-midwest-1.nxcli.net (209.87.159.165): icmp_seq=37 ttl=48 time=114 ms
+[1607862837.718042] 40 bytes from cloudhost-326325.us-midwest-1.nxcli.net (209.87.159.165): icmp_seq=38 ttl=48 time=114 ms
+[1607862848.722024] 40 bytes from 209.87.159.165: icmp_seq=39 ttl=48 time=114 ms
+[1607862848.838934] 40 bytes from cloudhost-326325.us-midwest-1.nxcli.net (209.87.159.165): icmp_seq=40 ttl=48 time=114 ms
+[1607862849.837456] 40 bytes from cloudhost-326325.us-midwest-1.nxcli.net (209.87.159.165): icmp_seq=41 ttl=48 time=114 ms
+[1607862850.838431] 40 bytes from cloudhost-326325.us-midwest-1.nxcli.net (209.87.159.165): icmp_seq=42 ttl=48 time=114 ms
+[1607862851.839999] 40 bytes from cloudhost-326325.us-midwest-1.nxcli.net (209.87.159.165): icmp_seq=43 ttl=48 time=114 ms
+[1607862852.841080] 40 bytes from cloudhost-326325.us-midwest-1.nxcli.net (209.87.159.165): icmp_seq=44 ttl=48 time=114 ms
+[1607862853.840178] 40 bytes from cloudhost-326325.us-midwest-1.nxcli.net (209.87.159.165): icmp_seq=45 ttl=48 time=113 ms
+[1607862859.843958] 40 bytes from cloudhost-326325.us-midwest-1.nxcli.net (209.87.159.165): icmp_seq=46 ttl=48 time=114 ms
+[1607862869.966068] 40 bytes from 209.87.159.165: icmp_seq=47 ttl=48 time=114 ms
+[1607862875.084252] 40 bytes from cloudhost-326325.us-midwest-1.nxcli.net (209.87.159.165): icmp_seq=48 ttl=48 time=114 ms
+[1607862875.200496] 40 bytes from cloudhost-326325.us-midwest-1.nxcli.net (209.87.159.165): icmp_seq=49 ttl=48 time=114 ms
+[1607862877.085286] 40 bytes from 209.87.159.165: icmp_seq=50 ttl=48 time=114 ms
+
+--- rockford.edu ping statistics ---
+50 packets transmitted, 48 received, 4% packet loss, time 181427ms
+rtt min/avg/max/mdev = 113.197/113.971/114.407/0.259 ms

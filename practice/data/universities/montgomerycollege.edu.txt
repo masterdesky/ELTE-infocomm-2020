@@ -1,0 +1,5 @@
+PING montgomerycollege.edu (54.173.93.196) 32(60) bytes of data.
+
+--- montgomerycollege.edu ping statistics ---
+50 packets transmitted, 0 received, 100% packet loss, time 49207ms
+

@@ -1,0 +1,55 @@
+PING asu.edu (104.16.50.14) 32(60) bytes of data.
+[1607862668.558754] 40 bytes from 104.16.50.14 (104.16.50.14): icmp_seq=1 ttl=52 time=2.28 ms
+[1607862669.560852] 40 bytes from 104.16.50.14 (104.16.50.14): icmp_seq=2 ttl=52 time=2.38 ms
+[1607862670.562207] 40 bytes from 104.16.50.14 (104.16.50.14): icmp_seq=3 ttl=52 time=2.10 ms
+[1607862676.579714] 40 bytes from 104.16.50.14 (104.16.50.14): icmp_seq=4 ttl=52 time=1.80 ms
+[1607862676.584223] 40 bytes from 104.16.50.14 (104.16.50.14): icmp_seq=5 ttl=52 time=2.07 ms
+[1607862677.585202] 40 bytes from 104.16.50.14 (104.16.50.14): icmp_seq=6 ttl=52 time=2.14 ms
+[1607862678.587229] 40 bytes from 104.16.50.14 (104.16.50.14): icmp_seq=7 ttl=52 time=1.71 ms
+[1607862684.591862] 40 bytes from 104.16.50.14 (104.16.50.14): icmp_seq=8 ttl=52 time=1.55 ms
+[1607862694.602041] 40 bytes from 104.16.50.14: icmp_seq=9 ttl=52 time=2.56 ms
+[1607862699.608641] 40 bytes from 104.16.50.14 (104.16.50.14): icmp_seq=10 ttl=52 time=2.15 ms
+[1607862699.612433] 40 bytes from 104.16.50.14 (104.16.50.14): icmp_seq=11 ttl=52 time=1.43 ms
+[1607862710.618003] 40 bytes from 104.16.50.14: icmp_seq=12 ttl=52 time=2.16 ms
+[1607862710.621570] 40 bytes from 104.16.50.14 (104.16.50.14): icmp_seq=13 ttl=52 time=2.20 ms
+[1607862721.630059] 40 bytes from 104.16.50.14: icmp_seq=14 ttl=52 time=1.34 ms
+[1607862721.635345] 40 bytes from 104.16.50.14 (104.16.50.14): icmp_seq=15 ttl=52 time=1.85 ms
+[1607862722.635956] 40 bytes from 104.16.50.14 (104.16.50.14): icmp_seq=16 ttl=52 time=1.61 ms
+[1607862723.634304] 40 bytes from 104.16.50.14 (104.16.50.14): icmp_seq=17 ttl=52 time=1.39 ms
+[1607862724.635775] 40 bytes from 104.16.50.14 (104.16.50.14): icmp_seq=18 ttl=52 time=2.19 ms
+[1607862725.635870] 40 bytes from 104.16.50.14 (104.16.50.14): icmp_seq=19 ttl=52 time=2.36 ms
+[1607862736.642084] 40 bytes from 104.16.50.14: icmp_seq=20 ttl=52 time=2.23 ms
+[1607862746.650020] 40 bytes from 104.16.50.14: icmp_seq=21 ttl=52 time=2.17 ms
+[1607862746.654069] 40 bytes from 104.16.50.14 (104.16.50.14): icmp_seq=22 ttl=52 time=2.47 ms
+[1607862747.654931] 40 bytes from 104.16.50.14 (104.16.50.14): icmp_seq=23 ttl=52 time=2.03 ms
+[1607862748.655094] 40 bytes from 104.16.50.14 (104.16.50.14): icmp_seq=24 ttl=52 time=2.22 ms
+[1607862749.654734] 40 bytes from 104.16.50.14 (104.16.50.14): icmp_seq=25 ttl=52 time=2.27 ms
+[1607862750.654064] 40 bytes from 104.16.50.14 (104.16.50.14): icmp_seq=26 ttl=52 time=2.25 ms
+[1607862751.653640] 40 bytes from 104.16.50.14 (104.16.50.14): icmp_seq=27 ttl=52 time=1.74 ms
+[1607862762.662067] 40 bytes from 104.16.50.14: icmp_seq=28 ttl=52 time=2.17 ms
+[1607862762.666498] 40 bytes from 104.16.50.14 (104.16.50.14): icmp_seq=29 ttl=52 time=2.30 ms
+[1607862763.667337] 40 bytes from 104.16.50.14 (104.16.50.14): icmp_seq=30 ttl=52 time=1.91 ms
+[1607862764.668292] 40 bytes from 104.16.50.14 (104.16.50.14): icmp_seq=31 ttl=52 time=2.34 ms
+[1607862775.674630] 40 bytes from 104.16.50.14: icmp_seq=32 ttl=52 time=2.55 ms
+[1607862780.684065] 40 bytes from 104.16.50.14 (104.16.50.14): icmp_seq=33 ttl=52 time=2.26 ms
+[1607862785.692386] 40 bytes from 104.16.50.14 (104.16.50.14): icmp_seq=34 ttl=52 time=2.24 ms
+[1607862785.696679] 40 bytes from 104.16.50.14 (104.16.50.14): icmp_seq=35 ttl=52 time=2.23 ms
+[1607862796.702053] 40 bytes from 104.16.50.14: icmp_seq=36 ttl=52 time=2.20 ms
+[1607862806.710085] 40 bytes from 104.16.50.14: icmp_seq=37 ttl=52 time=2.37 ms
+[1607862806.714231] 40 bytes from 104.16.50.14 (104.16.50.14): icmp_seq=38 ttl=52 time=2.37 ms
+[1607862807.714530] 40 bytes from 104.16.50.14 (104.16.50.14): icmp_seq=39 ttl=52 time=2.30 ms
+[1607862808.714282] 40 bytes from 104.16.50.14 (104.16.50.14): icmp_seq=40 ttl=52 time=1.66 ms
+[1607862809.714558] 40 bytes from 104.16.50.14 (104.16.50.14): icmp_seq=41 ttl=52 time=2.25 ms
+[1607862810.714912] 40 bytes from 104.16.50.14 (104.16.50.14): icmp_seq=42 ttl=52 time=2.30 ms
+[1607862811.715302] 40 bytes from 104.16.50.14 (104.16.50.14): icmp_seq=43 ttl=52 time=2.22 ms
+[1607862812.714671] 40 bytes from 104.16.50.14 (104.16.50.14): icmp_seq=44 ttl=52 time=2.25 ms
+[1607862813.715024] 40 bytes from 104.16.50.14 (104.16.50.14): icmp_seq=45 ttl=52 time=1.93 ms
+[1607862814.716736] 40 bytes from 104.16.50.14 (104.16.50.14): icmp_seq=46 ttl=52 time=1.99 ms
+[1607862815.718642] 40 bytes from 104.16.50.14 (104.16.50.14): icmp_seq=47 ttl=52 time=1.99 ms
+[1607862816.720438] 40 bytes from 104.16.50.14 (104.16.50.14): icmp_seq=48 ttl=52 time=2.20 ms
+[1607862817.718861] 40 bytes from 104.16.50.14 (104.16.50.14): icmp_seq=49 ttl=52 time=1.55 ms
+[1607862818.719973] 40 bytes from 104.16.50.14 (104.16.50.14): icmp_seq=50 ttl=52 time=2.07 ms
+
+--- asu.edu ping statistics ---
+50 packets transmitted, 50 received, 0% packet loss, time 150161ms
+rtt min/avg/max/mdev = 1.343/2.085/2.561/0.297 ms

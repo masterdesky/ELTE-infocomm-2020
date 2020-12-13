@@ -1,0 +1,55 @@
+PING gatech.edu (3.214.16.8) 32(60) bytes of data.
+[1607862672.941333] 40 bytes from ec2-3-214-16-8.compute-1.amazonaws.com (3.214.16.8): icmp_seq=1 ttl=233 time=115 ms
+[1607862683.946002] 40 bytes from 3.214.16.8: icmp_seq=2 ttl=233 time=115 ms
+[1607862694.066009] 40 bytes from 3.214.16.8: icmp_seq=3 ttl=233 time=114 ms
+[1607862704.190020] 40 bytes from 3.214.16.8: icmp_seq=4 ttl=233 time=115 ms
+[1607862714.314044] 40 bytes from 3.214.16.8: icmp_seq=5 ttl=233 time=115 ms
+[1607862724.438021] 40 bytes from 3.214.16.8: icmp_seq=6 ttl=233 time=114 ms
+[1607862734.558887] 40 bytes from 3.214.16.8: icmp_seq=7 ttl=233 time=114 ms
+[1607862734.675787] 40 bytes from ec2-3-214-16-8.compute-1.amazonaws.com (3.214.16.8): icmp_seq=8 ttl=233 time=114 ms
+[1607862735.674719] 40 bytes from ec2-3-214-16-8.compute-1.amazonaws.com (3.214.16.8): icmp_seq=9 ttl=233 time=114 ms
+[1607862736.673824] 40 bytes from ec2-3-214-16-8.compute-1.amazonaws.com (3.214.16.8): icmp_seq=10 ttl=233 time=114 ms
+[1607862737.672567] 40 bytes from ec2-3-214-16-8.compute-1.amazonaws.com (3.214.16.8): icmp_seq=11 ttl=233 time=114 ms
+[1607862738.672432] 40 bytes from ec2-3-214-16-8.compute-1.amazonaws.com (3.214.16.8): icmp_seq=12 ttl=233 time=114 ms
+[1607862739.670747] 40 bytes from ec2-3-214-16-8.compute-1.amazonaws.com (3.214.16.8): icmp_seq=13 ttl=233 time=114 ms
+[1607862745.675920] 40 bytes from ec2-3-214-16-8.compute-1.amazonaws.com (3.214.16.8): icmp_seq=14 ttl=233 time=114 ms
+[1607862750.795349] 40 bytes from ec2-3-214-16-8.compute-1.amazonaws.com (3.214.16.8): icmp_seq=15 ttl=233 time=114 ms
+[1607862760.920224] 40 bytes from 3.214.16.8: icmp_seq=16 ttl=233 time=115 ms
+[1607862771.042030] 40 bytes from 3.214.16.8: icmp_seq=17 ttl=233 time=114 ms
+[1607862781.162061] 40 bytes from 3.214.16.8: icmp_seq=18 ttl=233 time=114 ms
+[1607862791.282095] 40 bytes from 3.214.16.8: icmp_seq=19 ttl=233 time=115 ms
+[1607862801.402788] 40 bytes from 3.214.16.8: icmp_seq=20 ttl=233 time=114 ms
+[1607862801.518811] 40 bytes from ec2-3-214-16-8.compute-1.amazonaws.com (3.214.16.8): icmp_seq=21 ttl=233 time=114 ms
+[1607862812.526106] 40 bytes from 3.214.16.8: icmp_seq=22 ttl=233 time=115 ms
+[1607862822.646044] 40 bytes from 3.214.16.8: icmp_seq=23 ttl=233 time=114 ms
+[1607862827.763042] 40 bytes from ec2-3-214-16-8.compute-1.amazonaws.com (3.214.16.8): icmp_seq=24 ttl=233 time=114 ms
+[1607862832.883923] 40 bytes from ec2-3-214-16-8.compute-1.amazonaws.com (3.214.16.8): icmp_seq=25 ttl=233 time=114 ms
+[1607862838.005198] 40 bytes from ec2-3-214-16-8.compute-1.amazonaws.com (3.214.16.8): icmp_seq=26 ttl=233 time=115 ms
+[1607862838.121185] 40 bytes from ec2-3-214-16-8.compute-1.amazonaws.com (3.214.16.8): icmp_seq=27 ttl=233 time=114 ms
+[1607862844.123830] 40 bytes from ec2-3-214-16-8.compute-1.amazonaws.com (3.214.16.8): icmp_seq=28 ttl=233 time=114 ms
+[1607862844.239712] 40 bytes from ec2-3-214-16-8.compute-1.amazonaws.com (3.214.16.8): icmp_seq=29 ttl=233 time=114 ms
+[1607862845.241723] 40 bytes from ec2-3-214-16-8.compute-1.amazonaws.com (3.214.16.8): icmp_seq=30 ttl=233 time=114 ms
+[1607862846.243116] 40 bytes from ec2-3-214-16-8.compute-1.amazonaws.com (3.214.16.8): icmp_seq=31 ttl=233 time=115 ms
+[1607862847.245076] 40 bytes from ec2-3-214-16-8.compute-1.amazonaws.com (3.214.16.8): icmp_seq=32 ttl=233 time=115 ms
+[1607862848.245161] 40 bytes from ec2-3-214-16-8.compute-1.amazonaws.com (3.214.16.8): icmp_seq=33 ttl=233 time=114 ms
+[1607862859.250000] 40 bytes from 3.214.16.8: icmp_seq=34 ttl=233 time=115 ms
+[1607862864.372097] 40 bytes from ec2-3-214-16-8.compute-1.amazonaws.com (3.214.16.8): icmp_seq=35 ttl=233 time=115 ms
+[1607862864.488439] 40 bytes from ec2-3-214-16-8.compute-1.amazonaws.com (3.214.16.8): icmp_seq=36 ttl=233 time=114 ms
+[1607862875.494049] 40 bytes from 3.214.16.8: icmp_seq=37 ttl=233 time=115 ms
+[1607862875.611510] 40 bytes from ec2-3-214-16-8.compute-1.amazonaws.com (3.214.16.8): icmp_seq=38 ttl=233 time=115 ms
+[1607862881.616347] 40 bytes from ec2-3-214-16-8.compute-1.amazonaws.com (3.214.16.8): icmp_seq=39 ttl=233 time=114 ms
+[1607862881.732898] 40 bytes from ec2-3-214-16-8.compute-1.amazonaws.com (3.214.16.8): icmp_seq=40 ttl=233 time=114 ms
+[1607862882.733380] 40 bytes from ec2-3-214-16-8.compute-1.amazonaws.com (3.214.16.8): icmp_seq=41 ttl=233 time=114 ms
+[1607862883.734698] 40 bytes from ec2-3-214-16-8.compute-1.amazonaws.com (3.214.16.8): icmp_seq=42 ttl=233 time=115 ms
+[1607862884.735966] 40 bytes from ec2-3-214-16-8.compute-1.amazonaws.com (3.214.16.8): icmp_seq=43 ttl=233 time=115 ms
+[1607862885.735920] 40 bytes from ec2-3-214-16-8.compute-1.amazonaws.com (3.214.16.8): icmp_seq=44 ttl=233 time=114 ms
+[1607862886.736895] 40 bytes from ec2-3-214-16-8.compute-1.amazonaws.com (3.214.16.8): icmp_seq=45 ttl=233 time=115 ms
+[1607862887.737875] 40 bytes from ec2-3-214-16-8.compute-1.amazonaws.com (3.214.16.8): icmp_seq=46 ttl=233 time=114 ms
+[1607862888.738781] 40 bytes from ec2-3-214-16-8.compute-1.amazonaws.com (3.214.16.8): icmp_seq=47 ttl=233 time=114 ms
+[1607862889.740301] 40 bytes from ec2-3-214-16-8.compute-1.amazonaws.com (3.214.16.8): icmp_seq=48 ttl=233 time=114 ms
+[1607862890.741097] 40 bytes from ec2-3-214-16-8.compute-1.amazonaws.com (3.214.16.8): icmp_seq=49 ttl=233 time=115 ms
+[1607862891.743864] 40 bytes from ec2-3-214-16-8.compute-1.amazonaws.com (3.214.16.8): icmp_seq=50 ttl=233 time=115 ms
+
+--- gatech.edu ping statistics ---
+50 packets transmitted, 50 received, 0% packet loss, time 218803ms
+rtt min/avg/max/mdev = 113.647/114.325/114.821/0.309 ms

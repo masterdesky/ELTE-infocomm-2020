@@ -1,0 +1,55 @@
+PING castleton.edu (207.97.249.25) 32(60) bytes of data.
+[1607862717.994035] 40 bytes from 207.97.249.25: icmp_seq=1 ttl=45 time=109 ms
+[1607862718.699066] 40 bytes from 207.97.249.25 (207.97.249.25): icmp_seq=2 ttl=45 time=109 ms
+[1607862719.104166] 40 bytes from 207.97.249.25 (207.97.249.25): icmp_seq=3 ttl=45 time=109 ms
+[1607862720.105290] 40 bytes from 207.97.249.25 (207.97.249.25): icmp_seq=4 ttl=45 time=109 ms
+[1607862726.107873] 40 bytes from 207.97.249.25 (207.97.249.25): icmp_seq=5 ttl=45 time=109 ms
+[1607862726.218607] 40 bytes from 207.97.249.25 (207.97.249.25): icmp_seq=6 ttl=45 time=109 ms
+[1607862732.224239] 40 bytes from 207.97.249.25 (207.97.249.25): icmp_seq=7 ttl=45 time=109 ms
+[1607862732.335768] 40 bytes from 207.97.249.25 (207.97.249.25): icmp_seq=8 ttl=45 time=109 ms
+[1607862733.335774] 40 bytes from 207.97.249.25 (207.97.249.25): icmp_seq=9 ttl=45 time=109 ms
+[1607862734.336117] 40 bytes from 207.97.249.25 (207.97.249.25): icmp_seq=10 ttl=45 time=109 ms
+[1607862735.345617] 40 bytes from 207.97.249.25 (207.97.249.25): icmp_seq=11 ttl=45 time=109 ms
+[1607862746.342004] 40 bytes from 207.97.249.25: icmp_seq=12 ttl=45 time=109 ms
+[1607862751.455424] 40 bytes from 207.97.249.25 (207.97.249.25): icmp_seq=13 ttl=45 time=108 ms
+[1607862751.566036] 40 bytes from 207.97.249.25 (207.97.249.25): icmp_seq=14 ttl=45 time=109 ms
+[1607862762.575082] 40 bytes from 207.97.249.25: icmp_seq=15 ttl=45 time=109 ms
+[1607862762.686392] 40 bytes from 207.97.249.25 (207.97.249.25): icmp_seq=16 ttl=45 time=109 ms
+[1607862763.687498] 40 bytes from 207.97.249.25 (207.97.249.25): icmp_seq=17 ttl=45 time=109 ms
+[1607862764.688169] 40 bytes from 207.97.249.25 (207.97.249.25): icmp_seq=18 ttl=45 time=109 ms
+[1607862770.692202] 40 bytes from 207.97.249.25 (207.97.249.25): icmp_seq=19 ttl=45 time=109 ms
+[1607862770.803535] 40 bytes from 207.97.249.25 (207.97.249.25): icmp_seq=20 ttl=45 time=109 ms
+[1607862776.803519] 40 bytes from 207.97.249.25 (207.97.249.25): icmp_seq=21 ttl=45 time=109 ms
+[1607862776.914226] 40 bytes from 207.97.249.25 (207.97.249.25): icmp_seq=22 ttl=45 time=108 ms
+[1607862777.913929] 40 bytes from 207.97.249.25 (207.97.249.25): icmp_seq=23 ttl=45 time=109 ms
+[1607862778.914670] 40 bytes from 207.97.249.25 (207.97.249.25): icmp_seq=24 ttl=45 time=109 ms
+[1607862779.917201] 40 bytes from 207.97.249.25 (207.97.249.25): icmp_seq=25 ttl=45 time=109 ms
+[1607862785.919813] 40 bytes from 207.97.249.25 (207.97.249.25): icmp_seq=26 ttl=45 time=110 ms
+[1607862791.031952] 40 bytes from 207.97.249.25 (207.97.249.25): icmp_seq=27 ttl=45 time=109 ms
+[1607862791.142691] 40 bytes from 207.97.249.25 (207.97.249.25): icmp_seq=28 ttl=45 time=109 ms
+[1607862802.150006] 40 bytes from 207.97.249.25: icmp_seq=29 ttl=45 time=109 ms
+[1607862812.266010] 40 bytes from 207.97.249.25: icmp_seq=30 ttl=45 time=108 ms
+[1607862812.376626] 40 bytes from 207.97.249.25 (207.97.249.25): icmp_seq=31 ttl=45 time=109 ms
+[1607862813.379019] 40 bytes from 207.97.249.25 (207.97.249.25): icmp_seq=32 ttl=45 time=109 ms
+[1607862814.380066] 40 bytes from 207.97.249.25 (207.97.249.25): icmp_seq=33 ttl=45 time=109 ms
+[1607862815.381176] 40 bytes from 207.97.249.25 (207.97.249.25): icmp_seq=34 ttl=45 time=109 ms
+[1607862816.381706] 40 bytes from 207.97.249.25 (207.97.249.25): icmp_seq=35 ttl=45 time=108 ms
+[1607862822.388376] 40 bytes from 207.97.249.25 (207.97.249.25): icmp_seq=36 ttl=45 time=109 ms
+[1607862822.498537] 40 bytes from 207.97.249.25 (207.97.249.25): icmp_seq=37 ttl=45 time=108 ms
+[1607862828.503227] 40 bytes from 207.97.249.25 (207.97.249.25): icmp_seq=38 ttl=45 time=108 ms
+[1607862828.614053] 40 bytes from 207.97.249.25 (207.97.249.25): icmp_seq=39 ttl=45 time=109 ms
+[1607862829.618635] 40 bytes from 207.97.249.25 (207.97.249.25): icmp_seq=40 ttl=45 time=109 ms
+[1607862830.616499] 40 bytes from 207.97.249.25 (207.97.249.25): icmp_seq=41 ttl=45 time=108 ms
+[1607862831.618396] 40 bytes from 207.97.249.25 (207.97.249.25): icmp_seq=42 ttl=45 time=109 ms
+[1607862832.620139] 40 bytes from 207.97.249.25 (207.97.249.25): icmp_seq=43 ttl=45 time=109 ms
+[1607862838.623435] 40 bytes from 207.97.249.25 (207.97.249.25): icmp_seq=44 ttl=45 time=109 ms
+[1607862838.734960] 40 bytes from 207.97.249.25 (207.97.249.25): icmp_seq=45 ttl=45 time=109 ms
+[1607862839.734670] 40 bytes from 207.97.249.25 (207.97.249.25): icmp_seq=46 ttl=45 time=109 ms
+[1607862840.736356] 40 bytes from 207.97.249.25 (207.97.249.25): icmp_seq=47 ttl=45 time=108 ms
+[1607862841.739194] 40 bytes from 207.97.249.25 (207.97.249.25): icmp_seq=48 ttl=45 time=109 ms
+[1607862842.739547] 40 bytes from 207.97.249.25 (207.97.249.25): icmp_seq=49 ttl=45 time=109 ms
+[1607862844.630147] 40 bytes from 207.97.249.25: icmp_seq=50 ttl=45 time=109 ms
+
+--- castleton.edu ping statistics ---
+50 packets transmitted, 50 received, 0% packet loss, time 135752ms
+rtt min/avg/max/mdev = 108.232/108.945/109.888/0.339 ms

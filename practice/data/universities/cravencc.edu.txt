@@ -1,0 +1,55 @@
+PING cravencc.edu (35.208.91.134) 32(60) bytes of data.
+[1607862699.106180] 40 bytes from 134.91.208.35.bc.googleusercontent.com (35.208.91.134): icmp_seq=1 ttl=100 time=127 ms
+[1607862700.107502] 40 bytes from 134.91.208.35.bc.googleusercontent.com (35.208.91.134): icmp_seq=2 ttl=100 time=127 ms
+[1607862711.114301] 40 bytes from 35.208.91.134: icmp_seq=3 ttl=100 time=127 ms
+[1607862711.242928] 40 bytes from 134.91.208.35.bc.googleusercontent.com (35.208.91.134): icmp_seq=4 ttl=100 time=127 ms
+[1607862712.244081] 40 bytes from 134.91.208.35.bc.googleusercontent.com (35.208.91.134): icmp_seq=5 ttl=100 time=127 ms
+[1607862713.244712] 40 bytes from 134.91.208.35.bc.googleusercontent.com (35.208.91.134): icmp_seq=6 ttl=100 time=127 ms
+[1607862714.244873] 40 bytes from 134.91.208.35.bc.googleusercontent.com (35.208.91.134): icmp_seq=7 ttl=100 time=127 ms
+[1607862715.247129] 40 bytes from 134.91.208.35.bc.googleusercontent.com (35.208.91.134): icmp_seq=8 ttl=100 time=127 ms
+[1607862721.253012] 40 bytes from 134.91.208.35.bc.googleusercontent.com (35.208.91.134): icmp_seq=9 ttl=100 time=127 ms
+[1607862731.386047] 40 bytes from 35.208.91.134: icmp_seq=10 ttl=100 time=127 ms
+[1607862741.522023] 40 bytes from 35.208.91.134: icmp_seq=11 ttl=100 time=127 ms
+[1607862751.658071] 40 bytes from 35.208.91.134: icmp_seq=12 ttl=100 time=127 ms
+[1607862761.794032] 40 bytes from 35.208.91.134: icmp_seq=13 ttl=100 time=127 ms
+[1607862761.923570] 40 bytes from 134.91.208.35.bc.googleusercontent.com (35.208.91.134): icmp_seq=14 ttl=100 time=127 ms
+[1607862762.922710] 40 bytes from 134.91.208.35.bc.googleusercontent.com (35.208.91.134): icmp_seq=15 ttl=100 time=127 ms
+[1607862763.922762] 40 bytes from 134.91.208.35.bc.googleusercontent.com (35.208.91.134): icmp_seq=16 ttl=100 time=126 ms
+[1607862764.923120] 40 bytes from 134.91.208.35.bc.googleusercontent.com (35.208.91.134): icmp_seq=17 ttl=100 time=127 ms
+[1607862765.925208] 40 bytes from 134.91.208.35.bc.googleusercontent.com (35.208.91.134): icmp_seq=18 ttl=100 time=127 ms
+[1607862766.925094] 40 bytes from 134.91.208.35.bc.googleusercontent.com (35.208.91.134): icmp_seq=19 ttl=100 time=126 ms
+[1607862767.926943] 40 bytes from 134.91.208.35.bc.googleusercontent.com (35.208.91.134): icmp_seq=20 ttl=100 time=127 ms
+[1607862768.926766] 40 bytes from 134.91.208.35.bc.googleusercontent.com (35.208.91.134): icmp_seq=21 ttl=100 time=127 ms
+[1607862769.926972] 40 bytes from 134.91.208.35.bc.googleusercontent.com (35.208.91.134): icmp_seq=22 ttl=100 time=127 ms
+[1607862770.927510] 40 bytes from 134.91.208.35.bc.googleusercontent.com (35.208.91.134): icmp_seq=23 ttl=100 time=127 ms
+[1607862776.935758] 40 bytes from 134.91.208.35.bc.googleusercontent.com (35.208.91.134): icmp_seq=24 ttl=100 time=131 ms
+[1607862787.070159] 40 bytes from 35.208.91.134: icmp_seq=25 ttl=100 time=127 ms
+[1607862787.198716] 40 bytes from 134.91.208.35.bc.googleusercontent.com (35.208.91.134): icmp_seq=26 ttl=100 time=127 ms
+[1607862788.199680] 40 bytes from 134.91.208.35.bc.googleusercontent.com (35.208.91.134): icmp_seq=27 ttl=100 time=127 ms
+[1607862789.201552] 40 bytes from 134.91.208.35.bc.googleusercontent.com (35.208.91.134): icmp_seq=28 ttl=100 time=127 ms
+[1607862790.202532] 40 bytes from 134.91.208.35.bc.googleusercontent.com (35.208.91.134): icmp_seq=29 ttl=100 time=127 ms
+[1607862796.207700] 40 bytes from 134.91.208.35.bc.googleusercontent.com (35.208.91.134): icmp_seq=30 ttl=100 time=127 ms
+[1607862796.336845] 40 bytes from 134.91.208.35.bc.googleusercontent.com (35.208.91.134): icmp_seq=31 ttl=100 time=127 ms
+[1607862807.342126] 40 bytes from 35.208.91.134: icmp_seq=32 ttl=100 time=127 ms
+[1607862817.478103] 40 bytes from 35.208.91.134: icmp_seq=33 ttl=100 time=127 ms
+[1607862827.610132] 40 bytes from 35.208.91.134: icmp_seq=34 ttl=100 time=126 ms
+[1607862827.739195] 40 bytes from 134.91.208.35.bc.googleusercontent.com (35.208.91.134): icmp_seq=35 ttl=100 time=127 ms
+[1607862833.744823] 40 bytes from 134.91.208.35.bc.googleusercontent.com (35.208.91.134): icmp_seq=36 ttl=100 time=127 ms
+[1607862833.873452] 40 bytes from 134.91.208.35.bc.googleusercontent.com (35.208.91.134): icmp_seq=37 ttl=100 time=127 ms
+[1607862834.875476] 40 bytes from 134.91.208.35.bc.googleusercontent.com (35.208.91.134): icmp_seq=38 ttl=100 time=127 ms
+[1607862835.876918] 40 bytes from 134.91.208.35.bc.googleusercontent.com (35.208.91.134): icmp_seq=39 ttl=100 time=127 ms
+[1607862836.877344] 40 bytes from 134.91.208.35.bc.googleusercontent.com (35.208.91.134): icmp_seq=40 ttl=100 time=127 ms
+[1607862837.877153] 40 bytes from 134.91.208.35.bc.googleusercontent.com (35.208.91.134): icmp_seq=41 ttl=100 time=127 ms
+[1607862838.876628] 40 bytes from 134.91.208.35.bc.googleusercontent.com (35.208.91.134): icmp_seq=42 ttl=100 time=127 ms
+[1607862839.878084] 40 bytes from 134.91.208.35.bc.googleusercontent.com (35.208.91.134): icmp_seq=43 ttl=100 time=127 ms
+[1607862840.877531] 40 bytes from 134.91.208.35.bc.googleusercontent.com (35.208.91.134): icmp_seq=44 ttl=100 time=126 ms
+[1607862841.880465] 40 bytes from 134.91.208.35.bc.googleusercontent.com (35.208.91.134): icmp_seq=45 ttl=100 time=127 ms
+[1607862842.881553] 40 bytes from 134.91.208.35.bc.googleusercontent.com (35.208.91.134): icmp_seq=46 ttl=100 time=127 ms
+[1607862848.883630] 40 bytes from 134.91.208.35.bc.googleusercontent.com (35.208.91.134): icmp_seq=47 ttl=100 time=127 ms
+[1607862859.018001] 40 bytes from 35.208.91.134: icmp_seq=48 ttl=100 time=127 ms
+[1607862859.146980] 40 bytes from 134.91.208.35.bc.googleusercontent.com (35.208.91.134): icmp_seq=49 ttl=100 time=127 ms
+[1607862861.019357] 40 bytes from 35.208.91.134: icmp_seq=50 ttl=100 time=127 ms
+
+--- cravencc.edu ping statistics ---
+50 packets transmitted, 50 received, 0% packet loss, time 161042ms
+rtt min/avg/max/mdev = 126.262/127.001/131.442/0.682 ms

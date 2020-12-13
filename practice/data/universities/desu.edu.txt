@@ -1,0 +1,55 @@
+PING desu.edu (74.84.144.54) 32(60) bytes of data.
+[1607862676.807936] 40 bytes from worms.bestuff.org.uk (74.84.144.54): icmp_seq=1 ttl=51 time=102 ms
+[1607862682.811914] 40 bytes from worms.bestuff.org.uk (74.84.144.54): icmp_seq=2 ttl=51 time=102 ms
+[1607862682.915728] 40 bytes from worms.bestuff.org.uk (74.84.144.54): icmp_seq=3 ttl=51 time=101 ms
+[1607862683.915074] 40 bytes from worms.bestuff.org.uk (74.84.144.54): icmp_seq=4 ttl=51 time=101 ms
+[1607862689.919876] 40 bytes from worms.bestuff.org.uk (74.84.144.54): icmp_seq=5 ttl=51 time=102 ms
+[1607862700.030030] 40 bytes from 74.84.144.54: icmp_seq=6 ttl=51 time=102 ms
+[1607862705.135739] 40 bytes from worms.bestuff.org.uk (74.84.144.54): icmp_seq=7 ttl=51 time=101 ms
+[1607862710.243022] 40 bytes from worms.bestuff.org.uk (74.84.144.54): icmp_seq=8 ttl=51 time=101 ms
+[1607862715.348204] 40 bytes from worms.bestuff.org.uk (74.84.144.54): icmp_seq=9 ttl=51 time=101 ms
+[1607862720.455919] 40 bytes from worms.bestuff.org.uk (74.84.144.54): icmp_seq=10 ttl=51 time=101 ms
+[1607862730.566006] 40 bytes from 74.84.144.54: icmp_seq=11 ttl=51 time=102 ms
+[1607862740.674023] 40 bytes from 74.84.144.54: icmp_seq=12 ttl=51 time=101 ms
+[1607862745.779678] 40 bytes from worms.bestuff.org.uk (74.84.144.54): icmp_seq=13 ttl=51 time=101 ms
+[1607862750.887692] 40 bytes from worms.bestuff.org.uk (74.84.144.54): icmp_seq=14 ttl=51 time=101 ms
+[1607862750.991362] 40 bytes from worms.bestuff.org.uk (74.84.144.54): icmp_seq=15 ttl=51 time=102 ms
+[1607862751.991760] 40 bytes from worms.bestuff.org.uk (74.84.144.54): icmp_seq=16 ttl=51 time=102 ms
+[1607862752.992057] 40 bytes from worms.bestuff.org.uk (74.84.144.54): icmp_seq=17 ttl=51 time=102 ms
+[1607862753.990646] 40 bytes from worms.bestuff.org.uk (74.84.144.54): icmp_seq=18 ttl=51 time=102 ms
+[1607862754.989885] 40 bytes from worms.bestuff.org.uk (74.84.144.54): icmp_seq=19 ttl=51 time=101 ms
+[1607862760.995922] 40 bytes from worms.bestuff.org.uk (74.84.144.54): icmp_seq=20 ttl=51 time=102 ms
+[1607862771.106043] 40 bytes from 74.84.144.54: icmp_seq=21 ttl=51 time=101 ms
+[1607862781.214010] 40 bytes from 74.84.144.54: icmp_seq=22 ttl=51 time=102 ms
+[1607862791.321997] 40 bytes from 74.84.144.54: icmp_seq=23 ttl=51 time=102 ms
+[1607862791.425551] 40 bytes from worms.bestuff.org.uk (74.84.144.54): icmp_seq=24 ttl=51 time=101 ms
+[1607862792.424219] 40 bytes from worms.bestuff.org.uk (74.84.144.54): icmp_seq=25 ttl=51 time=101 ms
+[1607862793.426958] 40 bytes from worms.bestuff.org.uk (74.84.144.54): icmp_seq=26 ttl=51 time=102 ms
+[1607862794.426898] 40 bytes from worms.bestuff.org.uk (74.84.144.54): icmp_seq=27 ttl=51 time=101 ms
+[1607862795.429163] 40 bytes from worms.bestuff.org.uk (74.84.144.54): icmp_seq=28 ttl=51 time=101 ms
+[1607862801.431973] 40 bytes from worms.bestuff.org.uk (74.84.144.54): icmp_seq=29 ttl=51 time=101 ms
+[1607862801.535490] 40 bytes from worms.bestuff.org.uk (74.84.144.54): icmp_seq=30 ttl=51 time=101 ms
+[1607862812.542019] 40 bytes from 74.84.144.54: icmp_seq=31 ttl=51 time=102 ms
+[1607862822.650061] 40 bytes from 74.84.144.54: icmp_seq=32 ttl=51 time=102 ms
+[1607862827.756659] 40 bytes from worms.bestuff.org.uk (74.84.144.54): icmp_seq=33 ttl=51 time=102 ms
+[1607862832.864024] 40 bytes from worms.bestuff.org.uk (74.84.144.54): icmp_seq=34 ttl=51 time=102 ms
+[1607862837.971925] 40 bytes from worms.bestuff.org.uk (74.84.144.54): icmp_seq=35 ttl=51 time=102 ms
+[1607862838.074663] 40 bytes from worms.bestuff.org.uk (74.84.144.54): icmp_seq=36 ttl=51 time=101 ms
+[1607862839.074995] 40 bytes from worms.bestuff.org.uk (74.84.144.54): icmp_seq=37 ttl=51 time=101 ms
+[1607862840.075065] 40 bytes from worms.bestuff.org.uk (74.84.144.54): icmp_seq=38 ttl=51 time=101 ms
+[1607862841.074552] 40 bytes from worms.bestuff.org.uk (74.84.144.54): icmp_seq=39 ttl=51 time=101 ms
+[1607862842.074575] 40 bytes from worms.bestuff.org.uk (74.84.144.54): icmp_seq=40 ttl=51 time=101 ms
+[1607862843.074858] 40 bytes from worms.bestuff.org.uk (74.84.144.54): icmp_seq=41 ttl=51 time=102 ms
+[1607862854.082028] 40 bytes from 74.84.144.54: icmp_seq=42 ttl=51 time=102 ms
+[1607862859.187873] 40 bytes from worms.bestuff.org.uk (74.84.144.54): icmp_seq=43 ttl=51 time=102 ms
+[1607862864.296072] 40 bytes from worms.bestuff.org.uk (74.84.144.54): icmp_seq=44 ttl=51 time=101 ms
+[1607862864.399786] 40 bytes from worms.bestuff.org.uk (74.84.144.54): icmp_seq=45 ttl=51 time=102 ms
+[1607862865.400888] 40 bytes from worms.bestuff.org.uk (74.84.144.54): icmp_seq=46 ttl=51 time=102 ms
+[1607862866.402492] 40 bytes from worms.bestuff.org.uk (74.84.144.54): icmp_seq=47 ttl=51 time=102 ms
+[1607862867.403244] 40 bytes from worms.bestuff.org.uk (74.84.144.54): icmp_seq=48 ttl=51 time=102 ms
+[1607862868.404615] 40 bytes from worms.bestuff.org.uk (74.84.144.54): icmp_seq=49 ttl=51 time=102 ms
+[1607862869.406136] 40 bytes from worms.bestuff.org.uk (74.84.144.54): icmp_seq=50 ttl=51 time=102 ms
+
+--- desu.edu ping statistics ---
+50 packets transmitted, 50 received, 0% packet loss, time 192598ms
+rtt min/avg/max/mdev = 100.588/101.431/102.476/0.341 ms

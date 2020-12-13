@@ -1,0 +1,55 @@
+PING cincinnatistate.edu (23.185.0.2) 32(60) bytes of data.
+[1607862707.422831] 40 bytes from 23.185.0.2: icmp_seq=1 ttl=54 time=28.1 ms
+[1607862707.452185] 40 bytes from 23.185.0.2 (23.185.0.2): icmp_seq=2 ttl=54 time=27.4 ms
+[1607862713.455568] 40 bytes from 23.185.0.2 (23.185.0.2): icmp_seq=3 ttl=54 time=27.6 ms
+[1607862713.486122] 40 bytes from 23.185.0.2 (23.185.0.2): icmp_seq=4 ttl=54 time=28.0 ms
+[1607862719.488836] 40 bytes from 23.185.0.2 (23.185.0.2): icmp_seq=5 ttl=54 time=27.9 ms
+[1607862719.519374] 40 bytes from 23.185.0.2 (23.185.0.2): icmp_seq=6 ttl=54 time=27.6 ms
+[1607862720.519750] 40 bytes from 23.185.0.2 (23.185.0.2): icmp_seq=7 ttl=54 time=27.7 ms
+[1607862726.523846] 40 bytes from 23.185.0.2 (23.185.0.2): icmp_seq=8 ttl=54 time=28.0 ms
+[1607862731.555801] 40 bytes from 23.185.0.2 (23.185.0.2): icmp_seq=9 ttl=54 time=27.4 ms
+[1607862736.591358] 40 bytes from 23.185.0.2 (23.185.0.2): icmp_seq=10 ttl=54 time=28.6 ms
+[1607862736.621347] 40 bytes from 23.185.0.2 (23.185.0.2): icmp_seq=11 ttl=54 time=27.7 ms
+[1607862742.623923] 40 bytes from 23.185.0.2 (23.185.0.2): icmp_seq=12 ttl=54 time=28.1 ms
+[1607862742.654472] 40 bytes from 23.185.0.2 (23.185.0.2): icmp_seq=13 ttl=54 time=28.2 ms
+[1607862743.656138] 40 bytes from 23.185.0.2 (23.185.0.2): icmp_seq=14 ttl=54 time=28.1 ms
+[1607862754.662014] 40 bytes from 23.185.0.2: icmp_seq=15 ttl=54 time=28.6 ms
+[1607862759.695859] 40 bytes from 23.185.0.2 (23.185.0.2): icmp_seq=16 ttl=54 time=27.6 ms
+[1607862759.725607] 40 bytes from 23.185.0.2 (23.185.0.2): icmp_seq=17 ttl=54 time=27.9 ms
+[1607862760.724491] 40 bytes from 23.185.0.2 (23.185.0.2): icmp_seq=18 ttl=54 time=27.6 ms
+[1607862761.724267] 40 bytes from 23.185.0.2 (23.185.0.2): icmp_seq=19 ttl=54 time=27.3 ms
+[1607862762.724629] 40 bytes from 23.185.0.2 (23.185.0.2): icmp_seq=20 ttl=54 time=27.8 ms
+[1607862763.726374] 40 bytes from 23.185.0.2 (23.185.0.2): icmp_seq=21 ttl=54 time=28.1 ms
+[1607862764.727673] 40 bytes from 23.185.0.2 (23.185.0.2): icmp_seq=22 ttl=54 time=28.2 ms
+[1607862775.733995] 40 bytes from 23.185.0.2: icmp_seq=23 ttl=54 time=27.9 ms
+[1607862785.770046] 40 bytes from 23.185.0.2: icmp_seq=24 ttl=54 time=28.3 ms
+[1607862785.800030] 40 bytes from 23.185.0.2 (23.185.0.2): icmp_seq=25 ttl=54 time=28.0 ms
+[1607862791.803697] 40 bytes from 23.185.0.2 (23.185.0.2): icmp_seq=26 ttl=54 time=28.1 ms
+[1607862801.842037] 40 bytes from 23.185.0.2: icmp_seq=27 ttl=54 time=28.0 ms
+[1607862811.879774] 40 bytes from 23.185.0.2: icmp_seq=28 ttl=54 time=28.1 ms
+[1607862811.909628] 40 bytes from 23.185.0.2 (23.185.0.2): icmp_seq=29 ttl=54 time=28.0 ms
+[1607862822.914054] 40 bytes from 23.185.0.2: icmp_seq=30 ttl=54 time=28.3 ms
+[1607862822.944373] 40 bytes from 23.185.0.2 (23.185.0.2): icmp_seq=31 ttl=54 time=28.3 ms
+[1607862823.943289] 40 bytes from 23.185.0.2 (23.185.0.2): icmp_seq=32 ttl=54 time=28.2 ms
+[1607862824.943786] 40 bytes from 23.185.0.2 (23.185.0.2): icmp_seq=33 ttl=54 time=27.9 ms
+[1607862825.945643] 40 bytes from 23.185.0.2 (23.185.0.2): icmp_seq=34 ttl=54 time=27.6 ms
+[1607862826.947493] 40 bytes from 23.185.0.2 (23.185.0.2): icmp_seq=35 ttl=54 time=27.7 ms
+[1607862832.951736] 40 bytes from 23.185.0.2 (23.185.0.2): icmp_seq=36 ttl=54 time=27.4 ms
+[1607862837.984324] 40 bytes from 23.185.0.2 (23.185.0.2): icmp_seq=37 ttl=54 time=28.0 ms
+[1607862838.013953] 40 bytes from 23.185.0.2 (23.185.0.2): icmp_seq=38 ttl=54 time=28.0 ms
+[1607862839.013743] 40 bytes from 23.185.0.2 (23.185.0.2): icmp_seq=39 ttl=54 time=28.1 ms
+[1607862840.014212] 40 bytes from 23.185.0.2 (23.185.0.2): icmp_seq=40 ttl=54 time=28.2 ms
+[1607862841.014733] 40 bytes from 23.185.0.2 (23.185.0.2): icmp_seq=41 ttl=54 time=28.1 ms
+[1607862842.012800] 40 bytes from 23.185.0.2 (23.185.0.2): icmp_seq=42 ttl=54 time=28.1 ms
+[1607862843.014038] 40 bytes from 23.185.0.2 (23.185.0.2): icmp_seq=43 ttl=54 time=28.9 ms
+[1607862849.015202] 40 bytes from 23.185.0.2 (23.185.0.2): icmp_seq=44 ttl=54 time=27.9 ms
+[1607862859.050009] 40 bytes from 23.185.0.2: icmp_seq=45 ttl=54 time=27.9 ms
+[1607862859.079189] 40 bytes from 23.185.0.2 (23.185.0.2): icmp_seq=46 ttl=54 time=27.2 ms
+[1607862870.090100] 40 bytes from 23.185.0.2: icmp_seq=47 ttl=54 time=27.9 ms
+[1607862875.123808] 40 bytes from 23.185.0.2 (23.185.0.2): icmp_seq=48 ttl=54 time=28.1 ms
+[1607862875.153815] 40 bytes from 23.185.0.2 (23.185.0.2): icmp_seq=49 ttl=54 time=28.0 ms
+[1607862877.123905] 40 bytes from 23.185.0.2: icmp_seq=50 ttl=54 time=28.0 ms
+
+--- cincinnatistate.edu ping statistics ---
+50 packets transmitted, 50 received, 0% packet loss, time 178736ms
+rtt min/avg/max/mdev = 27.206/27.951/28.860/0.322 ms

@@ -1,0 +1,55 @@
+PING agnesscott.edu (4.21.22.162) 32(60) bytes of data.
+[1607862677.619744] 40 bytes from 4.21.22.162 (4.21.22.162): icmp_seq=1 ttl=115 time=115 ms
+[1607862677.736404] 40 bytes from 4.21.22.162 (4.21.22.162): icmp_seq=2 ttl=115 time=114 ms
+[1607862678.738716] 40 bytes from 4.21.22.162 (4.21.22.162): icmp_seq=3 ttl=115 time=115 ms
+[1607862684.744068] 40 bytes from 4.21.22.162 (4.21.22.162): icmp_seq=4 ttl=115 time=115 ms
+[1607862694.866237] 40 bytes from 4.21.22.162: icmp_seq=5 ttl=115 time=115 ms
+[1607862694.982699] 40 bytes from 4.21.22.162 (4.21.22.162): icmp_seq=6 ttl=115 time=114 ms
+[1607862705.990138] 40 bytes from 4.21.22.162: icmp_seq=7 ttl=115 time=115 ms
+[1607862711.111816] 40 bytes from 4.21.22.162 (4.21.22.162): icmp_seq=8 ttl=115 time=115 ms
+[1607862711.228993] 40 bytes from 4.21.22.162 (4.21.22.162): icmp_seq=9 ttl=115 time=115 ms
+[1607862722.234193] 40 bytes from 4.21.22.162: icmp_seq=10 ttl=115 time=114 ms
+[1607862732.358941] 40 bytes from 4.21.22.162: icmp_seq=11 ttl=115 time=115 ms
+[1607862732.475488] 40 bytes from 4.21.22.162 (4.21.22.162): icmp_seq=12 ttl=115 time=114 ms
+[1607862733.477426] 40 bytes from 4.21.22.162 (4.21.22.162): icmp_seq=13 ttl=115 time=114 ms
+[1607862734.476784] 40 bytes from 4.21.22.162 (4.21.22.162): icmp_seq=14 ttl=115 time=114 ms
+[1607862735.476959] 40 bytes from 4.21.22.162 (4.21.22.162): icmp_seq=15 ttl=115 time=115 ms
+[1607862746.482009] 40 bytes from 4.21.22.162: icmp_seq=16 ttl=115 time=114 ms
+[1607862756.602046] 40 bytes from 4.21.22.162: icmp_seq=17 ttl=115 time=115 ms
+[1607862766.722062] 40 bytes from 4.21.22.162: icmp_seq=18 ttl=115 time=114 ms
+[1607862771.844147] 40 bytes from 4.21.22.162 (4.21.22.162): icmp_seq=19 ttl=115 time=115 ms
+[1607862776.964150] 40 bytes from 4.21.22.162 (4.21.22.162): icmp_seq=20 ttl=115 time=115 ms
+[1607862787.086031] 40 bytes from 4.21.22.162: icmp_seq=21 ttl=115 time=114 ms
+[1607862797.206051] 40 bytes from 4.21.22.162: icmp_seq=22 ttl=115 time=115 ms
+[1607862802.324850] 40 bytes from 4.21.22.162 (4.21.22.162): icmp_seq=23 ttl=115 time=114 ms
+[1607862812.446022] 40 bytes from 4.21.22.162: icmp_seq=24 ttl=115 time=114 ms
+[1607862817.567979] 40 bytes from 4.21.22.162 (4.21.22.162): icmp_seq=25 ttl=115 time=115 ms
+[1607862817.684470] 40 bytes from 4.21.22.162 (4.21.22.162): icmp_seq=26 ttl=115 time=114 ms
+[1607862818.685789] 40 bytes from 4.21.22.162 (4.21.22.162): icmp_seq=27 ttl=115 time=115 ms
+[1607862819.685174] 40 bytes from 4.21.22.162 (4.21.22.162): icmp_seq=28 ttl=115 time=115 ms
+[1607862820.685260] 40 bytes from 4.21.22.162 (4.21.22.162): icmp_seq=29 ttl=115 time=114 ms
+[1607862821.684868] 40 bytes from 4.21.22.162 (4.21.22.162): icmp_seq=30 ttl=115 time=115 ms
+[1607862827.688081] 40 bytes from 4.21.22.162 (4.21.22.162): icmp_seq=31 ttl=115 time=114 ms
+[1607862827.804135] 40 bytes from 4.21.22.162 (4.21.22.162): icmp_seq=32 ttl=115 time=115 ms
+[1607862828.806099] 40 bytes from 4.21.22.162 (4.21.22.162): icmp_seq=33 ttl=115 time=115 ms
+[1607862829.806053] 40 bytes from 4.21.22.162 (4.21.22.162): icmp_seq=34 ttl=115 time=114 ms
+[1607862830.807637] 40 bytes from 4.21.22.162 (4.21.22.162): icmp_seq=35 ttl=115 time=115 ms
+[1607862831.809388] 40 bytes from 4.21.22.162 (4.21.22.162): icmp_seq=36 ttl=115 time=114 ms
+[1607862832.811026] 40 bytes from 4.21.22.162 (4.21.22.162): icmp_seq=37 ttl=115 time=115 ms
+[1607862843.818033] 40 bytes from 4.21.22.162: icmp_seq=38 ttl=115 time=115 ms
+[1607862843.934542] 40 bytes from 4.21.22.162 (4.21.22.162): icmp_seq=39 ttl=115 time=114 ms
+[1607862844.936178] 40 bytes from 4.21.22.162 (4.21.22.162): icmp_seq=40 ttl=115 time=114 ms
+[1607862845.935315] 40 bytes from 4.21.22.162 (4.21.22.162): icmp_seq=41 ttl=115 time=115 ms
+[1607862846.936303] 40 bytes from 4.21.22.162 (4.21.22.162): icmp_seq=42 ttl=115 time=115 ms
+[1607862847.937045] 40 bytes from 4.21.22.162 (4.21.22.162): icmp_seq=43 ttl=115 time=115 ms
+[1607862858.942011] 40 bytes from 4.21.22.162: icmp_seq=44 ttl=115 time=114 ms
+[1607862859.059462] 40 bytes from 4.21.22.162 (4.21.22.162): icmp_seq=45 ttl=115 time=115 ms
+[1607862865.064007] 40 bytes from 4.21.22.162 (4.21.22.162): icmp_seq=46 ttl=115 time=115 ms
+[1607862870.183719] 40 bytes from 4.21.22.162 (4.21.22.162): icmp_seq=47 ttl=115 time=115 ms
+[1607862870.300161] 40 bytes from 4.21.22.162 (4.21.22.162): icmp_seq=48 ttl=115 time=114 ms
+[1607862871.301255] 40 bytes from 4.21.22.162 (4.21.22.162): icmp_seq=49 ttl=115 time=114 ms
+[1607862872.302928] 40 bytes from 4.21.22.162 (4.21.22.162): icmp_seq=50 ttl=115 time=115 ms
+
+--- agnesscott.edu ping statistics ---
+50 packets transmitted, 50 received, 0% packet loss, time 199686ms
+rtt min/avg/max/mdev = 113.760/114.545/115.419/0.362 ms

@@ -1,0 +1,5 @@
+PING boisestate.edu (54.190.29.69) 32(60) bytes of data.
+
+--- boisestate.edu ping statistics ---
+50 packets transmitted, 0 received, 100% packet loss, time 49470ms
+

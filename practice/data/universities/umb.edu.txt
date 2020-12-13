@@ -1,0 +1,5 @@
+PING umb.edu (216.243.141.139) 32(60) bytes of data.
+
+--- umb.edu ping statistics ---
+50 packets transmitted, 0 received, 100% packet loss, time 49319ms
+

@@ -1,0 +1,55 @@
+PING vassar.edu (143.229.1.236) 32(60) bytes of data.
+[1607862706.850626] 40 bytes from web15.vassar.edu (143.229.1.236): icmp_seq=1 ttl=46 time=107 ms
+[1607862707.849597] 40 bytes from web15.vassar.edu (143.229.1.236): icmp_seq=2 ttl=46 time=106 ms
+[1607862713.855731] 40 bytes from web15.vassar.edu (143.229.1.236): icmp_seq=3 ttl=46 time=106 ms
+[1607862713.964296] 40 bytes from web15.vassar.edu (143.229.1.236): icmp_seq=4 ttl=46 time=106 ms
+[1607862724.970389] 40 bytes from 143.229.1.236: icmp_seq=5 ttl=46 time=106 ms
+[1607862725.078821] 40 bytes from web15.vassar.edu (143.229.1.236): icmp_seq=6 ttl=46 time=107 ms
+[1607862731.082681] 40 bytes from web15.vassar.edu (143.229.1.236): icmp_seq=7 ttl=46 time=107 ms
+[1607862731.190702] 40 bytes from web15.vassar.edu (143.229.1.236): icmp_seq=8 ttl=46 time=106 ms
+[1607862737.196019] 40 bytes from web15.vassar.edu (143.229.1.236): icmp_seq=9 ttl=46 time=106 ms
+[1607862737.304704] 40 bytes from web15.vassar.edu (143.229.1.236): icmp_seq=10 ttl=46 time=106 ms
+[1607862738.305575] 40 bytes from web15.vassar.edu (143.229.1.236): icmp_seq=11 ttl=46 time=106 ms
+[1607862739.305842] 40 bytes from web15.vassar.edu (143.229.1.236): icmp_seq=12 ttl=46 time=106 ms
+[1607862740.306775] 40 bytes from web15.vassar.edu (143.229.1.236): icmp_seq=13 ttl=46 time=106 ms
+[1607862741.306186] 40 bytes from web15.vassar.edu (143.229.1.236): icmp_seq=14 ttl=46 time=106 ms
+[1607862742.306965] 40 bytes from web15.vassar.edu (143.229.1.236): icmp_seq=15 ttl=46 time=106 ms
+[1607862743.307040] 40 bytes from web15.vassar.edu (143.229.1.236): icmp_seq=16 ttl=46 time=106 ms
+[1607862749.312396] 40 bytes from web15.vassar.edu (143.229.1.236): icmp_seq=17 ttl=46 time=106 ms
+[1607862749.420339] 40 bytes from web15.vassar.edu (143.229.1.236): icmp_seq=18 ttl=46 time=106 ms
+[1607862755.423685] 40 bytes from web15.vassar.edu (143.229.1.236): icmp_seq=19 ttl=46 time=106 ms
+[1607862755.532152] 40 bytes from web15.vassar.edu (143.229.1.236): icmp_seq=20 ttl=46 time=106 ms
+[1607862756.533277] 40 bytes from web15.vassar.edu (143.229.1.236): icmp_seq=21 ttl=46 time=107 ms
+[1607862757.532891] 40 bytes from web15.vassar.edu (143.229.1.236): icmp_seq=22 ttl=46 time=106 ms
+[1607862758.534130] 40 bytes from web15.vassar.edu (143.229.1.236): icmp_seq=23 ttl=46 time=106 ms
+[1607862759.535050] 40 bytes from web15.vassar.edu (143.229.1.236): icmp_seq=24 ttl=46 time=106 ms
+[1607862760.535868] 40 bytes from web15.vassar.edu (143.229.1.236): icmp_seq=25 ttl=46 time=106 ms
+[1607862761.535697] 40 bytes from web15.vassar.edu (143.229.1.236): icmp_seq=26 ttl=46 time=106 ms
+[1607862762.535558] 40 bytes from web15.vassar.edu (143.229.1.236): icmp_seq=27 ttl=46 time=106 ms
+[1607862763.535982] 40 bytes from web15.vassar.edu (143.229.1.236): icmp_seq=28 ttl=46 time=106 ms
+[1607862764.537685] 40 bytes from web15.vassar.edu (143.229.1.236): icmp_seq=29 ttl=46 time=106 ms
+[1607862765.537936] 40 bytes from web15.vassar.edu (143.229.1.236): icmp_seq=30 ttl=46 time=106 ms
+[1607862766.539832] 40 bytes from web15.vassar.edu (143.229.1.236): icmp_seq=31 ttl=46 time=106 ms
+[1607862772.543949] 40 bytes from web15.vassar.edu (143.229.1.236): icmp_seq=32 ttl=46 time=106 ms
+[1607862782.658140] 40 bytes from 143.229.1.236: icmp_seq=33 ttl=46 time=106 ms
+[1607862782.766314] 40 bytes from web15.vassar.edu (143.229.1.236): icmp_seq=34 ttl=46 time=106 ms
+[1607862783.766996] 40 bytes from web15.vassar.edu (143.229.1.236): icmp_seq=35 ttl=46 time=107 ms
+[1607862784.768317] 40 bytes from web15.vassar.edu (143.229.1.236): icmp_seq=36 ttl=46 time=106 ms
+[1607862785.769712] 40 bytes from web15.vassar.edu (143.229.1.236): icmp_seq=37 ttl=46 time=106 ms
+[1607862796.774247] 40 bytes from 143.229.1.236: icmp_seq=38 ttl=46 time=107 ms
+[1607862796.882530] 40 bytes from web15.vassar.edu (143.229.1.236): icmp_seq=39 ttl=46 time=106 ms
+[1607862797.882117] 40 bytes from web15.vassar.edu (143.229.1.236): icmp_seq=40 ttl=46 time=106 ms
+[1607862798.882088] 40 bytes from web15.vassar.edu (143.229.1.236): icmp_seq=41 ttl=46 time=106 ms
+[1607862799.880763] 40 bytes from web15.vassar.edu (143.229.1.236): icmp_seq=42 ttl=46 time=106 ms
+[1607862800.881135] 40 bytes from web15.vassar.edu (143.229.1.236): icmp_seq=43 ttl=46 time=107 ms
+[1607862811.886369] 40 bytes from 143.229.1.236: icmp_seq=44 ttl=46 time=106 ms
+[1607862811.994761] 40 bytes from web15.vassar.edu (143.229.1.236): icmp_seq=45 ttl=46 time=106 ms
+[1607862823.002023] 40 bytes from 143.229.1.236: icmp_seq=46 ttl=46 time=106 ms
+[1607862833.114022] 40 bytes from 143.229.1.236: icmp_seq=47 ttl=46 time=106 ms
+[1607862843.226114] 40 bytes from 143.229.1.236: icmp_seq=48 ttl=46 time=106 ms
+[1607862843.334643] 40 bytes from web15.vassar.edu (143.229.1.236): icmp_seq=49 ttl=46 time=107 ms
+[1607862845.226802] 40 bytes from 143.229.1.236: icmp_seq=50 ttl=46 time=106 ms
+
+--- vassar.edu ping statistics ---
+50 packets transmitted, 50 received, 0% packet loss, time 137485ms
+rtt min/avg/max/mdev = 105.506/106.249/106.760/0.263 ms

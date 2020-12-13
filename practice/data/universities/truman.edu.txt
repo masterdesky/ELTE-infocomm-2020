@@ -1,0 +1,55 @@
+PING truman.edu (150.243.160.85) 32(60) bytes of data.
+[1607862685.673059] 40 bytes from tadc2.truman.edu (150.243.160.85): icmp_seq=1 ttl=112 time=144 ms
+[1607862685.819244] 40 bytes from tadc2.truman.edu (150.243.160.85): icmp_seq=2 ttl=112 time=144 ms
+[1607862696.827000] 40 bytes from 150.243.160.85: icmp_seq=3 ttl=112 time=144 ms
+[1607862706.978152] 40 bytes from 150.243.160.85: icmp_seq=4 ttl=112 time=144 ms
+[1607862707.131498] 40 bytes from tadc2.truman.edu (150.243.160.85): icmp_seq=5 ttl=112 time=144 ms
+[1607862713.127536] 40 bytes from tadc2.truman.edu (150.243.160.85): icmp_seq=6 ttl=112 time=144 ms
+[1607862713.273761] 40 bytes from tadc2.truman.edu (150.243.160.85): icmp_seq=7 ttl=112 time=144 ms
+[1607862714.274180] 40 bytes from tadc2.truman.edu (150.243.160.85): icmp_seq=8 ttl=112 time=144 ms
+[1607862715.275160] 40 bytes from tadc2.truman.edu (150.243.160.85): icmp_seq=9 ttl=112 time=144 ms
+[1607862716.276089] 40 bytes from tadc2.truman.edu (150.243.160.85): icmp_seq=10 ttl=112 time=144 ms
+[1607862727.282266] 40 bytes from 150.243.160.85: icmp_seq=11 ttl=112 time=144 ms
+[1607862727.428119] 40 bytes from tadc2.truman.edu (150.243.160.85): icmp_seq=12 ttl=112 time=144 ms
+[1607862728.429256] 40 bytes from tadc2.truman.edu (150.243.160.85): icmp_seq=13 ttl=112 time=144 ms
+[1607862734.436439] 40 bytes from tadc2.truman.edu (150.243.160.85): icmp_seq=14 ttl=112 time=144 ms
+[1607862744.586040] 40 bytes from 150.243.160.85: icmp_seq=15 ttl=112 time=144 ms
+[1607862754.738054] 40 bytes from 150.243.160.85: icmp_seq=16 ttl=112 time=144 ms
+[1607862754.884521] 40 bytes from tadc2.truman.edu (150.243.160.85): icmp_seq=17 ttl=112 time=144 ms
+[1607862755.885529] 40 bytes from tadc2.truman.edu (150.243.160.85): icmp_seq=18 ttl=112 time=144 ms
+[1607862756.886746] 40 bytes from tadc2.truman.edu (150.243.160.85): icmp_seq=19 ttl=112 time=144 ms
+[1607862757.885277] 40 bytes from tadc2.truman.edu (150.243.160.85): icmp_seq=20 ttl=112 time=144 ms
+[1607862758.886911] 40 bytes from tadc2.truman.edu (150.243.160.85): icmp_seq=21 ttl=112 time=143 ms
+[1607862764.892806] 40 bytes from tadc2.truman.edu (150.243.160.85): icmp_seq=22 ttl=112 time=144 ms
+[1607862770.039912] 40 bytes from tadc2.truman.edu (150.243.160.85): icmp_seq=23 ttl=112 time=144 ms
+[1607862770.186348] 40 bytes from tadc2.truman.edu (150.243.160.85): icmp_seq=24 ttl=112 time=144 ms
+[1607862781.195051] 40 bytes from 150.243.160.85: icmp_seq=25 ttl=112 time=145 ms
+[1607862791.349259] 40 bytes from 150.243.160.85: icmp_seq=26 ttl=112 time=143 ms
+[1607862801.502429] 40 bytes from 150.243.160.85: icmp_seq=27 ttl=112 time=144 ms
+[1607862806.651892] 40 bytes from tadc2.truman.edu (150.243.160.85): icmp_seq=28 ttl=112 time=143 ms
+[1607862811.799648] 40 bytes from tadc2.truman.edu (150.243.160.85): icmp_seq=29 ttl=112 time=144 ms
+[1607862811.945832] 40 bytes from tadc2.truman.edu (150.243.160.85): icmp_seq=30 ttl=112 time=144 ms
+[1607862822.950153] 40 bytes from 150.243.160.85: icmp_seq=31 ttl=112 time=144 ms
+[1607862833.102047] 40 bytes from 150.243.160.85: icmp_seq=32 ttl=112 time=144 ms
+[1607862843.254010] 40 bytes from 150.243.160.85: icmp_seq=33 ttl=112 time=144 ms
+[1607862848.403946] 40 bytes from tadc2.truman.edu (150.243.160.85): icmp_seq=34 ttl=112 time=144 ms
+[1607862848.549484] 40 bytes from tadc2.truman.edu (150.243.160.85): icmp_seq=35 ttl=112 time=143 ms
+[1607862854.556025] 40 bytes from tadc2.truman.edu (150.243.160.85): icmp_seq=36 ttl=112 time=144 ms
+[1607862864.706006] 40 bytes from 150.243.160.85: icmp_seq=37 ttl=112 time=144 ms
+[1607862869.855902] 40 bytes from tadc2.truman.edu (150.243.160.85): icmp_seq=38 ttl=112 time=143 ms
+[1607862875.005562] 40 bytes from tadc2.truman.edu (150.243.160.85): icmp_seq=39 ttl=112 time=144 ms
+[1607862875.151356] 40 bytes from tadc2.truman.edu (150.243.160.85): icmp_seq=40 ttl=112 time=143 ms
+[1607862876.153020] 40 bytes from tadc2.truman.edu (150.243.160.85): icmp_seq=41 ttl=112 time=144 ms
+[1607862877.154741] 40 bytes from tadc2.truman.edu (150.243.160.85): icmp_seq=42 ttl=112 time=144 ms
+[1607862878.155717] 40 bytes from tadc2.truman.edu (150.243.160.85): icmp_seq=43 ttl=112 time=144 ms
+[1607862879.157485] 40 bytes from tadc2.truman.edu (150.243.160.85): icmp_seq=44 ttl=112 time=144 ms
+[1607862880.159691] 40 bytes from tadc2.truman.edu (150.243.160.85): icmp_seq=45 ttl=112 time=144 ms
+[1607862881.160162] 40 bytes from tadc2.truman.edu (150.243.160.85): icmp_seq=46 ttl=112 time=144 ms
+[1607862882.160797] 40 bytes from tadc2.truman.edu (150.243.160.85): icmp_seq=47 ttl=112 time=143 ms
+[1607862883.162949] 40 bytes from tadc2.truman.edu (150.243.160.85): icmp_seq=48 ttl=112 time=145 ms
+[1607862884.163067] 40 bytes from tadc2.truman.edu (150.243.160.85): icmp_seq=49 ttl=112 time=144 ms
+[1607862885.163773] 40 bytes from tadc2.truman.edu (150.243.160.85): icmp_seq=50 ttl=112 time=144 ms
+
+--- truman.edu ping statistics ---
+50 packets transmitted, 50 received, 0% packet loss, time 202387ms
+rtt min/avg/max/mdev = 143.227/143.948/144.722/0.303 ms

@@ -1,0 +1,5 @@
+PING cua.edu (52.205.239.200) 32(60) bytes of data.
+
+--- cua.edu ping statistics ---
+50 packets transmitted, 0 received, 100% packet loss, time 49172ms
+

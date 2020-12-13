@@ -1,0 +1,55 @@
+PING shawnee.edu (23.185.0.4) 32(60) bytes of data.
+[1607862698.545255] 40 bytes from 23.185.0.4 (23.185.0.4): icmp_seq=1 ttl=55 time=27.3 ms
+[1607862699.546751] 40 bytes from 23.185.0.4 (23.185.0.4): icmp_seq=2 ttl=55 time=27.5 ms
+[1607862700.546329] 40 bytes from 23.185.0.4 (23.185.0.4): icmp_seq=3 ttl=55 time=27.4 ms
+[1607862701.548120] 40 bytes from 23.185.0.4 (23.185.0.4): icmp_seq=4 ttl=55 time=27.7 ms
+[1607862712.554035] 40 bytes from 23.185.0.4: icmp_seq=5 ttl=55 time=28.0 ms
+[1607862712.584421] 40 bytes from 23.185.0.4 (23.185.0.4): icmp_seq=6 ttl=55 time=27.5 ms
+[1607862713.585139] 40 bytes from 23.185.0.4 (23.185.0.4): icmp_seq=7 ttl=55 time=28.0 ms
+[1607862714.586138] 40 bytes from 23.185.0.4 (23.185.0.4): icmp_seq=8 ttl=55 time=28.0 ms
+[1607862715.587522] 40 bytes from 23.185.0.4 (23.185.0.4): icmp_seq=9 ttl=55 time=28.1 ms
+[1607862726.594012] 40 bytes from 23.185.0.4: icmp_seq=10 ttl=55 time=28.3 ms
+[1607862731.627791] 40 bytes from 23.185.0.4 (23.185.0.4): icmp_seq=11 ttl=55 time=27.4 ms
+[1607862736.659859] 40 bytes from 23.185.0.4 (23.185.0.4): icmp_seq=12 ttl=55 time=28.0 ms
+[1607862736.689392] 40 bytes from 23.185.0.4 (23.185.0.4): icmp_seq=13 ttl=55 time=28.2 ms
+[1607862737.689617] 40 bytes from 23.185.0.4 (23.185.0.4): icmp_seq=14 ttl=55 time=28.2 ms
+[1607862738.689367] 40 bytes from 23.185.0.4 (23.185.0.4): icmp_seq=15 ttl=55 time=27.9 ms
+[1607862749.694991] 40 bytes from 23.185.0.4: icmp_seq=16 ttl=55 time=27.2 ms
+[1607862749.725231] 40 bytes from 23.185.0.4 (23.185.0.4): icmp_seq=17 ttl=55 time=28.1 ms
+[1607862750.724400] 40 bytes from 23.185.0.4 (23.185.0.4): icmp_seq=18 ttl=55 time=28.0 ms
+[1607862751.725346] 40 bytes from 23.185.0.4 (23.185.0.4): icmp_seq=19 ttl=55 time=28.1 ms
+[1607862752.726443] 40 bytes from 23.185.0.4 (23.185.0.4): icmp_seq=20 ttl=55 time=28.1 ms
+[1607862753.726124] 40 bytes from 23.185.0.4 (23.185.0.4): icmp_seq=21 ttl=55 time=28.1 ms
+[1607862759.727923] 40 bytes from 23.185.0.4 (23.185.0.4): icmp_seq=22 ttl=55 time=28.1 ms
+[1607862759.757654] 40 bytes from 23.185.0.4 (23.185.0.4): icmp_seq=23 ttl=55 time=27.5 ms
+[1607862770.762086] 40 bytes from 23.185.0.4: icmp_seq=24 ttl=55 time=28.0 ms
+[1607862775.796072] 40 bytes from 23.185.0.4 (23.185.0.4): icmp_seq=25 ttl=55 time=28.0 ms
+[1607862785.834130] 40 bytes from 23.185.0.4: icmp_seq=26 ttl=55 time=27.9 ms
+[1607862785.863957] 40 bytes from 23.185.0.4 (23.185.0.4): icmp_seq=27 ttl=55 time=27.7 ms
+[1607862791.868114] 40 bytes from 23.185.0.4 (23.185.0.4): icmp_seq=28 ttl=55 time=28.0 ms
+[1607862791.897043] 40 bytes from 23.185.0.4 (23.185.0.4): icmp_seq=29 ttl=55 time=27.2 ms
+[1607862792.898957] 40 bytes from 23.185.0.4 (23.185.0.4): icmp_seq=30 ttl=55 time=28.0 ms
+[1607862793.898934] 40 bytes from 23.185.0.4 (23.185.0.4): icmp_seq=31 ttl=55 time=28.0 ms
+[1607862794.899849] 40 bytes from 23.185.0.4 (23.185.0.4): icmp_seq=32 ttl=55 time=28.2 ms
+[1607862795.902356] 40 bytes from 23.185.0.4 (23.185.0.4): icmp_seq=33 ttl=55 time=28.1 ms
+[1607862801.904118] 40 bytes from 23.185.0.4 (23.185.0.4): icmp_seq=34 ttl=55 time=28.1 ms
+[1607862801.934334] 40 bytes from 23.185.0.4 (23.185.0.4): icmp_seq=35 ttl=55 time=28.0 ms
+[1607862802.933440] 40 bytes from 23.185.0.4 (23.185.0.4): icmp_seq=36 ttl=55 time=28.0 ms
+[1607862803.932699] 40 bytes from 23.185.0.4 (23.185.0.4): icmp_seq=37 ttl=55 time=28.0 ms
+[1607862804.932927] 40 bytes from 23.185.0.4 (23.185.0.4): icmp_seq=38 ttl=55 time=27.3 ms
+[1607862805.933728] 40 bytes from 23.185.0.4 (23.185.0.4): icmp_seq=39 ttl=55 time=28.3 ms
+[1607862806.934815] 40 bytes from 23.185.0.4 (23.185.0.4): icmp_seq=40 ttl=55 time=28.1 ms
+[1607862807.934419] 40 bytes from 23.185.0.4 (23.185.0.4): icmp_seq=41 ttl=55 time=27.8 ms
+[1607862808.934584] 40 bytes from 23.185.0.4 (23.185.0.4): icmp_seq=42 ttl=55 time=27.8 ms
+[1607862809.934516] 40 bytes from 23.185.0.4 (23.185.0.4): icmp_seq=43 ttl=55 time=27.9 ms
+[1607862810.935187] 40 bytes from 23.185.0.4 (23.185.0.4): icmp_seq=44 ttl=55 time=28.1 ms
+[1607862811.935721] 40 bytes from 23.185.0.4 (23.185.0.4): icmp_seq=45 ttl=55 time=28.2 ms
+[1607862812.935405] 40 bytes from 23.185.0.4 (23.185.0.4): icmp_seq=46 ttl=55 time=27.9 ms
+[1607862813.937773] 40 bytes from 23.185.0.4 (23.185.0.4): icmp_seq=47 ttl=55 time=28.0 ms
+[1607862814.937336] 40 bytes from 23.185.0.4 (23.185.0.4): icmp_seq=48 ttl=55 time=28.0 ms
+[1607862815.939690] 40 bytes from 23.185.0.4 (23.185.0.4): icmp_seq=49 ttl=55 time=28.1 ms
+[1607862816.940232] 40 bytes from 23.185.0.4 (23.185.0.4): icmp_seq=50 ttl=55 time=28.0 ms
+
+--- shawnee.edu ping statistics ---
+50 packets transmitted, 50 received, 0% packet loss, time 118394ms
+rtt min/avg/max/mdev = 27.197/27.906/28.290/0.281 ms

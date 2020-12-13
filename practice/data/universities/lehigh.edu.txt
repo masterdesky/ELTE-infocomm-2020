@@ -1,0 +1,54 @@
+PING lehigh.edu (128.180.1.81) 32(60) bytes of data.
+[1607862707.366076] 40 bytes from 128.180.1.81: icmp_seq=1 ttl=52 time=112 ms
+[1607862712.483924] 40 bytes from haproxy.cc.lehigh.edu (128.180.1.81): icmp_seq=2 ttl=52 time=112 ms
+[1607862722.603228] 40 bytes from 128.180.1.81: icmp_seq=3 ttl=52 time=112 ms
+[1607862722.717609] 40 bytes from haproxy.cc.lehigh.edu (128.180.1.81): icmp_seq=4 ttl=52 time=112 ms
+[1607862728.720186] 40 bytes from haproxy.cc.lehigh.edu (128.180.1.81): icmp_seq=5 ttl=52 time=111 ms
+[1607862728.834149] 40 bytes from haproxy.cc.lehigh.edu (128.180.1.81): icmp_seq=6 ttl=52 time=112 ms
+[1607862740.838473] 40 bytes from 128.180.1.81: icmp_seq=8 ttl=52 time=111 ms
+[1607862750.958003] 40 bytes from 128.180.1.81: icmp_seq=9 ttl=52 time=111 ms
+[1607862761.078100] 40 bytes from 128.180.1.81: icmp_seq=10 ttl=52 time=112 ms
+[1607862766.195854] 40 bytes from haproxy.cc.lehigh.edu (128.180.1.81): icmp_seq=11 ttl=52 time=112 ms
+[1607862766.309658] 40 bytes from haproxy.cc.lehigh.edu (128.180.1.81): icmp_seq=12 ttl=52 time=112 ms
+[1607862772.315972] 40 bytes from haproxy.cc.lehigh.edu (128.180.1.81): icmp_seq=13 ttl=52 time=111 ms
+[1607862782.434052] 40 bytes from 128.180.1.81: icmp_seq=14 ttl=52 time=112 ms
+[1607862792.554035] 40 bytes from 128.180.1.81: icmp_seq=15 ttl=52 time=112 ms
+[1607862802.674051] 40 bytes from 128.180.1.81: icmp_seq=16 ttl=52 time=112 ms
+[1607862812.793998] 40 bytes from 128.180.1.81: icmp_seq=17 ttl=52 time=112 ms
+[1607862822.914191] 40 bytes from 128.180.1.81: icmp_seq=18 ttl=52 time=112 ms
+[1607862833.034548] 40 bytes from 128.180.1.81: icmp_seq=19 ttl=52 time=112 ms
+[1607862843.154067] 40 bytes from 128.180.1.81: icmp_seq=20 ttl=52 time=112 ms
+[1607862843.268242] 40 bytes from haproxy.cc.lehigh.edu (128.180.1.81): icmp_seq=21 ttl=52 time=112 ms
+[1607862854.275167] 40 bytes from 128.180.1.81: icmp_seq=22 ttl=52 time=112 ms
+[1607862854.389088] 40 bytes from haproxy.cc.lehigh.edu (128.180.1.81): icmp_seq=23 ttl=52 time=112 ms
+[1607862855.389102] 40 bytes from haproxy.cc.lehigh.edu (128.180.1.81): icmp_seq=24 ttl=52 time=112 ms
+[1607862856.390379] 40 bytes from haproxy.cc.lehigh.edu (128.180.1.81): icmp_seq=25 ttl=52 time=112 ms
+[1607862857.391713] 40 bytes from haproxy.cc.lehigh.edu (128.180.1.81): icmp_seq=26 ttl=52 time=112 ms
+[1607862858.392405] 40 bytes from haproxy.cc.lehigh.edu (128.180.1.81): icmp_seq=27 ttl=52 time=111 ms
+[1607862859.394458] 40 bytes from haproxy.cc.lehigh.edu (128.180.1.81): icmp_seq=28 ttl=52 time=112 ms
+[1607862860.396055] 40 bytes from haproxy.cc.lehigh.edu (128.180.1.81): icmp_seq=29 ttl=52 time=112 ms
+[1607862861.397181] 40 bytes from haproxy.cc.lehigh.edu (128.180.1.81): icmp_seq=30 ttl=52 time=111 ms
+[1607862862.398752] 40 bytes from haproxy.cc.lehigh.edu (128.180.1.81): icmp_seq=31 ttl=52 time=112 ms
+[1607862863.400301] 40 bytes from haproxy.cc.lehigh.edu (128.180.1.81): icmp_seq=32 ttl=52 time=112 ms
+[1607862864.400026] 40 bytes from haproxy.cc.lehigh.edu (128.180.1.81): icmp_seq=33 ttl=52 time=112 ms
+[1607862870.403797] 40 bytes from haproxy.cc.lehigh.edu (128.180.1.81): icmp_seq=34 ttl=52 time=111 ms
+[1607862875.520300] 40 bytes from haproxy.cc.lehigh.edu (128.180.1.81): icmp_seq=35 ttl=52 time=112 ms
+[1607862875.633200] 40 bytes from haproxy.cc.lehigh.edu (128.180.1.81): icmp_seq=36 ttl=52 time=112 ms
+[1607862876.634731] 40 bytes from haproxy.cc.lehigh.edu (128.180.1.81): icmp_seq=37 ttl=52 time=111 ms
+[1607862877.636747] 40 bytes from haproxy.cc.lehigh.edu (128.180.1.81): icmp_seq=38 ttl=52 time=112 ms
+[1607862878.637592] 40 bytes from haproxy.cc.lehigh.edu (128.180.1.81): icmp_seq=39 ttl=52 time=112 ms
+[1607862879.638226] 40 bytes from haproxy.cc.lehigh.edu (128.180.1.81): icmp_seq=40 ttl=52 time=111 ms
+[1607862880.640132] 40 bytes from haproxy.cc.lehigh.edu (128.180.1.81): icmp_seq=41 ttl=52 time=112 ms
+[1607862881.640959] 40 bytes from haproxy.cc.lehigh.edu (128.180.1.81): icmp_seq=42 ttl=52 time=111 ms
+[1607862882.642643] 40 bytes from haproxy.cc.lehigh.edu (128.180.1.81): icmp_seq=43 ttl=52 time=112 ms
+[1607862883.643916] 40 bytes from haproxy.cc.lehigh.edu (128.180.1.81): icmp_seq=44 ttl=52 time=112 ms
+[1607862884.645115] 40 bytes from haproxy.cc.lehigh.edu (128.180.1.81): icmp_seq=45 ttl=52 time=112 ms
+[1607862885.646137] 40 bytes from haproxy.cc.lehigh.edu (128.180.1.81): icmp_seq=46 ttl=52 time=111 ms
+[1607862886.647594] 40 bytes from haproxy.cc.lehigh.edu (128.180.1.81): icmp_seq=47 ttl=52 time=112 ms
+[1607862887.648601] 40 bytes from haproxy.cc.lehigh.edu (128.180.1.81): icmp_seq=48 ttl=52 time=112 ms
+[1607862888.650582] 40 bytes from haproxy.cc.lehigh.edu (128.180.1.81): icmp_seq=49 ttl=52 time=112 ms
+[1607862889.650883] 40 bytes from haproxy.cc.lehigh.edu (128.180.1.81): icmp_seq=50 ttl=52 time=111 ms
+
+--- lehigh.edu ping statistics ---
+50 packets transmitted, 49 received, 2% packet loss, time 192291ms
+rtt min/avg/max/mdev = 110.848/111.646/112.272/0.279 ms

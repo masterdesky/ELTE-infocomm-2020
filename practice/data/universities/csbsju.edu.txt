@@ -1,0 +1,54 @@
+PING csbsju.edu (104.20.19.91) 32(60) bytes of data.
+[1607862710.750065] 40 bytes from 104.20.19.91: icmp_seq=1 ttl=52 time=2.10 ms
+[1607862720.762112] 40 bytes from 104.20.19.91: icmp_seq=2 ttl=52 time=1.64 ms
+[1607862720.784273] 40 bytes from 104.20.19.91 (104.20.19.91): icmp_seq=3 ttl=52 time=2.38 ms
+[1607862721.766487] 40 bytes from 104.20.19.91 (104.20.19.91): icmp_seq=4 ttl=52 time=2.22 ms
+[1607862722.766663] 40 bytes from 104.20.19.91 (104.20.19.91): icmp_seq=5 ttl=52 time=2.51 ms
+[1607862723.765944] 40 bytes from 104.20.19.91 (104.20.19.91): icmp_seq=6 ttl=52 time=2.12 ms
+[1607862724.765512] 40 bytes from 104.20.19.91 (104.20.19.91): icmp_seq=7 ttl=52 time=1.99 ms
+[1607862725.766315] 40 bytes from 104.20.19.91 (104.20.19.91): icmp_seq=8 ttl=52 time=2.40 ms
+[1607862726.766409] 40 bytes from 104.20.19.91 (104.20.19.91): icmp_seq=9 ttl=52 time=2.20 ms
+[1607862727.767599] 40 bytes from 104.20.19.91 (104.20.19.91): icmp_seq=10 ttl=52 time=1.51 ms
+[1607862728.768730] 40 bytes from 104.20.19.91 (104.20.19.91): icmp_seq=11 ttl=52 time=1.89 ms
+[1607862740.774028] 40 bytes from 104.20.19.91: icmp_seq=13 ttl=52 time=2.27 ms
+[1607862750.782134] 40 bytes from 104.20.19.91: icmp_seq=14 ttl=52 time=1.72 ms
+[1607862750.785037] 40 bytes from 104.20.19.91 (104.20.19.91): icmp_seq=15 ttl=52 time=1.45 ms
+[1607862751.785011] 40 bytes from 104.20.19.91 (104.20.19.91): icmp_seq=16 ttl=52 time=1.82 ms
+[1607862752.784672] 40 bytes from 104.20.19.91 (104.20.19.91): icmp_seq=17 ttl=52 time=1.75 ms
+[1607862753.784895] 40 bytes from 104.20.19.91 (104.20.19.91): icmp_seq=18 ttl=52 time=1.85 ms
+[1607862754.784199] 40 bytes from 104.20.19.91 (104.20.19.91): icmp_seq=19 ttl=52 time=1.93 ms
+[1607862755.786600] 40 bytes from 104.20.19.91 (104.20.19.91): icmp_seq=20 ttl=52 time=2.32 ms
+[1607862756.788265] 40 bytes from 104.20.19.91 (104.20.19.91): icmp_seq=21 ttl=52 time=2.30 ms
+[1607862757.788006] 40 bytes from 104.20.19.91 (104.20.19.91): icmp_seq=22 ttl=52 time=2.10 ms
+[1607862758.788433] 40 bytes from 104.20.19.91 (104.20.19.91): icmp_seq=23 ttl=52 time=1.96 ms
+[1607862759.789776] 40 bytes from 104.20.19.91 (104.20.19.91): icmp_seq=24 ttl=52 time=2.26 ms
+[1607862760.789302] 40 bytes from 104.20.19.91 (104.20.19.91): icmp_seq=25 ttl=52 time=2.41 ms
+[1607862761.788615] 40 bytes from 104.20.19.91 (104.20.19.91): icmp_seq=26 ttl=52 time=1.99 ms
+[1607862762.787295] 40 bytes from 104.20.19.91 (104.20.19.91): icmp_seq=27 ttl=52 time=1.59 ms
+[1607862763.788243] 40 bytes from 104.20.19.91 (104.20.19.91): icmp_seq=28 ttl=52 time=1.80 ms
+[1607862764.790204] 40 bytes from 104.20.19.91 (104.20.19.91): icmp_seq=29 ttl=52 time=2.19 ms
+[1607862775.798026] 40 bytes from 104.20.19.91: icmp_seq=30 ttl=52 time=2.19 ms
+[1607862780.806001] 40 bytes from 104.20.19.91 (104.20.19.91): icmp_seq=31 ttl=52 time=2.16 ms
+[1607862785.812045] 40 bytes from 104.20.19.91 (104.20.19.91): icmp_seq=32 ttl=52 time=1.83 ms
+[1607862785.816126] 40 bytes from 104.20.19.91 (104.20.19.91): icmp_seq=33 ttl=52 time=2.19 ms
+[1607862786.816645] 40 bytes from 104.20.19.91 (104.20.19.91): icmp_seq=34 ttl=52 time=2.24 ms
+[1607862787.815499] 40 bytes from 104.20.19.91 (104.20.19.91): icmp_seq=35 ttl=52 time=1.88 ms
+[1607862788.816488] 40 bytes from 104.20.19.91 (104.20.19.91): icmp_seq=36 ttl=52 time=1.50 ms
+[1607862789.818485] 40 bytes from 104.20.19.91 (104.20.19.91): icmp_seq=37 ttl=52 time=2.23 ms
+[1607862790.821197] 40 bytes from 104.20.19.91 (104.20.19.91): icmp_seq=38 ttl=52 time=2.11 ms
+[1607862796.823764] 40 bytes from 104.20.19.91 (104.20.19.91): icmp_seq=39 ttl=52 time=1.53 ms
+[1607862806.834077] 40 bytes from 104.20.19.91: icmp_seq=40 ttl=52 time=1.91 ms
+[1607862811.840409] 40 bytes from 104.20.19.91 (104.20.19.91): icmp_seq=41 ttl=52 time=2.28 ms
+[1607862811.844184] 40 bytes from 104.20.19.91 (104.20.19.91): icmp_seq=42 ttl=52 time=2.09 ms
+[1607862812.843593] 40 bytes from 104.20.19.91 (104.20.19.91): icmp_seq=43 ttl=52 time=2.06 ms
+[1607862813.845122] 40 bytes from 104.20.19.91 (104.20.19.91): icmp_seq=44 ttl=52 time=2.28 ms
+[1607862814.846187] 40 bytes from 104.20.19.91 (104.20.19.91): icmp_seq=45 ttl=52 time=2.14 ms
+[1607862815.847768] 40 bytes from 104.20.19.91 (104.20.19.91): icmp_seq=46 ttl=52 time=2.27 ms
+[1607862816.848042] 40 bytes from 104.20.19.91 (104.20.19.91): icmp_seq=47 ttl=52 time=1.60 ms
+[1607862827.854110] 40 bytes from 104.20.19.91: icmp_seq=48 ttl=52 time=1.97 ms
+[1607862832.865740] 40 bytes from 104.20.19.91 (104.20.19.91): icmp_seq=49 ttl=52 time=4.98 ms
+[1607862832.869943] 40 bytes from 104.20.19.91 (104.20.19.91): icmp_seq=50 ttl=52 time=1.77 ms
+
+--- csbsju.edu ping statistics ---
+50 packets transmitted, 49 received, 2% packet loss, time 132124ms
+rtt min/avg/max/mdev = 1.451/2.077/4.980/0.497 ms

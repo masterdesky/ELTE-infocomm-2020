@@ -1,0 +1,55 @@
+PING pccc.edu (130.156.38.100) 32(60) bytes of data.
+[1607862688.416234] 40 bytes from www.pccc.cc.nj.us (130.156.38.100): icmp_seq=1 ttl=43 time=123 ms
+[1607862694.344234] 40 bytes from www.pccc.cc.nj.us (130.156.38.100): icmp_seq=2 ttl=43 time=123 ms
+[1607862694.469632] 40 bytes from www.pccc.cc.nj.us (130.156.38.100): icmp_seq=3 ttl=43 time=123 ms
+[1607862700.474084] 40 bytes from www.pccc.cc.nj.us (130.156.38.100): icmp_seq=4 ttl=43 time=123 ms
+[1607862700.599285] 40 bytes from www.pccc.cc.nj.us (130.156.38.100): icmp_seq=5 ttl=43 time=123 ms
+[1607862711.606000] 40 bytes from 130.156.38.100: icmp_seq=6 ttl=43 time=123 ms
+[1607862716.735173] 40 bytes from www.pccc.cc.nj.us (130.156.38.100): icmp_seq=7 ttl=43 time=123 ms
+[1607862721.863428] 40 bytes from www.pccc.cc.nj.us (130.156.38.100): icmp_seq=8 ttl=43 time=122 ms
+[1607862721.987573] 40 bytes from www.pccc.cc.nj.us (130.156.38.100): icmp_seq=9 ttl=43 time=122 ms
+[1607862727.994353] 40 bytes from pccc.edu (130.156.38.100): icmp_seq=10 ttl=43 time=123 ms
+[1607862728.120453] 40 bytes from pccc.edu (130.156.38.100): icmp_seq=11 ttl=43 time=123 ms
+[1607862729.118405] 40 bytes from www.pccc.cc.nj.us (130.156.38.100): icmp_seq=12 ttl=43 time=122 ms
+[1607862730.119014] 40 bytes from pccc.edu (130.156.38.100): icmp_seq=13 ttl=43 time=123 ms
+[1607862731.117615] 40 bytes from www.pccc.cc.nj.us (130.156.38.100): icmp_seq=14 ttl=43 time=123 ms
+[1607862742.122008] 40 bytes from 130.156.38.100: icmp_seq=15 ttl=43 time=123 ms
+[1607862752.254136] 40 bytes from 130.156.38.100: icmp_seq=16 ttl=43 time=123 ms
+[1607862752.379548] 40 bytes from pccc.edu (130.156.38.100): icmp_seq=17 ttl=43 time=123 ms
+[1607862753.379756] 40 bytes from pccc.edu (130.156.38.100): icmp_seq=18 ttl=43 time=123 ms
+[1607862754.379812] 40 bytes from www.pccc.cc.nj.us (130.156.38.100): icmp_seq=19 ttl=43 time=123 ms
+[1607862760.384031] 40 bytes from pccc.edu (130.156.38.100): icmp_seq=20 ttl=43 time=123 ms
+[1607862760.508968] 40 bytes from www.pccc.cc.nj.us (130.156.38.100): icmp_seq=21 ttl=43 time=123 ms
+[1607862766.514003] 40 bytes from www.pccc.cc.nj.us (130.156.38.100): icmp_seq=22 ttl=43 time=123 ms
+[1607862766.638899] 40 bytes from pccc.edu (130.156.38.100): icmp_seq=23 ttl=43 time=123 ms
+[1607862772.643853] 40 bytes from pccc.edu (130.156.38.100): icmp_seq=24 ttl=43 time=123 ms
+[1607862772.769100] 40 bytes from pccc.edu (130.156.38.100): icmp_seq=25 ttl=43 time=123 ms
+[1607862773.768982] 40 bytes from www.pccc.cc.nj.us (130.156.38.100): icmp_seq=26 ttl=43 time=123 ms
+[1607862774.769577] 40 bytes from www.pccc.cc.nj.us (130.156.38.100): icmp_seq=27 ttl=43 time=123 ms
+[1607862785.774059] 40 bytes from 130.156.38.100: icmp_seq=28 ttl=43 time=123 ms
+[1607862785.898927] 40 bytes from www.pccc.cc.nj.us (130.156.38.100): icmp_seq=29 ttl=43 time=123 ms
+[1607862791.904116] 40 bytes from www.pccc.cc.nj.us (130.156.38.100): icmp_seq=30 ttl=43 time=123 ms
+[1607862797.034345] 40 bytes from pccc.edu (130.156.38.100): icmp_seq=31 ttl=43 time=123 ms
+[1607862807.166022] 40 bytes from 130.156.38.100: icmp_seq=32 ttl=43 time=123 ms
+[1607862812.296200] 40 bytes from pccc.edu (130.156.38.100): icmp_seq=33 ttl=43 time=123 ms
+[1607862817.423647] 40 bytes from www.pccc.cc.nj.us (130.156.38.100): icmp_seq=34 ttl=43 time=123 ms
+[1607862817.548778] 40 bytes from www.pccc.cc.nj.us (130.156.38.100): icmp_seq=35 ttl=43 time=123 ms
+[1607862818.548130] 40 bytes from pccc.edu (130.156.38.100): icmp_seq=36 ttl=43 time=123 ms
+[1607862819.547899] 40 bytes from www.pccc.cc.nj.us (130.156.38.100): icmp_seq=37 ttl=43 time=123 ms
+[1607862820.547426] 40 bytes from pccc.edu (130.156.38.100): icmp_seq=38 ttl=43 time=123 ms
+[1607862821.547184] 40 bytes from www.pccc.cc.nj.us (130.156.38.100): icmp_seq=39 ttl=43 time=123 ms
+[1607862827.549282] 40 bytes from www.pccc.cc.nj.us (130.156.38.100): icmp_seq=40 ttl=43 time=122 ms
+[1607862827.673742] 40 bytes from pccc.edu (130.156.38.100): icmp_seq=41 ttl=43 time=123 ms
+[1607862838.681998] 40 bytes from 130.156.38.100: icmp_seq=42 ttl=43 time=123 ms
+[1607862848.813999] 40 bytes from 130.156.38.100: icmp_seq=43 ttl=43 time=123 ms
+[1607862853.943779] 40 bytes from www.pccc.cc.nj.us (130.156.38.100): icmp_seq=44 ttl=43 time=123 ms
+[1607862859.072383] 40 bytes from pccc.edu (130.156.38.100): icmp_seq=45 ttl=43 time=123 ms
+[1607862859.197213] 40 bytes from pccc.edu (130.156.38.100): icmp_seq=46 ttl=43 time=123 ms
+[1607862860.199323] 40 bytes from www.pccc.cc.nj.us (130.156.38.100): icmp_seq=47 ttl=43 time=123 ms
+[1607862861.200548] 40 bytes from pccc.edu (130.156.38.100): icmp_seq=48 ttl=43 time=123 ms
+[1607862862.200512] 40 bytes from pccc.edu (130.156.38.100): icmp_seq=49 ttl=43 time=122 ms
+[1607862863.202671] 40 bytes from www.pccc.cc.nj.us (130.156.38.100): icmp_seq=50 ttl=43 time=123 ms
+
+--- pccc.edu ping statistics ---
+50 packets transmitted, 50 received, 0% packet loss, time 174863ms
+rtt min/avg/max/mdev = 122.242/122.874/123.395/0.274 ms

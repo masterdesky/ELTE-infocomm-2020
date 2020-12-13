@@ -1,0 +1,5 @@
+PING stu.edu (52.176.149.197) 32(60) bytes of data.
+
+--- stu.edu ping statistics ---
+50 packets transmitted, 0 received, 100% packet loss, time 49319ms
+

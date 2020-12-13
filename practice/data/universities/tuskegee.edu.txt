@@ -1,0 +1,5 @@
+PING tuskegee.edu (20.44.86.155) 32(60) bytes of data.
+
+--- tuskegee.edu ping statistics ---
+50 packets transmitted, 0 received, 100% packet loss, time 49712ms
+

@@ -1,0 +1,55 @@
+PING umo.edu (35.202.200.140) 32(60) bytes of data.
+[1607862709.714006] 40 bytes from 35.202.200.140: icmp_seq=1 ttl=101 time=120 ms
+[1607862709.914159] 40 bytes from 140.200.202.35.bc.googleusercontent.com (35.202.200.140): icmp_seq=2 ttl=101 time=120 ms
+[1607862710.835833] 40 bytes from 140.200.202.35.bc.googleusercontent.com (35.202.200.140): icmp_seq=3 ttl=101 time=120 ms
+[1607862711.837476] 40 bytes from 140.200.202.35.bc.googleusercontent.com (35.202.200.140): icmp_seq=4 ttl=101 time=121 ms
+[1607862712.836393] 40 bytes from 140.200.202.35.bc.googleusercontent.com (35.202.200.140): icmp_seq=5 ttl=101 time=120 ms
+[1607862713.836106] 40 bytes from 140.200.202.35.bc.googleusercontent.com (35.202.200.140): icmp_seq=6 ttl=101 time=120 ms
+[1607862714.837401] 40 bytes from 140.200.202.35.bc.googleusercontent.com (35.202.200.140): icmp_seq=7 ttl=101 time=120 ms
+[1607862720.844995] 40 bytes from 140.200.202.35.bc.googleusercontent.com (35.202.200.140): icmp_seq=8 ttl=101 time=120 ms
+[1607862730.974045] 40 bytes from 35.202.200.140: icmp_seq=9 ttl=101 time=120 ms
+[1607862731.096416] 40 bytes from 140.200.202.35.bc.googleusercontent.com (35.202.200.140): icmp_seq=10 ttl=101 time=120 ms
+[1607862732.096158] 40 bytes from 140.200.202.35.bc.googleusercontent.com (35.202.200.140): icmp_seq=11 ttl=101 time=120 ms
+[1607862733.096852] 40 bytes from 140.200.202.35.bc.googleusercontent.com (35.202.200.140): icmp_seq=12 ttl=101 time=120 ms
+[1607862734.096943] 40 bytes from 140.200.202.35.bc.googleusercontent.com (35.202.200.140): icmp_seq=13 ttl=101 time=121 ms
+[1607862735.096116] 40 bytes from 140.200.202.35.bc.googleusercontent.com (35.202.200.140): icmp_seq=14 ttl=101 time=120 ms
+[1607862736.094309] 40 bytes from 140.200.202.35.bc.googleusercontent.com (35.202.200.140): icmp_seq=15 ttl=101 time=120 ms
+[1607862737.094114] 40 bytes from 140.200.202.35.bc.googleusercontent.com (35.202.200.140): icmp_seq=16 ttl=101 time=120 ms
+[1607862738.094249] 40 bytes from 140.200.202.35.bc.googleusercontent.com (35.202.200.140): icmp_seq=17 ttl=101 time=120 ms
+[1607862739.093876] 40 bytes from 140.200.202.35.bc.googleusercontent.com (35.202.200.140): icmp_seq=18 ttl=101 time=120 ms
+[1607862740.094241] 40 bytes from 140.200.202.35.bc.googleusercontent.com (35.202.200.140): icmp_seq=19 ttl=101 time=121 ms
+[1607862741.094783] 40 bytes from 140.200.202.35.bc.googleusercontent.com (35.202.200.140): icmp_seq=20 ttl=101 time=121 ms
+[1607862742.094796] 40 bytes from 140.200.202.35.bc.googleusercontent.com (35.202.200.140): icmp_seq=21 ttl=101 time=121 ms
+[1607862743.094474] 40 bytes from 140.200.202.35.bc.googleusercontent.com (35.202.200.140): icmp_seq=22 ttl=101 time=120 ms
+[1607862744.096271] 40 bytes from 140.200.202.35.bc.googleusercontent.com (35.202.200.140): icmp_seq=23 ttl=101 time=120 ms
+[1607862755.102009] 40 bytes from 35.202.200.140: icmp_seq=24 ttl=101 time=120 ms
+[1607862755.223812] 40 bytes from 140.200.202.35.bc.googleusercontent.com (35.202.200.140): icmp_seq=25 ttl=101 time=120 ms
+[1607862766.230122] 40 bytes from 35.202.200.140: icmp_seq=26 ttl=101 time=120 ms
+[1607862766.352884] 40 bytes from 140.200.202.35.bc.googleusercontent.com (35.202.200.140): icmp_seq=27 ttl=101 time=121 ms
+[1607862767.353830] 40 bytes from 140.200.202.35.bc.googleusercontent.com (35.202.200.140): icmp_seq=28 ttl=101 time=121 ms
+[1607862768.353121] 40 bytes from 140.200.202.35.bc.googleusercontent.com (35.202.200.140): icmp_seq=29 ttl=101 time=121 ms
+[1607862769.353910] 40 bytes from 140.200.202.35.bc.googleusercontent.com (35.202.200.140): icmp_seq=30 ttl=101 time=121 ms
+[1607862775.359849] 40 bytes from 140.200.202.35.bc.googleusercontent.com (35.202.200.140): icmp_seq=31 ttl=101 time=121 ms
+[1607862780.484174] 40 bytes from 140.200.202.35.bc.googleusercontent.com (35.202.200.140): icmp_seq=32 ttl=101 time=120 ms
+[1607862780.605512] 40 bytes from 140.200.202.35.bc.googleusercontent.com (35.202.200.140): icmp_seq=33 ttl=101 time=120 ms
+[1607862791.610005] 40 bytes from 35.202.200.140: icmp_seq=34 ttl=101 time=120 ms
+[1607862801.738012] 40 bytes from 35.202.200.140: icmp_seq=35 ttl=101 time=121 ms
+[1607862811.866018] 40 bytes from 35.202.200.140: icmp_seq=36 ttl=101 time=121 ms
+[1607862811.988823] 40 bytes from 140.200.202.35.bc.googleusercontent.com (35.202.200.140): icmp_seq=37 ttl=101 time=121 ms
+[1607862822.994142] 40 bytes from 35.202.200.140: icmp_seq=38 ttl=101 time=121 ms
+[1607862833.122389] 40 bytes from 35.202.200.140: icmp_seq=39 ttl=101 time=121 ms
+[1607862843.251425] 40 bytes from 35.202.200.140: icmp_seq=40 ttl=101 time=121 ms
+[1607862843.373254] 40 bytes from 140.200.202.35.bc.googleusercontent.com (35.202.200.140): icmp_seq=41 ttl=101 time=121 ms
+[1607862844.374427] 40 bytes from 140.200.202.35.bc.googleusercontent.com (35.202.200.140): icmp_seq=42 ttl=101 time=120 ms
+[1607862845.374724] 40 bytes from 140.200.202.35.bc.googleusercontent.com (35.202.200.140): icmp_seq=43 ttl=101 time=120 ms
+[1607862846.376706] 40 bytes from 140.200.202.35.bc.googleusercontent.com (35.202.200.140): icmp_seq=44 ttl=101 time=120 ms
+[1607862847.376862] 40 bytes from 140.200.202.35.bc.googleusercontent.com (35.202.200.140): icmp_seq=45 ttl=101 time=120 ms
+[1607862848.377412] 40 bytes from 140.200.202.35.bc.googleusercontent.com (35.202.200.140): icmp_seq=46 ttl=101 time=120 ms
+[1607862859.384438] 40 bytes from 35.202.200.140: icmp_seq=47 ttl=101 time=120 ms
+[1607862864.511153] 40 bytes from 140.200.202.35.bc.googleusercontent.com (35.202.200.140): icmp_seq=48 ttl=101 time=120 ms
+[1607862869.636142] 40 bytes from 140.200.202.35.bc.googleusercontent.com (35.202.200.140): icmp_seq=49 ttl=101 time=120 ms
+[1607862869.758926] 40 bytes from 140.200.202.35.bc.googleusercontent.com (35.202.200.140): icmp_seq=50 ttl=101 time=121 ms
+
+--- umo.edu ping statistics ---
+50 packets transmitted, 50 received, 0% packet loss, time 170050ms
+rtt min/avg/max/mdev = 119.581/120.320/120.901/0.314 ms

@@ -1,0 +1,55 @@
+PING jeffco.edu (198.209.253.16) 32(60) bytes of data.
+[1607862702.480608] 40 bytes from jeffco.edu (198.209.253.16): icmp_seq=1 ttl=50 time=134 ms
+[1607862702.616708] 40 bytes from jeffco.edu (198.209.253.16): icmp_seq=2 ttl=50 time=134 ms
+[1607862703.616754] 40 bytes from jeffco.edu (198.209.253.16): icmp_seq=3 ttl=50 time=134 ms
+[1607862709.620015] 40 bytes from jeffco.edu (198.209.253.16): icmp_seq=4 ttl=50 time=134 ms
+[1607862709.756483] 40 bytes from jeffco.edu (198.209.253.16): icmp_seq=5 ttl=50 time=134 ms
+[1607862710.754887] 40 bytes from jeffco.edu (198.209.253.16): icmp_seq=6 ttl=50 time=133 ms
+[1607862711.756782] 40 bytes from jeffco.edu (198.209.253.16): icmp_seq=7 ttl=50 time=134 ms
+[1607862712.756957] 40 bytes from jeffco.edu (198.209.253.16): icmp_seq=8 ttl=50 time=133 ms
+[1607862713.757291] 40 bytes from jeffco.edu (198.209.253.16): icmp_seq=9 ttl=50 time=133 ms
+[1607862724.762377] 40 bytes from 198.209.253.16: icmp_seq=10 ttl=50 time=133 ms
+[1607862724.897929] 40 bytes from jeffco.edu (198.209.253.16): icmp_seq=11 ttl=50 time=133 ms
+[1607862725.898358] 40 bytes from jeffco.edu (198.209.253.16): icmp_seq=12 ttl=50 time=133 ms
+[1607862726.898162] 40 bytes from jeffco.edu (198.209.253.16): icmp_seq=13 ttl=50 time=134 ms
+[1607862727.899150] 40 bytes from jeffco.edu (198.209.253.16): icmp_seq=14 ttl=50 time=133 ms
+[1607862733.903760] 40 bytes from jeffco.edu (198.209.253.16): icmp_seq=15 ttl=50 time=134 ms
+[1607862739.042871] 40 bytes from jeffco.edu (198.209.253.16): icmp_seq=16 ttl=50 time=134 ms
+[1607862744.180166] 40 bytes from jeffco.edu (198.209.253.16): icmp_seq=17 ttl=50 time=133 ms
+[1607862744.316320] 40 bytes from jeffco.edu (198.209.253.16): icmp_seq=18 ttl=50 time=134 ms
+[1607862745.317066] 40 bytes from jeffco.edu (198.209.253.16): icmp_seq=19 ttl=50 time=133 ms
+[1607862746.349122] 40 bytes from jeffco.edu (198.209.253.16): icmp_seq=20 ttl=50 time=165 ms
+[1607862752.323851] 40 bytes from jeffco.edu (198.209.253.16): icmp_seq=21 ttl=50 time=134 ms
+[1607862762.466041] 40 bytes from 198.209.253.16: icmp_seq=22 ttl=50 time=133 ms
+[1607862767.604151] 40 bytes from jeffco.edu (198.209.253.16): icmp_seq=23 ttl=50 time=134 ms
+[1607862767.741042] 40 bytes from jeffco.edu (198.209.253.16): icmp_seq=24 ttl=50 time=134 ms
+[1607862768.739925] 40 bytes from jeffco.edu (198.209.253.16): icmp_seq=25 ttl=50 time=134 ms
+[1607862769.739531] 40 bytes from jeffco.edu (198.209.253.16): icmp_seq=26 ttl=50 time=133 ms
+[1607862770.739389] 40 bytes from jeffco.edu (198.209.253.16): icmp_seq=27 ttl=50 time=134 ms
+[1607862771.737833] 40 bytes from jeffco.edu (198.209.253.16): icmp_seq=28 ttl=50 time=134 ms
+[1607862772.737751] 40 bytes from jeffco.edu (198.209.253.16): icmp_seq=29 ttl=50 time=134 ms
+[1607862773.738449] 40 bytes from jeffco.edu (198.209.253.16): icmp_seq=30 ttl=50 time=134 ms
+[1607862774.738206] 40 bytes from jeffco.edu (198.209.253.16): icmp_seq=31 ttl=50 time=134 ms
+[1607862785.742083] 40 bytes from 198.209.253.16: icmp_seq=32 ttl=50 time=134 ms
+[1607862785.877891] 40 bytes from jeffco.edu (198.209.253.16): icmp_seq=33 ttl=50 time=134 ms
+[1607862796.883709] 40 bytes from 198.209.253.16: icmp_seq=34 ttl=50 time=134 ms
+[1607862807.027427] 40 bytes from 198.209.253.16: icmp_seq=35 ttl=50 time=134 ms
+[1607862817.170113] 40 bytes from 198.209.253.16: icmp_seq=36 ttl=50 time=134 ms
+[1607862822.308112] 40 bytes from jeffco.edu (198.209.253.16): icmp_seq=37 ttl=50 time=134 ms
+[1607862822.443870] 40 bytes from jeffco.edu (198.209.253.16): icmp_seq=38 ttl=50 time=134 ms
+[1607862823.443305] 40 bytes from jeffco.edu (198.209.253.16): icmp_seq=39 ttl=50 time=133 ms
+[1607862824.443553] 40 bytes from jeffco.edu (198.209.253.16): icmp_seq=40 ttl=50 time=134 ms
+[1607862825.469532] 40 bytes from jeffco.edu (198.209.253.16): icmp_seq=41 ttl=50 time=159 ms
+[1607862826.445316] 40 bytes from jeffco.edu (198.209.253.16): icmp_seq=42 ttl=50 time=134 ms
+[1607862827.445640] 40 bytes from jeffco.edu (198.209.253.16): icmp_seq=43 ttl=50 time=134 ms
+[1607862838.454040] 40 bytes from 198.209.253.16: icmp_seq=44 ttl=50 time=134 ms
+[1607862848.594040] 40 bytes from 198.209.253.16: icmp_seq=45 ttl=50 time=134 ms
+[1607862853.731624] 40 bytes from jeffco.edu (198.209.253.16): icmp_seq=46 ttl=50 time=134 ms
+[1607862853.866324] 40 bytes from jeffco.edu (198.209.253.16): icmp_seq=47 ttl=50 time=133 ms
+[1607862854.867040] 40 bytes from jeffco.edu (198.209.253.16): icmp_seq=48 ttl=50 time=134 ms
+[1607862855.868963] 40 bytes from jeffco.edu (198.209.253.16): icmp_seq=49 ttl=50 time=134 ms
+[1607862856.869608] 40 bytes from jeffco.edu (198.209.253.16): icmp_seq=50 ttl=50 time=133 ms
+
+--- jeffco.edu ping statistics ---
+50 packets transmitted, 50 received, 0% packet loss, time 159928ms
+rtt min/avg/max/mdev = 132.735/134.769/165.197/5.621 ms

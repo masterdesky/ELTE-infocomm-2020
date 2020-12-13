@@ -1,0 +1,55 @@
+PING vanguard.edu (104.17.71.73) 32(60) bytes of data.
+[1607862695.846044] 40 bytes from 104.17.71.73: icmp_seq=1 ttl=53 time=2.24 ms
+[1607862705.854768] 40 bytes from 104.17.71.73: icmp_seq=2 ttl=53 time=1.35 ms
+[1607862705.860237] 40 bytes from 104.17.71.73 (104.17.71.73): icmp_seq=3 ttl=53 time=2.84 ms
+[1607862706.860024] 40 bytes from 104.17.71.73 (104.17.71.73): icmp_seq=4 ttl=53 time=1.51 ms
+[1607862712.865182] 40 bytes from 104.17.71.73 (104.17.71.73): icmp_seq=5 ttl=53 time=2.18 ms
+[1607862717.882116] 40 bytes from 104.17.71.73 (104.17.71.73): icmp_seq=6 ttl=53 time=2.25 ms
+[1607862717.887213] 40 bytes from 104.17.71.73 (104.17.71.73): icmp_seq=7 ttl=53 time=2.46 ms
+[1607862718.885870] 40 bytes from 104.17.71.73 (104.17.71.73): icmp_seq=8 ttl=53 time=2.09 ms
+[1607862719.885166] 40 bytes from 104.17.71.73 (104.17.71.73): icmp_seq=9 ttl=53 time=2.20 ms
+[1607862730.895079] 40 bytes from 104.17.71.73: icmp_seq=10 ttl=53 time=2.47 ms
+[1607862735.904000] 40 bytes from 104.17.71.73 (104.17.71.73): icmp_seq=11 ttl=53 time=2.03 ms
+[1607862745.914009] 40 bytes from 104.17.71.73: icmp_seq=12 ttl=53 time=2.02 ms
+[1607862755.922047] 40 bytes from 104.17.71.73: icmp_seq=13 ttl=53 time=2.14 ms
+[1607862765.930036] 40 bytes from 104.17.71.73: icmp_seq=14 ttl=53 time=2.41 ms
+[1607862765.934448] 40 bytes from 104.17.71.73 (104.17.71.73): icmp_seq=15 ttl=53 time=2.07 ms
+[1607862766.934595] 40 bytes from 104.17.71.73 (104.17.71.73): icmp_seq=16 ttl=53 time=1.79 ms
+[1607862767.936167] 40 bytes from 104.17.71.73 (104.17.71.73): icmp_seq=17 ttl=53 time=2.22 ms
+[1607862768.935830] 40 bytes from 104.17.71.73 (104.17.71.73): icmp_seq=18 ttl=53 time=2.01 ms
+[1607862769.934511] 40 bytes from 104.17.71.73 (104.17.71.73): icmp_seq=19 ttl=53 time=1.40 ms
+[1607862770.934776] 40 bytes from 104.17.71.73 (104.17.71.73): icmp_seq=20 ttl=53 time=1.84 ms
+[1607862771.934551] 40 bytes from 104.17.71.73 (104.17.71.73): icmp_seq=21 ttl=53 time=1.91 ms
+[1607862772.934166] 40 bytes from 104.17.71.73 (104.17.71.73): icmp_seq=22 ttl=53 time=2.31 ms
+[1607862773.934869] 40 bytes from 104.17.71.73 (104.17.71.73): icmp_seq=23 ttl=53 time=2.38 ms
+[1607862774.934467] 40 bytes from 104.17.71.73 (104.17.71.73): icmp_seq=24 ttl=53 time=2.15 ms
+[1607862785.940508] 40 bytes from 104.17.71.73: icmp_seq=25 ttl=53 time=1.23 ms
+[1607862785.944760] 40 bytes from 104.17.71.73 (104.17.71.73): icmp_seq=26 ttl=53 time=2.01 ms
+[1607862786.945762] 40 bytes from 104.17.71.73 (104.17.71.73): icmp_seq=27 ttl=53 time=2.11 ms
+[1607862787.943539] 40 bytes from 104.17.71.73 (104.17.71.73): icmp_seq=28 ttl=53 time=2.05 ms
+[1607862788.945541] 40 bytes from 104.17.71.73 (104.17.71.73): icmp_seq=29 ttl=53 time=2.31 ms
+[1607862789.947173] 40 bytes from 104.17.71.73 (104.17.71.73): icmp_seq=30 ttl=53 time=2.39 ms
+[1607862790.947452] 40 bytes from 104.17.71.73 (104.17.71.73): icmp_seq=31 ttl=53 time=2.08 ms
+[1607862791.949064] 40 bytes from 104.17.71.73 (104.17.71.73): icmp_seq=32 ttl=53 time=2.21 ms
+[1607862792.949486] 40 bytes from 104.17.71.73 (104.17.71.73): icmp_seq=33 ttl=53 time=2.21 ms
+[1607862793.949686] 40 bytes from 104.17.71.73 (104.17.71.73): icmp_seq=34 ttl=53 time=1.62 ms
+[1607862794.951544] 40 bytes from 104.17.71.73 (104.17.71.73): icmp_seq=35 ttl=53 time=1.62 ms
+[1607862795.954366] 40 bytes from 104.17.71.73 (104.17.71.73): icmp_seq=36 ttl=53 time=2.28 ms
+[1607862796.953780] 40 bytes from 104.17.71.73 (104.17.71.73): icmp_seq=37 ttl=53 time=2.22 ms
+[1607862802.958661] 40 bytes from 104.17.71.73 (104.17.71.73): icmp_seq=38 ttl=53 time=2.13 ms
+[1607862807.967519] 40 bytes from 104.17.71.73 (104.17.71.73): icmp_seq=39 ttl=53 time=2.11 ms
+[1607862817.979002] 40 bytes from 104.17.71.73: icmp_seq=40 ttl=53 time=1.71 ms
+[1607862827.990003] 40 bytes from 104.17.71.73: icmp_seq=41 ttl=53 time=1.66 ms
+[1607862827.994480] 40 bytes from 104.17.71.73 (104.17.71.73): icmp_seq=42 ttl=53 time=2.39 ms
+[1607862828.994826] 40 bytes from 104.17.71.73 (104.17.71.73): icmp_seq=43 ttl=53 time=2.08 ms
+[1607862829.994749] 40 bytes from 104.17.71.73 (104.17.71.73): icmp_seq=44 ttl=53 time=2.32 ms
+[1607862830.994519] 40 bytes from 104.17.71.73 (104.17.71.73): icmp_seq=45 ttl=53 time=2.40 ms
+[1607862831.994627] 40 bytes from 104.17.71.73 (104.17.71.73): icmp_seq=46 ttl=53 time=2.26 ms
+[1607862837.995691] 40 bytes from 104.17.71.73 (104.17.71.73): icmp_seq=47 ttl=53 time=1.86 ms
+[1607862837.999934] 40 bytes from 104.17.71.73 (104.17.71.73): icmp_seq=48 ttl=53 time=1.74 ms
+[1607862844.003146] 40 bytes from 104.17.71.73 (104.17.71.73): icmp_seq=49 ttl=53 time=2.18 ms
+[1607862845.003209] 40 bytes from 104.17.71.73: icmp_seq=50 ttl=53 time=1.26 ms
+
+--- vanguard.edu ping statistics ---
+50 packets transmitted, 50 received, 0% packet loss, time 158168ms
+rtt min/avg/max/mdev = 1.230/2.053/2.838/0.332 ms

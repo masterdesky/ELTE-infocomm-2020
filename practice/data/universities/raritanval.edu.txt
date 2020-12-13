@@ -1,0 +1,55 @@
+PING raritanval.edu (107.22.178.157) 32(60) bytes of data.
+[1607862707.563133] 40 bytes from ec2-107-22-178-157.compute-1.amazonaws.com (107.22.178.157): icmp_seq=1 ttl=41 time=111 ms
+[1607862713.435438] 40 bytes from ec2-107-22-178-157.compute-1.amazonaws.com (107.22.178.157): icmp_seq=2 ttl=41 time=111 ms
+[1607862713.547950] 40 bytes from ec2-107-22-178-157.compute-1.amazonaws.com (107.22.178.157): icmp_seq=3 ttl=41 time=111 ms
+[1607862714.549228] 40 bytes from ec2-107-22-178-157.compute-1.amazonaws.com (107.22.178.157): icmp_seq=4 ttl=41 time=111 ms
+[1607862720.551678] 40 bytes from ec2-107-22-178-157.compute-1.amazonaws.com (107.22.178.157): icmp_seq=5 ttl=41 time=110 ms
+[1607862730.670448] 40 bytes from 107.22.178.157: icmp_seq=6 ttl=41 time=110 ms
+[1607862730.783886] 40 bytes from ec2-107-22-178-157.compute-1.amazonaws.com (107.22.178.157): icmp_seq=7 ttl=41 time=111 ms
+[1607862731.783793] 40 bytes from ec2-107-22-178-157.compute-1.amazonaws.com (107.22.178.157): icmp_seq=8 ttl=41 time=111 ms
+[1607862732.782431] 40 bytes from ec2-107-22-178-157.compute-1.amazonaws.com (107.22.178.157): icmp_seq=9 ttl=41 time=110 ms
+[1607862733.782864] 40 bytes from ec2-107-22-178-157.compute-1.amazonaws.com (107.22.178.157): icmp_seq=10 ttl=41 time=111 ms
+[1607862739.787282] 40 bytes from ec2-107-22-178-157.compute-1.amazonaws.com (107.22.178.157): icmp_seq=11 ttl=41 time=111 ms
+[1607862739.899570] 40 bytes from ec2-107-22-178-157.compute-1.amazonaws.com (107.22.178.157): icmp_seq=12 ttl=41 time=110 ms
+[1607862740.901238] 40 bytes from ec2-107-22-178-157.compute-1.amazonaws.com (107.22.178.157): icmp_seq=13 ttl=41 time=111 ms
+[1607862746.904060] 40 bytes from ec2-107-22-178-157.compute-1.amazonaws.com (107.22.178.157): icmp_seq=14 ttl=41 time=111 ms
+[1607862747.016914] 40 bytes from ec2-107-22-178-157.compute-1.amazonaws.com (107.22.178.157): icmp_seq=15 ttl=41 time=111 ms
+[1607862748.018441] 40 bytes from ec2-107-22-178-157.compute-1.amazonaws.com (107.22.178.157): icmp_seq=16 ttl=41 time=111 ms
+[1607862749.017193] 40 bytes from ec2-107-22-178-157.compute-1.amazonaws.com (107.22.178.157): icmp_seq=17 ttl=41 time=111 ms
+[1607862760.022066] 40 bytes from 107.22.178.157: icmp_seq=18 ttl=41 time=111 ms
+[1607862760.135228] 40 bytes from ec2-107-22-178-157.compute-1.amazonaws.com (107.22.178.157): icmp_seq=19 ttl=41 time=111 ms
+[1607862761.135736] 40 bytes from ec2-107-22-178-157.compute-1.amazonaws.com (107.22.178.157): icmp_seq=20 ttl=41 time=111 ms
+[1607862767.139576] 40 bytes from ec2-107-22-178-157.compute-1.amazonaws.com (107.22.178.157): icmp_seq=21 ttl=41 time=111 ms
+[1607862777.258027] 40 bytes from 107.22.178.157: icmp_seq=22 ttl=41 time=111 ms
+[1607862782.376289] 40 bytes from ec2-107-22-178-157.compute-1.amazonaws.com (107.22.178.157): icmp_seq=23 ttl=41 time=111 ms
+[1607862792.494018] 40 bytes from 107.22.178.157: icmp_seq=24 ttl=41 time=111 ms
+[1607862797.611759] 40 bytes from ec2-107-22-178-157.compute-1.amazonaws.com (107.22.178.157): icmp_seq=25 ttl=41 time=111 ms
+[1607862797.725116] 40 bytes from ec2-107-22-178-157.compute-1.amazonaws.com (107.22.178.157): icmp_seq=26 ttl=41 time=111 ms
+[1607862798.724585] 40 bytes from ec2-107-22-178-157.compute-1.amazonaws.com (107.22.178.157): icmp_seq=27 ttl=41 time=111 ms
+[1607862799.724411] 40 bytes from ec2-107-22-178-157.compute-1.amazonaws.com (107.22.178.157): icmp_seq=28 ttl=41 time=111 ms
+[1607862800.724159] 40 bytes from ec2-107-22-178-157.compute-1.amazonaws.com (107.22.178.157): icmp_seq=29 ttl=41 time=111 ms
+[1607862806.727523] 40 bytes from ec2-107-22-178-157.compute-1.amazonaws.com (107.22.178.157): icmp_seq=30 ttl=41 time=111 ms
+[1607862811.844050] 40 bytes from ec2-107-22-178-157.compute-1.amazonaws.com (107.22.178.157): icmp_seq=31 ttl=41 time=110 ms
+[1607862811.956603] 40 bytes from ec2-107-22-178-157.compute-1.amazonaws.com (107.22.178.157): icmp_seq=32 ttl=41 time=111 ms
+[1607862822.962143] 40 bytes from 107.22.178.157: icmp_seq=33 ttl=41 time=110 ms
+[1607862823.074805] 40 bytes from ec2-107-22-178-157.compute-1.amazonaws.com (107.22.178.157): icmp_seq=34 ttl=41 time=110 ms
+[1607862824.075462] 40 bytes from ec2-107-22-178-157.compute-1.amazonaws.com (107.22.178.157): icmp_seq=35 ttl=41 time=111 ms
+[1607862825.076631] 40 bytes from ec2-107-22-178-157.compute-1.amazonaws.com (107.22.178.157): icmp_seq=36 ttl=41 time=111 ms
+[1607862826.076805] 40 bytes from ec2-107-22-178-157.compute-1.amazonaws.com (107.22.178.157): icmp_seq=37 ttl=41 time=111 ms
+[1607862827.076661] 40 bytes from ec2-107-22-178-157.compute-1.amazonaws.com (107.22.178.157): icmp_seq=38 ttl=41 time=111 ms
+[1607862838.082073] 40 bytes from 107.22.178.157: icmp_seq=39 ttl=41 time=111 ms
+[1607862843.199597] 40 bytes from ec2-107-22-178-157.compute-1.amazonaws.com (107.22.178.157): icmp_seq=40 ttl=41 time=111 ms
+[1607862843.312141] 40 bytes from ec2-107-22-178-157.compute-1.amazonaws.com (107.22.178.157): icmp_seq=41 ttl=41 time=111 ms
+[1607862844.313512] 40 bytes from ec2-107-22-178-157.compute-1.amazonaws.com (107.22.178.157): icmp_seq=42 ttl=41 time=111 ms
+[1607862845.314106] 40 bytes from ec2-107-22-178-157.compute-1.amazonaws.com (107.22.178.157): icmp_seq=43 ttl=41 time=111 ms
+[1607862846.315238] 40 bytes from ec2-107-22-178-157.compute-1.amazonaws.com (107.22.178.157): icmp_seq=44 ttl=41 time=111 ms
+[1607862847.315698] 40 bytes from ec2-107-22-178-157.compute-1.amazonaws.com (107.22.178.157): icmp_seq=45 ttl=41 time=110 ms
+[1607862848.317718] 40 bytes from ec2-107-22-178-157.compute-1.amazonaws.com (107.22.178.157): icmp_seq=46 ttl=41 time=111 ms
+[1607862854.326154] 40 bytes from ec2-107-22-178-157.compute-1.amazonaws.com (107.22.178.157): icmp_seq=47 ttl=41 time=111 ms
+[1607862859.443446] 40 bytes from ec2-107-22-178-157.compute-1.amazonaws.com (107.22.178.157): icmp_seq=48 ttl=41 time=112 ms
+[1607862869.562105] 40 bytes from 107.22.178.157: icmp_seq=49 ttl=41 time=110 ms
+[1607862869.675417] 40 bytes from ec2-107-22-178-157.compute-1.amazonaws.com (107.22.178.157): icmp_seq=50 ttl=41 time=111 ms
+
+--- raritanval.edu ping statistics ---
+50 packets transmitted, 50 received, 0% packet loss, time 162244ms
+rtt min/avg/max/mdev = 110.106/110.859/111.631/0.332 ms

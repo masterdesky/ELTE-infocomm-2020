@@ -1,0 +1,55 @@
+PING wlc.edu (205.213.22.4) 32(60) bytes of data.
+[1607862732.342117] 40 bytes from wlc.edu (205.213.22.4): icmp_seq=1 ttl=109 time=124 ms
+[1607862732.467683] 40 bytes from wlc.edu (205.213.22.4): icmp_seq=2 ttl=109 time=124 ms
+[1607862733.469922] 40 bytes from www.wlc.edu (205.213.22.4): icmp_seq=3 ttl=109 time=124 ms
+[1607862734.470571] 40 bytes from www.wlc.edu (205.213.22.4): icmp_seq=4 ttl=109 time=123 ms
+[1607862735.470522] 40 bytes from www.wlc.edu (205.213.22.4): icmp_seq=5 ttl=109 time=123 ms
+[1607862746.474027] 40 bytes from 205.213.22.4: icmp_seq=6 ttl=109 time=123 ms
+[1607862751.603912] 40 bytes from www.wlc.edu (205.213.22.4): icmp_seq=7 ttl=109 time=123 ms
+[1607862751.728507] 40 bytes from www.wlc.edu (205.213.22.4): icmp_seq=8 ttl=109 time=123 ms
+[1607862762.738004] 40 bytes from 205.213.22.4: icmp_seq=9 ttl=109 time=124 ms
+[1607862762.864171] 40 bytes from wlc.edu (205.213.22.4): icmp_seq=10 ttl=109 time=124 ms
+[1607862763.864285] 40 bytes from www.wlc.edu (205.213.22.4): icmp_seq=11 ttl=109 time=124 ms
+[1607862764.866278] 40 bytes from wlc.edu (205.213.22.4): icmp_seq=12 ttl=109 time=124 ms
+[1607862765.866386] 40 bytes from wlc.edu (205.213.22.4): icmp_seq=13 ttl=109 time=123 ms
+[1607862766.868751] 40 bytes from www.wlc.edu (205.213.22.4): icmp_seq=14 ttl=109 time=124 ms
+[1607862767.868460] 40 bytes from www.wlc.edu (205.213.22.4): icmp_seq=15 ttl=109 time=124 ms
+[1607862768.868257] 40 bytes from www.wlc.edu (205.213.22.4): icmp_seq=16 ttl=109 time=124 ms
+[1607862769.868092] 40 bytes from www.wlc.edu (205.213.22.4): icmp_seq=17 ttl=109 time=124 ms
+[1607862770.867946] 40 bytes from www.wlc.edu (205.213.22.4): icmp_seq=18 ttl=109 time=124 ms
+[1607862781.874012] 40 bytes from 205.213.22.4: icmp_seq=19 ttl=109 time=124 ms
+[1607862782.000224] 40 bytes from www.wlc.edu (205.213.22.4): icmp_seq=20 ttl=109 time=124 ms
+[1607862782.999459] 40 bytes from www.wlc.edu (205.213.22.4): icmp_seq=21 ttl=109 time=124 ms
+[1607862784.001754] 40 bytes from www.wlc.edu (205.213.22.4): icmp_seq=22 ttl=109 time=124 ms
+[1607862785.000900] 40 bytes from wlc.edu (205.213.22.4): icmp_seq=23 ttl=109 time=124 ms
+[1607862791.004154] 40 bytes from wlc.edu (205.213.22.4): icmp_seq=24 ttl=109 time=123 ms
+[1607862791.129312] 40 bytes from www.wlc.edu (205.213.22.4): icmp_seq=25 ttl=109 time=123 ms
+[1607862797.135328] 40 bytes from wlc.edu (205.213.22.4): icmp_seq=26 ttl=109 time=124 ms
+[1607862797.261160] 40 bytes from wlc.edu (205.213.22.4): icmp_seq=27 ttl=109 time=124 ms
+[1607862798.261268] 40 bytes from wlc.edu (205.213.22.4): icmp_seq=28 ttl=109 time=123 ms
+[1607862799.261736] 40 bytes from wlc.edu (205.213.22.4): icmp_seq=29 ttl=109 time=123 ms
+[1607862800.262473] 40 bytes from www.wlc.edu (205.213.22.4): icmp_seq=30 ttl=109 time=124 ms
+[1607862801.263098] 40 bytes from wlc.edu (205.213.22.4): icmp_seq=31 ttl=109 time=123 ms
+[1607862802.264283] 40 bytes from www.wlc.edu (205.213.22.4): icmp_seq=32 ttl=109 time=124 ms
+[1607862803.265259] 40 bytes from wlc.edu (205.213.22.4): icmp_seq=33 ttl=109 time=123 ms
+[1607862804.267637] 40 bytes from wlc.edu (205.213.22.4): icmp_seq=34 ttl=109 time=124 ms
+[1607862805.267093] 40 bytes from www.wlc.edu (205.213.22.4): icmp_seq=35 ttl=109 time=123 ms
+[1607862806.269448] 40 bytes from www.wlc.edu (205.213.22.4): icmp_seq=36 ttl=109 time=125 ms
+[1607862812.273519] 40 bytes from www.wlc.edu (205.213.22.4): icmp_seq=37 ttl=109 time=123 ms
+[1607862822.406073] 40 bytes from 205.213.22.4: icmp_seq=38 ttl=109 time=124 ms
+[1607862827.536074] 40 bytes from wlc.edu (205.213.22.4): icmp_seq=39 ttl=109 time=125 ms
+[1607862827.661669] 40 bytes from wlc.edu (205.213.22.4): icmp_seq=40 ttl=109 time=123 ms
+[1607862828.663229] 40 bytes from wlc.edu (205.213.22.4): icmp_seq=41 ttl=109 time=124 ms
+[1607862829.664815] 40 bytes from www.wlc.edu (205.213.22.4): icmp_seq=42 ttl=109 time=123 ms
+[1607862830.664140] 40 bytes from www.wlc.edu (205.213.22.4): icmp_seq=43 ttl=109 time=123 ms
+[1607862831.666729] 40 bytes from wlc.edu (205.213.22.4): icmp_seq=44 ttl=109 time=123 ms
+[1607862832.668319] 40 bytes from wlc.edu (205.213.22.4): icmp_seq=45 ttl=109 time=123 ms
+[1607862838.673193] 40 bytes from wlc.edu (205.213.22.4): icmp_seq=46 ttl=109 time=123 ms
+[1607862838.798429] 40 bytes from www.wlc.edu (205.213.22.4): icmp_seq=47 ttl=109 time=124 ms
+[1607862839.799750] 40 bytes from wlc.edu (205.213.22.4): icmp_seq=48 ttl=109 time=124 ms
+[1607862840.800583] 40 bytes from www.wlc.edu (205.213.22.4): icmp_seq=49 ttl=109 time=124 ms
+[1607862841.802091] 40 bytes from wlc.edu (205.213.22.4): icmp_seq=50 ttl=109 time=124 ms
+
+--- wlc.edu ping statistics ---
+50 packets transmitted, 50 received, 0% packet loss, time 110370ms
+rtt min/avg/max/mdev = 122.586/123.529/124.975/0.385 ms

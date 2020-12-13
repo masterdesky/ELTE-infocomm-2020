@@ -1,0 +1,55 @@
+PING monroeccc.edu (192.196.158.187) 32(60) bytes of data.
+[1607862700.265714] 40 bytes from mccc-cpanel.concentrekdev.com (192.196.158.187): icmp_seq=1 ttl=45 time=125 ms
+[1607862710.398021] 40 bytes from 192.196.158.187: icmp_seq=2 ttl=45 time=125 ms
+[1607862710.525448] 40 bytes from mccc-cpanel.concentrekdev.com (192.196.158.187): icmp_seq=3 ttl=45 time=125 ms
+[1607862711.525630] 40 bytes from mccc-cpanel.concentrekdev.com (192.196.158.187): icmp_seq=4 ttl=45 time=125 ms
+[1607862712.527328] 40 bytes from mccc-cpanel.concentrekdev.com (192.196.158.187): icmp_seq=5 ttl=45 time=125 ms
+[1607862723.534018] 40 bytes from 192.196.158.187: icmp_seq=6 ttl=45 time=125 ms
+[1607862728.665616] 40 bytes from mccc-cpanel.concentrekdev.com (192.196.158.187): icmp_seq=7 ttl=45 time=126 ms
+[1607862733.796012] 40 bytes from mccc-cpanel.concentrekdev.com (192.196.158.187): icmp_seq=8 ttl=45 time=125 ms
+[1607862738.927924] 40 bytes from mccc-cpanel.concentrekdev.com (192.196.158.187): icmp_seq=9 ttl=45 time=125 ms
+[1607862739.055178] 40 bytes from mccc-cpanel.concentrekdev.com (192.196.158.187): icmp_seq=10 ttl=45 time=125 ms
+[1607862740.053886] 40 bytes from mccc-cpanel.concentrekdev.com (192.196.158.187): icmp_seq=11 ttl=45 time=124 ms
+[1607862741.054984] 40 bytes from mccc-cpanel.concentrekdev.com (192.196.158.187): icmp_seq=12 ttl=45 time=125 ms
+[1607862742.054910] 40 bytes from mccc-cpanel.concentrekdev.com (192.196.158.187): icmp_seq=13 ttl=45 time=125 ms
+[1607862743.055026] 40 bytes from mccc-cpanel.concentrekdev.com (192.196.158.187): icmp_seq=14 ttl=45 time=125 ms
+[1607862744.055374] 40 bytes from mccc-cpanel.concentrekdev.com (192.196.158.187): icmp_seq=15 ttl=45 time=125 ms
+[1607862755.062009] 40 bytes from 192.196.158.187: icmp_seq=16 ttl=45 time=125 ms
+[1607862765.194092] 40 bytes from 192.196.158.187: icmp_seq=17 ttl=45 time=125 ms
+[1607862775.325995] 40 bytes from 192.196.158.187: icmp_seq=18 ttl=45 time=125 ms
+[1607862780.455492] 40 bytes from mccc-cpanel.concentrekdev.com (192.196.158.187): icmp_seq=19 ttl=45 time=125 ms
+[1607862780.582317] 40 bytes from mccc-cpanel.concentrekdev.com (192.196.158.187): icmp_seq=20 ttl=45 time=125 ms
+[1607862791.586092] 40 bytes from 192.196.158.187: icmp_seq=21 ttl=45 time=124 ms
+[1607862791.713460] 40 bytes from mccc-cpanel.concentrekdev.com (192.196.158.187): icmp_seq=22 ttl=45 time=125 ms
+[1607862797.715136] 40 bytes from mccc-cpanel.concentrekdev.com (192.196.158.187): icmp_seq=23 ttl=45 time=125 ms
+[1607862802.845939] 40 bytes from mccc-cpanel.concentrekdev.com (192.196.158.187): icmp_seq=24 ttl=45 time=124 ms
+[1607862807.976068] 40 bytes from mccc-cpanel.concentrekdev.com (192.196.158.187): icmp_seq=25 ttl=45 time=125 ms
+[1607862813.107305] 40 bytes from mccc-cpanel.concentrekdev.com (192.196.158.187): icmp_seq=26 ttl=45 time=125 ms
+[1607862813.234945] 40 bytes from mccc-cpanel.concentrekdev.com (192.196.158.187): icmp_seq=27 ttl=45 time=125 ms
+[1607862814.236171] 40 bytes from mccc-cpanel.concentrekdev.com (192.196.158.187): icmp_seq=28 ttl=45 time=125 ms
+[1607862815.237586] 40 bytes from mccc-cpanel.concentrekdev.com (192.196.158.187): icmp_seq=29 ttl=45 time=125 ms
+[1607862816.238463] 40 bytes from mccc-cpanel.concentrekdev.com (192.196.158.187): icmp_seq=30 ttl=45 time=124 ms
+[1607862817.240778] 40 bytes from mccc-cpanel.concentrekdev.com (192.196.158.187): icmp_seq=31 ttl=45 time=125 ms
+[1607862828.246000] 40 bytes from 192.196.158.187: icmp_seq=32 ttl=45 time=125 ms
+[1607862838.378004] 40 bytes from 192.196.158.187: icmp_seq=33 ttl=45 time=125 ms
+[1607862848.510184] 40 bytes from 192.196.158.187: icmp_seq=34 ttl=45 time=125 ms
+[1607862848.637780] 40 bytes from mccc-cpanel.concentrekdev.com (192.196.158.187): icmp_seq=35 ttl=45 time=125 ms
+[1607862849.636830] 40 bytes from mccc-cpanel.concentrekdev.com (192.196.158.187): icmp_seq=36 ttl=45 time=125 ms
+[1607862850.638533] 40 bytes from mccc-cpanel.concentrekdev.com (192.196.158.187): icmp_seq=37 ttl=45 time=125 ms
+[1607862851.641136] 40 bytes from mccc-cpanel.concentrekdev.com (192.196.158.187): icmp_seq=38 ttl=45 time=125 ms
+[1607862852.642377] 40 bytes from mccc-cpanel.concentrekdev.com (192.196.158.187): icmp_seq=39 ttl=45 time=125 ms
+[1607862853.642138] 40 bytes from mccc-cpanel.concentrekdev.com (192.196.158.187): icmp_seq=40 ttl=45 time=125 ms
+[1607862859.644111] 40 bytes from mccc-cpanel.concentrekdev.com (192.196.158.187): icmp_seq=41 ttl=45 time=125 ms
+[1607862864.775335] 40 bytes from mccc-cpanel.concentrekdev.com (192.196.158.187): icmp_seq=42 ttl=45 time=125 ms
+[1607862869.904076] 40 bytes from mccc-cpanel.concentrekdev.com (192.196.158.187): icmp_seq=43 ttl=45 time=125 ms
+[1607862875.035946] 40 bytes from mccc-cpanel.concentrekdev.com (192.196.158.187): icmp_seq=44 ttl=45 time=125 ms
+[1607862875.163158] 40 bytes from mccc-cpanel.concentrekdev.com (192.196.158.187): icmp_seq=45 ttl=45 time=125 ms
+[1607862876.163212] 40 bytes from mccc-cpanel.concentrekdev.com (192.196.158.187): icmp_seq=46 ttl=45 time=125 ms
+[1607862877.165311] 40 bytes from mccc-cpanel.concentrekdev.com (192.196.158.187): icmp_seq=47 ttl=45 time=125 ms
+[1607862878.167125] 40 bytes from mccc-cpanel.concentrekdev.com (192.196.158.187): icmp_seq=48 ttl=45 time=125 ms
+[1607862879.166255] 40 bytes from mccc-cpanel.concentrekdev.com (192.196.158.187): icmp_seq=49 ttl=45 time=125 ms
+[1607862880.167772] 40 bytes from mccc-cpanel.concentrekdev.com (192.196.158.187): icmp_seq=50 ttl=45 time=125 ms
+
+--- monroeccc.edu ping statistics ---
+50 packets transmitted, 50 received, 0% packet loss, time 184906ms
+rtt min/avg/max/mdev = 124.246/125.028/125.789/0.291 ms

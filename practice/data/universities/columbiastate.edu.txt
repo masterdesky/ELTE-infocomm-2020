@@ -1,0 +1,55 @@
+PING columbiastate.edu (198.146.104.18) 32(60) bytes of data.
+[1607862716.455668] 40 bytes from coscc.cc.tn.us (198.146.104.18): icmp_seq=1 ttl=42 time=134 ms
+[1607862716.889666] 40 bytes from columbiastate.edu (198.146.104.18): icmp_seq=2 ttl=42 time=133 ms
+[1607862717.887925] 40 bytes from media.columbiastate.edu (198.146.104.18): icmp_seq=3 ttl=42 time=133 ms
+[1607862728.894022] 40 bytes from 198.146.104.18: icmp_seq=4 ttl=42 time=133 ms
+[1607862729.029680] 40 bytes from www.columbiastate.edu (198.146.104.18): icmp_seq=5 ttl=42 time=133 ms
+[1607862730.032843] 40 bytes from media.columbiastate.edu (198.146.104.18): icmp_seq=6 ttl=42 time=133 ms
+[1607862731.031976] 40 bytes from columbiastate.edu (198.146.104.18): icmp_seq=7 ttl=42 time=133 ms
+[1607862737.035979] 40 bytes from www.columbiastate.edu (198.146.104.18): icmp_seq=8 ttl=42 time=133 ms
+[1607862742.175882] 40 bytes from singlesignon.columbiastate.edu (198.146.104.18): icmp_seq=9 ttl=42 time=133 ms
+[1607862752.315123] 40 bytes from 198.146.104.18: icmp_seq=10 ttl=42 time=133 ms
+[1607862757.454065] 40 bytes from columbiastate.edu (198.146.104.18): icmp_seq=11 ttl=42 time=133 ms
+[1607862767.594062] 40 bytes from 198.146.104.18: icmp_seq=12 ttl=42 time=133 ms
+[1607862767.734622] 40 bytes from columbiastate.edu (198.146.104.18): icmp_seq=13 ttl=42 time=138 ms
+[1607862768.728507] 40 bytes from media.columbiastate.edu (198.146.104.18): icmp_seq=14 ttl=42 time=133 ms
+[1607862769.728816] 40 bytes from singlesignon.columbiastate.edu (198.146.104.18): icmp_seq=15 ttl=42 time=133 ms
+[1607862770.727935] 40 bytes from www.columbiastate.edu (198.146.104.18): icmp_seq=16 ttl=42 time=133 ms
+[1607862781.734008] 40 bytes from 198.146.104.18: icmp_seq=17 ttl=42 time=133 ms
+[1607862791.874022] 40 bytes from 198.146.104.18: icmp_seq=18 ttl=42 time=133 ms
+[1607862802.014055] 40 bytes from 198.146.104.18: icmp_seq=19 ttl=42 time=133 ms
+[1607862812.154019] 40 bytes from 198.146.104.18: icmp_seq=20 ttl=42 time=133 ms
+[1607862822.298153] 40 bytes from 198.146.104.18: icmp_seq=21 ttl=42 time=136 ms
+[1607862822.434235] 40 bytes from singlesignon.columbiastate.edu (198.146.104.18): icmp_seq=22 ttl=42 time=134 ms
+[1607862828.435124] 40 bytes from coscc.cc.tn.us (198.146.104.18): icmp_seq=23 ttl=42 time=133 ms
+[1607862838.578037] 40 bytes from 198.146.104.18: icmp_seq=24 ttl=42 time=133 ms
+[1607862838.713782] 40 bytes from singlesignon.columbiastate.edu (198.146.104.18): icmp_seq=25 ttl=42 time=133 ms
+[1607862839.714399] 40 bytes from singlesignon.columbiastate.edu (198.146.104.18): icmp_seq=26 ttl=42 time=132 ms
+[1607862841.040473] 40 bytes from singlesignon.columbiastate.edu (198.146.104.18): icmp_seq=27 ttl=42 time=457 ms
+[1607862841.716653] 40 bytes from singlesignon.columbiastate.edu (198.146.104.18): icmp_seq=28 ttl=42 time=134 ms
+[1607862842.717546] 40 bytes from singlesignon.columbiastate.edu (198.146.104.18): icmp_seq=29 ttl=42 time=133 ms
+[1607862853.724942] 40 bytes from 198.146.104.18: icmp_seq=30 ttl=42 time=133 ms
+[1607862853.858850] 40 bytes from coscc.cc.tn.us (198.146.104.18): icmp_seq=31 ttl=42 time=132 ms
+[1607862864.865996] 40 bytes from 198.146.104.18: icmp_seq=32 ttl=42 time=133 ms
+[1607862865.001172] 40 bytes from media.columbiastate.edu (198.146.104.18): icmp_seq=33 ttl=42 time=133 ms
+[1607862866.001856] 40 bytes from media.columbiastate.edu (198.146.104.18): icmp_seq=34 ttl=42 time=134 ms
+[1607862867.000559] 40 bytes from media.columbiastate.edu (198.146.104.18): icmp_seq=35 ttl=42 time=133 ms
+[1607862868.001167] 40 bytes from singlesignon.columbiastate.edu (198.146.104.18): icmp_seq=36 ttl=42 time=133 ms
+[1607862869.000737] 40 bytes from media.columbiastate.edu (198.146.104.18): icmp_seq=37 ttl=42 time=133 ms
+[1607862875.005414] 40 bytes from singlesignon.columbiastate.edu (198.146.104.18): icmp_seq=38 ttl=42 time=132 ms
+[1607862875.140132] 40 bytes from coscc.cc.tn.us (198.146.104.18): icmp_seq=39 ttl=42 time=133 ms
+[1607862881.144329] 40 bytes from coscc.cc.tn.us (198.146.104.18): icmp_seq=40 ttl=42 time=133 ms
+[1607862881.297521] 40 bytes from media.columbiastate.edu (198.146.104.18): icmp_seq=41 ttl=42 time=151 ms
+[1607862882.280933] 40 bytes from coscc.cc.tn.us (198.146.104.18): icmp_seq=42 ttl=42 time=133 ms
+[1607862883.280781] 40 bytes from coscc.cc.tn.us (198.146.104.18): icmp_seq=43 ttl=42 time=133 ms
+[1607862884.280901] 40 bytes from columbiastate.edu (198.146.104.18): icmp_seq=44 ttl=42 time=133 ms
+[1607862885.281670] 40 bytes from www.columbiastate.edu (198.146.104.18): icmp_seq=45 ttl=42 time=132 ms
+[1607862886.282562] 40 bytes from columbiastate.edu (198.146.104.18): icmp_seq=46 ttl=42 time=133 ms
+[1607862887.283352] 40 bytes from www.columbiastate.edu (198.146.104.18): icmp_seq=47 ttl=42 time=133 ms
+[1607862888.284655] 40 bytes from coscc.cc.tn.us (198.146.104.18): icmp_seq=48 ttl=42 time=133 ms
+[1607862889.287242] 40 bytes from www.columbiastate.edu (198.146.104.18): icmp_seq=49 ttl=42 time=134 ms
+[1607862890.288718] 40 bytes from coscc.cc.tn.us (198.146.104.18): icmp_seq=50 ttl=42 time=134 ms
+
+--- columbiastate.edu ping statistics ---
+50 packets transmitted, 50 received, 0% packet loss, time 174399ms
+rtt min/avg/max/mdev = 132.282/140.146/457.469/45.410 ms

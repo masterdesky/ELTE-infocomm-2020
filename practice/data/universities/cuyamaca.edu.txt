@@ -1,0 +1,5 @@
+PING cuyamaca.edu (68.169.16.229) 32(60) bytes of data.
+
+--- cuyamaca.edu ping statistics ---
+50 packets transmitted, 0 received, 100% packet loss, time 49332ms
+

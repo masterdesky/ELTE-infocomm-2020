@@ -1,0 +1,55 @@
+PING berklee.edu (107.22.233.195) 32(60) bytes of data.
+[1607862681.978317] 40 bytes from ec2-107-22-233-195.compute-1.amazonaws.com (107.22.233.195): icmp_seq=1 ttl=42 time=114 ms
+[1607862692.990028] 40 bytes from 107.22.233.195: icmp_seq=2 ttl=42 time=114 ms
+[1607862693.106400] 40 bytes from ec2-107-22-233-195.compute-1.amazonaws.com (107.22.233.195): icmp_seq=3 ttl=42 time=114 ms
+[1607862694.107397] 40 bytes from ec2-107-22-233-195.compute-1.amazonaws.com (107.22.233.195): icmp_seq=4 ttl=42 time=114 ms
+[1607862695.105752] 40 bytes from ec2-107-22-233-195.compute-1.amazonaws.com (107.22.233.195): icmp_seq=5 ttl=42 time=114 ms
+[1607862706.110327] 40 bytes from 107.22.233.195: icmp_seq=6 ttl=42 time=114 ms
+[1607862706.227022] 40 bytes from ec2-107-22-233-195.compute-1.amazonaws.com (107.22.233.195): icmp_seq=7 ttl=42 time=114 ms
+[1607862717.230007] 40 bytes from 107.22.233.195: icmp_seq=8 ttl=42 time=113 ms
+[1607862727.350647] 40 bytes from 107.22.233.195: icmp_seq=9 ttl=42 time=114 ms
+[1607862727.467406] 40 bytes from ec2-107-22-233-195.compute-1.amazonaws.com (107.22.233.195): icmp_seq=10 ttl=42 time=114 ms
+[1607862728.468365] 40 bytes from ec2-107-22-233-195.compute-1.amazonaws.com (107.22.233.195): icmp_seq=11 ttl=42 time=114 ms
+[1607862729.469369] 40 bytes from ec2-107-22-233-195.compute-1.amazonaws.com (107.22.233.195): icmp_seq=12 ttl=42 time=114 ms
+[1607862735.476412] 40 bytes from ec2-107-22-233-195.compute-1.amazonaws.com (107.22.233.195): icmp_seq=13 ttl=42 time=114 ms
+[1607862740.595737] 40 bytes from ec2-107-22-233-195.compute-1.amazonaws.com (107.22.233.195): icmp_seq=14 ttl=42 time=114 ms
+[1607862745.715875] 40 bytes from ec2-107-22-233-195.compute-1.amazonaws.com (107.22.233.195): icmp_seq=15 ttl=42 time=114 ms
+[1607862750.835263] 40 bytes from ec2-107-22-233-195.compute-1.amazonaws.com (107.22.233.195): icmp_seq=16 ttl=42 time=114 ms
+[1607862760.958047] 40 bytes from 107.22.233.195: icmp_seq=17 ttl=42 time=114 ms
+[1607862761.075132] 40 bytes from ec2-107-22-233-195.compute-1.amazonaws.com (107.22.233.195): icmp_seq=18 ttl=42 time=114 ms
+[1607862762.073547] 40 bytes from ec2-107-22-233-195.compute-1.amazonaws.com (107.22.233.195): icmp_seq=19 ttl=42 time=114 ms
+[1607862763.073244] 40 bytes from ec2-107-22-233-195.compute-1.amazonaws.com (107.22.233.195): icmp_seq=20 ttl=42 time=113 ms
+[1607862764.073337] 40 bytes from ec2-107-22-233-195.compute-1.amazonaws.com (107.22.233.195): icmp_seq=21 ttl=42 time=114 ms
+[1607862770.076376] 40 bytes from ec2-107-22-233-195.compute-1.amazonaws.com (107.22.233.195): icmp_seq=22 ttl=42 time=114 ms
+[1607862775.195490] 40 bytes from ec2-107-22-233-195.compute-1.amazonaws.com (107.22.233.195): icmp_seq=23 ttl=42 time=114 ms
+[1607862775.311939] 40 bytes from ec2-107-22-233-195.compute-1.amazonaws.com (107.22.233.195): icmp_seq=24 ttl=42 time=114 ms
+[1607862786.319366] 40 bytes from 107.22.233.195: icmp_seq=25 ttl=42 time=114 ms
+[1607862796.442005] 40 bytes from 107.22.233.195: icmp_seq=26 ttl=42 time=114 ms
+[1607862796.558765] 40 bytes from ec2-107-22-233-195.compute-1.amazonaws.com (107.22.233.195): icmp_seq=27 ttl=42 time=115 ms
+[1607862797.557810] 40 bytes from ec2-107-22-233-195.compute-1.amazonaws.com (107.22.233.195): icmp_seq=28 ttl=42 time=114 ms
+[1607862798.559232] 40 bytes from ec2-107-22-233-195.compute-1.amazonaws.com (107.22.233.195): icmp_seq=29 ttl=42 time=114 ms
+[1607862799.560512] 40 bytes from ec2-107-22-233-195.compute-1.amazonaws.com (107.22.233.195): icmp_seq=30 ttl=42 time=114 ms
+[1607862800.562831] 40 bytes from ec2-107-22-233-195.compute-1.amazonaws.com (107.22.233.195): icmp_seq=31 ttl=42 time=115 ms
+[1607862801.562257] 40 bytes from ec2-107-22-233-195.compute-1.amazonaws.com (107.22.233.195): icmp_seq=32 ttl=42 time=114 ms
+[1607862812.570010] 40 bytes from 107.22.233.195: icmp_seq=33 ttl=42 time=114 ms
+[1607862812.686051] 40 bytes from ec2-107-22-233-195.compute-1.amazonaws.com (107.22.233.195): icmp_seq=34 ttl=42 time=114 ms
+[1607862813.686989] 40 bytes from ec2-107-22-233-195.compute-1.amazonaws.com (107.22.233.195): icmp_seq=35 ttl=42 time=114 ms
+[1607862814.688280] 40 bytes from ec2-107-22-233-195.compute-1.amazonaws.com (107.22.233.195): icmp_seq=36 ttl=42 time=114 ms
+[1607862815.689408] 40 bytes from ec2-107-22-233-195.compute-1.amazonaws.com (107.22.233.195): icmp_seq=37 ttl=42 time=114 ms
+[1607862816.690128] 40 bytes from ec2-107-22-233-195.compute-1.amazonaws.com (107.22.233.195): icmp_seq=38 ttl=42 time=114 ms
+[1607862827.694022] 40 bytes from 107.22.233.195: icmp_seq=39 ttl=42 time=114 ms
+[1607862832.811940] 40 bytes from ec2-107-22-233-195.compute-1.amazonaws.com (107.22.233.195): icmp_seq=40 ttl=42 time=114 ms
+[1607862832.928042] 40 bytes from ec2-107-22-233-195.compute-1.amazonaws.com (107.22.233.195): icmp_seq=41 ttl=42 time=114 ms
+[1607862843.934957] 40 bytes from 107.22.233.195: icmp_seq=42 ttl=42 time=114 ms
+[1607862849.055899] 40 bytes from ec2-107-22-233-195.compute-1.amazonaws.com (107.22.233.195): icmp_seq=43 ttl=42 time=114 ms
+[1607862859.178010] 40 bytes from 107.22.233.195: icmp_seq=44 ttl=42 time=114 ms
+[1607862864.300054] 40 bytes from ec2-107-22-233-195.compute-1.amazonaws.com (107.22.233.195): icmp_seq=45 ttl=42 time=116 ms
+[1607862864.416152] 40 bytes from ec2-107-22-233-195.compute-1.amazonaws.com (107.22.233.195): icmp_seq=46 ttl=42 time=114 ms
+[1607862870.419259] 40 bytes from ec2-107-22-233-195.compute-1.amazonaws.com (107.22.233.195): icmp_seq=47 ttl=42 time=114 ms
+[1607862870.535722] 40 bytes from ec2-107-22-233-195.compute-1.amazonaws.com (107.22.233.195): icmp_seq=48 ttl=42 time=114 ms
+[1607862871.535909] 40 bytes from ec2-107-22-233-195.compute-1.amazonaws.com (107.22.233.195): icmp_seq=49 ttl=42 time=114 ms
+[1607862872.537651] 40 bytes from ec2-107-22-233-195.compute-1.amazonaws.com (107.22.233.195): icmp_seq=50 ttl=42 time=114 ms
+
+--- berklee.edu ping statistics ---
+50 packets transmitted, 50 received, 0% packet loss, time 190560ms
+rtt min/avg/max/mdev = 113.415/114.157/116.056/0.385 ms

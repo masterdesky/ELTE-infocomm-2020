@@ -1,0 +1,5 @@
+PING uams.edu (144.30.2.72) 32(60) bytes of data.
+
+--- uams.edu ping statistics ---
+50 packets transmitted, 0 received, 100% packet loss, time 49630ms
+

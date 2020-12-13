@@ -1,0 +1,55 @@
+PING trenholmstate.edu (70.32.95.82) 32(60) bytes of data.
+[1607862668.389291] 40 bytes from llpw-5c8p.accessdomain.com (70.32.95.82): icmp_seq=1 ttl=49 time=105 ms
+[1607862669.390275] 40 bytes from llpw-5c8p.accessdomain.com (70.32.95.82): icmp_seq=2 ttl=49 time=105 ms
+[1607862680.398035] 40 bytes from 70.32.95.82: icmp_seq=3 ttl=49 time=106 ms
+[1607862680.505763] 40 bytes from llpw-5c8p.accessdomain.com (70.32.95.82): icmp_seq=4 ttl=49 time=105 ms
+[1607862681.506314] 40 bytes from llpw-5c8p.accessdomain.com (70.32.95.82): icmp_seq=5 ttl=49 time=105 ms
+[1607862692.514007] 40 bytes from 70.32.95.82: icmp_seq=6 ttl=49 time=105 ms
+[1607862692.620809] 40 bytes from llpw-5c8p.accessdomain.com (70.32.95.82): icmp_seq=7 ttl=49 time=104 ms
+[1607862703.630038] 40 bytes from 70.32.95.82: icmp_seq=8 ttl=49 time=105 ms
+[1607862703.737767] 40 bytes from llpw-5c8p.accessdomain.com (70.32.95.82): icmp_seq=9 ttl=49 time=105 ms
+[1607862704.744263] 40 bytes from llpw-5c8p.accessdomain.com (70.32.95.82): icmp_seq=10 ttl=49 time=112 ms
+[1607862715.742395] 40 bytes from 70.32.95.82: icmp_seq=11 ttl=49 time=105 ms
+[1607862720.852739] 40 bytes from llpw-5c8p.accessdomain.com (70.32.95.82): icmp_seq=12 ttl=49 time=105 ms
+[1607862725.963935] 40 bytes from llpw-5c8p.accessdomain.com (70.32.95.82): icmp_seq=13 ttl=49 time=105 ms
+[1607862726.070843] 40 bytes from llpw-5c8p.accessdomain.com (70.32.95.82): icmp_seq=14 ttl=49 time=105 ms
+[1607862737.074089] 40 bytes from 70.32.95.82: icmp_seq=15 ttl=49 time=105 ms
+[1607862742.183941] 40 bytes from llpw-5c8p.accessdomain.com (70.32.95.82): icmp_seq=16 ttl=49 time=105 ms
+[1607862747.296042] 40 bytes from llpw-5c8p.accessdomain.com (70.32.95.82): icmp_seq=17 ttl=49 time=105 ms
+[1607862747.403058] 40 bytes from llpw-5c8p.accessdomain.com (70.32.95.82): icmp_seq=18 ttl=49 time=105 ms
+[1607862748.403775] 40 bytes from llpw-5c8p.accessdomain.com (70.32.95.82): icmp_seq=19 ttl=49 time=105 ms
+[1607862749.404938] 40 bytes from llpw-5c8p.accessdomain.com (70.32.95.82): icmp_seq=20 ttl=49 time=105 ms
+[1607862750.403943] 40 bytes from llpw-5c8p.accessdomain.com (70.32.95.82): icmp_seq=21 ttl=49 time=104 ms
+[1607862751.405264] 40 bytes from llpw-5c8p.accessdomain.com (70.32.95.82): icmp_seq=22 ttl=49 time=105 ms
+[1607862752.405307] 40 bytes from llpw-5c8p.accessdomain.com (70.32.95.82): icmp_seq=23 ttl=49 time=104 ms
+[1607862753.407934] 40 bytes from llpw-5c8p.accessdomain.com (70.32.95.82): icmp_seq=24 ttl=49 time=105 ms
+[1607862754.407412] 40 bytes from llpw-5c8p.accessdomain.com (70.32.95.82): icmp_seq=25 ttl=49 time=105 ms
+[1607862755.408313] 40 bytes from llpw-5c8p.accessdomain.com (70.32.95.82): icmp_seq=26 ttl=49 time=105 ms
+[1607862766.542025] 40 bytes from 70.32.95.82: icmp_seq=27 ttl=49 time=232 ms
+[1607862766.648766] 40 bytes from llpw-5c8p.accessdomain.com (70.32.95.82): icmp_seq=28 ttl=49 time=104 ms
+[1607862767.650187] 40 bytes from llpw-5c8p.accessdomain.com (70.32.95.82): icmp_seq=29 ttl=49 time=105 ms
+[1607862768.650041] 40 bytes from llpw-5c8p.accessdomain.com (70.32.95.82): icmp_seq=30 ttl=49 time=105 ms
+[1607862769.649548] 40 bytes from llpw-5c8p.accessdomain.com (70.32.95.82): icmp_seq=31 ttl=49 time=105 ms
+[1607862780.654320] 40 bytes from 70.32.95.82: icmp_seq=32 ttl=49 time=104 ms
+[1607862785.762973] 40 bytes from llpw-5c8p.accessdomain.com (70.32.95.82): icmp_seq=33 ttl=49 time=105 ms
+[1607862785.870299] 40 bytes from llpw-5c8p.accessdomain.com (70.32.95.82): icmp_seq=34 ttl=49 time=105 ms
+[1607862791.873471] 40 bytes from llpw-5c8p.accessdomain.com (70.32.95.82): icmp_seq=35 ttl=49 time=105 ms
+[1607862801.986039] 40 bytes from 70.32.95.82: icmp_seq=36 ttl=49 time=105 ms
+[1607862802.093440] 40 bytes from llpw-5c8p.accessdomain.com (70.32.95.82): icmp_seq=37 ttl=49 time=105 ms
+[1607862803.093080] 40 bytes from llpw-5c8p.accessdomain.com (70.32.95.82): icmp_seq=38 ttl=49 time=105 ms
+[1607862804.092749] 40 bytes from llpw-5c8p.accessdomain.com (70.32.95.82): icmp_seq=39 ttl=49 time=105 ms
+[1607862805.093400] 40 bytes from llpw-5c8p.accessdomain.com (70.32.95.82): icmp_seq=40 ttl=49 time=105 ms
+[1607862806.093389] 40 bytes from llpw-5c8p.accessdomain.com (70.32.95.82): icmp_seq=41 ttl=49 time=105 ms
+[1607862817.098022] 40 bytes from 70.32.95.82: icmp_seq=42 ttl=49 time=105 ms
+[1607862817.205484] 40 bytes from llpw-5c8p.accessdomain.com (70.32.95.82): icmp_seq=43 ttl=49 time=105 ms
+[1607862818.204402] 40 bytes from llpw-5c8p.accessdomain.com (70.32.95.82): icmp_seq=44 ttl=49 time=105 ms
+[1607862819.205594] 40 bytes from llpw-5c8p.accessdomain.com (70.32.95.82): icmp_seq=45 ttl=49 time=105 ms
+[1607862820.205457] 40 bytes from llpw-5c8p.accessdomain.com (70.32.95.82): icmp_seq=46 ttl=49 time=105 ms
+[1607862821.205363] 40 bytes from llpw-5c8p.accessdomain.com (70.32.95.82): icmp_seq=47 ttl=49 time=105 ms
+[1607862822.206685] 40 bytes from llpw-5c8p.accessdomain.com (70.32.95.82): icmp_seq=48 ttl=49 time=105 ms
+[1607862833.210066] 40 bytes from 70.32.95.82: icmp_seq=49 ttl=49 time=104 ms
+[1607862833.317716] 40 bytes from llpw-5c8p.accessdomain.com (70.32.95.82): icmp_seq=50 ttl=49 time=105 ms
+
+--- trenholmstate.edu ping statistics ---
+50 packets transmitted, 50 received, 0% packet loss, time 164928ms
+rtt min/avg/max/mdev = 104.288/107.739/231.580/17.723 ms

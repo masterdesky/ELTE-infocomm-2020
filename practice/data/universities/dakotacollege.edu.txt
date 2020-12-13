@@ -1,0 +1,55 @@
+PING dakotacollege.edu (165.234.214.115) 32(60) bytes of data.
+[1607862690.782288] From 165.234.214.115 (165.234.214.115) icmp_seq=1 Destination Port Unreachable
+[1607862691.778443] From 165.234.214.115 icmp_seq=2 Destination Port Unreachable
+[1607862701.930906] From 165.234.214.115 (165.234.214.115) icmp_seq=3 Destination Port Unreachable
+[1607862707.080999] From 165.234.214.115 icmp_seq=4 Destination Port Unreachable
+[1607862717.235671] From 165.234.214.115 (165.234.214.115) icmp_seq=5 Destination Port Unreachable
+[1607862718.238822] From 165.234.214.115 (165.234.214.115) icmp_seq=6 Destination Port Unreachable
+[1607862719.237692] From 165.234.214.115 (165.234.214.115) icmp_seq=7 Destination Port Unreachable
+[1607862724.389225] From 165.234.214.115 (165.234.214.115) icmp_seq=8 Destination Port Unreachable
+[1607862729.540754] From 165.234.214.115 (165.234.214.115) icmp_seq=9 Destination Port Unreachable
+[1607862730.545495] From 165.234.214.115 (165.234.214.115) icmp_seq=10 Destination Port Unreachable
+[1607862731.543103] From 165.234.214.115 (165.234.214.115) icmp_seq=11 Destination Port Unreachable
+[1607862732.545167] From 165.234.214.115 (165.234.214.115) icmp_seq=12 Destination Port Unreachable
+[1607862733.543567] From 165.234.214.115 (165.234.214.115) icmp_seq=13 Destination Port Unreachable
+[1607862734.545444] From 165.234.214.115 (165.234.214.115) icmp_seq=14 Destination Port Unreachable
+[1607862735.546724] From 165.234.214.115 (165.234.214.115) icmp_seq=15 Destination Port Unreachable
+[1607862736.548255] From 165.234.214.115 (165.234.214.115) icmp_seq=16 Destination Port Unreachable
+[1607862737.548762] From 165.234.214.115 (165.234.214.115) icmp_seq=17 Destination Port Unreachable
+[1607862738.547641] From 165.234.214.115 (165.234.214.115) icmp_seq=18 Destination Port Unreachable
+[1607862739.548390] From 165.234.214.115 icmp_seq=19 Destination Port Unreachable
+[1607862749.699764] From 165.234.214.115 (165.234.214.115) icmp_seq=20 Destination Port Unreachable
+[1607862750.699092] From 165.234.214.115 (165.234.214.115) icmp_seq=21 Destination Port Unreachable
+[1607862751.698644] From 165.234.214.115 (165.234.214.115) icmp_seq=22 Destination Port Unreachable
+[1607862752.698735] From 165.234.214.115 (165.234.214.115) icmp_seq=23 Destination Port Unreachable
+[1607862753.700501] From 165.234.214.115 (165.234.214.115) icmp_seq=24 Destination Port Unreachable
+[1607862754.702296] From 165.234.214.115 (165.234.214.115) icmp_seq=25 Destination Port Unreachable
+[1607862759.851221] From 165.234.214.115 (165.234.214.115) icmp_seq=26 Destination Port Unreachable
+[1607862760.851815] From 165.234.214.115 (165.234.214.115) icmp_seq=27 Destination Port Unreachable
+[1607862761.851701] From 165.234.214.115 (165.234.214.115) icmp_seq=28 Destination Port Unreachable
+[1607862762.851193] From 165.234.214.115 (165.234.214.115) icmp_seq=29 Destination Port Unreachable
+[1607862768.001302] From 165.234.214.115 (165.234.214.115) icmp_seq=30 Destination Port Unreachable
+[1607862773.152134] From 165.234.214.115 (165.234.214.115) icmp_seq=31 Destination Port Unreachable
+[1607862774.153791] From 165.234.214.115 (165.234.214.115) icmp_seq=32 Destination Port Unreachable
+[1607862775.154384] From 165.234.214.115 (165.234.214.115) icmp_seq=33 Destination Port Unreachable
+[1607862776.155335] From 165.234.214.115 (165.234.214.115) icmp_seq=34 Destination Port Unreachable
+[1607862777.156671] From 165.234.214.115 (165.234.214.115) icmp_seq=35 Destination Port Unreachable
+[1607862778.156543] From 165.234.214.115 (165.234.214.115) icmp_seq=36 Destination Port Unreachable
+[1607862779.157723] From 165.234.214.115 (165.234.214.115) icmp_seq=37 Destination Port Unreachable
+[1607862780.158510] From 165.234.214.115 (165.234.214.115) icmp_seq=38 Destination Port Unreachable
+[1607862781.160975] From 165.234.214.115 (165.234.214.115) icmp_seq=39 Destination Port Unreachable
+[1607862786.312046] From 165.234.214.115 icmp_seq=40 Destination Port Unreachable
+[1607862796.462224] From 165.234.214.115 (165.234.214.115) icmp_seq=41 Destination Port Unreachable
+[1607862797.462502] From 165.234.214.115 (165.234.214.115) icmp_seq=42 Destination Port Unreachable
+[1607862798.462228] From 165.234.214.115 (165.234.214.115) icmp_seq=43 Destination Port Unreachable
+[1607862799.462741] From 165.234.214.115 (165.234.214.115) icmp_seq=44 Destination Port Unreachable
+[1607862800.463269] From 165.234.214.115 (165.234.214.115) icmp_seq=45 Destination Port Unreachable
+[1607862801.463219] From 165.234.214.115 (165.234.214.115) icmp_seq=46 Destination Port Unreachable
+[1607862802.464702] From 165.234.214.115 (165.234.214.115) icmp_seq=47 Destination Port Unreachable
+[1607862803.466077] From 165.234.214.115 (165.234.214.115) icmp_seq=48 Destination Port Unreachable
+[1607862804.466512] From 165.234.214.115 (165.234.214.115) icmp_seq=49 Destination Port Unreachable
+[1607862805.467025] From 165.234.214.115 (165.234.214.115) icmp_seq=50 Destination Port Unreachable
+
+--- dakotacollege.edu ping statistics ---
+50 packets transmitted, 0 received, +50 errors, 100% packet loss, time 114688ms
+

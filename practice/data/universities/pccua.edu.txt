@@ -1,0 +1,55 @@
+PING pccua.edu (104.130.70.88) 32(60) bytes of data.
+[1607862668.582430] 40 bytes from 104.130.70.88 (104.130.70.88): icmp_seq=1 ttl=49 time=117 ms
+[1607862679.590005] 40 bytes from 104.130.70.88: icmp_seq=2 ttl=49 time=117 ms
+[1607862689.714005] 40 bytes from 104.130.70.88: icmp_seq=3 ttl=49 time=117 ms
+[1607862699.838023] 40 bytes from 104.130.70.88: icmp_seq=4 ttl=49 time=117 ms
+[1607862699.957794] 40 bytes from 104.130.70.88 (104.130.70.88): icmp_seq=5 ttl=49 time=118 ms
+[1607862705.961767] 40 bytes from 104.130.70.88 (104.130.70.88): icmp_seq=6 ttl=49 time=116 ms
+[1607862711.085534] 40 bytes from 104.130.70.88 (104.130.70.88): icmp_seq=7 ttl=49 time=117 ms
+[1607862711.205310] 40 bytes from 104.130.70.88 (104.130.70.88): icmp_seq=8 ttl=49 time=117 ms
+[1607862722.210100] 40 bytes from 104.130.70.88: icmp_seq=9 ttl=49 time=117 ms
+[1607862722.329980] 40 bytes from 104.130.70.88 (104.130.70.88): icmp_seq=10 ttl=49 time=118 ms
+[1607862723.331556] 40 bytes from 104.130.70.88 (104.130.70.88): icmp_seq=11 ttl=49 time=117 ms
+[1607862729.336006] 40 bytes from 104.130.70.88 (104.130.70.88): icmp_seq=12 ttl=49 time=117 ms
+[1607862729.455767] 40 bytes from 104.130.70.88 (104.130.70.88): icmp_seq=13 ttl=49 time=117 ms
+[1607862730.456286] 40 bytes from 104.130.70.88 (104.130.70.88): icmp_seq=14 ttl=49 time=117 ms
+[1607862731.456911] 40 bytes from 104.130.70.88 (104.130.70.88): icmp_seq=15 ttl=49 time=116 ms
+[1607862742.462333] 40 bytes from 104.130.70.88: icmp_seq=16 ttl=49 time=116 ms
+[1607862747.584214] 40 bytes from 104.130.70.88 (104.130.70.88): icmp_seq=17 ttl=49 time=117 ms
+[1607862752.707455] 40 bytes from 104.130.70.88 (104.130.70.88): icmp_seq=18 ttl=49 time=117 ms
+[1607862752.826682] 40 bytes from 104.130.70.88 (104.130.70.88): icmp_seq=19 ttl=49 time=117 ms
+[1607862753.825729] 40 bytes from 104.130.70.88 (104.130.70.88): icmp_seq=20 ttl=49 time=117 ms
+[1607862759.828984] 40 bytes from 104.130.70.88 (104.130.70.88): icmp_seq=21 ttl=49 time=117 ms
+[1607862764.952013] 40 bytes from 104.130.70.88 (104.130.70.88): icmp_seq=22 ttl=49 time=117 ms
+[1607862770.076330] 40 bytes from 104.130.70.88 (104.130.70.88): icmp_seq=23 ttl=49 time=117 ms
+[1607862770.194915] 40 bytes from 104.130.70.88 (104.130.70.88): icmp_seq=24 ttl=49 time=117 ms
+[1607862776.199884] 40 bytes from 104.130.70.88 (104.130.70.88): icmp_seq=25 ttl=49 time=117 ms
+[1607862786.326007] 40 bytes from 104.130.70.88: icmp_seq=26 ttl=49 time=117 ms
+[1607862786.445577] 40 bytes from 104.130.70.88 (104.130.70.88): icmp_seq=27 ttl=49 time=117 ms
+[1607862787.444397] 40 bytes from 104.130.70.88 (104.130.70.88): icmp_seq=28 ttl=49 time=117 ms
+[1607862788.445293] 40 bytes from 104.130.70.88 (104.130.70.88): icmp_seq=29 ttl=49 time=117 ms
+[1607862789.446610] 40 bytes from 104.130.70.88 (104.130.70.88): icmp_seq=30 ttl=49 time=117 ms
+[1607862790.448447] 40 bytes from 104.130.70.88 (104.130.70.88): icmp_seq=31 ttl=49 time=117 ms
+[1607862801.454017] 40 bytes from 104.130.70.88: icmp_seq=32 ttl=49 time=116 ms
+[1607862801.573609] 40 bytes from 104.130.70.88 (104.130.70.88): icmp_seq=33 ttl=49 time=118 ms
+[1607862802.574504] 40 bytes from 104.130.70.88 (104.130.70.88): icmp_seq=34 ttl=49 time=117 ms
+[1607862803.574328] 40 bytes from 104.130.70.88 (104.130.70.88): icmp_seq=35 ttl=49 time=117 ms
+[1607862804.575482] 40 bytes from 104.130.70.88 (104.130.70.88): icmp_seq=36 ttl=49 time=117 ms
+[1607862805.576922] 40 bytes from 104.130.70.88 (104.130.70.88): icmp_seq=37 ttl=49 time=117 ms
+[1607862806.577209] 40 bytes from 104.130.70.88 (104.130.70.88): icmp_seq=38 ttl=49 time=117 ms
+[1607862807.578421] 40 bytes from 104.130.70.88 (104.130.70.88): icmp_seq=39 ttl=49 time=117 ms
+[1607862808.578521] 40 bytes from 104.130.70.88 (104.130.70.88): icmp_seq=40 ttl=49 time=117 ms
+[1607862809.577774] 40 bytes from 104.130.70.88 (104.130.70.88): icmp_seq=41 ttl=49 time=117 ms
+[1607862810.578424] 40 bytes from 104.130.70.88 (104.130.70.88): icmp_seq=42 ttl=49 time=117 ms
+[1607862811.578751] 40 bytes from 104.130.70.88 (104.130.70.88): icmp_seq=43 ttl=49 time=117 ms
+[1607862812.578422] 40 bytes from 104.130.70.88 (104.130.70.88): icmp_seq=44 ttl=49 time=117 ms
+[1607862813.578831] 40 bytes from 104.130.70.88 (104.130.70.88): icmp_seq=45 ttl=49 time=117 ms
+[1607862814.579767] 40 bytes from 104.130.70.88 (104.130.70.88): icmp_seq=46 ttl=49 time=117 ms
+[1607862815.581571] 40 bytes from 104.130.70.88 (104.130.70.88): icmp_seq=47 ttl=49 time=117 ms
+[1607862816.582790] 40 bytes from 104.130.70.88 (104.130.70.88): icmp_seq=48 ttl=49 time=117 ms
+[1607862827.590115] 40 bytes from 104.130.70.88: icmp_seq=49 ttl=49 time=117 ms
+[1607862827.710080] 40 bytes from 104.130.70.88 (104.130.70.88): icmp_seq=50 ttl=49 time=118 ms
+
+--- pccua.edu ping statistics ---
+50 packets transmitted, 50 received, 0% packet loss, time 159127ms
+rtt min/avg/max/mdev = 116.255/117.064/117.557/0.335 ms

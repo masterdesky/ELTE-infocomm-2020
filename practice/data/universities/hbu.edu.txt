@@ -1,0 +1,55 @@
+PING hbu.edu (159.65.175.55) 32(60) bytes of data.
+[1607862718.682309] 40 bytes from 159.65.175.55: icmp_seq=1 ttl=44 time=122 ms
+[1607862718.992751] 40 bytes from hbu.wpmudev.host (159.65.175.55): icmp_seq=2 ttl=44 time=122 ms
+[1607862719.805313] 40 bytes from hbu.wpmudev.host (159.65.175.55): icmp_seq=3 ttl=44 time=121 ms
+[1607862720.804379] 40 bytes from hbu.wpmudev.host (159.65.175.55): icmp_seq=4 ttl=44 time=121 ms
+[1607862721.807666] 40 bytes from hbu.wpmudev.host (159.65.175.55): icmp_seq=5 ttl=44 time=122 ms
+[1607862722.808096] 40 bytes from hbu.wpmudev.host (159.65.175.55): icmp_seq=6 ttl=44 time=121 ms
+[1607862723.807465] 40 bytes from hbu.wpmudev.host (159.65.175.55): icmp_seq=7 ttl=44 time=121 ms
+[1607862724.807598] 40 bytes from hbu.wpmudev.host (159.65.175.55): icmp_seq=8 ttl=44 time=122 ms
+[1607862725.807269] 40 bytes from hbu.wpmudev.host (159.65.175.55): icmp_seq=9 ttl=44 time=122 ms
+[1607862736.814418] 40 bytes from 159.65.175.55: icmp_seq=10 ttl=44 time=122 ms
+[1607862746.942038] 40 bytes from 159.65.175.55: icmp_seq=11 ttl=44 time=121 ms
+[1607862747.065106] 40 bytes from hbu.wpmudev.host (159.65.175.55): icmp_seq=12 ttl=44 time=121 ms
+[1607862748.065271] 40 bytes from hbu.wpmudev.host (159.65.175.55): icmp_seq=13 ttl=44 time=122 ms
+[1607862749.065152] 40 bytes from hbu.wpmudev.host (159.65.175.55): icmp_seq=14 ttl=44 time=121 ms
+[1607862750.065399] 40 bytes from hbu.wpmudev.host (159.65.175.55): icmp_seq=15 ttl=44 time=122 ms
+[1607862751.065064] 40 bytes from hbu.wpmudev.host (159.65.175.55): icmp_seq=16 ttl=44 time=122 ms
+[1607862752.064576] 40 bytes from hbu.wpmudev.host (159.65.175.55): icmp_seq=17 ttl=44 time=122 ms
+[1607862753.064001] 40 bytes from hbu.wpmudev.host (159.65.175.55): icmp_seq=18 ttl=44 time=122 ms
+[1607862754.062321] 40 bytes from hbu.wpmudev.host (159.65.175.55): icmp_seq=19 ttl=44 time=121 ms
+[1607862760.067290] 40 bytes from hbu.wpmudev.host (159.65.175.55): icmp_seq=20 ttl=44 time=121 ms
+[1607862765.195974] 40 bytes from hbu.wpmudev.host (159.65.175.55): icmp_seq=21 ttl=44 time=122 ms
+[1607862775.326091] 40 bytes from 159.65.175.55: icmp_seq=22 ttl=44 time=122 ms
+[1607862780.452310] 40 bytes from hbu.wpmudev.host (159.65.175.55): icmp_seq=23 ttl=44 time=122 ms
+[1607862780.575965] 40 bytes from hbu.wpmudev.host (159.65.175.55): icmp_seq=24 ttl=44 time=122 ms
+[1607862786.580297] 40 bytes from hbu.wpmudev.host (159.65.175.55): icmp_seq=25 ttl=44 time=122 ms
+[1607862786.704054] 40 bytes from hbu.wpmudev.host (159.65.175.55): icmp_seq=26 ttl=44 time=122 ms
+[1607862797.710012] 40 bytes from 159.65.175.55: icmp_seq=27 ttl=44 time=122 ms
+[1607862797.833442] 40 bytes from hbu.wpmudev.host (159.65.175.55): icmp_seq=28 ttl=44 time=122 ms
+[1607862798.832673] 40 bytes from hbu.wpmudev.host (159.65.175.55): icmp_seq=29 ttl=44 time=121 ms
+[1607862799.833407] 40 bytes from hbu.wpmudev.host (159.65.175.55): icmp_seq=30 ttl=44 time=122 ms
+[1607862800.832295] 40 bytes from hbu.wpmudev.host (159.65.175.55): icmp_seq=31 ttl=44 time=122 ms
+[1607862811.838025] 40 bytes from 159.65.175.55: icmp_seq=32 ttl=44 time=122 ms
+[1607862811.962322] 40 bytes from hbu.wpmudev.host (159.65.175.55): icmp_seq=33 ttl=44 time=122 ms
+[1607862822.966322] 40 bytes from 159.65.175.55: icmp_seq=34 ttl=44 time=122 ms
+[1607862833.094094] 40 bytes from 159.65.175.55: icmp_seq=35 ttl=44 time=122 ms
+[1607862843.222083] 40 bytes from 159.65.175.55: icmp_seq=36 ttl=44 time=122 ms
+[1607862843.345456] 40 bytes from hbu.wpmudev.host (159.65.175.55): icmp_seq=37 ttl=44 time=122 ms
+[1607862854.354170] 40 bytes from 159.65.175.55: icmp_seq=38 ttl=44 time=121 ms
+[1607862864.482042] 40 bytes from 159.65.175.55: icmp_seq=39 ttl=44 time=122 ms
+[1607862864.604439] 40 bytes from hbu.wpmudev.host (159.65.175.55): icmp_seq=40 ttl=44 time=121 ms
+[1607862865.607094] 40 bytes from hbu.wpmudev.host (159.65.175.55): icmp_seq=41 ttl=44 time=122 ms
+[1607862866.607869] 40 bytes from hbu.wpmudev.host (159.65.175.55): icmp_seq=42 ttl=44 time=122 ms
+[1607862867.609749] 40 bytes from hbu.wpmudev.host (159.65.175.55): icmp_seq=43 ttl=44 time=122 ms
+[1607862868.610015] 40 bytes from hbu.wpmudev.host (159.65.175.55): icmp_seq=44 ttl=44 time=122 ms
+[1607862869.612528] 40 bytes from hbu.wpmudev.host (159.65.175.55): icmp_seq=45 ttl=44 time=122 ms
+[1607862870.613932] 40 bytes from hbu.wpmudev.host (159.65.175.55): icmp_seq=46 ttl=44 time=122 ms
+[1607862871.615164] 40 bytes from hbu.wpmudev.host (159.65.175.55): icmp_seq=47 ttl=44 time=122 ms
+[1607862872.616696] 40 bytes from hbu.wpmudev.host (159.65.175.55): icmp_seq=48 ttl=44 time=122 ms
+[1607862873.617517] 40 bytes from hbu.wpmudev.host (159.65.175.55): icmp_seq=49 ttl=44 time=122 ms
+[1607862874.618054] 40 bytes from hbu.wpmudev.host (159.65.175.55): icmp_seq=50 ttl=44 time=121 ms
+
+--- hbu.edu ping statistics ---
+50 packets transmitted, 50 received, 0% packet loss, time 165942ms
+rtt min/avg/max/mdev = 120.718/121.574/121.988/0.269 ms

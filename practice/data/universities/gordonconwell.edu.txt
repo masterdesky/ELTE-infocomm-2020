@@ -1,0 +1,55 @@
+PING gordonconwell.edu (104.31.86.209) 32(60) bytes of data.
+[1607862697.235996] 40 bytes from 104.31.86.209 (104.31.86.209): icmp_seq=1 ttl=54 time=36.1 ms
+[1607862698.237320] 40 bytes from 104.31.86.209 (104.31.86.209): icmp_seq=2 ttl=54 time=36.4 ms
+[1607862699.244080] 40 bytes from 104.31.86.209 (104.31.86.209): icmp_seq=3 ttl=54 time=36.5 ms
+[1607862700.245385] 40 bytes from 104.31.86.209 (104.31.86.209): icmp_seq=4 ttl=54 time=36.4 ms
+[1607862701.246368] 40 bytes from 104.31.86.209 (104.31.86.209): icmp_seq=5 ttl=54 time=36.6 ms
+[1607862702.246093] 40 bytes from 104.31.86.209 (104.31.86.209): icmp_seq=6 ttl=54 time=35.7 ms
+[1607862703.247984] 40 bytes from 104.31.86.209 (104.31.86.209): icmp_seq=7 ttl=54 time=35.6 ms
+[1607862714.254013] 40 bytes from 104.31.86.209: icmp_seq=8 ttl=54 time=36.2 ms
+[1607862724.297996] 40 bytes from 104.31.86.209: icmp_seq=9 ttl=54 time=36.3 ms
+[1607862734.342209] 40 bytes from 104.31.86.209: icmp_seq=10 ttl=54 time=36.5 ms
+[1607862739.384020] 40 bytes from 104.31.86.209 (104.31.86.209): icmp_seq=11 ttl=54 time=36.4 ms
+[1607862744.426752] 40 bytes from 104.31.86.209 (104.31.86.209): icmp_seq=12 ttl=54 time=36.1 ms
+[1607862744.465718] 40 bytes from 104.31.86.209 (104.31.86.209): icmp_seq=13 ttl=54 time=36.4 ms
+[1607862745.467826] 40 bytes from 104.31.86.209 (104.31.86.209): icmp_seq=14 ttl=54 time=36.5 ms
+[1607862756.474018] 40 bytes from 104.31.86.209: icmp_seq=15 ttl=54 time=36.0 ms
+[1607862756.512086] 40 bytes from 104.31.86.209 (104.31.86.209): icmp_seq=16 ttl=54 time=35.6 ms
+[1607862757.512434] 40 bytes from 104.31.86.209 (104.31.86.209): icmp_seq=17 ttl=54 time=36.3 ms
+[1607862758.514359] 40 bytes from 104.31.86.209 (104.31.86.209): icmp_seq=18 ttl=54 time=36.5 ms
+[1607862759.516024] 40 bytes from 104.31.86.209 (104.31.86.209): icmp_seq=19 ttl=54 time=36.5 ms
+[1607862760.516730] 40 bytes from 104.31.86.209 (104.31.86.209): icmp_seq=20 ttl=54 time=36.0 ms
+[1607862766.519812] 40 bytes from 104.31.86.209 (104.31.86.209): icmp_seq=21 ttl=54 time=36.4 ms
+[1607862766.559013] 40 bytes from 104.31.86.209 (104.31.86.209): icmp_seq=22 ttl=54 time=37.2 ms
+[1607862767.559480] 40 bytes from 104.31.86.209 (104.31.86.209): icmp_seq=23 ttl=54 time=36.1 ms
+[1607862768.559658] 40 bytes from 104.31.86.209 (104.31.86.209): icmp_seq=24 ttl=54 time=36.4 ms
+[1607862769.559206] 40 bytes from 104.31.86.209 (104.31.86.209): icmp_seq=25 ttl=54 time=36.9 ms
+[1607862780.562038] 40 bytes from 104.31.86.209: icmp_seq=26 ttl=54 time=36.5 ms
+[1607862780.600031] 40 bytes from 104.31.86.209 (104.31.86.209): icmp_seq=27 ttl=54 time=36.0 ms
+[1607862786.604009] 40 bytes from 104.31.86.209 (104.31.86.209): icmp_seq=28 ttl=54 time=36.2 ms
+[1607862796.649999] 40 bytes from 104.31.86.209: icmp_seq=29 ttl=54 time=36.5 ms
+[1607862806.694008] 40 bytes from 104.31.86.209: icmp_seq=30 ttl=54 time=35.7 ms
+[1607862806.732429] 40 bytes from 104.31.86.209 (104.31.86.209): icmp_seq=31 ttl=54 time=36.5 ms
+[1607862817.738352] 40 bytes from 104.31.86.209: icmp_seq=32 ttl=54 time=36.9 ms
+[1607862827.782051] 40 bytes from 104.31.86.209: icmp_seq=33 ttl=54 time=36.5 ms
+[1607862832.823869] 40 bytes from 104.31.86.209 (104.31.86.209): icmp_seq=34 ttl=54 time=35.7 ms
+[1607862832.862730] 40 bytes from 104.31.86.209 (104.31.86.209): icmp_seq=35 ttl=54 time=36.7 ms
+[1607862833.861743] 40 bytes from 104.31.86.209 (104.31.86.209): icmp_seq=36 ttl=54 time=36.4 ms
+[1607862834.861438] 40 bytes from 104.31.86.209 (104.31.86.209): icmp_seq=37 ttl=54 time=36.5 ms
+[1607862835.860720] 40 bytes from 104.31.86.209 (104.31.86.209): icmp_seq=38 ttl=54 time=36.5 ms
+[1607862836.861596] 40 bytes from 104.31.86.209 (104.31.86.209): icmp_seq=39 ttl=54 time=36.1 ms
+[1607862837.862018] 40 bytes from 104.31.86.209 (104.31.86.209): icmp_seq=40 ttl=54 time=36.5 ms
+[1607862838.861333] 40 bytes from 104.31.86.209 (104.31.86.209): icmp_seq=41 ttl=54 time=36.0 ms
+[1607862839.862053] 40 bytes from 104.31.86.209 (104.31.86.209): icmp_seq=42 ttl=54 time=35.6 ms
+[1607862840.865181] 40 bytes from 104.31.86.209 (104.31.86.209): icmp_seq=43 ttl=54 time=37.2 ms
+[1607862841.866842] 40 bytes from 104.31.86.209 (104.31.86.209): icmp_seq=44 ttl=54 time=36.6 ms
+[1607862842.867246] 40 bytes from 104.31.86.209 (104.31.86.209): icmp_seq=45 ttl=54 time=36.2 ms
+[1607862843.867127] 40 bytes from 104.31.86.209 (104.31.86.209): icmp_seq=46 ttl=54 time=36.5 ms
+[1607862844.867866] 40 bytes from 104.31.86.209 (104.31.86.209): icmp_seq=47 ttl=54 time=36.5 ms
+[1607862845.868643] 40 bytes from 104.31.86.209 (104.31.86.209): icmp_seq=48 ttl=54 time=36.6 ms
+[1607862846.867259] 40 bytes from 104.31.86.209 (104.31.86.209): icmp_seq=49 ttl=54 time=36.1 ms
+[1607862847.868052] 40 bytes from 104.31.86.209 (104.31.86.209): icmp_seq=50 ttl=54 time=36.0 ms
+
+--- gordonconwell.edu ping statistics ---
+50 packets transmitted, 50 received, 0% packet loss, time 150632ms
+rtt min/avg/max/mdev = 35.562/36.323/37.241/0.369 ms

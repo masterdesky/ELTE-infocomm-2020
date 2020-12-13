@@ -1,0 +1,5 @@
+PING hendrix.edu (96.31.222.145) 32(60) bytes of data.
+
+--- hendrix.edu ping statistics ---
+50 packets transmitted, 0 received, 100% packet loss, time 49695ms
+

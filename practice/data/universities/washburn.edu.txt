@@ -1,0 +1,55 @@
+PING washburn.edu (198.252.10.3) 32(60) bytes of data.
+[1607862676.906015] 40 bytes from www.washburn.edu (198.252.10.3): icmp_seq=1 ttl=43 time=128 ms
+[1607862677.087215] 40 bytes from www.washburn.edu (198.252.10.3): icmp_seq=2 ttl=43 time=128 ms
+[1607862678.087498] 40 bytes from www.washburn.edu (198.252.10.3): icmp_seq=3 ttl=43 time=128 ms
+[1607862679.086494] 40 bytes from www.washburn.edu (198.252.10.3): icmp_seq=4 ttl=43 time=127 ms
+[1607862680.087625] 40 bytes from www.washburn.edu (198.252.10.3): icmp_seq=5 ttl=43 time=127 ms
+[1607862691.094007] 40 bytes from 198.252.10.3: icmp_seq=6 ttl=43 time=128 ms
+[1607862701.230035] 40 bytes from 198.252.10.3: icmp_seq=7 ttl=43 time=128 ms
+[1607862701.360123] 40 bytes from www.washburn.edu (198.252.10.3): icmp_seq=8 ttl=43 time=128 ms
+[1607862702.361074] 40 bytes from www.washburn.edu (198.252.10.3): icmp_seq=9 ttl=43 time=128 ms
+[1607862703.361503] 40 bytes from www.washburn.edu (198.252.10.3): icmp_seq=10 ttl=43 time=128 ms
+[1607862714.370013] 40 bytes from 198.252.10.3: icmp_seq=11 ttl=43 time=128 ms
+[1607862719.503931] 40 bytes from www.washburn.edu (198.252.10.3): icmp_seq=12 ttl=43 time=128 ms
+[1607862719.634384] 40 bytes from www.washburn.edu (198.252.10.3): icmp_seq=13 ttl=43 time=128 ms
+[1607862720.634594] 40 bytes from www.washburn.edu (198.252.10.3): icmp_seq=14 ttl=43 time=128 ms
+[1607862731.642008] 40 bytes from 198.252.10.3: icmp_seq=15 ttl=43 time=128 ms
+[1607862736.775766] 40 bytes from www.washburn.edu (198.252.10.3): icmp_seq=16 ttl=43 time=127 ms
+[1607862736.905568] 40 bytes from www.washburn.edu (198.252.10.3): icmp_seq=17 ttl=43 time=128 ms
+[1607862737.905458] 40 bytes from www.washburn.edu (198.252.10.3): icmp_seq=18 ttl=43 time=128 ms
+[1607862738.904787] 40 bytes from www.washburn.edu (198.252.10.3): icmp_seq=19 ttl=43 time=128 ms
+[1607862739.903678] 40 bytes from www.washburn.edu (198.252.10.3): icmp_seq=20 ttl=43 time=127 ms
+[1607862740.906176] 40 bytes from www.washburn.edu (198.252.10.3): icmp_seq=21 ttl=43 time=128 ms
+[1607862741.905111] 40 bytes from www.washburn.edu (198.252.10.3): icmp_seq=22 ttl=43 time=128 ms
+[1607862742.906596] 40 bytes from www.washburn.edu (198.252.10.3): icmp_seq=23 ttl=43 time=129 ms
+[1607862743.907150] 40 bytes from www.washburn.edu (198.252.10.3): icmp_seq=24 ttl=43 time=128 ms
+[1607862744.908239] 40 bytes from www.washburn.edu (198.252.10.3): icmp_seq=25 ttl=43 time=128 ms
+[1607862745.908643] 40 bytes from www.washburn.edu (198.252.10.3): icmp_seq=26 ttl=43 time=127 ms
+[1607862756.913998] 40 bytes from 198.252.10.3: icmp_seq=27 ttl=43 time=127 ms
+[1607862757.044097] 40 bytes from www.washburn.edu (198.252.10.3): icmp_seq=28 ttl=43 time=128 ms
+[1607862758.044575] 40 bytes from www.washburn.edu (198.252.10.3): icmp_seq=29 ttl=43 time=128 ms
+[1607862759.044359] 40 bytes from www.washburn.edu (198.252.10.3): icmp_seq=30 ttl=43 time=128 ms
+[1607862770.050022] 40 bytes from 198.252.10.3: icmp_seq=31 ttl=43 time=128 ms
+[1607862770.179618] 40 bytes from www.washburn.edu (198.252.10.3): icmp_seq=32 ttl=43 time=127 ms
+[1607862781.186002] 40 bytes from 198.252.10.3: icmp_seq=33 ttl=43 time=128 ms
+[1607862791.321997] 40 bytes from 198.252.10.3: icmp_seq=34 ttl=43 time=128 ms
+[1607862801.458044] 40 bytes from 198.252.10.3: icmp_seq=35 ttl=43 time=128 ms
+[1607862806.592857] 40 bytes from www.washburn.edu (198.252.10.3): icmp_seq=36 ttl=43 time=128 ms
+[1607862806.722723] 40 bytes from www.washburn.edu (198.252.10.3): icmp_seq=37 ttl=43 time=128 ms
+[1607862817.726006] 40 bytes from 198.252.10.3: icmp_seq=38 ttl=43 time=128 ms
+[1607862827.862334] 40 bytes from 198.252.10.3: icmp_seq=39 ttl=43 time=128 ms
+[1607862837.998008] 40 bytes from 198.252.10.3: icmp_seq=40 ttl=43 time=128 ms
+[1607862838.128445] 40 bytes from www.washburn.edu (198.252.10.3): icmp_seq=41 ttl=43 time=128 ms
+[1607862849.134840] 40 bytes from 198.252.10.3: icmp_seq=42 ttl=43 time=128 ms
+[1607862859.270554] 40 bytes from 198.252.10.3: icmp_seq=43 ttl=43 time=128 ms
+[1607862864.405554] 40 bytes from www.washburn.edu (198.252.10.3): icmp_seq=44 ttl=43 time=128 ms
+[1607862864.535938] 40 bytes from www.washburn.edu (198.252.10.3): icmp_seq=45 ttl=43 time=128 ms
+[1607862865.536540] 40 bytes from www.washburn.edu (198.252.10.3): icmp_seq=46 ttl=43 time=128 ms
+[1607862866.536875] 40 bytes from www.washburn.edu (198.252.10.3): icmp_seq=47 ttl=43 time=127 ms
+[1607862867.538289] 40 bytes from www.washburn.edu (198.252.10.3): icmp_seq=48 ttl=43 time=128 ms
+[1607862868.538955] 40 bytes from www.washburn.edu (198.252.10.3): icmp_seq=49 ttl=43 time=127 ms
+[1607862869.541451] 40 bytes from www.washburn.edu (198.252.10.3): icmp_seq=50 ttl=43 time=129 ms
+
+--- washburn.edu ping statistics ---
+50 packets transmitted, 50 received, 0% packet loss, time 193453ms
+rtt min/avg/max/mdev = 127.288/127.966/128.692/0.343 ms

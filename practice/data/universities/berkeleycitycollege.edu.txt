@@ -1,0 +1,55 @@
+PING berkeleycitycollege.edu (143.95.32.195) 32(60) bytes of data.
+[1607862695.058216] 40 bytes from berkeleycitycollege.edu (143.95.32.195): icmp_seq=1 ttl=43 time=143 ms
+[1607862700.204880] 40 bytes from berkeleycitycollege.edu (143.95.32.195): icmp_seq=2 ttl=43 time=142 ms
+[1607862700.350300] 40 bytes from berkeleycitycollege.edu (143.95.32.195): icmp_seq=3 ttl=43 time=143 ms
+[1607862706.355384] 40 bytes from berkeleycitycollege.edu (143.95.32.195): icmp_seq=4 ttl=43 time=143 ms
+[1607862706.500364] 40 bytes from berkeleycitycollege.edu (143.95.32.195): icmp_seq=5 ttl=43 time=143 ms
+[1607862707.499092] 40 bytes from berkeleycitycollege.edu (143.95.32.195): icmp_seq=6 ttl=43 time=142 ms
+[1607862713.504230] 40 bytes from berkeleycitycollege.edu (143.95.32.195): icmp_seq=7 ttl=43 time=143 ms
+[1607862723.654026] 40 bytes from 143.95.32.195: icmp_seq=8 ttl=43 time=142 ms
+[1607862733.806006] 40 bytes from 143.95.32.195: icmp_seq=9 ttl=43 time=143 ms
+[1607862738.955744] 40 bytes from berkeleycitycollege.edu (143.95.32.195): icmp_seq=10 ttl=43 time=143 ms
+[1607862739.100238] 40 bytes from berkeleycitycollege.edu (143.95.32.195): icmp_seq=11 ttl=43 time=143 ms
+[1607862745.103693] 40 bytes from berkeleycitycollege.edu (143.95.32.195): icmp_seq=12 ttl=43 time=142 ms
+[1607862755.255176] 40 bytes from 143.95.32.195: icmp_seq=13 ttl=43 time=143 ms
+[1607862755.400304] 40 bytes from berkeleycitycollege.edu (143.95.32.195): icmp_seq=14 ttl=43 time=143 ms
+[1607862756.401209] 40 bytes from berkeleycitycollege.edu (143.95.32.195): icmp_seq=15 ttl=43 time=143 ms
+[1607862757.400769] 40 bytes from berkeleycitycollege.edu (143.95.32.195): icmp_seq=16 ttl=43 time=143 ms
+[1607862758.402121] 40 bytes from berkeleycitycollege.edu (143.95.32.195): icmp_seq=17 ttl=43 time=142 ms
+[1607862759.402645] 40 bytes from berkeleycitycollege.edu (143.95.32.195): icmp_seq=18 ttl=43 time=143 ms
+[1607862760.404265] 40 bytes from berkeleycitycollege.edu (143.95.32.195): icmp_seq=19 ttl=43 time=142 ms
+[1607862761.404956] 40 bytes from berkeleycitycollege.edu (143.95.32.195): icmp_seq=20 ttl=43 time=143 ms
+[1607862762.404609] 40 bytes from berkeleycitycollege.edu (143.95.32.195): icmp_seq=21 ttl=43 time=143 ms
+[1607862763.405785] 40 bytes from berkeleycitycollege.edu (143.95.32.195): icmp_seq=22 ttl=43 time=143 ms
+[1607862764.405852] 40 bytes from berkeleycitycollege.edu (143.95.32.195): icmp_seq=23 ttl=43 time=142 ms
+[1607862765.407018] 40 bytes from berkeleycitycollege.edu (143.95.32.195): icmp_seq=24 ttl=43 time=143 ms
+[1607862766.406270] 40 bytes from berkeleycitycollege.edu (143.95.32.195): icmp_seq=25 ttl=43 time=142 ms
+[1607862777.414187] 40 bytes from 143.95.32.195: icmp_seq=26 ttl=43 time=143 ms
+[1607862782.563538] 40 bytes from berkeleycitycollege.edu (143.95.32.195): icmp_seq=27 ttl=43 time=143 ms
+[1607862782.708249] 40 bytes from berkeleycitycollege.edu (143.95.32.195): icmp_seq=28 ttl=43 time=143 ms
+[1607862783.709649] 40 bytes from berkeleycitycollege.edu (143.95.32.195): icmp_seq=29 ttl=43 time=143 ms
+[1607862784.710482] 40 bytes from berkeleycitycollege.edu (143.95.32.195): icmp_seq=30 ttl=43 time=142 ms
+[1607862785.711025] 40 bytes from berkeleycitycollege.edu (143.95.32.195): icmp_seq=31 ttl=43 time=142 ms
+[1607862796.718853] 40 bytes from 143.95.32.195: icmp_seq=32 ttl=43 time=143 ms
+[1607862806.870025] 40 bytes from 143.95.32.195: icmp_seq=33 ttl=43 time=142 ms
+[1607862812.020263] 40 bytes from berkeleycitycollege.edu (143.95.32.195): icmp_seq=34 ttl=43 time=143 ms
+[1607862817.168115] 40 bytes from berkeleycitycollege.edu (143.95.32.195): icmp_seq=35 ttl=43 time=142 ms
+[1607862822.315725] 40 bytes from berkeleycitycollege.edu (143.95.32.195): icmp_seq=36 ttl=43 time=142 ms
+[1607862822.460213] 40 bytes from berkeleycitycollege.edu (143.95.32.195): icmp_seq=37 ttl=43 time=143 ms
+[1607862828.463975] 40 bytes from berkeleycitycollege.edu (143.95.32.195): icmp_seq=38 ttl=43 time=143 ms
+[1607862838.614010] 40 bytes from 143.95.32.195: icmp_seq=39 ttl=43 time=143 ms
+[1607862848.762097] 40 bytes from 143.95.32.195: icmp_seq=40 ttl=43 time=142 ms
+[1607862848.906932] 40 bytes from berkeleycitycollege.edu (143.95.32.195): icmp_seq=41 ttl=43 time=143 ms
+[1607862849.906696] 40 bytes from berkeleycitycollege.edu (143.95.32.195): icmp_seq=42 ttl=43 time=143 ms
+[1607862850.907025] 40 bytes from berkeleycitycollege.edu (143.95.32.195): icmp_seq=43 ttl=43 time=143 ms
+[1607862851.909318] 40 bytes from berkeleycitycollege.edu (143.95.32.195): icmp_seq=44 ttl=43 time=143 ms
+[1607862852.909262] 40 bytes from berkeleycitycollege.edu (143.95.32.195): icmp_seq=45 ttl=43 time=143 ms
+[1607862853.908757] 40 bytes from berkeleycitycollege.edu (143.95.32.195): icmp_seq=46 ttl=43 time=143 ms
+[1607862864.914430] 40 bytes from 143.95.32.195: icmp_seq=47 ttl=43 time=143 ms
+[1607862870.064122] 40 bytes from berkeleycitycollege.edu (143.95.32.195): icmp_seq=48 ttl=43 time=143 ms
+[1607862870.208995] 40 bytes from berkeleycitycollege.edu (143.95.32.195): icmp_seq=49 ttl=43 time=143 ms
+[1607862871.209206] 40 bytes from berkeleycitycollege.edu (143.95.32.195): icmp_seq=50 ttl=43 time=142 ms
+
+--- berkeleycitycollege.edu ping statistics ---
+50 packets transmitted, 50 received, 0% packet loss, time 182247ms
+rtt min/avg/max/mdev = 141.675/142.488/142.875/0.297 ms

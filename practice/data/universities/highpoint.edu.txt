@@ -1,0 +1,29 @@
+PING highpoint.edu (192.154.46.153) 32(60) bytes of data.
+[1607862704.548046] From www.highpoint.edu (192.154.46.153) icmp_seq=1 Packet filtered
+[1607862709.672296] From www.highpoint.edu (192.154.46.153) icmp_seq=2 Packet filtered
+[1607862712.693239] From www.highpoint.edu (192.154.46.153) icmp_seq=5 Packet filtered
+[1607862715.720811] From www.highpoint.edu (192.154.46.153) icmp_seq=8 Packet filtered
+[1607862718.724829] From www.highpoint.edu (192.154.46.153) icmp_seq=11 Packet filtered
+[1607862721.725042] From www.highpoint.edu (192.154.46.153) icmp_seq=14 Packet filtered
+[1607862726.849322] From www.highpoint.edu (192.154.46.153) icmp_seq=15 Packet filtered
+[1607862730.849408] From www.highpoint.edu (192.154.46.153) icmp_seq=19 Packet filtered
+[1607862735.973113] From www.highpoint.edu (192.154.46.153) icmp_seq=20 Packet filtered
+[1607862738.973841] From www.highpoint.edu (192.154.46.153) icmp_seq=23 Packet filtered
+[1607862741.004128] From 192.154.46.153 icmp_seq=25 Packet filtered
+[1607862751.129450] From www.highpoint.edu (192.154.46.153) icmp_seq=26 Packet filtered
+[1607862754.132115] From www.highpoint.edu (192.154.46.153) icmp_seq=29 Packet filtered
+[1607862757.160736] From www.highpoint.edu (192.154.46.153) icmp_seq=32 Packet filtered
+[1607862762.281846] From 192.154.46.153 icmp_seq=33 Packet filtered
+[1607862772.408034] From 192.154.46.153 icmp_seq=34 Packet filtered
+[1607862782.532136] From www.highpoint.edu (192.154.46.153) icmp_seq=35 Packet filtered
+[1607862787.654014] From 192.154.46.153 icmp_seq=36 Packet filtered
+[1607862797.779841] From 192.154.46.153 icmp_seq=37 Packet filtered
+[1607862807.906195] From 192.154.46.153 icmp_seq=38 Packet filtered
+[1607862818.032258] From www.highpoint.edu (192.154.46.153) icmp_seq=39 Packet filtered
+[1607862821.031785] From www.highpoint.edu (192.154.46.153) icmp_seq=42 Packet filtered
+[1607862824.031551] From www.highpoint.edu (192.154.46.153) icmp_seq=45 Packet filtered
+[1607862827.079550] From www.highpoint.edu (192.154.46.153) icmp_seq=48 Packet filtered
+
+--- highpoint.edu ping statistics ---
+50 packets transmitted, 0 received, +24 errors, 100% packet loss, time 124552ms
+

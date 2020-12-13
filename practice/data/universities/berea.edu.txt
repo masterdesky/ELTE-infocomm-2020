@@ -1,0 +1,54 @@
+PING berea.edu (104.198.21.121) 32(60) bytes of data.
+[1607862696.255767] 40 bytes from 121.21.198.104.bc.googleusercontent.com (104.198.21.121): icmp_seq=1 ttl=49 time=121 ms
+[1607862697.182017] 40 bytes from 121.21.198.104.bc.googleusercontent.com (104.198.21.121): icmp_seq=2 ttl=49 time=121 ms
+[1607862698.183619] 40 bytes from 121.21.198.104.bc.googleusercontent.com (104.198.21.121): icmp_seq=3 ttl=49 time=121 ms
+[1607862704.187741] 40 bytes from 121.21.198.104.bc.googleusercontent.com (104.198.21.121): icmp_seq=4 ttl=49 time=121 ms
+[1607862714.318031] 40 bytes from 104.198.21.121: icmp_seq=5 ttl=49 time=121 ms
+[1607862719.444523] 40 bytes from 121.21.198.104.bc.googleusercontent.com (104.198.21.121): icmp_seq=6 ttl=49 time=120 ms
+[1607862729.574874] 40 bytes from 104.198.21.121: icmp_seq=7 ttl=49 time=121 ms
+[1607862740.706040] 40 bytes from 104.198.21.121: icmp_seq=9 ttl=49 time=121 ms
+[1607862750.834042] 40 bytes from 104.198.21.121: icmp_seq=10 ttl=49 time=120 ms
+[1607862750.955764] 40 bytes from 121.21.198.104.bc.googleusercontent.com (104.198.21.121): icmp_seq=11 ttl=49 time=120 ms
+[1607862751.956277] 40 bytes from 121.21.198.104.bc.googleusercontent.com (104.198.21.121): icmp_seq=12 ttl=49 time=121 ms
+[1607862752.956533] 40 bytes from 121.21.198.104.bc.googleusercontent.com (104.198.21.121): icmp_seq=13 ttl=49 time=121 ms
+[1607862753.956336] 40 bytes from 121.21.198.104.bc.googleusercontent.com (104.198.21.121): icmp_seq=14 ttl=49 time=121 ms
+[1607862754.956049] 40 bytes from 121.21.198.104.bc.googleusercontent.com (104.198.21.121): icmp_seq=15 ttl=49 time=121 ms
+[1607862760.960243] 40 bytes from 121.21.198.104.bc.googleusercontent.com (104.198.21.121): icmp_seq=16 ttl=49 time=121 ms
+[1607862761.083499] 40 bytes from 121.21.198.104.bc.googleusercontent.com (104.198.21.121): icmp_seq=17 ttl=49 time=121 ms
+[1607862762.082799] 40 bytes from 121.21.198.104.bc.googleusercontent.com (104.198.21.121): icmp_seq=18 ttl=49 time=121 ms
+[1607862763.082114] 40 bytes from 121.21.198.104.bc.googleusercontent.com (104.198.21.121): icmp_seq=19 ttl=49 time=121 ms
+[1607862764.082417] 40 bytes from 121.21.198.104.bc.googleusercontent.com (104.198.21.121): icmp_seq=20 ttl=49 time=121 ms
+[1607862770.083940] 40 bytes from 121.21.198.104.bc.googleusercontent.com (104.198.21.121): icmp_seq=21 ttl=49 time=121 ms
+[1607862770.206730] 40 bytes from 121.21.198.104.bc.googleusercontent.com (104.198.21.121): icmp_seq=22 ttl=49 time=121 ms
+[1607862771.207167] 40 bytes from 121.21.198.104.bc.googleusercontent.com (104.198.21.121): icmp_seq=23 ttl=49 time=121 ms
+[1607862777.212070] 40 bytes from 121.21.198.104.bc.googleusercontent.com (104.198.21.121): icmp_seq=24 ttl=49 time=121 ms
+[1607862777.334671] 40 bytes from 121.21.198.104.bc.googleusercontent.com (104.198.21.121): icmp_seq=25 ttl=49 time=121 ms
+[1607862778.334416] 40 bytes from 121.21.198.104.bc.googleusercontent.com (104.198.21.121): icmp_seq=26 ttl=49 time=121 ms
+[1607862779.334173] 40 bytes from 121.21.198.104.bc.googleusercontent.com (104.198.21.121): icmp_seq=27 ttl=49 time=121 ms
+[1607862780.333473] 40 bytes from 121.21.198.104.bc.googleusercontent.com (104.198.21.121): icmp_seq=28 ttl=49 time=121 ms
+[1607862791.339963] 40 bytes from 104.198.21.121: icmp_seq=29 ttl=49 time=121 ms
+[1607862801.466037] 40 bytes from 104.198.21.121: icmp_seq=30 ttl=49 time=120 ms
+[1607862806.594788] 40 bytes from 121.21.198.104.bc.googleusercontent.com (104.198.21.121): icmp_seq=31 ttl=49 time=121 ms
+[1607862806.717304] 40 bytes from 121.21.198.104.bc.googleusercontent.com (104.198.21.121): icmp_seq=32 ttl=49 time=121 ms
+[1607862817.722042] 40 bytes from 104.198.21.121: icmp_seq=33 ttl=49 time=122 ms
+[1607862827.850099] 40 bytes from 104.198.21.121: icmp_seq=34 ttl=49 time=121 ms
+[1607862837.978060] 40 bytes from 104.198.21.121: icmp_seq=35 ttl=49 time=121 ms
+[1607862838.101262] 40 bytes from 121.21.198.104.bc.googleusercontent.com (104.198.21.121): icmp_seq=36 ttl=49 time=121 ms
+[1607862849.106011] 40 bytes from 104.198.21.121: icmp_seq=37 ttl=49 time=121 ms
+[1607862859.234056] 40 bytes from 104.198.21.121: icmp_seq=38 ttl=49 time=121 ms
+[1607862864.360024] 40 bytes from 121.21.198.104.bc.googleusercontent.com (104.198.21.121): icmp_seq=39 ttl=49 time=121 ms
+[1607862864.482757] 40 bytes from 121.21.198.104.bc.googleusercontent.com (104.198.21.121): icmp_seq=40 ttl=49 time=121 ms
+[1607862865.484250] 40 bytes from 121.21.198.104.bc.googleusercontent.com (104.198.21.121): icmp_seq=41 ttl=49 time=121 ms
+[1607862866.486603] 40 bytes from 121.21.198.104.bc.googleusercontent.com (104.198.21.121): icmp_seq=42 ttl=49 time=121 ms
+[1607862867.488043] 40 bytes from 121.21.198.104.bc.googleusercontent.com (104.198.21.121): icmp_seq=43 ttl=49 time=121 ms
+[1607862868.489235] 40 bytes from 121.21.198.104.bc.googleusercontent.com (104.198.21.121): icmp_seq=44 ttl=49 time=121 ms
+[1607862869.490365] 40 bytes from 121.21.198.104.bc.googleusercontent.com (104.198.21.121): icmp_seq=45 ttl=49 time=121 ms
+[1607862875.496066] 40 bytes from 121.21.198.104.bc.googleusercontent.com (104.198.21.121): icmp_seq=46 ttl=49 time=121 ms
+[1607862875.619529] 40 bytes from 121.21.198.104.bc.googleusercontent.com (104.198.21.121): icmp_seq=47 ttl=49 time=121 ms
+[1607862881.624034] 40 bytes from 121.21.198.104.bc.googleusercontent.com (104.198.21.121): icmp_seq=48 ttl=49 time=121 ms
+[1607862881.746800] 40 bytes from 121.21.198.104.bc.googleusercontent.com (104.198.21.121): icmp_seq=49 ttl=49 time=121 ms
+[1607862882.747373] 40 bytes from 121.21.198.104.bc.googleusercontent.com (104.198.21.121): icmp_seq=50 ttl=49 time=120 ms
+
+--- berea.edu ping statistics ---
+50 packets transmitted, 49 received, 2% packet loss, time 186567ms
+rtt min/avg/max/mdev = 120.149/121.015/121.539/0.303 ms

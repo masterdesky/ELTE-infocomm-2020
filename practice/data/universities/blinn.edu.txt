@@ -1,0 +1,55 @@
+PING blinn.edu (64.92.176.84) 32(60) bytes of data.
+[1607862717.295728] 40 bytes from by_blackbeard.blinn.edu (64.92.176.84): icmp_seq=1 ttl=234 time=140 ms
+[1607862718.296971] 40 bytes from by_blackbeard.blinn.edu (64.92.176.84): icmp_seq=2 ttl=234 time=139 ms
+[1607862719.295739] 40 bytes from by_blackbeard.blinn.edu (64.92.176.84): icmp_seq=3 ttl=234 time=139 ms
+[1607862720.298133] 40 bytes from by_blackbeard.blinn.edu (64.92.176.84): icmp_seq=4 ttl=234 time=140 ms
+[1607862721.298062] 40 bytes from by_blackbeard.blinn.edu (64.92.176.84): icmp_seq=5 ttl=234 time=139 ms
+[1607862727.303786] 40 bytes from by_blackbeard.blinn.edu (64.92.176.84): icmp_seq=6 ttl=234 time=139 ms
+[1607862727.446336] 40 bytes from by_blackbeard.blinn.edu (64.92.176.84): icmp_seq=7 ttl=234 time=140 ms
+[1607862728.447015] 40 bytes from by_blackbeard.blinn.edu (64.92.176.84): icmp_seq=8 ttl=234 time=139 ms
+[1607862739.455384] 40 bytes from 64.92.176.84: icmp_seq=9 ttl=234 time=140 ms
+[1607862749.602026] 40 bytes from 64.92.176.84: icmp_seq=10 ttl=234 time=140 ms
+[1607862759.750413] 40 bytes from 64.92.176.84: icmp_seq=11 ttl=234 time=139 ms
+[1607862764.895694] 40 bytes from by_blackbeard.blinn.edu (64.92.176.84): icmp_seq=12 ttl=234 time=139 ms
+[1607862770.040095] 40 bytes from by_blackbeard.blinn.edu (64.92.176.84): icmp_seq=13 ttl=234 time=140 ms
+[1607862770.181650] 40 bytes from by_blackbeard.blinn.edu (64.92.176.84): icmp_seq=14 ttl=234 time=140 ms
+[1607862781.190313] 40 bytes from 64.92.176.84: icmp_seq=15 ttl=234 time=140 ms
+[1607862786.336016] 40 bytes from by_blackbeard.blinn.edu (64.92.176.84): icmp_seq=16 ttl=234 time=140 ms
+[1607862796.482021] 40 bytes from 64.92.176.84: icmp_seq=17 ttl=234 time=139 ms
+[1607862796.623603] 40 bytes from by_blackbeard.blinn.edu (64.92.176.84): icmp_seq=18 ttl=234 time=139 ms
+[1607862797.623077] 40 bytes from by_blackbeard.blinn.edu (64.92.176.84): icmp_seq=19 ttl=234 time=140 ms
+[1607862798.621687] 40 bytes from by_blackbeard.blinn.edu (64.92.176.84): icmp_seq=20 ttl=234 time=139 ms
+[1607862799.622830] 40 bytes from by_blackbeard.blinn.edu (64.92.176.84): icmp_seq=21 ttl=234 time=140 ms
+[1607862800.622580] 40 bytes from by_blackbeard.blinn.edu (64.92.176.84): icmp_seq=22 ttl=234 time=139 ms
+[1607862806.624362] 40 bytes from by_blackbeard.blinn.edu (64.92.176.84): icmp_seq=23 ttl=234 time=139 ms
+[1607862806.765931] 40 bytes from by_blackbeard.blinn.edu (64.92.176.84): icmp_seq=24 ttl=234 time=139 ms
+[1607862817.770053] 40 bytes from 64.92.176.84: icmp_seq=25 ttl=234 time=139 ms
+[1607862827.918115] 40 bytes from 64.92.176.84: icmp_seq=26 ttl=234 time=140 ms
+[1607862833.063864] 40 bytes from by_blackbeard.blinn.edu (64.92.176.84): icmp_seq=27 ttl=234 time=139 ms
+[1607862843.210122] 40 bytes from 64.92.176.84: icmp_seq=28 ttl=234 time=140 ms
+[1607862843.350850] 40 bytes from by_blackbeard.blinn.edu (64.92.176.84): icmp_seq=29 ttl=234 time=140 ms
+[1607862854.358033] 40 bytes from 64.92.176.84: icmp_seq=30 ttl=234 time=139 ms
+[1607862859.504685] 40 bytes from by_blackbeard.blinn.edu (64.92.176.84): icmp_seq=31 ttl=234 time=140 ms
+[1607862864.648587] 40 bytes from by_blackbeard.blinn.edu (64.92.176.84): icmp_seq=32 ttl=234 time=139 ms
+[1607862864.790837] 40 bytes from by_blackbeard.blinn.edu (64.92.176.84): icmp_seq=33 ttl=234 time=140 ms
+[1607862865.791534] 40 bytes from by_blackbeard.blinn.edu (64.92.176.84): icmp_seq=34 ttl=234 time=140 ms
+[1607862866.792871] 40 bytes from by_blackbeard.blinn.edu (64.92.176.84): icmp_seq=35 ttl=234 time=140 ms
+[1607862867.793535] 40 bytes from by_blackbeard.blinn.edu (64.92.176.84): icmp_seq=36 ttl=234 time=140 ms
+[1607862868.794200] 40 bytes from by_blackbeard.blinn.edu (64.92.176.84): icmp_seq=37 ttl=234 time=140 ms
+[1607862869.794985] 40 bytes from by_blackbeard.blinn.edu (64.92.176.84): icmp_seq=38 ttl=234 time=140 ms
+[1607862870.795688] 40 bytes from by_blackbeard.blinn.edu (64.92.176.84): icmp_seq=39 ttl=234 time=140 ms
+[1607862871.797480] 40 bytes from by_blackbeard.blinn.edu (64.92.176.84): icmp_seq=40 ttl=234 time=140 ms
+[1607862872.798335] 40 bytes from by_blackbeard.blinn.edu (64.92.176.84): icmp_seq=41 ttl=234 time=140 ms
+[1607862873.799596] 40 bytes from by_blackbeard.blinn.edu (64.92.176.84): icmp_seq=42 ttl=234 time=140 ms
+[1607862874.800947] 40 bytes from by_blackbeard.blinn.edu (64.92.176.84): icmp_seq=43 ttl=234 time=139 ms
+[1607862875.801244] 40 bytes from by_blackbeard.blinn.edu (64.92.176.84): icmp_seq=44 ttl=234 time=139 ms
+[1607862876.802567] 40 bytes from by_blackbeard.blinn.edu (64.92.176.84): icmp_seq=45 ttl=234 time=139 ms
+[1607862877.805340] 40 bytes from by_blackbeard.blinn.edu (64.92.176.84): icmp_seq=46 ttl=234 time=140 ms
+[1607862878.806295] 40 bytes from by_blackbeard.blinn.edu (64.92.176.84): icmp_seq=47 ttl=234 time=140 ms
+[1607862879.807878] 40 bytes from by_blackbeard.blinn.edu (64.92.176.84): icmp_seq=48 ttl=234 time=140 ms
+[1607862880.809459] 40 bytes from by_blackbeard.blinn.edu (64.92.176.84): icmp_seq=49 ttl=234 time=140 ms
+[1607862881.810009] 40 bytes from by_blackbeard.blinn.edu (64.92.176.84): icmp_seq=50 ttl=234 time=139 ms
+
+--- blinn.edu ping statistics ---
+50 packets transmitted, 50 received, 0% packet loss, time 164515ms
+rtt min/avg/max/mdev = 138.585/139.463/139.929/0.264 ms

@@ -1,0 +1,54 @@
+PING ncwc.edu (23.235.210.198) 32(60) bytes of data.
+[1607862695.400451] 40 bytes from ded2609.inmotionhosting.com (23.235.210.198): icmp_seq=1 ttl=50 time=164 ms
+[1607862701.059981] 40 bytes from ded2609.inmotionhosting.com (23.235.210.198): icmp_seq=2 ttl=50 time=164 ms
+[1607862711.232049] 40 bytes from 23.235.210.198: icmp_seq=3 ttl=50 time=164 ms
+[1607862711.400114] 40 bytes from ded2609.inmotionhosting.com (23.235.210.198): icmp_seq=4 ttl=50 time=164 ms
+[1607862717.403040] 40 bytes from ded2609.inmotionhosting.com (23.235.210.198): icmp_seq=5 ttl=50 time=164 ms
+[1607862727.575715] 40 bytes from 23.235.210.198: icmp_seq=6 ttl=50 time=163 ms
+[1607862727.741450] 40 bytes from ded2609.inmotionhosting.com (23.235.210.198): icmp_seq=7 ttl=50 time=163 ms
+[1607862728.740508] 40 bytes from ded2609.inmotionhosting.com (23.235.210.198): icmp_seq=8 ttl=50 time=163 ms
+[1607862735.743709] 40 bytes from ded2609.inmotionhosting.com (23.235.210.198): icmp_seq=10 ttl=50 time=164 ms
+[1607862740.915753] 40 bytes from ded2609.inmotionhosting.com (23.235.210.198): icmp_seq=11 ttl=50 time=164 ms
+[1607862741.081729] 40 bytes from ded2609.inmotionhosting.com (23.235.210.198): icmp_seq=12 ttl=50 time=164 ms
+[1607862747.083907] 40 bytes from ded2609.inmotionhosting.com (23.235.210.198): icmp_seq=13 ttl=50 time=164 ms
+[1607862757.254048] 40 bytes from 23.235.210.198: icmp_seq=14 ttl=50 time=164 ms
+[1607862757.419402] 40 bytes from ded2609.inmotionhosting.com (23.235.210.198): icmp_seq=15 ttl=50 time=163 ms
+[1607862758.421695] 40 bytes from ded2609.inmotionhosting.com (23.235.210.198): icmp_seq=16 ttl=50 time=164 ms
+[1607862759.422824] 40 bytes from ded2609.inmotionhosting.com (23.235.210.198): icmp_seq=17 ttl=50 time=164 ms
+[1607862770.426002] 40 bytes from 23.235.210.198: icmp_seq=18 ttl=50 time=164 ms
+[1607862775.596495] 40 bytes from ded2609.inmotionhosting.com (23.235.210.198): icmp_seq=19 ttl=50 time=164 ms
+[1607862785.770053] 40 bytes from 23.235.210.198: icmp_seq=20 ttl=50 time=164 ms
+[1607862790.940286] 40 bytes from ded2609.inmotionhosting.com (23.235.210.198): icmp_seq=21 ttl=50 time=164 ms
+[1607862791.105308] 40 bytes from ded2609.inmotionhosting.com (23.235.210.198): icmp_seq=22 ttl=50 time=163 ms
+[1607862802.110017] 40 bytes from 23.235.210.198: icmp_seq=23 ttl=50 time=164 ms
+[1607862802.275861] 40 bytes from ded2609.inmotionhosting.com (23.235.210.198): icmp_seq=24 ttl=50 time=163 ms
+[1607862803.277508] 40 bytes from ded2609.inmotionhosting.com (23.235.210.198): icmp_seq=25 ttl=50 time=164 ms
+[1607862804.278527] 40 bytes from ded2609.inmotionhosting.com (23.235.210.198): icmp_seq=26 ttl=50 time=163 ms
+[1607862805.280435] 40 bytes from ded2609.inmotionhosting.com (23.235.210.198): icmp_seq=27 ttl=50 time=164 ms
+[1607862806.280952] 40 bytes from ded2609.inmotionhosting.com (23.235.210.198): icmp_seq=28 ttl=50 time=164 ms
+[1607862817.287050] 40 bytes from 23.235.210.198: icmp_seq=29 ttl=50 time=164 ms
+[1607862817.453251] 40 bytes from ded2609.inmotionhosting.com (23.235.210.198): icmp_seq=30 ttl=50 time=164 ms
+[1607862818.452808] 40 bytes from ded2609.inmotionhosting.com (23.235.210.198): icmp_seq=31 ttl=50 time=164 ms
+[1607862819.452825] 40 bytes from ded2609.inmotionhosting.com (23.235.210.198): icmp_seq=32 ttl=50 time=164 ms
+[1607862820.451869] 40 bytes from ded2609.inmotionhosting.com (23.235.210.198): icmp_seq=33 ttl=50 time=164 ms
+[1607862821.451778] 40 bytes from ded2609.inmotionhosting.com (23.235.210.198): icmp_seq=34 ttl=50 time=164 ms
+[1607862822.450940] 40 bytes from ded2609.inmotionhosting.com (23.235.210.198): icmp_seq=35 ttl=50 time=164 ms
+[1607862833.458072] 40 bytes from 23.235.210.198: icmp_seq=36 ttl=50 time=164 ms
+[1607862843.630313] 40 bytes from 23.235.210.198: icmp_seq=37 ttl=50 time=164 ms
+[1607862853.802054] 40 bytes from 23.235.210.198: icmp_seq=38 ttl=50 time=164 ms
+[1607862858.972212] 40 bytes from ded2609.inmotionhosting.com (23.235.210.198): icmp_seq=39 ttl=50 time=164 ms
+[1607862859.137816] 40 bytes from ded2609.inmotionhosting.com (23.235.210.198): icmp_seq=40 ttl=50 time=164 ms
+[1607862870.142018] 40 bytes from 23.235.210.198: icmp_seq=41 ttl=50 time=164 ms
+[1607862870.307723] 40 bytes from ded2609.inmotionhosting.com (23.235.210.198): icmp_seq=42 ttl=50 time=164 ms
+[1607862871.308089] 40 bytes from ded2609.inmotionhosting.com (23.235.210.198): icmp_seq=43 ttl=50 time=164 ms
+[1607862872.309225] 40 bytes from ded2609.inmotionhosting.com (23.235.210.198): icmp_seq=44 ttl=50 time=164 ms
+[1607862873.309536] 40 bytes from ded2609.inmotionhosting.com (23.235.210.198): icmp_seq=45 ttl=50 time=164 ms
+[1607862874.311403] 40 bytes from ded2609.inmotionhosting.com (23.235.210.198): icmp_seq=46 ttl=50 time=164 ms
+[1607862875.312927] 40 bytes from ded2609.inmotionhosting.com (23.235.210.198): icmp_seq=47 ttl=50 time=164 ms
+[1607862876.315811] 40 bytes from ded2609.inmotionhosting.com (23.235.210.198): icmp_seq=48 ttl=50 time=164 ms
+[1607862877.318006] 40 bytes from ded2609.inmotionhosting.com (23.235.210.198): icmp_seq=49 ttl=50 time=164 ms
+[1607862878.319290] 40 bytes from ded2609.inmotionhosting.com (23.235.210.198): icmp_seq=50 ttl=50 time=164 ms
+
+--- ncwc.edu ping statistics ---
+50 packets transmitted, 49 received, 2% packet loss, time 183263ms
+rtt min/avg/max/mdev = 163.200/163.794/164.226/0.246 ms

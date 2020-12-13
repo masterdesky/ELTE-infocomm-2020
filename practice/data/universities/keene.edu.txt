@@ -1,0 +1,55 @@
+PING keene.edu (50.19.103.154) 32(60) bytes of data.
+[1607862701.606023] 40 bytes from 50.19.103.154: icmp_seq=1 ttl=41 time=104 ms
+[1607862706.941921] 40 bytes from ec2-50-19-103-154.compute-1.amazonaws.com (50.19.103.154): icmp_seq=2 ttl=41 time=104 ms
+[1607862717.054004] 40 bytes from 50.19.103.154: icmp_seq=3 ttl=41 time=104 ms
+[1607862727.166844] 40 bytes from 50.19.103.154: icmp_seq=4 ttl=41 time=104 ms
+[1607862727.272682] 40 bytes from ec2-50-19-103-154.compute-1.amazonaws.com (50.19.103.154): icmp_seq=5 ttl=41 time=104 ms
+[1607862728.274976] 40 bytes from ec2-50-19-103-154.compute-1.amazonaws.com (50.19.103.154): icmp_seq=6 ttl=41 time=104 ms
+[1607862729.276159] 40 bytes from ec2-50-19-103-154.compute-1.amazonaws.com (50.19.103.154): icmp_seq=7 ttl=41 time=104 ms
+[1607862730.278123] 40 bytes from ec2-50-19-103-154.compute-1.amazonaws.com (50.19.103.154): icmp_seq=8 ttl=41 time=104 ms
+[1607862731.277721] 40 bytes from ec2-50-19-103-154.compute-1.amazonaws.com (50.19.103.154): icmp_seq=9 ttl=41 time=104 ms
+[1607862737.284144] 40 bytes from ec2-50-19-103-154.compute-1.amazonaws.com (50.19.103.154): icmp_seq=10 ttl=41 time=104 ms
+[1607862737.389715] 40 bytes from ec2-50-19-103-154.compute-1.amazonaws.com (50.19.103.154): icmp_seq=11 ttl=41 time=103 ms
+[1607862738.390963] 40 bytes from ec2-50-19-103-154.compute-1.amazonaws.com (50.19.103.154): icmp_seq=12 ttl=41 time=104 ms
+[1607862744.395841] 40 bytes from ec2-50-19-103-154.compute-1.amazonaws.com (50.19.103.154): icmp_seq=13 ttl=41 time=103 ms
+[1607862754.506797] 40 bytes from 50.19.103.154: icmp_seq=14 ttl=41 time=104 ms
+[1607862754.612613] 40 bytes from ec2-50-19-103-154.compute-1.amazonaws.com (50.19.103.154): icmp_seq=15 ttl=41 time=104 ms
+[1607862755.614156] 40 bytes from ec2-50-19-103-154.compute-1.amazonaws.com (50.19.103.154): icmp_seq=16 ttl=41 time=104 ms
+[1607862756.616462] 40 bytes from ec2-50-19-103-154.compute-1.amazonaws.com (50.19.103.154): icmp_seq=17 ttl=41 time=104 ms
+[1607862757.614942] 40 bytes from ec2-50-19-103-154.compute-1.amazonaws.com (50.19.103.154): icmp_seq=18 ttl=41 time=103 ms
+[1607862758.616209] 40 bytes from ec2-50-19-103-154.compute-1.amazonaws.com (50.19.103.154): icmp_seq=19 ttl=41 time=104 ms
+[1607862759.617090] 40 bytes from ec2-50-19-103-154.compute-1.amazonaws.com (50.19.103.154): icmp_seq=20 ttl=41 time=104 ms
+[1607862765.619768] 40 bytes from ec2-50-19-103-154.compute-1.amazonaws.com (50.19.103.154): icmp_seq=21 ttl=41 time=104 ms
+[1607862765.725596] 40 bytes from ec2-50-19-103-154.compute-1.amazonaws.com (50.19.103.154): icmp_seq=22 ttl=41 time=104 ms
+[1607862776.734007] 40 bytes from 50.19.103.154: icmp_seq=23 ttl=41 time=104 ms
+[1607862781.843722] 40 bytes from ec2-50-19-103-154.compute-1.amazonaws.com (50.19.103.154): icmp_seq=24 ttl=41 time=104 ms
+[1607862786.952218] 40 bytes from ec2-50-19-103-154.compute-1.amazonaws.com (50.19.103.154): icmp_seq=25 ttl=41 time=104 ms
+[1607862787.058632] 40 bytes from ec2-50-19-103-154.compute-1.amazonaws.com (50.19.103.154): icmp_seq=26 ttl=41 time=104 ms
+[1607862788.057291] 40 bytes from ec2-50-19-103-154.compute-1.amazonaws.com (50.19.103.154): icmp_seq=27 ttl=41 time=103 ms
+[1607862789.057742] 40 bytes from ec2-50-19-103-154.compute-1.amazonaws.com (50.19.103.154): icmp_seq=28 ttl=41 time=104 ms
+[1607862790.058057] 40 bytes from ec2-50-19-103-154.compute-1.amazonaws.com (50.19.103.154): icmp_seq=29 ttl=41 time=103 ms
+[1607862791.058751] 40 bytes from ec2-50-19-103-154.compute-1.amazonaws.com (50.19.103.154): icmp_seq=30 ttl=41 time=104 ms
+[1607862792.057935] 40 bytes from ec2-50-19-103-154.compute-1.amazonaws.com (50.19.103.154): icmp_seq=31 ttl=41 time=103 ms
+[1607862793.060292] 40 bytes from ec2-50-19-103-154.compute-1.amazonaws.com (50.19.103.154): icmp_seq=32 ttl=41 time=104 ms
+[1607862794.060364] 40 bytes from ec2-50-19-103-154.compute-1.amazonaws.com (50.19.103.154): icmp_seq=33 ttl=41 time=104 ms
+[1607862795.060035] 40 bytes from ec2-50-19-103-154.compute-1.amazonaws.com (50.19.103.154): icmp_seq=34 ttl=41 time=103 ms
+[1607862796.060318] 40 bytes from ec2-50-19-103-154.compute-1.amazonaws.com (50.19.103.154): icmp_seq=35 ttl=41 time=104 ms
+[1607862802.064043] 40 bytes from ec2-50-19-103-154.compute-1.amazonaws.com (50.19.103.154): icmp_seq=36 ttl=41 time=104 ms
+[1607862807.174849] 40 bytes from ec2-50-19-103-154.compute-1.amazonaws.com (50.19.103.154): icmp_seq=37 ttl=41 time=104 ms
+[1607862817.286022] 40 bytes from 50.19.103.154: icmp_seq=38 ttl=41 time=104 ms
+[1607862822.396000] 40 bytes from ec2-50-19-103-154.compute-1.amazonaws.com (50.19.103.154): icmp_seq=39 ttl=41 time=103 ms
+[1607862822.502029] 40 bytes from ec2-50-19-103-154.compute-1.amazonaws.com (50.19.103.154): icmp_seq=40 ttl=41 time=104 ms
+[1607862833.506109] 40 bytes from 50.19.103.154: icmp_seq=41 ttl=41 time=104 ms
+[1607862843.618026] 40 bytes from 50.19.103.154: icmp_seq=42 ttl=41 time=104 ms
+[1607862843.723719] 40 bytes from ec2-50-19-103-154.compute-1.amazonaws.com (50.19.103.154): icmp_seq=43 ttl=41 time=104 ms
+[1607862844.725194] 40 bytes from ec2-50-19-103-154.compute-1.amazonaws.com (50.19.103.154): icmp_seq=44 ttl=41 time=104 ms
+[1607862845.724989] 40 bytes from ec2-50-19-103-154.compute-1.amazonaws.com (50.19.103.154): icmp_seq=45 ttl=41 time=104 ms
+[1607862846.724066] 40 bytes from ec2-50-19-103-154.compute-1.amazonaws.com (50.19.103.154): icmp_seq=46 ttl=41 time=103 ms
+[1607862847.723429] 40 bytes from ec2-50-19-103-154.compute-1.amazonaws.com (50.19.103.154): icmp_seq=47 ttl=41 time=104 ms
+[1607862853.727707] 40 bytes from ec2-50-19-103-154.compute-1.amazonaws.com (50.19.103.154): icmp_seq=48 ttl=41 time=104 ms
+[1607862853.834163] 40 bytes from ec2-50-19-103-154.compute-1.amazonaws.com (50.19.103.154): icmp_seq=49 ttl=41 time=104 ms
+[1607862855.727649] 40 bytes from 50.19.103.154: icmp_seq=50 ttl=41 time=104 ms
+
+--- keene.edu ping statistics ---
+50 packets transmitted, 50 received, 0% packet loss, time 163233ms
+rtt min/avg/max/mdev = 103.183/103.799/104.239/0.298 ms

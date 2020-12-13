@@ -1,0 +1,55 @@
+PING hccfl.edu (23.185.0.4) 32(60) bytes of data.
+[1607862691.996526] 40 bytes from 23.185.0.4 (23.185.0.4): icmp_seq=1 ttl=55 time=28.1 ms
+[1607862692.997568] 40 bytes from 23.185.0.4 (23.185.0.4): icmp_seq=2 ttl=55 time=27.7 ms
+[1607862693.998126] 40 bytes from 23.185.0.4 (23.185.0.4): icmp_seq=3 ttl=55 time=28.1 ms
+[1607862705.006707] 40 bytes from 23.185.0.4: icmp_seq=4 ttl=55 time=28.3 ms
+[1607862715.042080] 40 bytes from 23.185.0.4: icmp_seq=5 ttl=55 time=28.1 ms
+[1607862725.079116] 40 bytes from 23.185.0.4: icmp_seq=6 ttl=55 time=28.3 ms
+[1607862730.111761] 40 bytes from 23.185.0.4 (23.185.0.4): icmp_seq=7 ttl=55 time=28.2 ms
+[1607862730.141824] 40 bytes from 23.185.0.4 (23.185.0.4): icmp_seq=8 ttl=55 time=27.8 ms
+[1607862741.145997] 40 bytes from 23.185.0.4: icmp_seq=9 ttl=55 time=28.2 ms
+[1607862741.175334] 40 bytes from 23.185.0.4 (23.185.0.4): icmp_seq=10 ttl=55 time=27.2 ms
+[1607862752.182034] 40 bytes from 23.185.0.4: icmp_seq=11 ttl=55 time=27.5 ms
+[1607862757.215807] 40 bytes from 23.185.0.4 (23.185.0.4): icmp_seq=12 ttl=55 time=28.2 ms
+[1607862762.247873] 40 bytes from 23.185.0.4 (23.185.0.4): icmp_seq=13 ttl=55 time=27.9 ms
+[1607862767.279567] 40 bytes from 23.185.0.4 (23.185.0.4): icmp_seq=14 ttl=55 time=28.1 ms
+[1607862777.314032] 40 bytes from 23.185.0.4: icmp_seq=15 ttl=55 time=28.0 ms
+[1607862782.347972] 40 bytes from 23.185.0.4 (23.185.0.4): icmp_seq=16 ttl=55 time=28.4 ms
+[1607862787.380075] 40 bytes from 23.185.0.4 (23.185.0.4): icmp_seq=17 ttl=55 time=28.0 ms
+[1607862787.409726] 40 bytes from 23.185.0.4 (23.185.0.4): icmp_seq=18 ttl=55 time=27.8 ms
+[1607862788.411997] 40 bytes from 23.185.0.4 (23.185.0.4): icmp_seq=19 ttl=55 time=28.1 ms
+[1607862789.412384] 40 bytes from 23.185.0.4 (23.185.0.4): icmp_seq=20 ttl=55 time=28.0 ms
+[1607862790.414084] 40 bytes from 23.185.0.4 (23.185.0.4): icmp_seq=21 ttl=55 time=28.0 ms
+[1607862791.414237] 40 bytes from 23.185.0.4 (23.185.0.4): icmp_seq=22 ttl=55 time=28.2 ms
+[1607862792.413918] 40 bytes from 23.185.0.4 (23.185.0.4): icmp_seq=23 ttl=55 time=28.3 ms
+[1607862793.415208] 40 bytes from 23.185.0.4 (23.185.0.4): icmp_seq=24 ttl=55 time=28.1 ms
+[1607862794.416385] 40 bytes from 23.185.0.4 (23.185.0.4): icmp_seq=25 ttl=55 time=27.9 ms
+[1607862795.417689] 40 bytes from 23.185.0.4 (23.185.0.4): icmp_seq=26 ttl=55 time=28.1 ms
+[1607862801.423751] 40 bytes from 23.185.0.4 (23.185.0.4): icmp_seq=27 ttl=55 time=28.2 ms
+[1607862801.453916] 40 bytes from 23.185.0.4 (23.185.0.4): icmp_seq=28 ttl=55 time=27.9 ms
+[1607862802.455225] 40 bytes from 23.185.0.4 (23.185.0.4): icmp_seq=29 ttl=55 time=28.0 ms
+[1607862803.456399] 40 bytes from 23.185.0.4 (23.185.0.4): icmp_seq=30 ttl=55 time=28.3 ms
+[1607862804.457624] 40 bytes from 23.185.0.4 (23.185.0.4): icmp_seq=31 ttl=55 time=28.0 ms
+[1607862805.459382] 40 bytes from 23.185.0.4 (23.185.0.4): icmp_seq=32 ttl=55 time=28.2 ms
+[1607862806.460486] 40 bytes from 23.185.0.4 (23.185.0.4): icmp_seq=33 ttl=55 time=28.0 ms
+[1607862817.465995] 40 bytes from 23.185.0.4: icmp_seq=34 ttl=55 time=27.9 ms
+[1607862817.496183] 40 bytes from 23.185.0.4 (23.185.0.4): icmp_seq=35 ttl=55 time=28.3 ms
+[1607862818.496263] 40 bytes from 23.185.0.4 (23.185.0.4): icmp_seq=36 ttl=55 time=28.1 ms
+[1607862819.496037] 40 bytes from 23.185.0.4 (23.185.0.4): icmp_seq=37 ttl=55 time=27.9 ms
+[1607862820.495822] 40 bytes from 23.185.0.4 (23.185.0.4): icmp_seq=38 ttl=55 time=28.0 ms
+[1607862821.495523] 40 bytes from 23.185.0.4 (23.185.0.4): icmp_seq=39 ttl=55 time=28.1 ms
+[1607862822.494196] 40 bytes from 23.185.0.4 (23.185.0.4): icmp_seq=40 ttl=55 time=27.6 ms
+[1607862823.493952] 40 bytes from 23.185.0.4 (23.185.0.4): icmp_seq=41 ttl=55 time=27.6 ms
+[1607862824.494412] 40 bytes from 23.185.0.4 (23.185.0.4): icmp_seq=42 ttl=55 time=27.7 ms
+[1607862825.496027] 40 bytes from 23.185.0.4 (23.185.0.4): icmp_seq=43 ttl=55 time=28.0 ms
+[1607862826.495859] 40 bytes from 23.185.0.4 (23.185.0.4): icmp_seq=44 ttl=55 time=28.0 ms
+[1607862827.496317] 40 bytes from 23.185.0.4 (23.185.0.4): icmp_seq=45 ttl=55 time=28.1 ms
+[1607862838.502015] 40 bytes from 23.185.0.4: icmp_seq=46 ttl=55 time=28.1 ms
+[1607862848.537995] 40 bytes from 23.185.0.4: icmp_seq=47 ttl=55 time=28.0 ms
+[1607862848.568501] 40 bytes from 23.185.0.4 (23.185.0.4): icmp_seq=48 ttl=55 time=28.5 ms
+[1607862859.574097] 40 bytes from 23.185.0.4: icmp_seq=49 ttl=55 time=28.0 ms
+[1607862859.603994] 40 bytes from 23.185.0.4 (23.185.0.4): icmp_seq=50 ttl=55 time=28.3 ms
+
+--- hccfl.edu ping statistics ---
+50 packets transmitted, 50 received, 0% packet loss, time 167608ms
+rtt min/avg/max/mdev = 27.229/28.021/28.506/0.231 ms

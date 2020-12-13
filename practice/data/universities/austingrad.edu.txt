@@ -1,0 +1,55 @@
+PING austingrad.edu (209.59.177.67) 32(60) bytes of data.
+[1607862727.218354] 40 bytes from 209.59.177.67: icmp_seq=1 ttl=50 time=126 ms
+[1607862727.345880] 40 bytes from lucy.truthwebdesign.com (209.59.177.67): icmp_seq=2 ttl=50 time=125 ms
+[1607862728.347550] 40 bytes from lucy.truthwebdesign.com (209.59.177.67): icmp_seq=3 ttl=50 time=125 ms
+[1607862739.354030] 40 bytes from 209.59.177.67: icmp_seq=4 ttl=50 time=125 ms
+[1607862744.483707] 40 bytes from lucy.truthwebdesign.com (209.59.177.67): icmp_seq=5 ttl=50 time=125 ms
+[1607862754.618023] 40 bytes from 209.59.177.67: icmp_seq=6 ttl=50 time=126 ms
+[1607862759.747355] 40 bytes from lucy.truthwebdesign.com (209.59.177.67): icmp_seq=7 ttl=50 time=125 ms
+[1607862759.874421] 40 bytes from lucy.truthwebdesign.com (209.59.177.67): icmp_seq=8 ttl=50 time=126 ms
+[1607862760.874194] 40 bytes from lucy.truthwebdesign.com (209.59.177.67): icmp_seq=9 ttl=50 time=125 ms
+[1607862761.874130] 40 bytes from lucy.truthwebdesign.com (209.59.177.67): icmp_seq=10 ttl=50 time=125 ms
+[1607862762.873725] 40 bytes from lucy.truthwebdesign.com (209.59.177.67): icmp_seq=11 ttl=50 time=125 ms
+[1607862763.873593] 40 bytes from lucy.truthwebdesign.com (209.59.177.67): icmp_seq=12 ttl=50 time=125 ms
+[1607862764.876436] 40 bytes from lucy.truthwebdesign.com (209.59.177.67): icmp_seq=13 ttl=50 time=125 ms
+[1607862765.877273] 40 bytes from lucy.truthwebdesign.com (209.59.177.67): icmp_seq=14 ttl=50 time=125 ms
+[1607862766.880311] 40 bytes from lucy.truthwebdesign.com (209.59.177.67): icmp_seq=15 ttl=50 time=125 ms
+[1607862767.880777] 40 bytes from lucy.truthwebdesign.com (209.59.177.67): icmp_seq=16 ttl=50 time=125 ms
+[1607862768.879674] 40 bytes from lucy.truthwebdesign.com (209.59.177.67): icmp_seq=17 ttl=50 time=125 ms
+[1607862769.879331] 40 bytes from lucy.truthwebdesign.com (209.59.177.67): icmp_seq=18 ttl=50 time=125 ms
+[1607862770.879601] 40 bytes from lucy.truthwebdesign.com (209.59.177.67): icmp_seq=19 ttl=50 time=125 ms
+[1607862771.880258] 40 bytes from lucy.truthwebdesign.com (209.59.177.67): icmp_seq=20 ttl=50 time=126 ms
+[1607862772.879108] 40 bytes from lucy.truthwebdesign.com (209.59.177.67): icmp_seq=21 ttl=50 time=125 ms
+[1607862773.878325] 40 bytes from lucy.truthwebdesign.com (209.59.177.67): icmp_seq=22 ttl=50 time=125 ms
+[1607862774.878650] 40 bytes from lucy.truthwebdesign.com (209.59.177.67): icmp_seq=23 ttl=50 time=125 ms
+[1607862780.883666] 40 bytes from lucy.truthwebdesign.com (209.59.177.67): icmp_seq=24 ttl=50 time=125 ms
+[1607862786.014575] 40 bytes from lucy.truthwebdesign.com (209.59.177.67): icmp_seq=25 ttl=50 time=125 ms
+[1607862786.142038] 40 bytes from lucy.truthwebdesign.com (209.59.177.67): icmp_seq=26 ttl=50 time=125 ms
+[1607862797.150055] 40 bytes from 209.59.177.67: icmp_seq=27 ttl=50 time=125 ms
+[1607862807.282013] 40 bytes from 209.59.177.67: icmp_seq=28 ttl=50 time=125 ms
+[1607862807.409387] 40 bytes from lucy.truthwebdesign.com (209.59.177.67): icmp_seq=29 ttl=50 time=125 ms
+[1607862808.410064] 40 bytes from lucy.truthwebdesign.com (209.59.177.67): icmp_seq=30 ttl=50 time=125 ms
+[1607862809.409905] 40 bytes from lucy.truthwebdesign.com (209.59.177.67): icmp_seq=31 ttl=50 time=125 ms
+[1607862810.409261] 40 bytes from lucy.truthwebdesign.com (209.59.177.67): icmp_seq=32 ttl=50 time=125 ms
+[1607862811.408761] 40 bytes from lucy.truthwebdesign.com (209.59.177.67): icmp_seq=33 ttl=50 time=125 ms
+[1607862822.414492] 40 bytes from 209.59.177.67: icmp_seq=34 ttl=50 time=125 ms
+[1607862827.544093] 40 bytes from lucy.truthwebdesign.com (209.59.177.67): icmp_seq=35 ttl=50 time=125 ms
+[1607862827.670893] 40 bytes from lucy.truthwebdesign.com (209.59.177.67): icmp_seq=36 ttl=50 time=125 ms
+[1607862833.675994] 40 bytes from lucy.truthwebdesign.com (209.59.177.67): icmp_seq=37 ttl=50 time=126 ms
+[1607862833.803268] 40 bytes from lucy.truthwebdesign.com (209.59.177.67): icmp_seq=38 ttl=50 time=125 ms
+[1607862834.804493] 40 bytes from lucy.truthwebdesign.com (209.59.177.67): icmp_seq=39 ttl=50 time=125 ms
+[1607862835.805524] 40 bytes from lucy.truthwebdesign.com (209.59.177.67): icmp_seq=40 ttl=50 time=126 ms
+[1607862836.806141] 40 bytes from lucy.truthwebdesign.com (209.59.177.67): icmp_seq=41 ttl=50 time=125 ms
+[1607862837.808548] 40 bytes from lucy.truthwebdesign.com (209.59.177.67): icmp_seq=42 ttl=50 time=127 ms
+[1607862848.810026] 40 bytes from 209.59.177.67: icmp_seq=43 ttl=50 time=124 ms
+[1607862858.942027] 40 bytes from 209.59.177.67: icmp_seq=44 ttl=50 time=125 ms
+[1607862859.069358] 40 bytes from lucy.truthwebdesign.com (209.59.177.67): icmp_seq=45 ttl=50 time=126 ms
+[1607862860.069367] 40 bytes from lucy.truthwebdesign.com (209.59.177.67): icmp_seq=46 ttl=50 time=125 ms
+[1607862861.069744] 40 bytes from lucy.truthwebdesign.com (209.59.177.67): icmp_seq=47 ttl=50 time=125 ms
+[1607862862.069267] 40 bytes from lucy.truthwebdesign.com (209.59.177.67): icmp_seq=48 ttl=50 time=125 ms
+[1607862863.068829] 40 bytes from lucy.truthwebdesign.com (209.59.177.67): icmp_seq=49 ttl=50 time=125 ms
+[1607862864.069363] 40 bytes from lucy.truthwebdesign.com (209.59.177.67): icmp_seq=50 ttl=50 time=125 ms
+
+--- austingrad.edu ping statistics ---
+50 packets transmitted, 50 received, 0% packet loss, time 146856ms
+rtt min/avg/max/mdev = 124.458/125.273/126.502/0.320 ms

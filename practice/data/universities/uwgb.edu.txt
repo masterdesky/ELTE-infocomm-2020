@@ -1,0 +1,55 @@
+PING uwgb.edu (143.200.128.48) 32(60) bytes of data.
+[1607862735.934766] 40 bytes from 143.200.128.48: icmp_seq=1 ttl=109 time=124 ms
+[1607862741.063987] 40 bytes from www3.uwgb.edu (143.200.128.48): icmp_seq=2 ttl=109 time=123 ms
+[1607862751.194061] 40 bytes from 143.200.128.48: icmp_seq=3 ttl=109 time=123 ms
+[1607862756.323782] 40 bytes from uwgb.edu (143.200.128.48): icmp_seq=4 ttl=109 time=124 ms
+[1607862756.448074] 40 bytes from www3.uwgb.edu (143.200.128.48): icmp_seq=5 ttl=109 time=123 ms
+[1607862757.448601] 40 bytes from www.uwgb.edu (143.200.128.48): icmp_seq=6 ttl=109 time=124 ms
+[1607862758.449409] 40 bytes from uwgb.edu (143.200.128.48): icmp_seq=7 ttl=109 time=124 ms
+[1607862759.450857] 40 bytes from uwgb.edu (143.200.128.48): icmp_seq=8 ttl=109 time=124 ms
+[1607862760.451240] 40 bytes from www.uwgb.edu (143.200.128.48): icmp_seq=9 ttl=109 time=123 ms
+[1607862761.452827] 40 bytes from www.uwgb.edu (143.200.128.48): icmp_seq=10 ttl=109 time=124 ms
+[1607862772.458013] 40 bytes from 143.200.128.48: icmp_seq=11 ttl=109 time=124 ms
+[1607862772.584450] 40 bytes from uwgb.edu (143.200.128.48): icmp_seq=12 ttl=109 time=124 ms
+[1607862773.582449] 40 bytes from uwgb.edu (143.200.128.48): icmp_seq=13 ttl=109 time=124 ms
+[1607862774.582912] 40 bytes from www.uwgb.edu (143.200.128.48): icmp_seq=14 ttl=109 time=124 ms
+[1607862780.583879] 40 bytes from www3.uwgb.edu (143.200.128.48): icmp_seq=15 ttl=109 time=123 ms
+[1607862785.711792] 40 bytes from www3.uwgb.edu (143.200.128.48): icmp_seq=16 ttl=109 time=123 ms
+[1607862785.836934] 40 bytes from www.uwgb.edu (143.200.128.48): icmp_seq=17 ttl=109 time=123 ms
+[1607862796.842030] 40 bytes from 143.200.128.48: icmp_seq=18 ttl=109 time=124 ms
+[1607862806.974031] 40 bytes from 143.200.128.48: icmp_seq=19 ttl=109 time=123 ms
+[1607862812.103585] 40 bytes from www3.uwgb.edu (143.200.128.48): icmp_seq=20 ttl=109 time=124 ms
+[1607862817.232119] 40 bytes from www3.uwgb.edu (143.200.128.48): icmp_seq=21 ttl=109 time=124 ms
+[1607862822.359066] 40 bytes from www.uwgb.edu (143.200.128.48): icmp_seq=22 ttl=109 time=123 ms
+[1607862822.484228] 40 bytes from www3.uwgb.edu (143.200.128.48): icmp_seq=23 ttl=109 time=124 ms
+[1607862823.484304] 40 bytes from www3.uwgb.edu (143.200.128.48): icmp_seq=24 ttl=109 time=123 ms
+[1607862824.484459] 40 bytes from www3.uwgb.edu (143.200.128.48): icmp_seq=25 ttl=109 time=123 ms
+[1607862825.485019] 40 bytes from uwgb.edu (143.200.128.48): icmp_seq=26 ttl=109 time=124 ms
+[1607862826.485851] 40 bytes from uwgb.edu (143.200.128.48): icmp_seq=27 ttl=109 time=123 ms
+[1607862827.486438] 40 bytes from www3.uwgb.edu (143.200.128.48): icmp_seq=28 ttl=109 time=124 ms
+[1607862838.490099] 40 bytes from 143.200.128.48: icmp_seq=29 ttl=109 time=123 ms
+[1607862843.619682] 40 bytes from www3.uwgb.edu (143.200.128.48): icmp_seq=30 ttl=109 time=124 ms
+[1607862853.750046] 40 bytes from 143.200.128.48: icmp_seq=31 ttl=109 time=124 ms
+[1607862853.875490] 40 bytes from www.uwgb.edu (143.200.128.48): icmp_seq=32 ttl=109 time=123 ms
+[1607862854.874965] 40 bytes from www.uwgb.edu (143.200.128.48): icmp_seq=33 ttl=109 time=124 ms
+[1607862855.875590] 40 bytes from www3.uwgb.edu (143.200.128.48): icmp_seq=34 ttl=109 time=123 ms
+[1607862856.876506] 40 bytes from www3.uwgb.edu (143.200.128.48): icmp_seq=35 ttl=109 time=123 ms
+[1607862857.877787] 40 bytes from www.uwgb.edu (143.200.128.48): icmp_seq=36 ttl=109 time=123 ms
+[1607862858.879194] 40 bytes from uwgb.edu (143.200.128.48): icmp_seq=37 ttl=109 time=123 ms
+[1607862864.884567] 40 bytes from uwgb.edu (143.200.128.48): icmp_seq=38 ttl=109 time=123 ms
+[1607862875.014019] 40 bytes from 143.200.128.48: icmp_seq=39 ttl=109 time=123 ms
+[1607862875.139153] 40 bytes from uwgb.edu (143.200.128.48): icmp_seq=40 ttl=109 time=123 ms
+[1607862881.144111] 40 bytes from www3.uwgb.edu (143.200.128.48): icmp_seq=41 ttl=109 time=124 ms
+[1607862881.270255] 40 bytes from www3.uwgb.edu (143.200.128.48): icmp_seq=42 ttl=109 time=124 ms
+[1607862882.269657] 40 bytes from www.uwgb.edu (143.200.128.48): icmp_seq=43 ttl=109 time=123 ms
+[1607862883.270758] 40 bytes from uwgb.edu (143.200.128.48): icmp_seq=44 ttl=109 time=124 ms
+[1607862884.271727] 40 bytes from www.uwgb.edu (143.200.128.48): icmp_seq=45 ttl=109 time=124 ms
+[1607862885.271966] 40 bytes from www3.uwgb.edu (143.200.128.48): icmp_seq=46 ttl=109 time=124 ms
+[1607862886.272455] 40 bytes from www.uwgb.edu (143.200.128.48): icmp_seq=47 ttl=109 time=124 ms
+[1607862887.273276] 40 bytes from uwgb.edu (143.200.128.48): icmp_seq=48 ttl=109 time=124 ms
+[1607862888.274224] 40 bytes from www.uwgb.edu (143.200.128.48): icmp_seq=49 ttl=109 time=123 ms
+[1607862889.275621] 40 bytes from uwgb.edu (143.200.128.48): icmp_seq=50 ttl=109 time=124 ms
+
+--- uwgb.edu ping statistics ---
+50 packets transmitted, 50 received, 0% packet loss, time 163348ms
+rtt min/avg/max/mdev = 122.607/123.455/123.936/0.287 ms

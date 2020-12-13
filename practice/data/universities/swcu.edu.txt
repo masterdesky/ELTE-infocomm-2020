@@ -1,0 +1,55 @@
+PING swcu.edu (192.245.157.41) 32(60) bytes of data.
+[1607862719.934120] 40 bytes from 192.245.157.41: icmp_seq=1 ttl=51 time=107 ms
+[1607862721.331698] 40 bytes from rssd7256.webaccountserver.com (192.245.157.41): icmp_seq=2 ttl=51 time=108 ms
+[1607862726.444220] 40 bytes from rssd7256.webaccountserver.com (192.245.157.41): icmp_seq=3 ttl=51 time=107 ms
+[1607862731.555846] 40 bytes from rssd7256.webaccountserver.com (192.245.157.41): icmp_seq=4 ttl=51 time=108 ms
+[1607862736.667828] 40 bytes from rssd7256.webaccountserver.com (192.245.157.41): icmp_seq=5 ttl=51 time=108 ms
+[1607862741.779877] 40 bytes from rssd7256.webaccountserver.com (192.245.157.41): icmp_seq=6 ttl=51 time=108 ms
+[1607862751.894019] 40 bytes from 192.245.157.41: icmp_seq=7 ttl=51 time=107 ms
+[1607862752.003914] 40 bytes from rssd7256.webaccountserver.com (192.245.157.41): icmp_seq=8 ttl=51 time=108 ms
+[1607862753.003944] 40 bytes from rssd7256.webaccountserver.com (192.245.157.41): icmp_seq=9 ttl=51 time=108 ms
+[1607862754.003856] 40 bytes from rssd7256.webaccountserver.com (192.245.157.41): icmp_seq=10 ttl=51 time=108 ms
+[1607862760.003581] 40 bytes from rssd7256.webaccountserver.com (192.245.157.41): icmp_seq=11 ttl=51 time=108 ms
+[1607862760.121842] 40 bytes from rssd7256.webaccountserver.com (192.245.157.41): icmp_seq=12 ttl=51 time=116 ms
+[1607862761.114768] 40 bytes from rssd7256.webaccountserver.com (192.245.157.41): icmp_seq=13 ttl=51 time=108 ms
+[1607862762.115118] 40 bytes from rssd7256.webaccountserver.com (192.245.157.41): icmp_seq=14 ttl=51 time=108 ms
+[1607862763.116147] 40 bytes from rssd7256.webaccountserver.com (192.245.157.41): icmp_seq=15 ttl=51 time=108 ms
+[1607862764.115759] 40 bytes from rssd7256.webaccountserver.com (192.245.157.41): icmp_seq=16 ttl=51 time=108 ms
+[1607862765.117804] 40 bytes from rssd7256.webaccountserver.com (192.245.157.41): icmp_seq=17 ttl=51 time=108 ms
+[1607862776.122005] 40 bytes from 192.245.157.41: icmp_seq=18 ttl=51 time=108 ms
+[1607862786.242045] 40 bytes from 192.245.157.41: icmp_seq=19 ttl=51 time=111 ms
+[1607862791.356237] 40 bytes from rssd7256.webaccountserver.com (192.245.157.41): icmp_seq=20 ttl=51 time=108 ms
+[1607862801.470008] 40 bytes from 192.245.157.41: icmp_seq=21 ttl=51 time=108 ms
+[1607862806.583953] 40 bytes from rssd7256.webaccountserver.com (192.245.157.41): icmp_seq=22 ttl=51 time=108 ms
+[1607862806.693890] 40 bytes from rssd7256.webaccountserver.com (192.245.157.41): icmp_seq=23 ttl=51 time=108 ms
+[1607862807.695585] 40 bytes from rssd7256.webaccountserver.com (192.245.157.41): icmp_seq=24 ttl=51 time=108 ms
+[1607862808.694098] 40 bytes from rssd7256.webaccountserver.com (192.245.157.41): icmp_seq=25 ttl=51 time=108 ms
+[1607862809.692797] 40 bytes from rssd7256.webaccountserver.com (192.245.157.41): icmp_seq=26 ttl=51 time=108 ms
+[1607862810.690803] 40 bytes from rssd7256.webaccountserver.com (192.245.157.41): icmp_seq=27 ttl=51 time=107 ms
+[1607862811.692219] 40 bytes from rssd7256.webaccountserver.com (192.245.157.41): icmp_seq=28 ttl=51 time=108 ms
+[1607862817.695552] 40 bytes from rssd7256.webaccountserver.com (192.245.157.41): icmp_seq=29 ttl=51 time=108 ms
+[1607862827.810109] 40 bytes from 192.245.157.41: icmp_seq=30 ttl=51 time=108 ms
+[1607862832.923016] 40 bytes from rssd7256.webaccountserver.com (192.245.157.41): icmp_seq=31 ttl=51 time=108 ms
+[1607862838.035225] 40 bytes from rssd7256.webaccountserver.com (192.245.157.41): icmp_seq=32 ttl=51 time=107 ms
+[1607862838.144738] 40 bytes from rssd7256.webaccountserver.com (192.245.157.41): icmp_seq=33 ttl=51 time=108 ms
+[1607862849.154223] 40 bytes from 192.245.157.41: icmp_seq=34 ttl=51 time=112 ms
+[1607862859.270507] 40 bytes from 192.245.157.41: icmp_seq=35 ttl=51 time=108 ms
+[1607862864.384078] 40 bytes from rssd7256.webaccountserver.com (192.245.157.41): icmp_seq=36 ttl=51 time=108 ms
+[1607862864.493544] 40 bytes from rssd7256.webaccountserver.com (192.245.157.41): icmp_seq=37 ttl=51 time=108 ms
+[1607862875.502046] 40 bytes from 192.245.157.41: icmp_seq=38 ttl=51 time=108 ms
+[1607862875.612691] 40 bytes from rssd7256.webaccountserver.com (192.245.157.41): icmp_seq=39 ttl=51 time=108 ms
+[1607862876.613858] 40 bytes from rssd7256.webaccountserver.com (192.245.157.41): icmp_seq=40 ttl=51 time=108 ms
+[1607862877.614691] 40 bytes from rssd7256.webaccountserver.com (192.245.157.41): icmp_seq=41 ttl=51 time=108 ms
+[1607862878.621673] 40 bytes from rssd7256.webaccountserver.com (192.245.157.41): icmp_seq=42 ttl=51 time=114 ms
+[1607862879.617730] 40 bytes from rssd7256.webaccountserver.com (192.245.157.41): icmp_seq=43 ttl=51 time=108 ms
+[1607862880.617044] 40 bytes from rssd7256.webaccountserver.com (192.245.157.41): icmp_seq=44 ttl=51 time=108 ms
+[1607862881.618411] 40 bytes from rssd7256.webaccountserver.com (192.245.157.41): icmp_seq=45 ttl=51 time=108 ms
+[1607862882.620500] 40 bytes from rssd7256.webaccountserver.com (192.245.157.41): icmp_seq=46 ttl=51 time=108 ms
+[1607862883.620258] 40 bytes from rssd7256.webaccountserver.com (192.245.157.41): icmp_seq=47 ttl=51 time=107 ms
+[1607862884.622315] 40 bytes from rssd7256.webaccountserver.com (192.245.157.41): icmp_seq=48 ttl=51 time=108 ms
+[1607862885.623350] 40 bytes from rssd7256.webaccountserver.com (192.245.157.41): icmp_seq=49 ttl=51 time=108 ms
+[1607862886.624036] 40 bytes from rssd7256.webaccountserver.com (192.245.157.41): icmp_seq=50 ttl=51 time=108 ms
+
+--- swcu.edu ping statistics ---
+50 packets transmitted, 50 received, 0% packet loss, time 176695ms
+rtt min/avg/max/mdev = 107.271/108.361/116.179/1.560 ms

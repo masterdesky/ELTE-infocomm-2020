@@ -1,0 +1,55 @@
+PING linfield.edu (216.151.1.11) 32(60) bytes of data.
+[1607862705.860970] 40 bytes from 216.151.1.11.opusnet.com (216.151.1.11): icmp_seq=1 ttl=52 time=179 ms
+[1607862716.482424] 40 bytes from 216.151.1.11: icmp_seq=2 ttl=52 time=179 ms
+[1607862716.664207] 40 bytes from 216.151.1.11.opusnet.com (216.151.1.11): icmp_seq=3 ttl=52 time=180 ms
+[1607862727.670864] 40 bytes from 216.151.1.11: icmp_seq=4 ttl=52 time=179 ms
+[1607862727.852426] 40 bytes from 216.151.1.11.opusnet.com (216.151.1.11): icmp_seq=5 ttl=52 time=179 ms
+[1607862733.856078] 40 bytes from 216.151.1.11.opusnet.com (216.151.1.11): icmp_seq=6 ttl=52 time=179 ms
+[1607862739.039791] 40 bytes from 216.151.1.11.opusnet.com (216.151.1.11): icmp_seq=7 ttl=52 time=179 ms
+[1607862744.225768] 40 bytes from 216.151.1.11.opusnet.com (216.151.1.11): icmp_seq=8 ttl=52 time=179 ms
+[1607862744.406581] 40 bytes from 216.151.1.11.opusnet.com (216.151.1.11): icmp_seq=9 ttl=52 time=179 ms
+[1607862745.409056] 40 bytes from 216.151.1.11.opusnet.com (216.151.1.11): icmp_seq=10 ttl=52 time=179 ms
+[1607862756.414025] 40 bytes from 216.151.1.11: icmp_seq=11 ttl=52 time=179 ms
+[1607862756.594661] 40 bytes from 216.151.1.11.opusnet.com (216.151.1.11): icmp_seq=12 ttl=52 time=179 ms
+[1607862757.594461] 40 bytes from 216.151.1.11.opusnet.com (216.151.1.11): icmp_seq=13 ttl=52 time=179 ms
+[1607862758.595904] 40 bytes from 216.151.1.11.opusnet.com (216.151.1.11): icmp_seq=14 ttl=52 time=179 ms
+[1607862759.597390] 40 bytes from 216.151.1.11.opusnet.com (216.151.1.11): icmp_seq=15 ttl=52 time=179 ms
+[1607862770.606052] 40 bytes from 216.151.1.11: icmp_seq=16 ttl=52 time=178 ms
+[1607862780.795308] 40 bytes from 216.151.1.11: icmp_seq=17 ttl=52 time=182 ms
+[1607862780.976317] 40 bytes from 216.151.1.11.opusnet.com (216.151.1.11): icmp_seq=18 ttl=52 time=179 ms
+[1607862791.982085] 40 bytes from 216.151.1.11: icmp_seq=19 ttl=52 time=179 ms
+[1607862802.170027] 40 bytes from 216.151.1.11: icmp_seq=20 ttl=52 time=179 ms
+[1607862812.354013] 40 bytes from 216.151.1.11: icmp_seq=21 ttl=52 time=179 ms
+[1607862822.542080] 40 bytes from 216.151.1.11: icmp_seq=22 ttl=52 time=179 ms
+[1607862822.723244] 40 bytes from 216.151.1.11.opusnet.com (216.151.1.11): icmp_seq=23 ttl=52 time=179 ms
+[1607862823.724182] 40 bytes from 216.151.1.11.opusnet.com (216.151.1.11): icmp_seq=24 ttl=52 time=180 ms
+[1607862824.723043] 40 bytes from 216.151.1.11.opusnet.com (216.151.1.11): icmp_seq=25 ttl=52 time=179 ms
+[1607862825.724557] 40 bytes from 216.151.1.11.opusnet.com (216.151.1.11): icmp_seq=26 ttl=52 time=179 ms
+[1607862826.726147] 40 bytes from 216.151.1.11.opusnet.com (216.151.1.11): icmp_seq=27 ttl=52 time=179 ms
+[1607862827.724232] 40 bytes from 216.151.1.11.opusnet.com (216.151.1.11): icmp_seq=28 ttl=52 time=179 ms
+[1607862838.734060] 40 bytes from 216.151.1.11: icmp_seq=29 ttl=52 time=180 ms
+[1607862838.915857] 40 bytes from 216.151.1.11.opusnet.com (216.151.1.11): icmp_seq=30 ttl=52 time=180 ms
+[1607862839.916705] 40 bytes from 216.151.1.11.opusnet.com (216.151.1.11): icmp_seq=31 ttl=52 time=179 ms
+[1607862840.917187] 40 bytes from 216.151.1.11.opusnet.com (216.151.1.11): icmp_seq=32 ttl=52 time=179 ms
+[1607862841.918765] 40 bytes from 216.151.1.11.opusnet.com (216.151.1.11): icmp_seq=33 ttl=52 time=180 ms
+[1607862842.920132] 40 bytes from 216.151.1.11.opusnet.com (216.151.1.11): icmp_seq=34 ttl=52 time=180 ms
+[1607862853.926026] 40 bytes from 216.151.1.11: icmp_seq=35 ttl=52 time=179 ms
+[1607862859.111191] 40 bytes from 216.151.1.11.opusnet.com (216.151.1.11): icmp_seq=36 ttl=52 time=179 ms
+[1607862864.296073] 40 bytes from 216.151.1.11.opusnet.com (216.151.1.11): icmp_seq=37 ttl=52 time=179 ms
+[1607862864.477505] 40 bytes from 216.151.1.11.opusnet.com (216.151.1.11): icmp_seq=38 ttl=52 time=179 ms
+[1607862870.483773] 40 bytes from 216.151.1.11.opusnet.com (216.151.1.11): icmp_seq=39 ttl=52 time=180 ms
+[1607862870.664420] 40 bytes from 216.151.1.11.opusnet.com (216.151.1.11): icmp_seq=40 ttl=52 time=179 ms
+[1607862871.665708] 40 bytes from 216.151.1.11.opusnet.com (216.151.1.11): icmp_seq=41 ttl=52 time=179 ms
+[1607862872.667206] 40 bytes from 216.151.1.11.opusnet.com (216.151.1.11): icmp_seq=42 ttl=52 time=179 ms
+[1607862873.668398] 40 bytes from 216.151.1.11.opusnet.com (216.151.1.11): icmp_seq=43 ttl=52 time=179 ms
+[1607862874.669400] 40 bytes from 216.151.1.11.opusnet.com (216.151.1.11): icmp_seq=44 ttl=52 time=179 ms
+[1607862875.670779] 40 bytes from 216.151.1.11.opusnet.com (216.151.1.11): icmp_seq=45 ttl=52 time=180 ms
+[1607862881.676406] 40 bytes from 216.151.1.11.opusnet.com (216.151.1.11): icmp_seq=46 ttl=52 time=179 ms
+[1607862881.857768] 40 bytes from 216.151.1.11.opusnet.com (216.151.1.11): icmp_seq=47 ttl=52 time=179 ms
+[1607862882.858817] 40 bytes from 216.151.1.11.opusnet.com (216.151.1.11): icmp_seq=48 ttl=52 time=179 ms
+[1607862883.859380] 40 bytes from 216.151.1.11.opusnet.com (216.151.1.11): icmp_seq=49 ttl=52 time=179 ms
+[1607862884.860876] 40 bytes from 216.151.1.11.opusnet.com (216.151.1.11): icmp_seq=50 ttl=52 time=180 ms
+
+--- linfield.edu ping statistics ---
+50 packets transmitted, 50 received, 0% packet loss, time 179385ms
+rtt min/avg/max/mdev = 178.481/179.331/182.242/0.511 ms

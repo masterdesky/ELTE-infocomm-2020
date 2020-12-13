@@ -1,0 +1,55 @@
+PING kgi.edu (35.224.88.2) 32(60) bytes of data.
+[1607862689.789563] 40 bytes from 2.88.224.35.bc.googleusercontent.com (35.224.88.2): icmp_seq=1 ttl=49 time=121 ms
+[1607862700.794033] 40 bytes from 35.224.88.2: icmp_seq=2 ttl=49 time=121 ms
+[1607862700.921733] 40 bytes from 2.88.224.35.bc.googleusercontent.com (35.224.88.2): icmp_seq=3 ttl=49 time=121 ms
+[1607862711.926029] 40 bytes from 35.224.88.2: icmp_seq=4 ttl=49 time=121 ms
+[1607862717.054483] 40 bytes from 2.88.224.35.bc.googleusercontent.com (35.224.88.2): icmp_seq=5 ttl=49 time=121 ms
+[1607862727.182235] 40 bytes from 35.224.88.2: icmp_seq=6 ttl=49 time=121 ms
+[1607862737.311032] 40 bytes from 35.224.88.2: icmp_seq=7 ttl=49 time=121 ms
+[1607862737.438123] 40 bytes from 2.88.224.35.bc.googleusercontent.com (35.224.88.2): icmp_seq=8 ttl=49 time=120 ms
+[1607862738.436379] 40 bytes from 2.88.224.35.bc.googleusercontent.com (35.224.88.2): icmp_seq=9 ttl=49 time=121 ms
+[1607862749.442006] 40 bytes from 35.224.88.2: icmp_seq=10 ttl=49 time=121 ms
+[1607862754.567719] 40 bytes from 2.88.224.35.bc.googleusercontent.com (35.224.88.2): icmp_seq=11 ttl=49 time=121 ms
+[1607862759.693500] 40 bytes from 2.88.224.35.bc.googleusercontent.com (35.224.88.2): icmp_seq=12 ttl=49 time=121 ms
+[1607862759.817310] 40 bytes from 2.88.224.35.bc.googleusercontent.com (35.224.88.2): icmp_seq=13 ttl=49 time=121 ms
+[1607862760.816126] 40 bytes from 2.88.224.35.bc.googleusercontent.com (35.224.88.2): icmp_seq=14 ttl=49 time=121 ms
+[1607862771.823973] 40 bytes from 35.224.88.2: icmp_seq=15 ttl=49 time=121 ms
+[1607862776.951841] 40 bytes from 2.88.224.35.bc.googleusercontent.com (35.224.88.2): icmp_seq=16 ttl=49 time=121 ms
+[1607862787.078022] 40 bytes from 35.224.88.2: icmp_seq=17 ttl=49 time=121 ms
+[1607862792.203654] 40 bytes from 2.88.224.35.bc.googleusercontent.com (35.224.88.2): icmp_seq=18 ttl=49 time=121 ms
+[1607862792.326578] 40 bytes from 2.88.224.35.bc.googleusercontent.com (35.224.88.2): icmp_seq=19 ttl=49 time=121 ms
+[1607862793.326902] 40 bytes from 2.88.224.35.bc.googleusercontent.com (35.224.88.2): icmp_seq=20 ttl=49 time=121 ms
+[1607862794.328671] 40 bytes from 2.88.224.35.bc.googleusercontent.com (35.224.88.2): icmp_seq=21 ttl=49 time=121 ms
+[1607862795.328937] 40 bytes from 2.88.224.35.bc.googleusercontent.com (35.224.88.2): icmp_seq=22 ttl=49 time=121 ms
+[1607862796.330404] 40 bytes from 2.88.224.35.bc.googleusercontent.com (35.224.88.2): icmp_seq=23 ttl=49 time=121 ms
+[1607862807.338310] 40 bytes from 35.224.88.2: icmp_seq=24 ttl=49 time=121 ms
+[1607862812.463590] 40 bytes from 2.88.224.35.bc.googleusercontent.com (35.224.88.2): icmp_seq=25 ttl=49 time=121 ms
+[1607862822.590027] 40 bytes from 35.224.88.2: icmp_seq=26 ttl=49 time=120 ms
+[1607862827.716446] 40 bytes from 2.88.224.35.bc.googleusercontent.com (35.224.88.2): icmp_seq=27 ttl=49 time=121 ms
+[1607862832.843781] 40 bytes from 2.88.224.35.bc.googleusercontent.com (35.224.88.2): icmp_seq=28 ttl=49 time=122 ms
+[1607862837.967901] 40 bytes from 2.88.224.35.bc.googleusercontent.com (35.224.88.2): icmp_seq=29 ttl=49 time=121 ms
+[1607862838.094522] 40 bytes from 2.88.224.35.bc.googleusercontent.com (35.224.88.2): icmp_seq=30 ttl=49 time=121 ms
+[1607862849.098071] 40 bytes from 35.224.88.2: icmp_seq=31 ttl=49 time=121 ms
+[1607862859.226101] 40 bytes from 35.224.88.2: icmp_seq=32 ttl=49 time=121 ms
+[1607862864.352226] 40 bytes from 2.88.224.35.bc.googleusercontent.com (35.224.88.2): icmp_seq=33 ttl=49 time=121 ms
+[1607862864.475266] 40 bytes from 2.88.224.35.bc.googleusercontent.com (35.224.88.2): icmp_seq=34 ttl=49 time=121 ms
+[1607862875.482025] 40 bytes from 35.224.88.2: icmp_seq=35 ttl=49 time=121 ms
+[1607862875.605679] 40 bytes from 2.88.224.35.bc.googleusercontent.com (35.224.88.2): icmp_seq=36 ttl=49 time=121 ms
+[1607862876.606294] 40 bytes from 2.88.224.35.bc.googleusercontent.com (35.224.88.2): icmp_seq=37 ttl=49 time=120 ms
+[1607862877.608270] 40 bytes from 2.88.224.35.bc.googleusercontent.com (35.224.88.2): icmp_seq=38 ttl=49 time=121 ms
+[1607862878.609068] 40 bytes from 2.88.224.35.bc.googleusercontent.com (35.224.88.2): icmp_seq=39 ttl=49 time=121 ms
+[1607862879.609436] 40 bytes from 2.88.224.35.bc.googleusercontent.com (35.224.88.2): icmp_seq=40 ttl=49 time=121 ms
+[1607862880.608810] 40 bytes from 2.88.224.35.bc.googleusercontent.com (35.224.88.2): icmp_seq=41 ttl=49 time=121 ms
+[1607862881.610921] 40 bytes from 2.88.224.35.bc.googleusercontent.com (35.224.88.2): icmp_seq=42 ttl=49 time=121 ms
+[1607862882.611156] 40 bytes from 2.88.224.35.bc.googleusercontent.com (35.224.88.2): icmp_seq=43 ttl=49 time=121 ms
+[1607862883.612157] 40 bytes from 2.88.224.35.bc.googleusercontent.com (35.224.88.2): icmp_seq=44 ttl=49 time=121 ms
+[1607862884.613543] 40 bytes from 2.88.224.35.bc.googleusercontent.com (35.224.88.2): icmp_seq=45 ttl=49 time=121 ms
+[1607862885.613795] 40 bytes from 2.88.224.35.bc.googleusercontent.com (35.224.88.2): icmp_seq=46 ttl=49 time=121 ms
+[1607862886.615040] 40 bytes from 2.88.224.35.bc.googleusercontent.com (35.224.88.2): icmp_seq=47 ttl=49 time=121 ms
+[1607862887.616424] 40 bytes from 2.88.224.35.bc.googleusercontent.com (35.224.88.2): icmp_seq=48 ttl=49 time=121 ms
+[1607862888.617835] 40 bytes from 2.88.224.35.bc.googleusercontent.com (35.224.88.2): icmp_seq=49 ttl=49 time=121 ms
+[1607862889.619428] 40 bytes from 2.88.224.35.bc.googleusercontent.com (35.224.88.2): icmp_seq=50 ttl=49 time=121 ms
+
+--- kgi.edu ping statistics ---
+50 packets transmitted, 50 received, 0% packet loss, time 199831ms
+rtt min/avg/max/mdev = 120.083/120.875/121.616/0.275 ms

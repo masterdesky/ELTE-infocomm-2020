@@ -1,0 +1,55 @@
+PING syr.edu (128.230.18.200) 32(60) bytes of data.
+[1607862717.186531] 40 bytes from 128.230.18.200: icmp_seq=1 ttl=42 time=117 ms
+[1607862718.637148] 40 bytes from syr-prod-web.syracuse.edu (128.230.18.200): icmp_seq=2 ttl=42 time=118 ms
+[1607862718.755342] 40 bytes from syr-prod-web1.syr.edu (128.230.18.200): icmp_seq=3 ttl=42 time=116 ms
+[1607862719.754673] 40 bytes from syr-prod-web1.syr.edu (128.230.18.200): icmp_seq=4 ttl=42 time=116 ms
+[1607862720.754118] 40 bytes from syr-prod-web1.syr.edu (128.230.18.200): icmp_seq=5 ttl=42 time=116 ms
+[1607862721.755405] 40 bytes from syr-prod-web.syracuse.edu (128.230.18.200): icmp_seq=6 ttl=42 time=116 ms
+[1607862722.755235] 40 bytes from syr-prod-web.syracuse.edu (128.230.18.200): icmp_seq=7 ttl=42 time=116 ms
+[1607862728.761932] 40 bytes from syr.edu (128.230.18.200): icmp_seq=8 ttl=42 time=116 ms
+[1607862733.883960] 40 bytes from syr-prod-web.syracuse.edu (128.230.18.200): icmp_seq=9 ttl=42 time=116 ms
+[1607862739.003696] 40 bytes from syr.edu (128.230.18.200): icmp_seq=10 ttl=42 time=116 ms
+[1607862744.126201] 40 bytes from syr-prod-web1.syr.edu (128.230.18.200): icmp_seq=11 ttl=42 time=116 ms
+[1607862744.243691] 40 bytes from syr.edu (128.230.18.200): icmp_seq=12 ttl=42 time=116 ms
+[1607862745.246249] 40 bytes from syr-prod-web1.syr.edu (128.230.18.200): icmp_seq=13 ttl=42 time=116 ms
+[1607862756.254010] 40 bytes from 128.230.18.200: icmp_seq=14 ttl=42 time=116 ms
+[1607862756.372187] 40 bytes from syr-prod-web1.syr.edu (128.230.18.200): icmp_seq=15 ttl=42 time=116 ms
+[1607862767.378026] 40 bytes from 128.230.18.200: icmp_seq=16 ttl=42 time=116 ms
+[1607862777.503114] 40 bytes from 128.230.18.200: icmp_seq=17 ttl=42 time=116 ms
+[1607862777.621810] 40 bytes from syr-prod-web1.syr.edu (128.230.18.200): icmp_seq=18 ttl=42 time=117 ms
+[1607862778.620587] 40 bytes from syr.edu (128.230.18.200): icmp_seq=19 ttl=42 time=116 ms
+[1607862779.620226] 40 bytes from syr-prod-web.syracuse.edu (128.230.18.200): icmp_seq=20 ttl=42 time=116 ms
+[1607862780.620208] 40 bytes from syr-prod-web.syracuse.edu (128.230.18.200): icmp_seq=21 ttl=42 time=116 ms
+[1607862791.626447] 40 bytes from 128.230.18.200: icmp_seq=22 ttl=42 time=117 ms
+[1607862796.748119] 40 bytes from syr-prod-web1.syr.edu (128.230.18.200): icmp_seq=23 ttl=42 time=118 ms
+[1607862806.874058] 40 bytes from 128.230.18.200: icmp_seq=24 ttl=42 time=117 ms
+[1607862811.995947] 40 bytes from syr.edu (128.230.18.200): icmp_seq=25 ttl=42 time=116 ms
+[1607862817.120032] 40 bytes from syr.edu (128.230.18.200): icmp_seq=26 ttl=42 time=117 ms
+[1607862817.239339] 40 bytes from syr.edu (128.230.18.200): icmp_seq=27 ttl=42 time=116 ms
+[1607862818.239255] 40 bytes from syr-prod-web1.syr.edu (128.230.18.200): icmp_seq=28 ttl=42 time=116 ms
+[1607862819.239160] 40 bytes from syr-prod-web1.syr.edu (128.230.18.200): icmp_seq=29 ttl=42 time=116 ms
+[1607862820.240498] 40 bytes from syr-prod-web.syracuse.edu (128.230.18.200): icmp_seq=30 ttl=42 time=116 ms
+[1607862821.239920] 40 bytes from syr-prod-web.syracuse.edu (128.230.18.200): icmp_seq=31 ttl=42 time=116 ms
+[1607862822.240745] 40 bytes from syr.edu (128.230.18.200): icmp_seq=32 ttl=42 time=116 ms
+[1607862823.241051] 40 bytes from syr-prod-web.syracuse.edu (128.230.18.200): icmp_seq=33 ttl=42 time=116 ms
+[1607862824.240907] 40 bytes from syr.edu (128.230.18.200): icmp_seq=34 ttl=42 time=116 ms
+[1607862825.242994] 40 bytes from syr.edu (128.230.18.200): icmp_seq=35 ttl=42 time=116 ms
+[1607862826.244471] 40 bytes from syr-prod-web.syracuse.edu (128.230.18.200): icmp_seq=36 ttl=42 time=116 ms
+[1607862827.244114] 40 bytes from syr-prod-web.syracuse.edu (128.230.18.200): icmp_seq=37 ttl=42 time=116 ms
+[1607862838.252125] 40 bytes from 128.230.18.200: icmp_seq=38 ttl=42 time=116 ms
+[1607862848.374100] 40 bytes from 128.230.18.200: icmp_seq=39 ttl=42 time=116 ms
+[1607862848.492823] 40 bytes from syr-prod-web1.syr.edu (128.230.18.200): icmp_seq=40 ttl=42 time=117 ms
+[1607862849.492809] 40 bytes from syr.edu (128.230.18.200): icmp_seq=41 ttl=42 time=116 ms
+[1607862850.494949] 40 bytes from syr-prod-web1.syr.edu (128.230.18.200): icmp_seq=42 ttl=42 time=116 ms
+[1607862851.495601] 40 bytes from syr-prod-web.syracuse.edu (128.230.18.200): icmp_seq=43 ttl=42 time=116 ms
+[1607862852.497122] 40 bytes from syr-prod-web1.syr.edu (128.230.18.200): icmp_seq=44 ttl=42 time=116 ms
+[1607862853.498906] 40 bytes from syr-prod-web.syracuse.edu (128.230.18.200): icmp_seq=45 ttl=42 time=116 ms
+[1607862864.505992] 40 bytes from 128.230.18.200: icmp_seq=46 ttl=42 time=116 ms
+[1607862869.627965] 40 bytes from syr-prod-web1.syr.edu (128.230.18.200): icmp_seq=47 ttl=42 time=116 ms
+[1607862869.745582] 40 bytes from syr-prod-web.syracuse.edu (128.230.18.200): icmp_seq=48 ttl=42 time=116 ms
+[1607862880.754075] 40 bytes from 128.230.18.200: icmp_seq=49 ttl=42 time=116 ms
+[1607862880.872260] 40 bytes from syr.edu (128.230.18.200): icmp_seq=50 ttl=42 time=116 ms
+
+--- syr.edu ping statistics ---
+50 packets transmitted, 50 received, 0% packet loss, time 173692ms
+rtt min/avg/max/mdev = 115.508/116.281/118.463/0.488 ms

@@ -1,0 +1,55 @@
+PING wagner.edu (35.222.222.5) 32(60) bytes of data.
+[1607862711.902686] 40 bytes from 35.222.222.5: icmp_seq=1 ttl=50 time=121 ms
+[1607862722.030570] 40 bytes from 35.222.222.5: icmp_seq=2 ttl=50 time=121 ms
+[1607862722.154755] 40 bytes from 5.222.222.35.bc.googleusercontent.com (35.222.222.5): icmp_seq=3 ttl=50 time=122 ms
+[1607862723.154704] 40 bytes from 5.222.222.35.bc.googleusercontent.com (35.222.222.5): icmp_seq=4 ttl=50 time=121 ms
+[1607862724.154111] 40 bytes from 5.222.222.35.bc.googleusercontent.com (35.222.222.5): icmp_seq=5 ttl=50 time=121 ms
+[1607862725.154003] 40 bytes from 5.222.222.35.bc.googleusercontent.com (35.222.222.5): icmp_seq=6 ttl=50 time=121 ms
+[1607862726.154276] 40 bytes from 5.222.222.35.bc.googleusercontent.com (35.222.222.5): icmp_seq=7 ttl=50 time=121 ms
+[1607862727.154741] 40 bytes from 5.222.222.35.bc.googleusercontent.com (35.222.222.5): icmp_seq=8 ttl=50 time=121 ms
+[1607862728.154876] 40 bytes from 5.222.222.35.bc.googleusercontent.com (35.222.222.5): icmp_seq=9 ttl=50 time=121 ms
+[1607862729.156635] 40 bytes from 5.222.222.35.bc.googleusercontent.com (35.222.222.5): icmp_seq=10 ttl=50 time=121 ms
+[1607862730.157476] 40 bytes from 5.222.222.35.bc.googleusercontent.com (35.222.222.5): icmp_seq=11 ttl=50 time=121 ms
+[1607862731.158609] 40 bytes from 5.222.222.35.bc.googleusercontent.com (35.222.222.5): icmp_seq=12 ttl=50 time=121 ms
+[1607862732.159101] 40 bytes from 5.222.222.35.bc.googleusercontent.com (35.222.222.5): icmp_seq=13 ttl=50 time=121 ms
+[1607862733.159402] 40 bytes from 5.222.222.35.bc.googleusercontent.com (35.222.222.5): icmp_seq=14 ttl=50 time=121 ms
+[1607862739.163825] 40 bytes from 5.222.222.35.bc.googleusercontent.com (35.222.222.5): icmp_seq=15 ttl=50 time=121 ms
+[1607862744.287831] 40 bytes from 5.222.222.35.bc.googleusercontent.com (35.222.222.5): icmp_seq=16 ttl=50 time=120 ms
+[1607862749.415740] 40 bytes from 5.222.222.35.bc.googleusercontent.com (35.222.222.5): icmp_seq=17 ttl=50 time=121 ms
+[1607862754.543103] 40 bytes from 5.222.222.35.bc.googleusercontent.com (35.222.222.5): icmp_seq=18 ttl=50 time=121 ms
+[1607862754.666427] 40 bytes from 5.222.222.35.bc.googleusercontent.com (35.222.222.5): icmp_seq=19 ttl=50 time=121 ms
+[1607862755.668702] 40 bytes from 5.222.222.35.bc.googleusercontent.com (35.222.222.5): icmp_seq=20 ttl=50 time=121 ms
+[1607862756.669138] 40 bytes from 5.222.222.35.bc.googleusercontent.com (35.222.222.5): icmp_seq=21 ttl=50 time=121 ms
+[1607862757.667878] 40 bytes from 5.222.222.35.bc.googleusercontent.com (35.222.222.5): icmp_seq=22 ttl=50 time=120 ms
+[1607862758.668016] 40 bytes from 5.222.222.35.bc.googleusercontent.com (35.222.222.5): icmp_seq=23 ttl=50 time=120 ms
+[1607862759.669146] 40 bytes from 5.222.222.35.bc.googleusercontent.com (35.222.222.5): icmp_seq=24 ttl=50 time=121 ms
+[1607862760.669698] 40 bytes from 5.222.222.35.bc.googleusercontent.com (35.222.222.5): icmp_seq=25 ttl=50 time=121 ms
+[1607862761.670435] 40 bytes from 5.222.222.35.bc.googleusercontent.com (35.222.222.5): icmp_seq=26 ttl=50 time=121 ms
+[1607862767.672097] 40 bytes from 5.222.222.35.bc.googleusercontent.com (35.222.222.5): icmp_seq=27 ttl=50 time=121 ms
+[1607862767.795351] 40 bytes from 5.222.222.35.bc.googleusercontent.com (35.222.222.5): icmp_seq=28 ttl=50 time=121 ms
+[1607862768.795089] 40 bytes from 5.222.222.35.bc.googleusercontent.com (35.222.222.5): icmp_seq=29 ttl=50 time=122 ms
+[1607862769.794745] 40 bytes from 5.222.222.35.bc.googleusercontent.com (35.222.222.5): icmp_seq=30 ttl=50 time=121 ms
+[1607862770.794557] 40 bytes from 5.222.222.35.bc.googleusercontent.com (35.222.222.5): icmp_seq=31 ttl=50 time=121 ms
+[1607862771.796827] 40 bytes from 5.222.222.35.bc.googleusercontent.com (35.222.222.5): icmp_seq=32 ttl=50 time=124 ms
+[1607862772.793074] 40 bytes from 5.222.222.35.bc.googleusercontent.com (35.222.222.5): icmp_seq=33 ttl=50 time=121 ms
+[1607862773.792844] 40 bytes from 5.222.222.35.bc.googleusercontent.com (35.222.222.5): icmp_seq=34 ttl=50 time=121 ms
+[1607862774.793004] 40 bytes from 5.222.222.35.bc.googleusercontent.com (35.222.222.5): icmp_seq=35 ttl=50 time=121 ms
+[1607862785.802460] 40 bytes from 35.222.222.5: icmp_seq=36 ttl=50 time=121 ms
+[1607862785.925855] 40 bytes from 5.222.222.35.bc.googleusercontent.com (35.222.222.5): icmp_seq=37 ttl=50 time=121 ms
+[1607862786.924996] 40 bytes from 5.222.222.35.bc.googleusercontent.com (35.222.222.5): icmp_seq=38 ttl=50 time=120 ms
+[1607862787.924742] 40 bytes from 5.222.222.35.bc.googleusercontent.com (35.222.222.5): icmp_seq=39 ttl=50 time=121 ms
+[1607862788.925445] 40 bytes from 5.222.222.35.bc.googleusercontent.com (35.222.222.5): icmp_seq=40 ttl=50 time=121 ms
+[1607862789.928125] 40 bytes from 5.222.222.35.bc.googleusercontent.com (35.222.222.5): icmp_seq=41 ttl=50 time=122 ms
+[1607862790.932752] 40 bytes from 5.222.222.35.bc.googleusercontent.com (35.222.222.5): icmp_seq=42 ttl=50 time=121 ms
+[1607862791.935022] 40 bytes from 5.222.222.35.bc.googleusercontent.com (35.222.222.5): icmp_seq=43 ttl=50 time=121 ms
+[1607862792.934127] 40 bytes from 5.222.222.35.bc.googleusercontent.com (35.222.222.5): icmp_seq=44 ttl=50 time=121 ms
+[1607862793.934535] 40 bytes from 5.222.222.35.bc.googleusercontent.com (35.222.222.5): icmp_seq=45 ttl=50 time=121 ms
+[1607862794.934964] 40 bytes from 5.222.222.35.bc.googleusercontent.com (35.222.222.5): icmp_seq=46 ttl=50 time=121 ms
+[1607862795.936136] 40 bytes from 5.222.222.35.bc.googleusercontent.com (35.222.222.5): icmp_seq=47 ttl=50 time=121 ms
+[1607862806.938004] 40 bytes from 35.222.222.5: icmp_seq=48 ttl=50 time=121 ms
+[1607862817.066832] 40 bytes from 35.222.222.5: icmp_seq=49 ttl=50 time=121 ms
+[1607862817.189327] 40 bytes from 5.222.222.35.bc.googleusercontent.com (35.222.222.5): icmp_seq=50 ttl=50 time=121 ms
+
+--- wagner.edu ping statistics ---
+50 packets transmitted, 50 received, 0% packet loss, time 115293ms
+rtt min/avg/max/mdev = 120.342/121.168/123.912/0.510 ms

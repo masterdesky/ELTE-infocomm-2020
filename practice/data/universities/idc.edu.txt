@@ -1,0 +1,55 @@
+PING idc.edu (192.124.249.117) 32(60) bytes of data.
+[1607862704.760152] 40 bytes from cloudproxy10117.sucuri.net (192.124.249.117): icmp_seq=1 ttl=53 time=15.8 ms
+[1607862705.761373] 40 bytes from cloudproxy10117.sucuri.net (192.124.249.117): icmp_seq=2 ttl=53 time=15.8 ms
+[1607862706.763487] 40 bytes from cloudproxy10117.sucuri.net (192.124.249.117): icmp_seq=3 ttl=53 time=15.9 ms
+[1607862712.767791] 40 bytes from cloudproxy10117.sucuri.net (192.124.249.117): icmp_seq=4 ttl=53 time=15.9 ms
+[1607862712.785686] 40 bytes from cloudproxy10117.sucuri.net (192.124.249.117): icmp_seq=5 ttl=53 time=15.7 ms
+[1607862713.787825] 40 bytes from cloudproxy10117.sucuri.net (192.124.249.117): icmp_seq=6 ttl=53 time=15.9 ms
+[1607862714.788667] 40 bytes from cloudproxy10117.sucuri.net (192.124.249.117): icmp_seq=7 ttl=53 time=15.8 ms
+[1607862715.788279] 40 bytes from cloudproxy10117.sucuri.net (192.124.249.117): icmp_seq=8 ttl=53 time=15.6 ms
+[1607862726.798084] 40 bytes from 192.124.249.117: icmp_seq=9 ttl=53 time=15.8 ms
+[1607862726.816166] 40 bytes from cloudproxy10117.sucuri.net (192.124.249.117): icmp_seq=10 ttl=53 time=16.0 ms
+[1607862727.817349] 40 bytes from cloudproxy10117.sucuri.net (192.124.249.117): icmp_seq=11 ttl=53 time=15.7 ms
+[1607862733.819865] 40 bytes from cloudproxy10117.sucuri.net (192.124.249.117): icmp_seq=12 ttl=53 time=15.8 ms
+[1607862733.837215] 40 bytes from cloudproxy10117.sucuri.net (192.124.249.117): icmp_seq=13 ttl=53 time=15.8 ms
+[1607862744.842085] 40 bytes from 192.124.249.117: icmp_seq=14 ttl=53 time=15.3 ms
+[1607862749.863816] 40 bytes from cloudproxy10117.sucuri.net (192.124.249.117): icmp_seq=15 ttl=53 time=15.9 ms
+[1607862749.881508] 40 bytes from cloudproxy10117.sucuri.net (192.124.249.117): icmp_seq=16 ttl=53 time=15.9 ms
+[1607862755.884121] 40 bytes from cloudproxy10117.sucuri.net (192.124.249.117): icmp_seq=17 ttl=53 time=15.8 ms
+[1607862755.901852] 40 bytes from cloudproxy10117.sucuri.net (192.124.249.117): icmp_seq=18 ttl=53 time=15.5 ms
+[1607862756.903640] 40 bytes from cloudproxy10117.sucuri.net (192.124.249.117): icmp_seq=19 ttl=53 time=15.8 ms
+[1607862762.907210] 40 bytes from cloudproxy10117.sucuri.net (192.124.249.117): icmp_seq=20 ttl=53 time=15.8 ms
+[1607862762.924688] 40 bytes from cloudproxy10117.sucuri.net (192.124.249.117): icmp_seq=21 ttl=53 time=15.2 ms
+[1607862763.924662] 40 bytes from cloudproxy10117.sucuri.net (192.124.249.117): icmp_seq=22 ttl=53 time=15.8 ms
+[1607862764.925651] 40 bytes from cloudproxy10117.sucuri.net (192.124.249.117): icmp_seq=23 ttl=53 time=15.2 ms
+[1607862775.934025] 40 bytes from 192.124.249.117: icmp_seq=24 ttl=53 time=15.7 ms
+[1607862785.958063] 40 bytes from 192.124.249.117: icmp_seq=25 ttl=53 time=15.7 ms
+[1607862785.975408] 40 bytes from cloudproxy10117.sucuri.net (192.124.249.117): icmp_seq=26 ttl=53 time=15.5 ms
+[1607862786.975465] 40 bytes from cloudproxy10117.sucuri.net (192.124.249.117): icmp_seq=27 ttl=53 time=15.5 ms
+[1607862787.975683] 40 bytes from cloudproxy10117.sucuri.net (192.124.249.117): icmp_seq=28 ttl=53 time=15.9 ms
+[1607862788.977846] 40 bytes from cloudproxy10117.sucuri.net (192.124.249.117): icmp_seq=29 ttl=53 time=15.8 ms
+[1607862789.978472] 40 bytes from cloudproxy10117.sucuri.net (192.124.249.117): icmp_seq=30 ttl=53 time=15.2 ms
+[1607862790.980045] 40 bytes from cloudproxy10117.sucuri.net (192.124.249.117): icmp_seq=31 ttl=53 time=16.0 ms
+[1607862801.986032] 40 bytes from 192.124.249.117: icmp_seq=32 ttl=53 time=15.3 ms
+[1607862812.010039] 40 bytes from 192.124.249.117: icmp_seq=33 ttl=53 time=15.7 ms
+[1607862812.028296] 40 bytes from cloudproxy10117.sucuri.net (192.124.249.117): icmp_seq=34 ttl=53 time=16.0 ms
+[1607862823.034029] 40 bytes from 192.124.249.117: icmp_seq=35 ttl=53 time=15.6 ms
+[1607862828.055934] 40 bytes from cloudproxy10117.sucuri.net (192.124.249.117): icmp_seq=36 ttl=53 time=15.9 ms
+[1607862838.078054] 40 bytes from 192.124.249.117: icmp_seq=37 ttl=53 time=15.1 ms
+[1607862838.095892] 40 bytes from cloudproxy10117.sucuri.net (192.124.249.117): icmp_seq=38 ttl=53 time=15.9 ms
+[1607862844.103267] 40 bytes from cloudproxy10117.sucuri.net (192.124.249.117): icmp_seq=39 ttl=53 time=15.9 ms
+[1607862849.122964] 40 bytes from cloudproxy10117.sucuri.net (192.124.249.117): icmp_seq=40 ttl=53 time=15.6 ms
+[1607862849.139814] 40 bytes from cloudproxy10117.sucuri.net (192.124.249.117): icmp_seq=41 ttl=53 time=15.0 ms
+[1607862850.142324] 40 bytes from cloudproxy10117.sucuri.net (192.124.249.117): icmp_seq=42 ttl=53 time=15.8 ms
+[1607862851.143400] 40 bytes from cloudproxy10117.sucuri.net (192.124.249.117): icmp_seq=43 ttl=53 time=15.8 ms
+[1607862852.143727] 40 bytes from cloudproxy10117.sucuri.net (192.124.249.117): icmp_seq=44 ttl=53 time=15.7 ms
+[1607862853.144990] 40 bytes from cloudproxy10117.sucuri.net (192.124.249.117): icmp_seq=45 ttl=53 time=15.2 ms
+[1607862854.146683] 40 bytes from cloudproxy10117.sucuri.net (192.124.249.117): icmp_seq=46 ttl=53 time=15.3 ms
+[1607862855.148758] 40 bytes from cloudproxy10117.sucuri.net (192.124.249.117): icmp_seq=47 ttl=53 time=16.0 ms
+[1607862856.150825] 40 bytes from cloudproxy10117.sucuri.net (192.124.249.117): icmp_seq=48 ttl=53 time=15.9 ms
+[1607862857.151940] 40 bytes from cloudproxy10117.sucuri.net (192.124.249.117): icmp_seq=49 ttl=53 time=15.8 ms
+[1607862858.151955] 40 bytes from cloudproxy10117.sucuri.net (192.124.249.117): icmp_seq=50 ttl=53 time=15.9 ms
+
+--- idc.edu ping statistics ---
+50 packets transmitted, 50 received, 0% packet loss, time 153392ms
+rtt min/avg/max/mdev = 14.980/15.691/16.038/0.262 ms

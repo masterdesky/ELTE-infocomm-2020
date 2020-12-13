@@ -1,0 +1,55 @@
+PING wlac.edu (207.62.63.230) 32(60) bytes of data.
+[1607862687.737242] 40 bytes from services.wlac.edu (207.62.63.230): icmp_seq=1 ttl=112 time=169 ms
+[1607862687.908502] 40 bytes from services.wlac.edu (207.62.63.230): icmp_seq=2 ttl=112 time=169 ms
+[1607862688.909185] 40 bytes from services.wlac.edu (207.62.63.230): icmp_seq=3 ttl=112 time=169 ms
+[1607862699.914344] 40 bytes from 207.62.63.230: icmp_seq=4 ttl=112 time=168 ms
+[1607862700.085324] 40 bytes from services.wlac.edu (207.62.63.230): icmp_seq=5 ttl=112 time=169 ms
+[1607862701.085875] 40 bytes from services.wlac.edu (207.62.63.230): icmp_seq=6 ttl=112 time=169 ms
+[1607862702.084970] 40 bytes from services.wlac.edu (207.62.63.230): icmp_seq=7 ttl=112 time=169 ms
+[1607862703.085582] 40 bytes from services.wlac.edu (207.62.63.230): icmp_seq=8 ttl=112 time=169 ms
+[1607862704.085900] 40 bytes from services.wlac.edu (207.62.63.230): icmp_seq=9 ttl=112 time=169 ms
+[1607862705.085045] 40 bytes from services.wlac.edu (207.62.63.230): icmp_seq=10 ttl=112 time=169 ms
+[1607862716.090163] 40 bytes from 207.62.63.230: icmp_seq=11 ttl=112 time=169 ms
+[1607862721.263985] 40 bytes from services.wlac.edu (207.62.63.230): icmp_seq=12 ttl=112 time=170 ms
+[1607862721.436481] 40 bytes from services.wlac.edu (207.62.63.230): icmp_seq=13 ttl=112 time=169 ms
+[1607862722.436491] 40 bytes from services.wlac.edu (207.62.63.230): icmp_seq=14 ttl=112 time=169 ms
+[1607862723.436975] 40 bytes from services.wlac.edu (207.62.63.230): icmp_seq=15 ttl=112 time=169 ms
+[1607862734.442014] 40 bytes from 207.62.63.230: icmp_seq=16 ttl=112 time=169 ms
+[1607862739.617017] 40 bytes from services.wlac.edu (207.62.63.230): icmp_seq=17 ttl=112 time=169 ms
+[1607862739.787845] 40 bytes from services.wlac.edu (207.62.63.230): icmp_seq=18 ttl=112 time=169 ms
+[1607862750.794054] 40 bytes from 207.62.63.230: icmp_seq=19 ttl=112 time=168 ms
+[1607862750.965660] 40 bytes from services.wlac.edu (207.62.63.230): icmp_seq=20 ttl=112 time=169 ms
+[1607862751.964119] 40 bytes from services.wlac.edu (207.62.63.230): icmp_seq=21 ttl=112 time=169 ms
+[1607862752.963262] 40 bytes from services.wlac.edu (207.62.63.230): icmp_seq=22 ttl=112 time=168 ms
+[1607862753.964005] 40 bytes from services.wlac.edu (207.62.63.230): icmp_seq=23 ttl=112 time=169 ms
+[1607862759.967748] 40 bytes from services.wlac.edu (207.62.63.230): icmp_seq=24 ttl=112 time=169 ms
+[1607862765.143724] 40 bytes from services.wlac.edu (207.62.63.230): icmp_seq=25 ttl=112 time=169 ms
+[1607862765.316175] 40 bytes from services.wlac.edu (207.62.63.230): icmp_seq=26 ttl=112 time=169 ms
+[1607862766.315500] 40 bytes from services.wlac.edu (207.62.63.230): icmp_seq=27 ttl=112 time=169 ms
+[1607862777.322764] 40 bytes from 207.62.63.230: icmp_seq=28 ttl=112 time=168 ms
+[1607862777.493539] 40 bytes from services.wlac.edu (207.62.63.230): icmp_seq=29 ttl=112 time=169 ms
+[1607862778.495038] 40 bytes from services.wlac.edu (207.62.63.230): icmp_seq=30 ttl=112 time=170 ms
+[1607862779.494664] 40 bytes from services.wlac.edu (207.62.63.230): icmp_seq=31 ttl=112 time=169 ms
+[1607862780.494625] 40 bytes from services.wlac.edu (207.62.63.230): icmp_seq=32 ttl=112 time=170 ms
+[1607862781.493831] 40 bytes from services.wlac.edu (207.62.63.230): icmp_seq=33 ttl=112 time=169 ms
+[1607862782.493658] 40 bytes from services.wlac.edu (207.62.63.230): icmp_seq=34 ttl=112 time=169 ms
+[1607862783.494834] 40 bytes from services.wlac.edu (207.62.63.230): icmp_seq=35 ttl=112 time=169 ms
+[1607862784.495571] 40 bytes from services.wlac.edu (207.62.63.230): icmp_seq=36 ttl=112 time=169 ms
+[1607862785.497371] 40 bytes from services.wlac.edu (207.62.63.230): icmp_seq=37 ttl=112 time=169 ms
+[1607862796.502026] 40 bytes from 207.62.63.230: icmp_seq=38 ttl=112 time=169 ms
+[1607862796.673851] 40 bytes from services.wlac.edu (207.62.63.230): icmp_seq=39 ttl=112 time=170 ms
+[1607862802.676288] 40 bytes from services.wlac.edu (207.62.63.230): icmp_seq=40 ttl=112 time=169 ms
+[1607862802.847881] 40 bytes from services.wlac.edu (207.62.63.230): icmp_seq=41 ttl=112 time=169 ms
+[1607862803.847514] 40 bytes from services.wlac.edu (207.62.63.230): icmp_seq=42 ttl=112 time=169 ms
+[1607862804.848563] 40 bytes from services.wlac.edu (207.62.63.230): icmp_seq=43 ttl=112 time=169 ms
+[1607862805.846969] 40 bytes from services.wlac.edu (207.62.63.230): icmp_seq=44 ttl=112 time=169 ms
+[1607862811.851213] 40 bytes from services.wlac.edu (207.62.63.230): icmp_seq=45 ttl=112 time=169 ms
+[1607862812.022124] 40 bytes from services.wlac.edu (207.62.63.230): icmp_seq=46 ttl=112 time=169 ms
+[1607862823.030041] 40 bytes from 207.62.63.230: icmp_seq=47 ttl=112 time=169 ms
+[1607862833.206036] 40 bytes from 207.62.63.230: icmp_seq=48 ttl=112 time=169 ms
+[1607862843.382028] 40 bytes from 207.62.63.230: icmp_seq=49 ttl=112 time=168 ms
+[1607862843.553074] 40 bytes from services.wlac.edu (207.62.63.230): icmp_seq=50 ttl=112 time=169 ms
+
+--- wlac.edu ping statistics ---
+50 packets transmitted, 50 received, 0% packet loss, time 157628ms
+rtt min/avg/max/mdev = 168.318/169.139/170.252/0.372 ms

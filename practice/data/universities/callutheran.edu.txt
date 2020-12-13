@@ -1,0 +1,54 @@
+PING callutheran.edu (199.107.196.49) 32(60) bytes of data.
+[1607862689.569717] 40 bytes from www.callutheran.edu (199.107.196.49): icmp_seq=1 ttl=45 time=174 ms
+[1607862689.746413] 40 bytes from www.callutheran.edu (199.107.196.49): icmp_seq=2 ttl=45 time=174 ms
+[1607862695.747730] 40 bytes from www.callutheran.edu (199.107.196.49): icmp_seq=3 ttl=45 time=174 ms
+[1607862695.924176] 40 bytes from www.callutheran.edu (199.107.196.49): icmp_seq=4 ttl=45 time=174 ms
+[1607862696.926117] 40 bytes from www.callutheran.edu (199.107.196.49): icmp_seq=5 ttl=45 time=174 ms
+[1607862703.947844] 40 bytes from www.callutheran.edu (199.107.196.49): icmp_seq=7 ttl=45 time=174 ms
+[1607862709.128588] 40 bytes from www.callutheran.edu (199.107.196.49): icmp_seq=8 ttl=45 time=174 ms
+[1607862709.304607] 40 bytes from www.callutheran.edu (199.107.196.49): icmp_seq=9 ttl=45 time=174 ms
+[1607862710.305889] 40 bytes from www.callutheran.edu (199.107.196.49): icmp_seq=10 ttl=45 time=174 ms
+[1607862711.306708] 40 bytes from www.callutheran.edu (199.107.196.49): icmp_seq=11 ttl=45 time=173 ms
+[1607862712.308036] 40 bytes from www.callutheran.edu (199.107.196.49): icmp_seq=12 ttl=45 time=174 ms
+[1607862713.308027] 40 bytes from www.callutheran.edu (199.107.196.49): icmp_seq=13 ttl=45 time=174 ms
+[1607862714.308575] 40 bytes from www.callutheran.edu (199.107.196.49): icmp_seq=14 ttl=45 time=173 ms
+[1607862715.310747] 40 bytes from www.callutheran.edu (199.107.196.49): icmp_seq=15 ttl=45 time=174 ms
+[1607862716.311358] 40 bytes from www.callutheran.edu (199.107.196.49): icmp_seq=16 ttl=45 time=174 ms
+[1607862722.317461] 40 bytes from www.callutheran.edu (199.107.196.49): icmp_seq=17 ttl=45 time=174 ms
+[1607862722.493794] 40 bytes from www.callutheran.edu (199.107.196.49): icmp_seq=18 ttl=45 time=174 ms
+[1607862723.494993] 40 bytes from www.callutheran.edu (199.107.196.49): icmp_seq=19 ttl=45 time=174 ms
+[1607862724.494135] 40 bytes from www.callutheran.edu (199.107.196.49): icmp_seq=20 ttl=45 time=174 ms
+[1607862725.493928] 40 bytes from www.callutheran.edu (199.107.196.49): icmp_seq=21 ttl=45 time=174 ms
+[1607862731.495871] 40 bytes from www.callutheran.edu (199.107.196.49): icmp_seq=22 ttl=45 time=173 ms
+[1607862741.678205] 40 bytes from 199.107.196.49: icmp_seq=23 ttl=45 time=174 ms
+[1607862741.853482] 40 bytes from www.callutheran.edu (199.107.196.49): icmp_seq=24 ttl=45 time=173 ms
+[1607862742.854610] 40 bytes from www.callutheran.edu (199.107.196.49): icmp_seq=25 ttl=45 time=174 ms
+[1607862743.856847] 40 bytes from www.callutheran.edu (199.107.196.49): icmp_seq=26 ttl=45 time=174 ms
+[1607862744.858616] 40 bytes from www.callutheran.edu (199.107.196.49): icmp_seq=27 ttl=45 time=174 ms
+[1607862755.862059] 40 bytes from 199.107.196.49: icmp_seq=28 ttl=45 time=174 ms
+[1607862766.042001] 40 bytes from 199.107.196.49: icmp_seq=29 ttl=45 time=173 ms
+[1607862776.221995] 40 bytes from 199.107.196.49: icmp_seq=30 ttl=45 time=174 ms
+[1607862781.403560] 40 bytes from www.callutheran.edu (199.107.196.49): icmp_seq=31 ttl=45 time=174 ms
+[1607862791.585999] 40 bytes from 199.107.196.49: icmp_seq=32 ttl=45 time=174 ms
+[1607862801.766005] 40 bytes from 199.107.196.49: icmp_seq=33 ttl=45 time=174 ms
+[1607862806.944071] 40 bytes from www.callutheran.edu (199.107.196.49): icmp_seq=34 ttl=45 time=174 ms
+[1607862812.123585] 40 bytes from www.callutheran.edu (199.107.196.49): icmp_seq=35 ttl=45 time=174 ms
+[1607862817.304120] 40 bytes from www.callutheran.edu (199.107.196.49): icmp_seq=36 ttl=45 time=174 ms
+[1607862822.483972] 40 bytes from www.callutheran.edu (199.107.196.49): icmp_seq=37 ttl=45 time=174 ms
+[1607862827.665242] 40 bytes from www.callutheran.edu (199.107.196.49): icmp_seq=38 ttl=45 time=174 ms
+[1607862832.843973] 40 bytes from www.callutheran.edu (199.107.196.49): icmp_seq=39 ttl=45 time=174 ms
+[1607862838.023954] 40 bytes from www.callutheran.edu (199.107.196.49): icmp_seq=40 ttl=45 time=174 ms
+[1607862843.204008] 40 bytes from www.callutheran.edu (199.107.196.49): icmp_seq=41 ttl=45 time=174 ms
+[1607862848.383965] 40 bytes from www.callutheran.edu (199.107.196.49): icmp_seq=42 ttl=45 time=174 ms
+[1607862848.560258] 40 bytes from www.callutheran.edu (199.107.196.49): icmp_seq=43 ttl=45 time=174 ms
+[1607862854.563375] 40 bytes from www.callutheran.edu (199.107.196.49): icmp_seq=44 ttl=45 time=173 ms
+[1607862864.742086] 40 bytes from 199.107.196.49: icmp_seq=45 ttl=45 time=173 ms
+[1607862869.921601] 40 bytes from www.callutheran.edu (199.107.196.49): icmp_seq=46 ttl=45 time=174 ms
+[1607862875.099703] 40 bytes from www.callutheran.edu (199.107.196.49): icmp_seq=47 ttl=45 time=174 ms
+[1607862875.275184] 40 bytes from www.callutheran.edu (199.107.196.49): icmp_seq=48 ttl=45 time=173 ms
+[1607862876.276111] 40 bytes from www.callutheran.edu (199.107.196.49): icmp_seq=49 ttl=45 time=173 ms
+[1607862877.277503] 40 bytes from www.callutheran.edu (199.107.196.49): icmp_seq=50 ttl=45 time=174 ms
+
+--- callutheran.edu ping statistics ---
+50 packets transmitted, 49 received, 2% packet loss, time 193218ms
+rtt min/avg/max/mdev = 173.073/173.816/174.336/0.306 ms

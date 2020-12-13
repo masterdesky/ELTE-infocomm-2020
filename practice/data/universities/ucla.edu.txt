@@ -1,0 +1,50 @@
+PING ucla.edu (128.97.27.37) 32(60) bytes of data.
+[1607862685.704852] 40 bytes from 128.97.27.37 (128.97.27.37): icmp_seq=1 ttl=49 time=168 ms
+[1607862686.706530] 40 bytes from 128.97.27.37 (128.97.27.37): icmp_seq=2 ttl=49 time=169 ms
+[1607862687.707276] 40 bytes from 128.97.27.37 (128.97.27.37): icmp_seq=3 ttl=49 time=168 ms
+[1607862698.716252] 40 bytes from 128.97.27.37: icmp_seq=4 ttl=49 time=169 ms
+[1607862708.894141] 40 bytes from 128.97.27.37: icmp_seq=5 ttl=49 time=169 ms
+[1607862709.064766] 40 bytes from 128.97.27.37 (128.97.27.37): icmp_seq=6 ttl=49 time=168 ms
+[1607862715.067511] 40 bytes from 128.97.27.37 (128.97.27.37): icmp_seq=7 ttl=49 time=169 ms
+[1607862720.244194] 40 bytes from 128.97.27.37 (128.97.27.37): icmp_seq=8 ttl=49 time=169 ms
+[1607862720.414414] 40 bytes from 128.97.27.37 (128.97.27.37): icmp_seq=9 ttl=[1607862726.490032] 40 bytes from 128.97.27.37: icmp_seq=10 ttl=49 time=169 ms
+[1607862731.663889] 40 bytes from 128.97.27.37 (128.97.27.37): icmp_seq=11 ttl=49 time=168 ms
+[1607862741.838025] 40 bytes from 128.97.27.37: icmp_seq=12 ttl=49 time=169 ms
+[1607862747.011156] 40 bytes from 128.97.27.37 (128.97.27.37): icmp_seq=13 ttl=49 time=168 ms
+[1607862752.187242] 40 bytes from 128.97.27.37 (128.97.27.37): icmp_seq=14 ttl=49 time=169 ms
+[1607862752.357001] 40 bytes from 128.97.27.37 (128.97.27.37): icmp_seq=15 ttl=49 time=168 ms
+[1607862753.359156] 40 bytes from 128.97.27.37 (128.97.27.37): icmp_seq=16 ttl=49 time=168 ms
+[1607862754.358648] 40 bytes from 128.97.27.37 (128.97.27.37): icmp_seq=17 ttl=49 time=168 ms
+[1607862755.358735] 40 bytes from 128.97.27.37 (128.97.27.37): icmp_seq=18 ttl=49 time=168 ms
+[1607862756.359248] 40 bytes from 128.97.27.37 (128.97.27.37): icmp_seq=19 ttl=49 time=168 ms
+[1607862762.363892] 40 bytes from 128.97.27.37 (128.97.27.37): icmp_seq=20 ttl=49 time=169 ms
+[1607862772.538293] 40 bytes from 128.97.27.37: icmp_seq=21 ttl=49 time=168 ms
+[1607862782.715093] 40 bytes from 128.97.27.37: icmp_seq=22 ttl=49 time=168 ms
+[1607862782.885143] 40 bytes from 128.97.27.37 (128.97.27.37): icmp_seq=23 ttl=49 time=168 ms
+[1607862783.886439] 40 bytes from 128.97.27.37 (128.97.27.37): icmp_seq=24 ttl=49 time=168 ms
+[1607862784.887478] 40 bytes from 128.97.27.37 (128.97.27.37): icmp_seq=25 ttl=49 time=168 ms
+[1607862785.887672] 40 bytes f[1607862791.647059] 40 bytes from 128.97.27.37: icmp_seq=26 ttl=[1607862796.894[1607862801.822034] 40 bytes from 128.97.27.37: icmp_seq=27 ttl=[1607862807.070[1607862811.998010] 40 bytes from 128.97.27.37: icmp_seq=28 ttl=[1607862817.246259] 40 bytes from 128.97.27.37: icmp_seq=29 ttl=49 time=168 ms
+[1607862822.420625] 40 bytes from 128.97.27.37 (128.97.27.37): icmp_seq=30 ttl=49 time=169 ms
+[1607862827.595238] 40 bytes from 128.97.27.37 (128.97.27.37): icmp_seq=31 ttl=49 time=169 ms
+[1607862827.764890] 40 bytes f[1607862833.522019] 40 bytes from 128.97.27.37: icmp_seq=32 ttl=[1607862838.770068] 40 bytes from 128.97.27.37: icmp_seq=33 ttl=49 time=168 ms
+[1607862843.943365] 40 bytes f[1607862848.870908] 40 bytes from 128.97.27.37: icmp_seq=34 ttl=49 time=169 ms
+[1607862854.043021] 40 bytes from 128.97.27.37 (128.97.27.37): icmp_seq=35 ttl=49 time=168 ms
+[1607862859.215867] 40 bytes from 128.97.27.37 (128.97.27.37): icmp_seq=36 ttl=49 time=168 ms
+[1607862864.395649] 40 bytes from 128.97.27.37 (128.97.27.37): icmp_seq=37 ttl=49 time=169 ms
+[1607862869.572056] 40 bytes from 128.97.27.37 (128.97.27.37): icmp_seq=38 ttl=49 time=169 ms
+[1607862869.742154] 40 bytes from 128.97.27.37 (128.97.27.37): icmp_seq=39 ttl=49 time=169 ms
+[1607862875.747561] 40 bytes from 128.97.27.37 (128.97.27.37): icmp_seq=40 ttl=49 time=169 ms
+[1607862875.918602] 40 bytes from 128.97.27.37 (128.97.27.37): icmp_seq=41 ttl=49 time=169 ms
+[1607862876.918481] 40 bytes from 128.97.27.37 (128.97.27.37): icmp_seq=42 ttl=49 time=168 ms
+[1607862877.920101] 40 bytes from 128.97.27.37 (128.97.27.37): icmp_seq=43 ttl=49 time=169 ms
+[1607862878.921653] 40 bytes from 128.97.27.37 (128.97.27.37): icmp_seq=44 ttl=49 time=168 ms
+[1607862879.922805] 40 bytes from 128.97.27.37 (128.97.27.37): icmp_seq=45 ttl=49 time=168 ms
+[1607862880.922012] 40 bytes from 128.97.27.37 (128.97.27.37): icmp_seq=46 ttl=49 time=168 ms
+[1607862881.924379] 40 bytes from 128.97.27.37 (128.97.27.37): icmp_seq=47 ttl=49 time=168 ms
+[1607862882.925833] 40 bytes from 128.97.27.37 (128.97.27.37): icmp_seq=48 ttl=49 time=168 ms
+[1607862883.926711] 40 bytes from 128.97.27.37 (128.97.27.37): icmp_seq=49 ttl=49 time=168 ms
+[1607862884.928226] 40 bytes from 128.97.27.37 (128.97.27.37): icmp_seq=50 ttl=49 time=169 ms
+
+--- ucla.edu ping statistics ---
+50 packets transmitted, 50 received, 0% packet loss, time 199224ms
+rtt min/avg/max/mdev = 167.626/168.386/169.811/0.412 ms

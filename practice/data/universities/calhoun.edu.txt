@@ -1,0 +1,55 @@
+PING calhoun.edu (69.16.249.10) 32(60) bytes of data.
+[1607862668.299899] 40 bytes from 69.16.249.10 (69.16.249.10): icmp_seq=1 ttl=51 time=125 ms
+[1607862669.300323] 40 bytes from 69.16.249.10 (69.16.249.10): icmp_seq=2 ttl=51 time=125 ms
+[1607862680.306124] 40 bytes from 69.16.249.10: icmp_seq=3 ttl=51 time=125 ms
+[1607862690.438006] 40 bytes from 69.16.249.10: icmp_seq=4 ttl=51 time=125 ms
+[1607862695.575344] 40 bytes from 69.16.249.10 (69.16.249.10): icmp_seq=5 ttl=51 time=125 ms
+[1607862700.706966] 40 bytes from 69.16.249.10 (69.16.249.10): icmp_seq=6 ttl=51 time=125 ms
+[1607862710.838593] 40 bytes from 69.16.249.10: icmp_seq=7 ttl=51 time=125 ms
+[1607862710.966094] 40 bytes from 69.16.249.10 (69.16.249.10): icmp_seq=8 ttl=51 time=125 ms
+[1607862721.974061] 40 bytes from 69.16.249.10: icmp_seq=9 ttl=51 time=125 ms
+[1607862727.103771] 40 bytes from 69.16.249.10 (69.16.249.10): icmp_seq=10 ttl=51 time=126 ms
+[1607862737.238035] 40 bytes from 69.16.249.10: icmp_seq=11 ttl=51 time=125 ms
+[1607862737.364848] 40 bytes from 69.16.249.10 (69.16.249.10): icmp_seq=12 ttl=51 time=125 ms
+[1607862738.366792] 40 bytes from 69.16.249.10 (69.16.249.10): icmp_seq=13 ttl=51 time=125 ms
+[1607862749.374050] 40 bytes from 69.16.249.10: icmp_seq=14 ttl=51 time=125 ms
+[1607862754.503791] 40 bytes from 69.16.249.10 (69.16.249.10): icmp_seq=15 ttl=51 time=125 ms
+[1607862754.630284] 40 bytes from 69.16.249.10 (69.16.249.10): icmp_seq=16 ttl=51 time=125 ms
+[1607862760.635979] 40 bytes from 69.16.249.10 (69.16.249.10): icmp_seq=17 ttl=51 time=125 ms
+[1607862765.767696] 40 bytes from 69.16.249.10 (69.16.249.10): icmp_seq=18 ttl=51 time=125 ms
+[1607862765.894289] 40 bytes from 69.16.249.10 (69.16.249.10): icmp_seq=19 ttl=51 time=125 ms
+[1607862776.902019] 40 bytes from 69.16.249.10: icmp_seq=20 ttl=51 time=125 ms
+[1607862777.029772] 40 bytes from 69.16.249.10 (69.16.249.10): icmp_seq=21 ttl=51 time=125 ms
+[1607862778.029459] 40 bytes from 69.16.249.10 (69.16.249.10): icmp_seq=22 ttl=51 time=125 ms
+[1607862779.029531] 40 bytes from 69.16.249.10 (69.16.249.10): icmp_seq=23 ttl=51 time=125 ms
+[1607862780.029575] 40 bytes from 69.16.249.10 (69.16.249.10): icmp_seq=24 ttl=51 time=125 ms
+[1607862791.034011] 40 bytes from 69.16.249.10: icmp_seq=25 ttl=51 time=125 ms
+[1607862791.161482] 40 bytes from 69.16.249.10 (69.16.249.10): icmp_seq=26 ttl=51 time=125 ms
+[1607862802.165999] 40 bytes from 69.16.249.10: icmp_seq=27 ttl=51 time=124 ms
+[1607862807.298132] 40 bytes from 69.16.249.10 (69.16.249.10): icmp_seq=28 ttl=51 time=125 ms
+[1607862817.430062] 40 bytes from 69.16.249.10: icmp_seq=29 ttl=51 time=125 ms
+[1607862822.560071] 40 bytes from 69.16.249.10 (69.16.249.10): icmp_seq=30 ttl=51 time=124 ms
+[1607862827.692122] 40 bytes from 69.16.249.10 (69.16.249.10): icmp_seq=31 ttl=51 time=125 ms
+[1607862832.823925] 40 bytes from 69.16.249.10 (69.16.249.10): icmp_seq=32 ttl=51 time=125 ms
+[1607862832.951216] 40 bytes from 69.16.249.10 (69.16.249.10): icmp_seq=33 ttl=51 time=125 ms
+[1607862843.958008] 40 bytes from 69.16.249.10: icmp_seq=34 ttl=51 time=125 ms
+[1607862849.087726] 40 bytes from 69.16.249.10 (69.16.249.10): icmp_seq=35 ttl=51 time=125 ms
+[1607862849.213970] 40 bytes from 69.16.249.10 (69.16.249.10): icmp_seq=36 ttl=51 time=125 ms
+[1607862850.215887] 40 bytes from 69.16.249.10 (69.16.249.10): icmp_seq=37 ttl=51 time=125 ms
+[1607862851.217146] 40 bytes from 69.16.249.10 (69.16.249.10): icmp_seq=38 ttl=51 time=125 ms
+[1607862852.218186] 40 bytes from 69.16.249.10 (69.16.249.10): icmp_seq=39 ttl=51 time=125 ms
+[1607862853.218774] 40 bytes from 69.16.249.10 (69.16.249.10): icmp_seq=40 ttl=51 time=125 ms
+[1607862854.219821] 40 bytes from 69.16.249.10 (69.16.249.10): icmp_seq=41 ttl=51 time=125 ms
+[1607862855.221253] 40 bytes from 69.16.249.10 (69.16.249.10): icmp_seq=42 ttl=51 time=125 ms
+[1607862856.221373] 40 bytes from 69.16.249.10 (69.16.249.10): icmp_seq=43 ttl=51 time=125 ms
+[1607862857.222371] 40 bytes from 69.16.249.10 (69.16.249.10): icmp_seq=44 ttl=51 time=125 ms
+[1607862858.224066] 40 bytes from 69.16.249.10 (69.16.249.10): icmp_seq=45 ttl=51 time=125 ms
+[1607862859.224228] 40 bytes from 69.16.249.10 (69.16.249.10): icmp_seq=46 ttl=51 time=125 ms
+[1607862860.226100] 40 bytes from 69.16.249.10 (69.16.249.10): icmp_seq=47 ttl=51 time=125 ms
+[1607862861.226448] 40 bytes from 69.16.249.10 (69.16.249.10): icmp_seq=48 ttl=51 time=125 ms
+[1607862862.227731] 40 bytes from 69.16.249.10 (69.16.249.10): icmp_seq=49 ttl=51 time=125 ms
+[1607862863.229146] 40 bytes from 69.16.249.10 (69.16.249.10): icmp_seq=50 ttl=51 time=125 ms
+
+--- calhoun.edu ping statistics ---
+50 packets transmitted, 50 received, 0% packet loss, time 194929ms
+rtt min/avg/max/mdev = 124.353/125.078/125.520/0.310 ms

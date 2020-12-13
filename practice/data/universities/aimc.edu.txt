@@ -1,0 +1,54 @@
+PING aimc.edu (35.222.133.70) 32(60) bytes of data.
+[1607862679.836605] 40 bytes from 35.222.133.70: icmp_seq=1 ttl=100 time=120 ms
+[1607862689.966041] 40 bytes from 35.222.133.70: icmp_seq=2 ttl=100 time=120 ms
+[1607862700.094171] 40 bytes from 35.222.133.70: icmp_seq=3 ttl=100 time=121 ms
+[1607862710.222077] 40 bytes from 35.222.133.70: icmp_seq=4 ttl=100 time=120 ms
+[1607862710.408105] 40 bytes from 70.133.222.35.bc.googleusercontent.com (35.222.133.70): icmp_seq=5 ttl=100 time=120 ms
+[1607862716.348531] 40 bytes from 70.133.222.35.bc.googleusercontent.com (35.222.133.70): icmp_seq=6 ttl=100 time=120 ms
+[1607862721.476286] 40 bytes from 70.133.222.35.bc.googleusercontent.com (35.222.133.70): icmp_seq=7 ttl=100 time=120 ms
+[1607862721.598750] 40 bytes from 70.133.222.35.bc.googleusercontent.com (35.222.133.70): icmp_seq=8 ttl=100 time=120 ms
+[1607862722.597869] 40 bytes from 70.133.222.35.bc.googleusercontent.com (35.222.133.70): icmp_seq=9 ttl=100 time=120 ms
+[1607862723.600690] 40 bytes from 70.133.222.35.bc.googleusercontent.com (35.222.133.70): icmp_seq=10 ttl=100 time=120 ms
+[1607862724.599943] 40 bytes from 70.133.222.35.bc.googleusercontent.com (35.222.133.70): icmp_seq=11 ttl=100 time=120 ms
+[1607862725.600734] 40 bytes from 70.133.222.35.bc.googleusercontent.com (35.222.133.70): icmp_seq=12 ttl=100 time=120 ms
+[1607862726.600784] 40 bytes from 70.133.222.35.bc.googleusercontent.com (35.222.133.70): icmp_seq=13 ttl=100 time=120 ms
+[1607862727.602096] 40 bytes from 70.133.222.35.bc.googleusercontent.com (35.222.133.70): icmp_seq=14 ttl=100 time=120 ms
+[1607862728.602411] 40 bytes from 70.133.222.35.bc.googleusercontent.com (35.222.133.70): icmp_seq=15 ttl=100 time=120 ms
+[1607862730.604551] 40 bytes from 70.133.222.35.bc.googleusercontent.com (35.222.133.70): icmp_seq=17 ttl=100 time=120 ms
+[1607862731.604270] 40 bytes from 70.133.222.35.bc.googleusercontent.com (35.222.133.70): icmp_seq=18 ttl=100 time=120 ms
+[1607862732.605769] 40 bytes from 70.133.222.35.bc.googleusercontent.com (35.222.133.70): icmp_seq=19 ttl=100 time=119 ms
+[1607862733.608815] 40 bytes from 70.133.222.35.bc.googleusercontent.com (35.222.133.70): icmp_seq=20 ttl=100 time=120 ms
+[1607862744.614041] 40 bytes from 35.222.133.70: icmp_seq=21 ttl=100 time=120 ms
+[1607862754.742036] 40 bytes from 35.222.133.70: icmp_seq=22 ttl=100 time=120 ms
+[1607862754.864857] 40 bytes from 70.133.222.35.bc.googleusercontent.com (35.222.133.70): icmp_seq=23 ttl=100 time=120 ms
+[1607862755.866075] 40 bytes from 70.133.222.35.bc.googleusercontent.com (35.222.133.70): icmp_seq=24 ttl=100 time=120 ms
+[1607862756.866503] 40 bytes from 70.133.222.35.bc.googleusercontent.com (35.222.133.70): icmp_seq=25 ttl=100 time=120 ms
+[1607862757.867575] 40 bytes from 70.133.222.35.bc.googleusercontent.com (35.222.133.70): icmp_seq=26 ttl=100 time=120 ms
+[1607862758.868261] 40 bytes from 70.133.222.35.bc.googleusercontent.com (35.222.133.70): icmp_seq=27 ttl=100 time=120 ms
+[1607862764.871432] 40 bytes from 70.133.222.35.bc.googleusercontent.com (35.222.133.70): icmp_seq=28 ttl=100 time=120 ms
+[1607862764.994511] 40 bytes from 70.133.222.35.bc.googleusercontent.com (35.222.133.70): icmp_seq=29 ttl=100 time=120 ms
+[1607862776.002035] 40 bytes from 35.222.133.70: icmp_seq=30 ttl=100 time=120 ms
+[1607862776.124048] 40 bytes from 70.133.222.35.bc.googleusercontent.com (35.222.133.70): icmp_seq=31 ttl=100 time=120 ms
+[1607862777.125805] 40 bytes from 70.133.222.35.bc.googleusercontent.com (35.222.133.70): icmp_seq=32 ttl=100 time=121 ms
+[1607862778.126325] 40 bytes from 70.133.222.35.bc.googleusercontent.com (35.222.133.70): icmp_seq=33 ttl=100 time=120 ms
+[1607862779.128045] 40 bytes from 70.133.222.35.bc.googleusercontent.com (35.222.133.70): icmp_seq=34 ttl=100 time=120 ms
+[1607862780.127872] 40 bytes from 70.133.222.35.bc.googleusercontent.com (35.222.133.70): icmp_seq=35 ttl=100 time=120 ms
+[1607862791.133999] 40 bytes from 35.222.133.70: icmp_seq=36 ttl=100 time=120 ms
+[1607862796.260095] 40 bytes from 70.133.222.35.bc.googleusercontent.com (35.222.133.70): icmp_seq=37 ttl=100 time=119 ms
+[1607862801.384414] 40 bytes from 70.133.222.35.bc.googleusercontent.com (35.222.133.70): icmp_seq=38 ttl=100 time=120 ms
+[1607862801.506731] 40 bytes from 70.133.222.35.bc.googleusercontent.com (35.222.133.70): icmp_seq=39 ttl=100 time=120 ms
+[1607862812.514030] 40 bytes from 35.222.133.70: icmp_seq=40 ttl=100 time=120 ms
+[1607862822.642101] 40 bytes from 35.222.133.70: icmp_seq=41 ttl=100 time=121 ms
+[1607862832.770361] 40 bytes from 35.222.133.70: icmp_seq=42 ttl=100 time=121 ms
+[1607862832.892194] 40 bytes from 70.133.222.35.bc.googleusercontent.com (35.222.133.70): icmp_seq=43 ttl=100 time=120 ms
+[1607862833.896411] 40 bytes from 70.133.222.35.bc.googleusercontent.com (35.222.133.70): icmp_seq=44 ttl=100 time=120 ms
+[1607862834.897895] 40 bytes from 70.133.222.35.bc.googleusercontent.com (35.222.133.70): icmp_seq=45 ttl=100 time=120 ms
+[1607862835.899642] 40 bytes from 70.133.222.35.bc.googleusercontent.com (35.222.133.70): icmp_seq=46 ttl=100 time=120 ms
+[1607862836.900109] 40 bytes from 70.133.222.35.bc.googleusercontent.com (35.222.133.70): icmp_seq=47 ttl=100 time=120 ms
+[1607862837.899744] 40 bytes from 70.133.222.35.bc.googleusercontent.com (35.222.133.70): icmp_seq=48 ttl=100 time=120 ms
+[1607862848.906040] 40 bytes from 35.222.133.70: icmp_seq=49 ttl=100 time=120 ms
+[1607862849.906107] 40 bytes from 35.222.133.70: icmp_seq=50 ttl=100 time=120 ms
+
+--- aimc.edu ping statistics ---
+50 packets transmitted, 49 received, 2% packet loss, time 179199ms
+rtt min/avg/max/mdev = 119.427/120.192/120.617/0.272 ms

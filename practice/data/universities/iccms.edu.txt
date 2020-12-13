@@ -1,0 +1,5 @@
+PING iccms.edu (207.181.38.129) 32(60) bytes of data.
+
+--- iccms.edu ping statistics ---
+50 packets transmitted, 0 received, 100% packet loss, time 49302ms
+

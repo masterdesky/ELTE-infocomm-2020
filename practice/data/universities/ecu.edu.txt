@@ -1,0 +1,54 @@
+PING ecu.edu (150.216.243.60) 32(60) bytes of data.
+[1607862694.266085] 40 bytes from 150.216.243.60: icmp_seq=1 ttl=241 time=125 ms
+[1607862704.398306] 40 bytes from 150.216.243.60: icmp_seq=2 ttl=241 time=124 ms
+[1607862704.525686] 40 bytes from 150.216.243.60: icmp_seq=3 ttl=241 time=125 ms
+[1607862705.525352] 40 bytes from 150.216.243.60: icmp_seq=4 ttl=241 time=124 ms
+[1607862716.530004] 40 bytes from 150.216.243.60: icmp_seq=5 ttl=241 time=124 ms
+[1607862716.657239] 40 bytes from 150.216.243.60: icmp_seq=6 ttl=241 time=124 ms
+[1607862717.656791] 40 bytes from 150.216.243.60: icmp_seq=7 ttl=241 time=124 ms
+[1607862718.655221] 40 bytes from 150.216.243.60: icmp_seq=8 ttl=241 time=124 ms
+[1607862729.662052] 40 bytes from 150.216.243.60: icmp_seq=9 ttl=241 time=125 ms
+[1607862740.794006] 40 bytes from 150.216.243.60: icmp_seq=11 ttl=241 time=124 ms
+[1607862750.926005] 40 bytes from 150.216.243.60: icmp_seq=12 ttl=241 time=124 ms
+[1607862761.057997] 40 bytes from 150.216.243.60: icmp_seq=13 ttl=241 time=124 ms
+[1607862761.185038] 40 bytes from 150.216.243.60: icmp_seq=14 ttl=241 time=125 ms
+[1607862762.185663] 40 bytes from 150.216.243.60: icmp_seq=15 ttl=241 time=124 ms
+[1607862763.187412] 40 bytes from 150.216.243.60: icmp_seq=16 ttl=241 time=125 ms
+[1607862764.187562] 40 bytes from 150.216.243.60: icmp_seq=17 ttl=241 time=125 ms
+[1607862765.188911] 40 bytes from 150.216.243.60: icmp_seq=18 ttl=241 time=124 ms
+[1607862776.194053] 40 bytes from 150.216.243.60: icmp_seq=19 ttl=241 time=124 ms
+[1607862786.326007] 40 bytes from 150.216.243.60: icmp_seq=20 ttl=241 time=124 ms
+[1607862791.456676] 40 bytes from 150.216.243.60: icmp_seq=21 ttl=241 time=124 ms
+[1607862801.590047] 40 bytes from 150.216.243.60: icmp_seq=22 ttl=241 time=125 ms
+[1607862801.716377] 40 bytes from 150.216.243.60: icmp_seq=23 ttl=241 time=124 ms
+[1607862802.717002] 40 bytes from 150.216.243.60: icmp_seq=24 ttl=241 time=125 ms
+[1607862803.716063] 40 bytes from 150.216.243.60: icmp_seq=25 ttl=241 time=124 ms
+[1607862804.715236] 40 bytes from 150.216.243.60: icmp_seq=26 ttl=241 time=124 ms
+[1607862805.713917] 40 bytes from 150.216.243.60: icmp_seq=27 ttl=241 time=124 ms
+[1607862806.714522] 40 bytes from 150.216.243.60: icmp_seq=28 ttl=241 time=124 ms
+[1607862817.718041] 40 bytes from 150.216.243.60: icmp_seq=29 ttl=241 time=125 ms
+[1607862827.850081] 40 bytes from 150.216.243.60: icmp_seq=30 ttl=241 time=124 ms
+[1607862837.982049] 40 bytes from 150.216.243.60: icmp_seq=31 ttl=241 time=124 ms
+[1607862838.108744] 40 bytes from 150.216.243.60: icmp_seq=32 ttl=241 time=125 ms
+[1607862849.114041] 40 bytes from 150.216.243.60: icmp_seq=33 ttl=241 time=125 ms
+[1607862854.244233] 40 bytes from 150.216.243.60: icmp_seq=34 ttl=241 time=124 ms
+[1607862864.378116] 40 bytes from 150.216.243.60: icmp_seq=35 ttl=241 time=124 ms
+[1607862864.504233] 40 bytes from 150.216.243.60: icmp_seq=36 ttl=241 time=125 ms
+[1607862870.508162] 40 bytes from 150.216.243.60: icmp_seq=37 ttl=241 time=124 ms
+[1607862870.635068] 40 bytes from 150.216.243.60: icmp_seq=38 ttl=241 time=124 ms
+[1607862871.635958] 40 bytes from 150.216.243.60: icmp_seq=39 ttl=241 time=125 ms
+[1607862872.635563] 40 bytes from 150.216.243.60: icmp_seq=40 ttl=241 time=124 ms
+[1607862873.636822] 40 bytes from 150.216.243.60: icmp_seq=41 ttl=241 time=124 ms
+[1607862874.639208] 40 bytes from 150.216.243.60: icmp_seq=42 ttl=241 time=125 ms
+[1607862875.639749] 40 bytes from 150.216.243.60: icmp_seq=43 ttl=241 time=124 ms
+[1607862881.643778] 40 bytes from 150.216.243.60: icmp_seq=44 ttl=241 time=125 ms
+[1607862881.769716] 40 bytes from 150.216.243.60: icmp_seq=45 ttl=241 time=124 ms
+[1607862882.771859] 40 bytes from 150.216.243.60: icmp_seq=46 ttl=241 time=124 ms
+[1607862883.772767] 40 bytes from 150.216.243.60: icmp_seq=47 ttl=241 time=124 ms
+[1607862884.775672] 40 bytes from 150.216.243.60: icmp_seq=48 ttl=241 time=125 ms
+[1607862885.776529] 40 bytes from 150.216.243.60: icmp_seq=49 ttl=241 time=124 ms
+[1607862886.776983] 40 bytes from 150.216.243.60: icmp_seq=50 ttl=241 time=125 ms
+
+--- ecu.edu ping statistics ---
+50 packets transmitted, 49 received, 2% packet loss, time 202515ms
+rtt min/avg/max/mdev = 123.624/124.373/125.115/0.351 ms

@@ -1,0 +1,55 @@
+PING geneseo.edu (137.238.1.3) 32(60) bytes of data.
+[1607862714.707026] 40 bytes from 137.238.1.3: icmp_seq=1 ttl=237 time=107 ms
+[1607862717.087010] 40 bytes from www.geneseo.edu (137.238.1.3): icmp_seq=2 ttl=237 time=106 ms
+[1607862717.195360] 40 bytes from www.geneseo.edu (137.238.1.3): icmp_seq=3 ttl=237 time=106 ms
+[1607862718.196806] 40 bytes from www.geneseo.edu (137.238.1.3): icmp_seq=4 ttl=237 time=106 ms
+[1607862719.196329] 40 bytes from www.geneseo.edu (137.238.1.3): icmp_seq=5 ttl=237 time=106 ms
+[1607862720.198153] 40 bytes from www.geneseo.edu (137.238.1.3): icmp_seq=6 ttl=237 time=106 ms
+[1607862726.201345] 40 bytes from www.geneseo.edu (137.238.1.3): icmp_seq=7 ttl=237 time=106 ms
+[1607862736.314981] 40 bytes from 137.238.1.3: icmp_seq=8 ttl=237 time=106 ms
+[1607862741.428369] 40 bytes from www.geneseo.edu (137.238.1.3): icmp_seq=9 ttl=237 time=106 ms
+[1607862741.536963] 40 bytes from www.geneseo.edu (137.238.1.3): icmp_seq=10 ttl=237 time=106 ms
+[1607862742.536719] 40 bytes from www.geneseo.edu (137.238.1.3): icmp_seq=11 ttl=237 time=106 ms
+[1607862743.537836] 40 bytes from www.geneseo.edu (137.238.1.3): icmp_seq=12 ttl=237 time=106 ms
+[1607862754.546012] 40 bytes from 137.238.1.3: icmp_seq=13 ttl=237 time=106 ms
+[1607862754.654689] 40 bytes from www.geneseo.edu (137.238.1.3): icmp_seq=14 ttl=237 time=106 ms
+[1607862755.655517] 40 bytes from www.geneseo.edu (137.238.1.3): icmp_seq=15 ttl=237 time=106 ms
+[1607862756.656014] 40 bytes from www.geneseo.edu (137.238.1.3): icmp_seq=16 ttl=237 time=106 ms
+[1607862767.662071] 40 bytes from 137.238.1.3: icmp_seq=17 ttl=237 time=106 ms
+[1607862772.771994] 40 bytes from www.geneseo.edu (137.238.1.3): icmp_seq=18 ttl=237 time=106 ms
+[1607862772.879547] 40 bytes from www.geneseo.edu (137.238.1.3): icmp_seq=19 ttl=237 time=106 ms
+[1607862773.878774] 40 bytes from www.geneseo.edu (137.238.1.3): icmp_seq=20 ttl=237 time=106 ms
+[1607862774.879648] 40 bytes from www.geneseo.edu (137.238.1.3): icmp_seq=21 ttl=237 time=106 ms
+[1607862785.886737] 40 bytes from 137.238.1.3: icmp_seq=22 ttl=237 time=106 ms
+[1607862790.999781] 40 bytes from www.geneseo.edu (137.238.1.3): icmp_seq=23 ttl=237 time=106 ms
+[1607862791.107392] 40 bytes from www.geneseo.edu (137.238.1.3): icmp_seq=24 ttl=237 time=105 ms
+[1607862802.114000] 40 bytes from 137.238.1.3: icmp_seq=25 ttl=237 time=106 ms
+[1607862807.224643] 40 bytes from www.geneseo.edu (137.238.1.3): icmp_seq=26 ttl=237 time=106 ms
+[1607862812.335996] 40 bytes from www.geneseo.edu (137.238.1.3): icmp_seq=27 ttl=237 time=106 ms
+[1607862812.444394] 40 bytes from www.geneseo.edu (137.238.1.3): icmp_seq=28 ttl=237 time=106 ms
+[1607862813.445899] 40 bytes from www.geneseo.edu (137.238.1.3): icmp_seq=29 ttl=237 time=106 ms
+[1607862814.445915] 40 bytes from www.geneseo.edu (137.238.1.3): icmp_seq=30 ttl=237 time=106 ms
+[1607862815.448437] 40 bytes from www.geneseo.edu (137.238.1.3): icmp_seq=31 ttl=237 time=106 ms
+[1607862816.449784] 40 bytes from www.geneseo.edu (137.238.1.3): icmp_seq=32 ttl=237 time=106 ms
+[1607862822.451459] 40 bytes from www.geneseo.edu (137.238.1.3): icmp_seq=33 ttl=237 time=106 ms
+[1607862827.563857] 40 bytes from www.geneseo.edu (137.238.1.3): icmp_seq=34 ttl=237 time=106 ms
+[1607862827.672326] 40 bytes from www.geneseo.edu (137.238.1.3): icmp_seq=35 ttl=237 time=106 ms
+[1607862828.673092] 40 bytes from www.geneseo.edu (137.238.1.3): icmp_seq=36 ttl=237 time=106 ms
+[1607862829.673571] 40 bytes from www.geneseo.edu (137.238.1.3): icmp_seq=37 ttl=237 time=105 ms
+[1607862830.674297] 40 bytes from www.geneseo.edu (137.238.1.3): icmp_seq=38 ttl=237 time=106 ms
+[1607862831.675934] 40 bytes from www.geneseo.edu (137.238.1.3): icmp_seq=39 ttl=237 time=106 ms
+[1607862832.677246] 40 bytes from www.geneseo.edu (137.238.1.3): icmp_seq=40 ttl=237 time=106 ms
+[1607862843.682055] 40 bytes from 137.238.1.3: icmp_seq=41 ttl=237 time=106 ms
+[1607862853.794044] 40 bytes from 137.238.1.3: icmp_seq=42 ttl=237 time=106 ms
+[1607862853.900616] 40 bytes from www.geneseo.edu (137.238.1.3): icmp_seq=43 ttl=237 time=106 ms
+[1607862859.904550] 40 bytes from www.geneseo.edu (137.238.1.3): icmp_seq=44 ttl=237 time=106 ms
+[1607862865.015903] 40 bytes from www.geneseo.edu (137.238.1.3): icmp_seq=45 ttl=237 time=106 ms
+[1607862865.124179] 40 bytes from www.geneseo.edu (137.238.1.3): icmp_seq=46 ttl=237 time=106 ms
+[1607862866.124364] 40 bytes from www.geneseo.edu (137.238.1.3): icmp_seq=47 ttl=237 time=106 ms
+[1607862867.125684] 40 bytes from www.geneseo.edu (137.238.1.3): icmp_seq=48 ttl=237 time=106 ms
+[1607862868.126263] 40 bytes from www.geneseo.edu (137.238.1.3): icmp_seq=49 ttl=237 time=106 ms
+[1607862869.127347] 40 bytes from www.geneseo.edu (137.238.1.3): icmp_seq=50 ttl=237 time=106 ms
+
+--- geneseo.edu ping statistics ---
+50 packets transmitted, 50 received, 0% packet loss, time 164428ms
+rtt min/avg/max/mdev = 105.440/106.143/106.557/0.312 ms

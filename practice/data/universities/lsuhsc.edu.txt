@@ -1,0 +1,104 @@
+PING lsuhsc.edu (155.58.211.13) 32(60) bytes of data.
+[1607862682.324261] 40 bytes from www.lsuhsc.edu (155.58.211.13): icmp_seq=1 ttl=114 time=147 ms
+[1607862687.329097] 40 bytes from www.lsuhsc.edu (155.58.211.13): icmp_seq=1 ttl=114 time=147 ms (DUP!)
+[1607862697.338018] 40 bytes from 155.58.211.13: icmp_seq=2 ttl=114 time=148 ms
+[1607862707.346049] 40 bytes from 155.58.211.13: icmp_seq=2 ttl=114 time=148 ms (DUP!)
+[1607862707.348097] 40 bytes from www.lsuhsc.edu (155.58.211.13): icmp_seq=3 ttl=114 time=147 ms
+[1607862712.352138] 40 bytes from www.lsuhsc.edu (155.58.211.13): icmp_seq=3 ttl=114 time=148 ms (DUP!)
+[1607862717.355751] 40 bytes from www.lsuhsc.edu (155.58.211.13): icmp_seq=4 ttl=114 time=148 ms
+[1607862727.362013] 40 bytes from 155.58.211.13: icmp_seq=4 ttl=114 time=148 ms (DUP!)
+[1607862727.363959] 40 bytes from www.lsuhsc.edu (155.58.211.13): icmp_seq=5 ttl=114 time=148 ms
+[1607862737.370023] 40 bytes from 155.58.211.13: icmp_seq=5 ttl=114 time=148 ms (DUP!)
+[1607862742.375714] 40 bytes from www.lsuhsc.edu (155.58.211.13): icmp_seq=6 ttl=114 time=147 ms
+[1607862747.380168] 40 bytes from www.lsuhsc.edu (155.58.211.13): icmp_seq=6 ttl=114 time=147 ms (DUP!)
+[1607862757.386014] 40 bytes from 155.58.211.13: icmp_seq=7 ttl=114 time=148 ms
+[1607862767.394972] 40 bytes from 155.58.211.13: icmp_seq=7 ttl=114 time=148 ms (DUP!)
+[1607862777.402356] 40 bytes from 155.58.211.13: icmp_seq=8 ttl=114 time=147 ms
+[1607862777.403489] 40 bytes from www.lsuhsc.edu (155.58.211.13): icmp_seq=8 ttl=114 time=148 ms (DUP!)
+[1607862787.558073] 40 bytes from 155.58.211.13: icmp_seq=9 ttl=114 time=147 ms
+[1607862792.563847] 40 bytes from www.lsuhsc.edu (155.58.211.13): icmp_seq=9 ttl=114 time=147 ms (DUP!)
+[1607862797.567854] 40 bytes from www.lsuhsc.edu (155.58.211.13): icmp_seq=10 ttl=114 time=148 ms
+[1607862797.569950] 40 bytes from www.lsuhsc.edu (155.58.211.13): icmp_seq=10 ttl=114 time=148 ms (DUP!)
+[1607862807.722023] 40 bytes from 155.58.211.13: icmp_seq=11 ttl=114 time=148 ms
+[1607862817.730007] 40 bytes from 155.58.211.13: icmp_seq=11 ttl=114 time=148 ms (DUP!)
+[1607862822.736478] 40 bytes from www.lsuhsc.edu (155.58.211.13): icmp_seq=12 ttl=114 time=147 ms
+[1607862827.740286] 40 bytes from www.lsuhsc.edu (155.58.211.13): icmp_seq=12 ttl=114 time=147 ms (DUP!)
+[1607862827.742573] 40 bytes from www.lsuhsc.edu (155.58.211.13): icmp_seq=13 ttl=114 time=147 ms
+[1607862827.744543] 40 bytes from www.lsuhsc.edu (155.58.211.13): icmp_seq=13 ttl=114 time=148 ms (DUP!)
+[1607862832.895972] 40 bytes from www.lsuhsc.edu (155.58.211.13): icmp_seq=14 ttl=114 time=148 ms
+[1607862832.898049] 40 bytes from www.lsuhsc.edu (155.58.211.13): icmp_seq=14 ttl=114 time=148 ms (DUP!)
+[1607862838.048011] 40 bytes from www.lsuhsc.edu (155.58.211.13): icmp_seq=15 ttl=114 time=148 ms
+[1607862838.049936] 40 bytes from www.lsuhsc.edu (155.58.211.13): icmp_seq=15 ttl=114 time=148 ms (DUP!)
+[1607862843.200137] 40 bytes from www.lsuhsc.edu (155.58.211.13): icmp_seq=16 ttl=114 time=148 ms
+[1607862843.201995] 40 bytes from www.lsuhsc.edu (155.58.211.13): icmp_seq=16 ttl=114 time=148 ms (DUP!)
+[1607862843.348859] 40 bytes from www.lsuhsc.edu (155.58.211.13): icmp_seq=17 ttl=114 time=147 ms
+[1607862843.350558] 40 bytes from www.lsuhsc.edu (155.58.211.13): icmp_seq=17 ttl=114 time=147 ms (DUP!)
+[1607862854.354067] 40 bytes from 155.58.211.13: icmp_seq=18 ttl=114 time=148 ms
+[1607862854.356041] 40 bytes from www.lsuhsc.edu (155.58.211.13): icmp_seq=18 ttl=114 time=148 ms (DUP!)
+[1607862854.503940] 40 bytes from www.lsuhsc.edu (155.58.211.13): icmp_seq=19 ttl=114 time=148 ms
+[1607862864.510004] 40 bytes from 155.58.211.13: icmp_seq=19 ttl=114 time=148 ms (DUP!)
+[1607862869.664067] 40 bytes from www.lsuhsc.edu (155.58.211.13): icmp_seq=20 ttl=114 time=147 ms
+[1607862869.665950] 40 bytes from www.lsuhsc.edu (155.58.211.13): icmp_seq=20 ttl=114 time=147 ms (DUP!)
+[1607862869.813687] 40 bytes from www.lsuhsc.edu (155.58.211.13): icmp_seq=21 ttl=114 time=148 ms
+[1607862869.815302] 40 bytes from www.lsuhsc.edu (155.58.211.13): icmp_seq=21 ttl=114 time=148 ms (DUP!)
+[1607862880.822034] 40 bytes from 155.58.211.13: icmp_seq=22 ttl=114 time=148 ms
+[1607862880.824105] 40 bytes from www.lsuhsc.edu (155.58.211.13): icmp_seq=22 ttl=114 time=148 ms (DUP!)
+[1607862880.972074] 40 bytes from www.lsuhsc.edu (155.58.211.13): icmp_seq=23 ttl=114 time=148 ms
+[1607862880.974339] 40 bytes from www.lsuhsc.edu (155.58.211.13): icmp_seq=23 ttl=114 time=148 ms (DUP!)
+[1607862881.973374] 40 bytes from www.lsuhsc.edu (155.58.211.13): icmp_seq=24 ttl=114 time=148 ms
+[1607862881.975578] 40 bytes from www.lsuhsc.edu (155.58.211.13): icmp_seq=24 ttl=114 time=148 ms (DUP!)
+[1607862882.973479] 40 bytes from www.lsuhsc.edu (155.58.211.13): icmp_seq=25 ttl=114 time=147 ms
+[1607862882.975658] 40 bytes from www.lsuhsc.edu (155.58.211.13): icmp_seq=25 ttl=114 time=148 ms (DUP!)
+[1607862883.974492] 40 bytes from www.lsuhsc.edu (155.58.211.13): icmp_seq=26 ttl=114 time=148 ms
+[1607862883.976524] 40 bytes from www.lsuhsc.edu (155.58.211.13): icmp_seq=26 ttl=114 time=148 ms (DUP!)
+[1607862884.975484] 40 bytes from www.lsuhsc.edu (155.58.211.13): icmp_seq=27 ttl=114 time=148 ms
+[1607862884.976817] 40 bytes from www.lsuhsc.edu (155.58.211.13): icmp_seq=27 ttl=114 time=148 ms (DUP!)
+[1607862885.976612] 40 bytes from www.lsuhsc.edu (155.58.211.13): icmp_seq=28 ttl=114 time=148 ms
+[1607862885.978242] 40 bytes from www.lsuhsc.edu (155.58.211.13): icmp_seq=28 ttl=114 time=148 ms (DUP!)
+[1607862886.976258] 40 bytes from www.lsuhsc.edu (155.58.211.13): icmp_seq=29 ttl=114 time=148 ms
+[1607862886.978187] 40 bytes from www.lsuhsc.edu (155.58.211.13): icmp_seq=29 ttl=114 time=148 ms (DUP!)
+[1607862887.977811] 40 bytes from www.lsuhsc.edu (155.58.211.13): icmp_seq=30 ttl=114 time=148 ms
+[1607862887.979847] 40 bytes from www.lsuhsc.edu (155.58.211.13): icmp_seq=30 ttl=114 time=148 ms (DUP!)
+[1607862888.979519] 40 bytes from www.lsuhsc.edu (155.58.211.13): icmp_seq=31 ttl=114 time=148 ms
+[1607862888.981450] 40 bytes from www.lsuhsc.edu (155.58.211.13): icmp_seq=31 ttl=114 time=148 ms (DUP!)
+[1607862889.980393] 40 bytes from www.lsuhsc.edu (155.58.211.13): icmp_seq=32 ttl=114 time=147 ms
+[1607862889.982011] 40 bytes from www.lsuhsc.edu (155.58.211.13): icmp_seq=32 ttl=114 time=147 ms (DUP!)
+[1607862890.982418] 40 bytes from www.lsuhsc.edu (155.58.211.13): icmp_seq=33 ttl=114 time=148 ms
+[1607862890.984640] 40 bytes from www.lsuhsc.edu (155.58.211.13): icmp_seq=33 ttl=114 time=148 ms (DUP!)
+[1607862891.984021] 40 bytes from www.lsuhsc.edu (155.58.211.13): icmp_seq=34 ttl=114 time=148 ms
+[1607862891.985929] 40 bytes from www.lsuhsc.edu (155.58.211.13): icmp_seq=34 ttl=114 time=148 ms (DUP!)
+[1607862892.984251] 40 bytes from www.lsuhsc.edu (155.58.211.13): icmp_seq=35 ttl=114 time=148 ms
+[1607862892.985679] 40 bytes from www.lsuhsc.edu (155.58.211.13): icmp_seq=35 ttl=114 time=148 ms (DUP!)
+[1607862893.986381] 40 bytes from www.lsuhsc.edu (155.58.211.13): icmp_seq=36 ttl=114 time=147 ms
+[1607862893.988203] 40 bytes from www.lsuhsc.edu (155.58.211.13): icmp_seq=36 ttl=114 time=148 ms (DUP!)
+[1607862894.988259] 40 bytes from www.lsuhsc.edu (155.58.211.13): icmp_seq=37 ttl=114 time=148 ms
+[1607862894.990153] 40 bytes from www.lsuhsc.edu (155.58.211.13): icmp_seq=37 ttl=114 time=148 ms (DUP!)
+[1607862895.989231] 40 bytes from www.lsuhsc.edu (155.58.211.13): icmp_seq=38 ttl=114 time=148 ms
+[1607862895.991597] 40 bytes from www.lsuhsc.edu (155.58.211.13): icmp_seq=38 ttl=114 time=148 ms (DUP!)
+[1607862896.989929] 40 bytes from www.lsuhsc.edu (155.58.211.13): icmp_seq=39 ttl=114 time=148 ms
+[1607862896.991853] 40 bytes from www.lsuhsc.edu (155.58.211.13): icmp_seq=39 ttl=114 time=148 ms (DUP!)
+[1607862897.990811] 40 bytes from www.lsuhsc.edu (155.58.211.13): icmp_seq=40 ttl=114 time=147 ms
+[1607862897.992914] 40 bytes from www.lsuhsc.edu (155.58.211.13): icmp_seq=40 ttl=114 time=148 ms (DUP!)
+[1607862898.991855] 40 bytes from www.lsuhsc.edu (155.58.211.13): icmp_seq=41 ttl=114 time=148 ms
+[1607862898.993801] 40 bytes from www.lsuhsc.edu (155.58.211.13): icmp_seq=41 ttl=114 time=148 ms (DUP!)
+[1607862899.993486] 40 bytes from www.lsuhsc.edu (155.58.211.13): icmp_seq=42 ttl=114 time=148 ms
+[1607862899.995879] 40 bytes from www.lsuhsc.edu (155.58.211.13): icmp_seq=42 ttl=114 time=148 ms (DUP!)
+[1607862900.994834] 40 bytes from www.lsuhsc.edu (155.58.211.13): icmp_seq=43 ttl=114 time=148 ms
+[1607862900.997141] 40 bytes from www.lsuhsc.edu (155.58.211.13): icmp_seq=43 ttl=114 time=148 ms (DUP!)
+[1607862901.995813] 40 bytes from www.lsuhsc.edu (155.58.211.13): icmp_seq=44 ttl=114 time=148 ms
+[1607862901.998090] 40 bytes from www.lsuhsc.edu (155.58.211.13): icmp_seq=44 ttl=114 time=148 ms (DUP!)
+[1607862902.996765] 40 bytes from www.lsuhsc.edu (155.58.211.13): icmp_seq=45 ttl=114 time=148 ms
+[1607862902.998707] 40 bytes from www.lsuhsc.edu (155.58.211.13): icmp_seq=45 ttl=114 time=148 ms (DUP!)
+[1607862903.998214] 40 bytes from www.lsuhsc.edu (155.58.211.13): icmp_seq=46 ttl=114 time=148 ms
+[1607862904.000173] 40 bytes from www.lsuhsc.edu (155.58.211.13): icmp_seq=46 ttl=114 time=148 ms (DUP!)
+[1607862904.998124] 40 bytes from www.lsuhsc.edu (155.58.211.13): icmp_seq=47 ttl=114 time=147 ms
+[1607862905.000028] 40 bytes from www.lsuhsc.edu (155.58.211.13): icmp_seq=47 ttl=114 time=147 ms (DUP!)
+[1607862905.999262] 40 bytes from www.lsuhsc.edu (155.58.211.13): icmp_seq=48 ttl=114 time=148 ms
+[1607862906.001294] 40 bytes from www.lsuhsc.edu (155.58.211.13): icmp_seq=48 ttl=114 time=148 ms (DUP!)
+[1607862906.999774] 40 bytes from www.lsuhsc.edu (155.58.211.13): icmp_seq=49 ttl=114 time=147 ms
+[1607862907.001906] 40 bytes from www.lsuhsc.edu (155.58.211.13): icmp_seq=49 ttl=114 time=147 ms (DUP!)
+[1607862907.999972] 40 bytes from www.lsuhsc.edu (155.58.211.13): icmp_seq=50 ttl=114 time=147 ms
+
+--- lsuhsc.edu ping statistics ---
+50 packets transmitted, 50 received, +49 duplicates, 0% packet loss, time 230679ms
+rtt min/avg/max/mdev = 146.838/147.650/148.221/0.273 ms, pipe 2

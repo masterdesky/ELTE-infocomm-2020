@@ -1,0 +1,55 @@
+PING uiowa.edu (54.163.225.50) 32(60) bytes of data.
+[1607862698.698025] 40 bytes from 54.163.225.50: icmp_seq=1 ttl=41 time=110 ms
+[1607862703.811536] 40 bytes from ec2-54-163-225-50.compute-1.amazonaws.com (54.163.225.50): icmp_seq=2 ttl=41 time=110 ms
+[1607862713.930044] 40 bytes from 54.163.225.50: icmp_seq=3 ttl=41 time=110 ms
+[1607862719.047651] 40 bytes from ec2-54-163-225-50.compute-1.amazonaws.com (54.163.225.50): icmp_seq=4 ttl=41 time=110 ms
+[1607862719.160283] 40 bytes from ec2-54-163-225-50.compute-1.amazonaws.com (54.163.225.50): icmp_seq=5 ttl=41 time=110 ms
+[1607862725.164115] 40 bytes from ec2-54-163-225-50.compute-1.amazonaws.com (54.163.225.50): icmp_seq=6 ttl=41 time=110 ms
+[1607862730.282909] 40 bytes from ec2-54-163-225-50.compute-1.amazonaws.com (54.163.225.50): icmp_seq=7 ttl=41 time=110 ms
+[1607862730.399741] 40 bytes from ec2-54-163-225-50.compute-1.amazonaws.com (54.163.225.50): icmp_seq=8 ttl=41 time=110 ms
+[1607862731.396262] 40 bytes from ec2-54-163-225-50.compute-1.amazonaws.com (54.163.225.50): icmp_seq=9 ttl=41 time=110 ms
+[1607862732.396822] 40 bytes from ec2-54-163-225-50.compute-1.amazonaws.com (54.163.225.50): icmp_seq=10 ttl=41 time=110 ms
+[1607862733.396413] 40 bytes from ec2-54-163-225-50.compute-1.amazonaws.com (54.163.225.50): icmp_seq=11 ttl=41 time=110 ms
+[1607862734.397780] 40 bytes from ec2-54-163-225-50.compute-1.amazonaws.com (54.163.225.50): icmp_seq=12 ttl=41 time=110 ms
+[1607862735.397142] 40 bytes from ec2-54-163-225-50.compute-1.amazonaws.com (54.163.225.50): icmp_seq=13 ttl=41 time=110 ms
+[1607862741.399862] 40 bytes from ec2-54-163-225-50.compute-1.amazonaws.com (54.163.225.50): icmp_seq=14 ttl=41 time=110 ms
+[1607862746.516125] 40 bytes from ec2-54-163-225-50.compute-1.amazonaws.com (54.163.225.50): icmp_seq=15 ttl=41 time=110 ms
+[1607862746.629176] 40 bytes from ec2-54-163-225-50.compute-1.amazonaws.com (54.163.225.50): icmp_seq=16 ttl=41 time=111 ms
+[1607862747.630067] 40 bytes from ec2-54-163-225-50.compute-1.amazonaws.com (54.163.225.50): icmp_seq=17 ttl=41 time=111 ms
+[1607862748.628902] 40 bytes from ec2-54-163-225-50.compute-1.amazonaws.com (54.163.225.50): icmp_seq=18 ttl=41 time=111 ms
+[1607862749.627740] 40 bytes from ec2-54-163-225-50.compute-1.amazonaws.com (54.163.225.50): icmp_seq=19 ttl=41 time=110 ms
+[1607862750.626996] 40 bytes from ec2-54-163-225-50.compute-1.amazonaws.com (54.163.225.50): icmp_seq=20 ttl=41 time=110 ms
+[1607862751.627408] 40 bytes from ec2-54-163-225-50.compute-1.amazonaws.com (54.163.225.50): icmp_seq=21 ttl=41 time=110 ms
+[1607862752.628684] 40 bytes from ec2-54-163-225-50.compute-1.amazonaws.com (54.163.225.50): icmp_seq=22 ttl=41 time=110 ms
+[1607862753.629684] 40 bytes from ec2-54-163-225-50.compute-1.amazonaws.com (54.163.225.50): icmp_seq=23 ttl=41 time=111 ms
+[1607862754.628362] 40 bytes from ec2-54-163-225-50.compute-1.amazonaws.com (54.163.225.50): icmp_seq=24 ttl=41 time=110 ms
+[1607862765.634010] 40 bytes from 54.163.225.50: icmp_seq=25 ttl=41 time=110 ms
+[1607862765.746528] 40 bytes from ec2-54-163-225-50.compute-1.amazonaws.com (54.163.225.50): icmp_seq=26 ttl=41 time=110 ms
+[1607862766.748340] 40 bytes from ec2-54-163-225-50.compute-1.amazonaws.com (54.163.225.50): icmp_seq=27 ttl=41 time=111 ms
+[1607862767.749017] 40 bytes from ec2-54-163-225-50.compute-1.amazonaws.com (54.163.225.50): icmp_seq=28 ttl=41 time=110 ms
+[1607862768.748424] 40 bytes from ec2-54-163-225-50.compute-1.amazonaws.com (54.163.225.50): icmp_seq=29 ttl=41 time=110 ms
+[1607862769.748139] 40 bytes from ec2-54-163-225-50.compute-1.amazonaws.com (54.163.225.50): icmp_seq=30 ttl=41 time=110 ms
+[1607862780.754159] 40 bytes from 54.163.225.50: icmp_seq=31 ttl=41 time=110 ms
+[1607862785.871927] 40 bytes from ec2-54-163-225-50.compute-1.amazonaws.com (54.163.225.50): icmp_seq=32 ttl=41 time=111 ms
+[1607862785.983971] 40 bytes from ec2-54-163-225-50.compute-1.amazonaws.com (54.163.225.50): icmp_seq=33 ttl=41 time=110 ms
+[1607862786.985179] 40 bytes from ec2-54-163-225-50.compute-1.amazonaws.com (54.163.225.50): icmp_seq=34 ttl=41 time=111 ms
+[1607862787.984928] 40 bytes from ec2-54-163-225-50.compute-1.amazonaws.com (54.163.225.50): icmp_seq=35 ttl=41 time=111 ms
+[1607862788.984634] 40 bytes from ec2-54-163-225-50.compute-1.amazonaws.com (54.163.225.50): icmp_seq=36 ttl=41 time=110 ms
+[1607862789.986305] 40 bytes from ec2-54-163-225-50.compute-1.amazonaws.com (54.163.225.50): icmp_seq=37 ttl=41 time=110 ms
+[1607862790.987771] 40 bytes from ec2-54-163-225-50.compute-1.amazonaws.com (54.163.225.50): icmp_seq=38 ttl=41 time=110 ms
+[1607862801.994023] 40 bytes from 54.163.225.50: icmp_seq=39 ttl=41 time=110 ms
+[1607862812.110008] 40 bytes from 54.163.225.50: icmp_seq=40 ttl=41 time=111 ms
+[1607862817.225966] 40 bytes from ec2-54-163-225-50.compute-1.amazonaws.com (54.163.225.50): icmp_seq=41 ttl=41 time=110 ms
+[1607862822.340479] 40 bytes from ec2-54-163-225-50.compute-1.amazonaws.com (54.163.225.50): icmp_seq=42 ttl=41 time=110 ms
+[1607862822.453451] 40 bytes from ec2-54-163-225-50.compute-1.amazonaws.com (54.163.225.50): icmp_seq=43 ttl=41 time=111 ms
+[1607862833.458011] 40 bytes from 54.163.225.50: icmp_seq=44 ttl=41 time=110 ms
+[1607862838.573195] 40 bytes from ec2-54-163-225-50.compute-1.amazonaws.com (54.163.225.50): icmp_seq=45 ttl=41 time=111 ms
+[1607862838.685509] 40 bytes from ec2-54-163-225-50.compute-1.amazonaws.com (54.163.225.50): icmp_seq=46 ttl=41 time=110 ms
+[1607862839.685787] 40 bytes from ec2-54-163-225-50.compute-1.amazonaws.com (54.163.225.50): icmp_seq=47 ttl=41 time=110 ms
+[1607862840.687985] 40 bytes from ec2-54-163-225-50.compute-1.amazonaws.com (54.163.225.50): icmp_seq=48 ttl=41 time=110 ms
+[1607862841.688797] 40 bytes from ec2-54-163-225-50.compute-1.amazonaws.com (54.163.225.50): icmp_seq=49 ttl=41 time=110 ms
+[1607862842.689629] 40 bytes from ec2-54-163-225-50.compute-1.amazonaws.com (54.163.225.50): icmp_seq=50 ttl=41 time=110 ms
+
+--- uiowa.edu ping statistics ---
+50 packets transmitted, 50 received, 0% packet loss, time 154000ms
+rtt min/avg/max/mdev = 109.610/110.291/110.712/0.280 ms

@@ -1,0 +1,55 @@
+PING nctc.edu (146.20.52.102) 32(60) bytes of data.
+[1607862708.570543] 40 bytes from 146.20.52.102 (146.20.52.102): icmp_seq=1 ttl=45 time=110 ms
+[1607862719.578073] 40 bytes from 146.20.52.102: icmp_seq=2 ttl=45 time=110 ms
+[1607862719.689072] 40 bytes from 146.20.52.102 (146.20.52.102): icmp_seq=3 ttl=45 time=109 ms
+[1607862720.688749] 40 bytes from 146.20.52.102 (146.20.52.102): icmp_seq=4 ttl=45 time=110 ms
+[1607862731.694068] 40 bytes from 146.20.52.102: icmp_seq=5 ttl=45 time=110 ms
+[1607862731.806026] 40 bytes from 146.20.52.102 (146.20.52.102): icmp_seq=6 ttl=45 time=110 ms
+[1607862732.805370] 40 bytes from 146.20.52.102 (146.20.52.102): icmp_seq=7 ttl=45 time=110 ms
+[1607862733.805824] 40 bytes from 146.20.52.102 (146.20.52.102): icmp_seq=8 ttl=45 time=110 ms
+[1607862734.803846] 40 bytes from 146.20.52.102 (146.20.52.102): icmp_seq=9 ttl=45 time=109 ms
+[1607862735.804066] 40 bytes from 146.20.52.102 (146.20.52.102): icmp_seq=10 ttl=45 time=110 ms
+[1607862746.810025] 40 bytes from 146.20.52.102: icmp_seq=11 ttl=45 time=110 ms
+[1607862746.921901] 40 bytes from 146.20.52.102 (146.20.52.102): icmp_seq=12 ttl=45 time=110 ms
+[1607862747.923144] 40 bytes from 146.20.52.102 (146.20.52.102): icmp_seq=13 ttl=45 time=110 ms
+[1607862748.922994] 40 bytes from 146.20.52.102 (146.20.52.102): icmp_seq=14 ttl=45 time=110 ms
+[1607862754.927998] 40 bytes from 146.20.52.102 (146.20.52.102): icmp_seq=15 ttl=45 time=110 ms
+[1607862765.046010] 40 bytes from 146.20.52.102: icmp_seq=16 ttl=45 time=110 ms
+[1607862765.157862] 40 bytes from 146.20.52.102 (146.20.52.102): icmp_seq=17 ttl=45 time=110 ms
+[1607862771.164049] 40 bytes from 146.20.52.102 (146.20.52.102): icmp_seq=18 ttl=45 time=110 ms
+[1607862771.275321] 40 bytes from 146.20.52.102 (146.20.52.102): icmp_seq=19 ttl=45 time=110 ms
+[1607862772.276358] 40 bytes from 146.20.52.102 (146.20.52.102): icmp_seq=20 ttl=45 time=110 ms
+[1607862773.275686] 40 bytes from 146.20.52.102 (146.20.52.102): icmp_seq=21 ttl=45 time=110 ms
+[1607862774.274688] 40 bytes from 146.20.52.102 (146.20.52.102): icmp_seq=22 ttl=45 time=110 ms
+[1607862775.273171] 40 bytes from 146.20.52.102 (146.20.52.102): icmp_seq=23 ttl=45 time=109 ms
+[1607862781.275985] 40 bytes from 146.20.52.102 (146.20.52.102): icmp_seq=24 ttl=45 time=110 ms
+[1607862781.387737] 40 bytes from 146.20.52.102 (146.20.52.102): icmp_seq=25 ttl=45 time=110 ms
+[1607862787.391908] 40 bytes from 146.20.52.102 (146.20.52.102): icmp_seq=26 ttl=45 time=110 ms
+[1607862792.508313] 40 bytes from 146.20.52.102 (146.20.52.102): icmp_seq=27 ttl=45 time=109 ms
+[1607862797.623651] 40 bytes from 146.20.52.102 (146.20.52.102): icmp_seq=28 ttl=45 time=110 ms
+[1607862797.735043] 40 bytes from 146.20.52.102 (146.20.52.102): icmp_seq=29 ttl=45 time=109 ms
+[1607862798.735239] 40 bytes from 146.20.52.102 (146.20.52.102): icmp_seq=30 ttl=45 time=110 ms
+[1607862799.734556] 40 bytes from 146.20.52.102 (146.20.52.102): icmp_seq=31 ttl=45 time=110 ms
+[1607862800.734484] 40 bytes from 146.20.52.102 (146.20.52.102): icmp_seq=32 ttl=45 time=110 ms
+[1607862801.733912] 40 bytes from 146.20.52.102 (146.20.52.102): icmp_seq=33 ttl=45 time=110 ms
+[1607862802.733680] 40 bytes from 146.20.52.102 (146.20.52.102): icmp_seq=34 ttl=45 time=110 ms
+[1607862803.732710] 40 bytes from 146.20.52.102 (146.20.52.102): icmp_seq=35 ttl=45 time=109 ms
+[1607862804.732946] 40 bytes from 146.20.52.102 (146.20.52.102): icmp_seq=36 ttl=45 time=109 ms
+[1607862805.732138] 40 bytes from 146.20.52.102 (146.20.52.102): icmp_seq=37 ttl=45 time=109 ms
+[1607862806.733924] 40 bytes from 146.20.52.102 (146.20.52.102): icmp_seq=38 ttl=45 time=110 ms
+[1607862807.733640] 40 bytes from 146.20.52.102 (146.20.52.102): icmp_seq=39 ttl=45 time=110 ms
+[1607862808.733711] 40 bytes from 146.20.52.102 (146.20.52.102): icmp_seq=40 ttl=45 time=110 ms
+[1607862809.734178] 40 bytes from 146.20.52.102 (146.20.52.102): icmp_seq=41 ttl=45 time=110 ms
+[1607862810.733685] 40 bytes from 146.20.52.102 (146.20.52.102): icmp_seq=42 ttl=45 time=110 ms
+[1607862811.733736] 40 bytes from 146.20.52.102 (146.20.52.102): icmp_seq=43 ttl=45 time=110 ms
+[1607862817.735727] 40 bytes from 146.20.52.102 (146.20.52.102): icmp_seq=44 ttl=45 time=110 ms
+[1607862827.854351] 40 bytes from 146.20.52.102: icmp_seq=45 ttl=45 time=110 ms
+[1607862837.970757] 40 bytes from 146.20.52.102: icmp_seq=46 ttl=45 time=110 ms
+[1607862838.082837] 40 bytes from 146.20.52.102 (146.20.52.102): icmp_seq=47 ttl=45 time=110 ms
+[1607862849.086053] 40 bytes from 146.20.52.102: icmp_seq=48 ttl=45 time=109 ms
+[1607862849.197908] 40 bytes from 146.20.52.102 (146.20.52.102): icmp_seq=49 ttl=45 time=110 ms
+[1607862850.198932] 40 bytes from 146.20.52.102 (146.20.52.102): icmp_seq=50 ttl=45 time=110 ms
+
+--- nctc.edu ping statistics ---
+50 packets transmitted, 50 received, 0% packet loss, time 141628ms
+rtt min/avg/max/mdev = 108.907/109.670/110.132/0.315 ms

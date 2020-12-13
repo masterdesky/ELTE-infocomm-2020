@@ -1,0 +1,55 @@
+PING yccd.edu (104.197.241.213) 32(60) bytes of data.
+[1607862691.587949] 40 bytes from 213.241.197.104.bc.googleusercontent.com (104.197.241.213): icmp_seq=1 ttl=50 time=121 ms
+[1607862701.894445] 40 bytes from 104.197.241.213: icmp_seq=2 ttl=50 time=121 ms
+[1607862707.020932] 40 bytes from 213.241.197.104.bc.googleusercontent.com (104.197.241.213): icmp_seq=3 ttl=50 time=121 ms
+[1607862712.147815] 40 bytes from 213.241.197.104.bc.googleusercontent.com (104.197.241.213): icmp_seq=4 ttl=50 time=121 ms
+[1607862712.271236] 40 bytes from 213.241.197.104.bc.googleusercontent.com (104.197.241.213): icmp_seq=5 ttl=50 time=121 ms
+[1607862713.271868] 40 bytes from 213.241.197.104.bc.googleusercontent.com (104.197.241.213): icmp_seq=6 ttl=50 time=121 ms
+[1607862724.278088] 40 bytes from 104.197.241.213: icmp_seq=7 ttl=50 time=121 ms
+[1607862729.404623] 40 bytes from 213.241.197.104.bc.googleusercontent.com (104.197.241.213): icmp_seq=8 ttl=50 time=121 ms
+[1607862739.534061] 40 bytes from 104.197.241.213: icmp_seq=9 ttl=50 time=121 ms
+[1607862749.662049] 40 bytes from 104.197.241.213: icmp_seq=10 ttl=50 time=121 ms
+[1607862749.784685] 40 bytes from 213.241.197.104.bc.googleusercontent.com (104.197.241.213): icmp_seq=11 ttl=50 time=121 ms
+[1607862750.784228] 40 bytes from 213.241.197.104.bc.googleusercontent.com (104.197.241.213): icmp_seq=12 ttl=50 time=121 ms
+[1607862761.790043] 40 bytes from 104.197.241.213: icmp_seq=13 ttl=50 time=121 ms
+[1607862761.913831] 40 bytes from 213.241.197.104.bc.googleusercontent.com (104.197.241.213): icmp_seq=14 ttl=50 time=122 ms
+[1607862762.912930] 40 bytes from 213.241.197.104.bc.googleusercontent.com (104.197.241.213): icmp_seq=15 ttl=50 time=121 ms
+[1607862763.912816] 40 bytes from 213.241.197.104.bc.googleusercontent.com (104.197.241.213): icmp_seq=16 ttl=50 time=121 ms
+[1607862764.915431] 40 bytes from 213.241.197.104.bc.googleusercontent.com (104.197.241.213): icmp_seq=17 ttl=50 time=122 ms
+[1607862765.916347] 40 bytes from 213.241.197.104.bc.googleusercontent.com (104.197.241.213): icmp_seq=18 ttl=50 time=121 ms
+[1607862771.923521] 40 bytes from 213.241.197.104.bc.googleusercontent.com (104.197.241.213): icmp_seq=19 ttl=50 time=121 ms
+[1607862772.046185] 40 bytes from 213.241.197.104.bc.googleusercontent.com (104.197.241.213): icmp_seq=20 ttl=50 time=120 ms
+[1607862773.045890] 40 bytes from 213.241.197.104.bc.googleusercontent.com (104.197.241.213): icmp_seq=21 ttl=50 time=120 ms
+[1607862774.046734] 40 bytes from 213.241.197.104.bc.googleusercontent.com (104.197.241.213): icmp_seq=22 ttl=50 time=121 ms
+[1607862775.045451] 40 bytes from 213.241.197.104.bc.googleusercontent.com (104.197.241.213): icmp_seq=23 ttl=50 time=121 ms
+[1607862786.050025] 40 bytes from 104.197.241.213: icmp_seq=24 ttl=50 time=121 ms
+[1607862791.175883] 40 bytes from 213.241.197.104.bc.googleusercontent.com (104.197.241.213): icmp_seq=25 ttl=50 time=121 ms
+[1607862796.303976] 40 bytes from 213.241.197.104.bc.googleusercontent.com (104.197.241.213): icmp_seq=26 ttl=50 time=122 ms
+[1607862801.428103] 40 bytes from 213.241.197.104.bc.googleusercontent.com (104.197.241.213): icmp_seq=27 ttl=50 time=121 ms
+[1607862801.551302] 40 bytes from 213.241.197.104.bc.googleusercontent.com (104.197.241.213): icmp_seq=28 ttl=50 time=121 ms
+[1607862802.554459] 40 bytes from 213.241.197.104.bc.googleusercontent.com (104.197.241.213): icmp_seq=29 ttl=50 time=123 ms
+[1607862803.552906] 40 bytes from 213.241.197.104.bc.googleusercontent.com (104.197.241.213): icmp_seq=30 ttl=50 time=121 ms
+[1607862804.555220] 40 bytes from 213.241.197.104.bc.googleusercontent.com (104.197.241.213): icmp_seq=31 ttl=50 time=121 ms
+[1607862805.556462] 40 bytes from 213.241.197.104.bc.googleusercontent.com (104.197.241.213): icmp_seq=32 ttl=50 time=121 ms
+[1607862806.557252] 40 bytes from 213.241.197.104.bc.googleusercontent.com (104.197.241.213): icmp_seq=33 ttl=50 time=121 ms
+[1607862817.562006] 40 bytes from 104.197.241.213: icmp_seq=34 ttl=50 time=121 ms
+[1607862827.690062] 40 bytes from 104.197.241.213: icmp_seq=35 ttl=50 time=121 ms
+[1607862827.813890] 40 bytes from 213.241.197.104.bc.googleusercontent.com (104.197.241.213): icmp_seq=36 ttl=50 time=121 ms
+[1607862828.813812] 40 bytes from 213.241.197.104.bc.googleusercontent.com (104.197.241.213): icmp_seq=37 ttl=50 time=121 ms
+[1607862829.814189] 40 bytes from 213.241.197.104.bc.googleusercontent.com (104.197.241.213): icmp_seq=38 ttl=50 time=121 ms
+[1607862830.815911] 40 bytes from 213.241.197.104.bc.googleusercontent.com (104.197.241.213): icmp_seq=39 ttl=50 time=121 ms
+[1607862831.817930] 40 bytes from 213.241.197.104.bc.googleusercontent.com (104.197.241.213): icmp_seq=40 ttl=50 time=121 ms
+[1607862832.819228] 40 bytes from 213.241.197.104.bc.googleusercontent.com (104.197.241.213): icmp_seq=41 ttl=50 time=121 ms
+[1607862833.820160] 40 bytes from 213.241.197.104.bc.googleusercontent.com (104.197.241.213): icmp_seq=42 ttl=50 time=121 ms
+[1607862834.822574] 40 bytes from 213.241.197.104.bc.googleusercontent.com (104.197.241.213): icmp_seq=43 ttl=50 time=121 ms
+[1607862835.824266] 40 bytes from 213.241.197.104.bc.googleusercontent.com (104.197.241.213): icmp_seq=44 ttl=50 time=121 ms
+[1607862836.825784] 40 bytes from 213.241.197.104.bc.googleusercontent.com (104.197.241.213): icmp_seq=45 ttl=50 time=121 ms
+[1607862837.825571] 40 bytes from 213.241.197.104.bc.googleusercontent.com (104.197.241.213): icmp_seq=46 ttl=50 time=121 ms
+[1607862838.824518] 40 bytes from 213.241.197.104.bc.googleusercontent.com (104.197.241.213): icmp_seq=47 ttl=50 time=121 ms
+[1607862839.824978] 40 bytes from 213.241.197.104.bc.googleusercontent.com (104.197.241.213): icmp_seq=48 ttl=50 time=121 ms
+[1607862840.826048] 40 bytes from 213.241.197.104.bc.googleusercontent.com (104.197.241.213): icmp_seq=49 ttl=50 time=121 ms
+[1607862841.827797] 40 bytes from 213.241.197.104.bc.googleusercontent.com (104.197.241.213): icmp_seq=50 ttl=50 time=121 ms
+
+--- yccd.edu ping statistics ---
+50 packets transmitted, 50 received, 0% packet loss, time 150938ms
+rtt min/avg/max/mdev = 120.283/121.079/123.348/0.454 ms

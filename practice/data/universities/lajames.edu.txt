@@ -1,0 +1,54 @@
+PING lajames.edu (64.92.125.120) 32(60) bytes of data.
+[1607862698.614022] 40 bytes from 64.92.125.120: icmp_seq=1 ttl=46 time=137 ms
+[1607862704.211667] 40 bytes from 64.92.125.120 (64.92.125.120): icmp_seq=2 ttl=46 time=137 ms
+[1607862709.355370] 40 bytes from 64.92.125.120 (64.92.125.120): icmp_seq=3 ttl=46 time=138 ms
+[1607862709.494366] 40 bytes from 64.92.125.120 (64.92.125.120): icmp_seq=4 ttl=46 time=137 ms
+[1607862710.495371] 40 bytes from 64.92.125.120 (64.92.125.120): icmp_seq=5 ttl=46 time=137 ms
+[1607862711.496854] 40 bytes from 64.92.125.120 (64.92.125.120): icmp_seq=6 ttl=46 time=137 ms
+[1607862712.497519] 40 bytes from 64.92.125.120 (64.92.125.120): icmp_seq=7 ttl=46 time=137 ms
+[1607862713.498220] 40 bytes from 64.92.125.120 (64.92.125.120): icmp_seq=8 ttl=46 time=137 ms
+[1607862714.499506] 40 bytes from 64.92.125.120 (64.92.125.120): icmp_seq=9 ttl=46 time=138 ms
+[1607862725.506002] 40 bytes from 64.92.125.120: icmp_seq=10 ttl=46 time=137 ms
+[1607862725.646775] 40 bytes from 64.92.125.120 (64.92.125.120): icmp_seq=11 ttl=46 time=137 ms
+[1607862726.644501] 40 bytes from 64.92.125.120 (64.92.125.120): icmp_seq=12 ttl=46 time=137 ms
+[1607862727.645871] 40 bytes from 64.92.125.120 (64.92.125.120): icmp_seq=13 ttl=46 time=137 ms
+[1607862728.647206] 40 bytes from 64.92.125.120 (64.92.125.120): icmp_seq=14 ttl=46 time=137 ms
+[1607862740.654048] 40 bytes from 64.92.125.120: icmp_seq=16 ttl=46 time=138 ms
+[1607862750.798818] 40 bytes from 64.92.125.120: icmp_seq=17 ttl=46 time=138 ms
+[1607862760.946028] 40 bytes from 64.92.125.120: icmp_seq=18 ttl=46 time=138 ms
+[1607862771.090047] 40 bytes from 64.92.125.120: icmp_seq=19 ttl=46 time=138 ms
+[1607862781.234046] 40 bytes from 64.92.125.120: icmp_seq=20 ttl=46 time=137 ms
+[1607862781.373856] 40 bytes from 64.92.125.120 (64.92.125.120): icmp_seq=21 ttl=46 time=137 ms
+[1607862782.373481] 40 bytes from 64.92.125.120 (64.92.125.120): icmp_seq=22 ttl=46 time=137 ms
+[1607862783.373330] 40 bytes from 64.92.125.120 (64.92.125.120): icmp_seq=23 ttl=46 time=137 ms
+[1607862784.374753] 40 bytes from 64.92.125.120 (64.92.125.120): icmp_seq=24 ttl=46 time=137 ms
+[1607862785.376593] 40 bytes from 64.92.125.120 (64.92.125.120): icmp_seq=25 ttl=46 time=138 ms
+[1607862786.377841] 40 bytes from 64.92.125.120 (64.92.125.120): icmp_seq=26 ttl=46 time=138 ms
+[1607862787.376977] 40 bytes from 64.92.125.120 (64.92.125.120): icmp_seq=27 ttl=46 time=137 ms
+[1607862788.376897] 40 bytes from 64.92.125.120 (64.92.125.120): icmp_seq=28 ttl=46 time=137 ms
+[1607862789.379288] 40 bytes from 64.92.125.120 (64.92.125.120): icmp_seq=29 ttl=46 time=137 ms
+[1607862790.380549] 40 bytes from 64.92.125.120 (64.92.125.120): icmp_seq=30 ttl=46 time=138 ms
+[1607862796.383980] 40 bytes from 64.92.125.120 (64.92.125.120): icmp_seq=31 ttl=46 time=138 ms
+[1607862801.527696] 40 bytes from 64.92.125.120 (64.92.125.120): icmp_seq=32 ttl=46 time=137 ms
+[1607862806.671313] 40 bytes from 64.92.125.120 (64.92.125.120): icmp_seq=33 ttl=46 time=137 ms
+[1607862811.815512] 40 bytes from 64.92.125.120 (64.92.125.120): icmp_seq=34 ttl=46 time=137 ms
+[1607862811.953675] 40 bytes from 64.92.125.120 (64.92.125.120): icmp_seq=35 ttl=46 time=137 ms
+[1607862822.962043] 40 bytes from 64.92.125.120: icmp_seq=36 ttl=46 time=137 ms
+[1607862833.106026] 40 bytes from 64.92.125.120: icmp_seq=37 ttl=46 time=137 ms
+[1607862843.250053] 40 bytes from 64.92.125.120: icmp_seq=38 ttl=46 time=138 ms
+[1607862848.391893] 40 bytes from 64.92.125.120 (64.92.125.120): icmp_seq=39 ttl=46 time=137 ms
+[1607862848.531487] 40 bytes from 64.92.125.120 (64.92.125.120): icmp_seq=40 ttl=46 time=137 ms
+[1607862859.538897] 40 bytes from 64.92.125.120: icmp_seq=41 ttl=46 time=137 ms
+[1607862869.682024] 40 bytes from 64.92.125.120: icmp_seq=42 ttl=46 time=138 ms
+[1607862869.821378] 40 bytes from 64.92.125.120 (64.92.125.120): icmp_seq=43 ttl=46 time=138 ms
+[1607862875.824072] 40 bytes from 64.92.125.120 (64.92.125.120): icmp_seq=44 ttl=46 time=137 ms
+[1607862875.963094] 40 bytes from 64.92.125.120 (64.92.125.120): icmp_seq=45 ttl=46 time=137 ms
+[1607862876.964097] 40 bytes from 64.92.125.120 (64.92.125.120): icmp_seq=46 ttl=46 time=137 ms
+[1607862877.964202] 40 bytes from 64.92.125.120 (64.92.125.120): icmp_seq=47 ttl=46 time=137 ms
+[1607862878.966168] 40 bytes from 64.92.125.120 (64.92.125.120): icmp_seq=48 ttl=46 time=137 ms
+[1607862879.967402] 40 bytes from 64.92.125.120 (64.92.125.120): icmp_seq=49 ttl=46 time=138 ms
+[1607862880.968788] 40 bytes from 64.92.125.120 (64.92.125.120): icmp_seq=50 ttl=46 time=137 ms
+
+--- lajames.edu ping statistics ---
+50 packets transmitted, 49 received, 2% packet loss, time 192359ms
+rtt min/avg/max/mdev = 136.576/137.340/138.064/0.278 ms

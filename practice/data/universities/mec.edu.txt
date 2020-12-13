@@ -1,0 +1,55 @@
+PING mec.edu (209.61.196.7) 32(60) bytes of data.
+[1607862682.584178] 40 bytes from 209.61.196.7 (209.61.196.7): icmp_seq=1 ttl=50 time=162 ms
+[1607862693.590002] 40 bytes from 209.61.196.7: icmp_seq=2 ttl=50 time=162 ms
+[1607862698.755436] 40 bytes from 209.61.196.7 (209.61.196.7): icmp_seq=3 ttl=50 time=162 ms
+[1607862708.926596] 40 bytes from 209.61.196.7: icmp_seq=4 ttl=50 time=162 ms
+[1607862709.091234] 40 bytes from 209.61.196.7 (209.61.196.7): icmp_seq=5 ttl=50 time=162 ms
+[1607862720.093996] 40 bytes from 209.61.196.7: icmp_seq=6 ttl=50 time=162 ms
+[1607862720.257756] 40 bytes from 209.61.196.7 (209.61.196.7): icmp_seq=7 ttl=50 time=162 ms
+[1607862721.258141] 40 bytes from 209.61.196.7 (209.61.196.7): icmp_seq=8 ttl=50 time=161 ms
+[1607862722.259722] 40 bytes from 209.61.196.7 (209.61.196.7): icmp_seq=9 ttl=50 time=162 ms
+[1607862723.260195] 40 bytes from 209.61.196.7 (209.61.196.7): icmp_seq=10 ttl=50 time=162 ms
+[1607862729.263857] 40 bytes from 209.61.196.7 (209.61.196.7): icmp_seq=11 ttl=50 time=162 ms
+[1607862739.434048] 40 bytes from 209.61.196.7: icmp_seq=12 ttl=50 time=162 ms
+[1607862749.602024] 40 bytes from 209.61.196.7: icmp_seq=13 ttl=50 time=162 ms
+[1607862759.770049] 40 bytes from 209.61.196.7: icmp_seq=14 ttl=50 time=161 ms
+[1607862764.935620] 40 bytes from 209.61.196.7 (209.61.196.7): icmp_seq=15 ttl=50 time=162 ms
+[1607862770.103336] 40 bytes from 209.61.196.7 (209.61.196.7): icmp_seq=16 ttl=50 time=161 ms
+[1607862775.272059] 40 bytes from 209.61.196.7 (209.61.196.7): icmp_seq=17 ttl=50 time=162 ms
+[1607862780.439243] 40 bytes from 209.61.196.7 (209.61.196.7): icmp_seq=18 ttl=50 time=161 ms
+[1607862780.603528] 40 bytes from 209.61.196.7 (209.61.196.7): icmp_seq=19 ttl=50 time=162 ms
+[1607862791.606409] 40 bytes from 209.61.196.7: icmp_seq=20 ttl=50 time=161 ms
+[1607862801.774030] 40 bytes from 209.61.196.7: icmp_seq=21 ttl=50 time=161 ms
+[1607862811.942041] 40 bytes from 209.61.196.7: icmp_seq=22 ttl=50 time=162 ms
+[1607862817.107030] 40 bytes from 209.61.196.7 (209.61.196.7): icmp_seq=23 ttl=50 time=161 ms
+[1607862817.269512] 40 bytes from 209.61.196.7 (209.61.196.7): icmp_seq=24 ttl=50 time=161 ms
+[1607862828.278037] 40 bytes from 209.61.196.7: icmp_seq=25 ttl=50 time=163 ms
+[1607862833.447056] 40 bytes from 209.61.196.7 (209.61.196.7): icmp_seq=26 ttl=50 time=162 ms
+[1607862838.616029] 40 bytes from 209.61.196.7 (209.61.196.7): icmp_seq=27 ttl=50 time=162 ms
+[1607862848.787025] 40 bytes from 209.61.196.7: icmp_seq=28 ttl=50 time=162 ms
+[1607862858.957992] 40 bytes from 209.61.196.7: icmp_seq=29 ttl=50 time=162 ms
+[1607862859.122021] 40 bytes from 209.61.196.7 (209.61.196.7): icmp_seq=30 ttl=50 time=162 ms
+[1607862865.123958] 40 bytes from 209.61.196.7 (209.61.196.7): icmp_seq=31 ttl=50 time=162 ms
+[1607862875.294014] 40 bytes from 209.61.196.7: icmp_seq=32 ttl=50 time=162 ms
+[1607862875.458129] 40 bytes from 209.61.196.7 (209.61.196.7): icmp_seq=33 ttl=50 time=162 ms
+[1607862876.459496] 40 bytes from 209.61.196.7 (209.61.196.7): icmp_seq=34 ttl=50 time=162 ms
+[1607862877.460591] 40 bytes from 209.61.196.7 (209.61.196.7): icmp_seq=35 ttl=50 time=162 ms
+[1607862878.461465] 40 bytes from 209.61.196.7 (209.61.196.7): icmp_seq=36 ttl=50 time=162 ms
+[1607862879.463456] 40 bytes from 209.61.196.7 (209.61.196.7): icmp_seq=37 ttl=50 time=162 ms
+[1607862880.464250] 40 bytes from 209.61.196.7 (209.61.196.7): icmp_seq=38 ttl=50 time=162 ms
+[1607862881.464615] 40 bytes from 209.61.196.7 (209.61.196.7): icmp_seq=39 ttl=50 time=161 ms
+[1607862882.464674] 40 bytes from 209.61.196.7 (209.61.196.7): icmp_seq=40 ttl=50 time=161 ms
+[1607862883.465755] 40 bytes from 209.61.196.7 (209.61.196.7): icmp_seq=41 ttl=50 time=161 ms
+[1607862884.468131] 40 bytes from 209.61.196.7 (209.61.196.7): icmp_seq=42 ttl=50 time=162 ms
+[1607862885.468003] 40 bytes from 209.61.196.7 (209.61.196.7): icmp_seq=43 ttl=50 time=162 ms
+[1607862886.468953] 40 bytes from 209.61.196.7 (209.61.196.7): icmp_seq=44 ttl=50 time=162 ms
+[1607862887.468153] 40 bytes from 209.61.196.7 (209.61.196.7): icmp_seq=45 ttl=50 time=161 ms
+[1607862888.469722] 40 bytes from 209.61.196.7 (209.61.196.7): icmp_seq=46 ttl=50 time=162 ms
+[1607862889.471817] 40 bytes from 209.61.196.7 (209.61.196.7): icmp_seq=47 ttl=50 time=162 ms
+[1607862890.471705] 40 bytes from 209.61.196.7 (209.61.196.7): icmp_seq=48 ttl=50 time=162 ms
+[1607862891.472827] 40 bytes from 209.61.196.7 (209.61.196.7): icmp_seq=49 ttl=50 time=162 ms
+[1607862892.476439] 40 bytes from 209.61.196.7 (209.61.196.7): icmp_seq=50 ttl=50 time=165 ms
+
+--- mec.edu ping statistics ---
+50 packets transmitted, 50 received, 0% packet loss, time 209890ms
+rtt min/avg/max/mdev = 160.826/161.722/164.709/0.551 ms

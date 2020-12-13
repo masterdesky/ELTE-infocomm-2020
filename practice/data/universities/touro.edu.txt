@@ -1,0 +1,55 @@
+PING touro.edu (50.57.205.190) 32(60) bytes of data.
+[1607862712.227318] 40 bytes from 50.57.205.190 (50.57.205.190): icmp_seq=1 ttl=45 time=120 ms
+[1607862712.699549] 40 bytes from 50.57.205.190 (50.57.205.190): icmp_seq=2 ttl=45 time=120 ms
+[1607862723.706370] 40 bytes from 50.57.205.190: icmp_seq=3 ttl=45 time=120 ms
+[1607862723.828317] 40 bytes from 50.57.205.190 (50.57.205.190): icmp_seq=4 ttl=45 time=120 ms
+[1607862724.827651] 40 bytes from 50.57.205.190 (50.57.205.190): icmp_seq=5 ttl=45 time=119 ms
+[1607862725.828587] 40 bytes from 50.57.205.190 (50.57.205.190): icmp_seq=6 ttl=45 time=120 ms
+[1607862736.833992] 40 bytes from 50.57.205.190: icmp_seq=7 ttl=45 time=119 ms
+[1607862736.956178] 40 bytes from 50.57.205.190 (50.57.205.190): icmp_seq=8 ttl=45 time=120 ms
+[1607862737.955146] 40 bytes from 50.57.205.190 (50.57.205.190): icmp_seq=9 ttl=45 time=119 ms
+[1607862738.953498] 40 bytes from 50.57.205.190 (50.57.205.190): icmp_seq=10 ttl=45 time=119 ms
+[1607862744.956125] 40 bytes from 50.57.205.190 (50.57.205.190): icmp_seq=11 ttl=45 time=119 ms
+[1607862745.078269] 40 bytes from 50.57.205.190 (50.57.205.190): icmp_seq=12 ttl=45 time=120 ms
+[1607862746.077071] 40 bytes from 50.57.205.190 (50.57.205.190): icmp_seq=13 ttl=45 time=119 ms
+[1607862747.077906] 40 bytes from 50.57.205.190 (50.57.205.190): icmp_seq=14 ttl=45 time=120 ms
+[1607862748.078536] 40 bytes from 50.57.205.190 (50.57.205.190): icmp_seq=15 ttl=45 time=119 ms
+[1607862749.077834] 40 bytes from 50.57.205.190 (50.57.205.190): icmp_seq=16 ttl=45 time=120 ms
+[1607862760.082053] 40 bytes from 50.57.205.190: icmp_seq=17 ttl=45 time=120 ms
+[1607862760.204382] 40 bytes from 50.57.205.190 (50.57.205.190): icmp_seq=18 ttl=45 time=120 ms
+[1607862761.203729] 40 bytes from 50.57.205.190 (50.57.205.190): icmp_seq=19 ttl=45 time=119 ms
+[1607862762.204000] 40 bytes from 50.57.205.190 (50.57.205.190): icmp_seq=20 ttl=45 time=119 ms
+[1607862763.204302] 40 bytes from 50.57.205.190 (50.57.205.190): icmp_seq=21 ttl=45 time=119 ms
+[1607862764.205899] 40 bytes from 50.57.205.190 (50.57.205.190): icmp_seq=22 ttl=45 time=120 ms
+[1607862765.206708] 40 bytes from 50.57.205.190 (50.57.205.190): icmp_seq=23 ttl=45 time=120 ms
+[1607862766.211881] 40 bytes from 50.57.205.190 (50.57.205.190): icmp_seq=24 ttl=45 time=124 ms
+[1607862767.209645] 40 bytes from 50.57.205.190 (50.57.205.190): icmp_seq=25 ttl=45 time=119 ms
+[1607862768.208841] 40 bytes from 50.57.205.190 (50.57.205.190): icmp_seq=26 ttl=45 time=120 ms
+[1607862769.209969] 40 bytes from 50.57.205.190 (50.57.205.190): icmp_seq=27 ttl=45 time=120 ms
+[1607862775.217642] 40 bytes from 50.57.205.190 (50.57.205.190): icmp_seq=28 ttl=45 time=122 ms
+[1607862775.339147] 40 bytes from 50.57.205.190 (50.57.205.190): icmp_seq=29 ttl=45 time=120 ms
+[1607862786.346041] 40 bytes from 50.57.205.190: icmp_seq=30 ttl=45 time=120 ms
+[1607862786.467830] 40 bytes from 50.57.205.190 (50.57.205.190): icmp_seq=31 ttl=45 time=120 ms
+[1607862787.467937] 40 bytes from 50.57.205.190 (50.57.205.190): icmp_seq=32 ttl=45 time=120 ms
+[1607862788.469231] 40 bytes from 50.57.205.190 (50.57.205.190): icmp_seq=33 ttl=45 time=120 ms
+[1607862789.470128] 40 bytes from 50.57.205.190 (50.57.205.190): icmp_seq=34 ttl=45 time=119 ms
+[1607862790.472257] 40 bytes from 50.57.205.190 (50.57.205.190): icmp_seq=35 ttl=45 time=120 ms
+[1607862791.473498] 40 bytes from 50.57.205.190 (50.57.205.190): icmp_seq=36 ttl=45 time=119 ms
+[1607862792.473219] 40 bytes from 50.57.205.190 (50.57.205.190): icmp_seq=37 ttl=45 time=120 ms
+[1607862793.474538] 40 bytes from 50.57.205.190 (50.57.205.190): icmp_seq=38 ttl=45 time=119 ms
+[1607862794.475078] 40 bytes from 50.57.205.190 (50.57.205.190): icmp_seq=39 ttl=45 time=119 ms
+[1607862795.476752] 40 bytes from 50.57.205.190 (50.57.205.190): icmp_seq=40 ttl=45 time=120 ms
+[1607862801.480219] 40 bytes from 50.57.205.190 (50.57.205.190): icmp_seq=41 ttl=45 time=120 ms
+[1607862806.604032] 40 bytes from 50.57.205.190 (50.57.205.190): icmp_seq=42 ttl=45 time=120 ms
+[1607862806.725734] 40 bytes from 50.57.205.190 (50.57.205.190): icmp_seq=43 ttl=45 time=120 ms
+[1607862817.730034] 40 bytes from 50.57.205.190: icmp_seq=44 ttl=45 time=120 ms
+[1607862827.859996] 40 bytes from 50.57.205.190: icmp_seq=45 ttl=45 time=119 ms
+[1607862837.986275] 40 bytes from 50.57.205.190: icmp_seq=46 ttl=45 time=120 ms
+[1607862838.107918] 40 bytes from 50.57.205.190 (50.57.205.190): icmp_seq=47 ttl=45 time=120 ms
+[1607862849.114065] 40 bytes from 50.57.205.190: icmp_seq=48 ttl=45 time=120 ms
+[1607862859.243028] 40 bytes from 50.57.205.190: icmp_seq=49 ttl=45 time=120 ms
+[1607862859.364599] 40 bytes from 50.57.205.190 (50.57.205.190): icmp_seq=50 ttl=45 time=120 ms
+
+--- touro.edu ping statistics ---
+50 packets transmitted, 50 received, 0% packet loss, time 147665ms
+rtt min/avg/max/mdev = 118.731/119.628/123.837/0.742 ms

@@ -1,0 +1,55 @@
+PING bard.edu (192.246.229.231) 32(60) bytes of data.
+[1607862694.483336] 40 bytes from bardweb02.bard.edu (192.246.229.231): icmp_seq=1 ttl=45 time=106 ms
+[1607862699.696336] 40 bytes from bardweb02.bard.edu (192.246.229.231): icmp_seq=2 ttl=45 time=106 ms
+[1607862699.805185] 40 bytes from bardweb02.bard.edu (192.246.229.231): icmp_seq=3 ttl=45 time=106 ms
+[1607862700.804548] 40 bytes from bardweb02.bard.edu (192.246.229.231): icmp_seq=4 ttl=45 time=106 ms
+[1607862701.804532] 40 bytes from bardweb02.bard.edu (192.246.229.231): icmp_seq=5 ttl=45 time=106 ms
+[1607862707.808558] 40 bytes from bardweb02.bard.edu (192.246.229.231): icmp_seq=6 ttl=45 time=106 ms
+[1607862707.917063] 40 bytes from bardweb02.bard.edu (192.246.229.231): icmp_seq=7 ttl=45 time=106 ms
+[1607862713.919778] 40 bytes from bardweb02.bard.edu (192.246.229.231): icmp_seq=8 ttl=45 time=106 ms
+[1607862714.028418] 40 bytes from bardweb02.bard.edu (192.246.229.231): icmp_seq=9 ttl=45 time=106 ms
+[1607862715.027952] 40 bytes from bardweb02.bard.edu (192.246.229.231): icmp_seq=10 ttl=45 time=106 ms
+[1607862716.028144] 40 bytes from bardweb02.bard.edu (192.246.229.231): icmp_seq=11 ttl=45 time=106 ms
+[1607862717.029177] 40 bytes from bardweb02.bard.edu (192.246.229.231): icmp_seq=12 ttl=45 time=106 ms
+[1607862718.029287] 40 bytes from bardweb02.bard.edu (192.246.229.231): icmp_seq=13 ttl=45 time=105 ms
+[1607862729.034032] 40 bytes from 192.246.229.231: icmp_seq=14 ttl=45 time=106 ms
+[1607862739.146024] 40 bytes from 192.246.229.231: icmp_seq=15 ttl=45 time=106 ms
+[1607862739.254911] 40 bytes from bardweb02.bard.edu (192.246.229.231): icmp_seq=16 ttl=45 time=106 ms
+[1607862740.255889] 40 bytes from bardweb02.bard.edu (192.246.229.231): icmp_seq=17 ttl=45 time=106 ms
+[1607862741.253709] 40 bytes from bardweb02.bard.edu (192.246.229.231): icmp_seq=18 ttl=45 time=105 ms
+[1607862742.255105] 40 bytes from bardweb02.bard.edu (192.246.229.231): icmp_seq=19 ttl=45 time=105 ms
+[1607862743.257402] 40 bytes from bardweb02.bard.edu (192.246.229.231): icmp_seq=20 ttl=45 time=106 ms
+[1607862744.258046] 40 bytes from bardweb02.bard.edu (192.246.229.231): icmp_seq=21 ttl=45 time=106 ms
+[1607862750.263763] 40 bytes from bardweb02.bard.edu (192.246.229.231): icmp_seq=22 ttl=45 time=106 ms
+[1607862750.372623] 40 bytes from bardweb02.bard.edu (192.246.229.231): icmp_seq=23 ttl=45 time=107 ms
+[1607862756.375827] 40 bytes from bardweb02.bard.edu (192.246.229.231): icmp_seq=24 ttl=45 time=106 ms
+[1607862756.483965] 40 bytes from bardweb02.bard.edu (192.246.229.231): icmp_seq=25 ttl=45 time=106 ms
+[1607862757.484214] 40 bytes from bardweb02.bard.edu (192.246.229.231): icmp_seq=26 ttl=45 time=106 ms
+[1607862758.484380] 40 bytes from bardweb02.bard.edu (192.246.229.231): icmp_seq=27 ttl=45 time=106 ms
+[1607862759.486153] 40 bytes from bardweb02.bard.edu (192.246.229.231): icmp_seq=28 ttl=45 time=106 ms
+[1607862770.490053] 40 bytes from 192.246.229.231: icmp_seq=29 ttl=45 time=106 ms
+[1607862770.598382] 40 bytes from bardweb02.bard.edu (192.246.229.231): icmp_seq=30 ttl=45 time=106 ms
+[1607862771.598458] 40 bytes from bardweb02.bard.edu (192.246.229.231): icmp_seq=31 ttl=45 time=106 ms
+[1607862772.598591] 40 bytes from bardweb02.bard.edu (192.246.229.231): icmp_seq=32 ttl=45 time=105 ms
+[1607862773.598950] 40 bytes from bardweb02.bard.edu (192.246.229.231): icmp_seq=33 ttl=45 time=106 ms
+[1607862774.598374] 40 bytes from bardweb02.bard.edu (192.246.229.231): icmp_seq=34 ttl=45 time=106 ms
+[1607862780.601655] 40 bytes from bardweb02.bard.edu (192.246.229.231): icmp_seq=35 ttl=45 time=106 ms
+[1607862785.712265] 40 bytes from bardweb02.bard.edu (192.246.229.231): icmp_seq=36 ttl=45 time=106 ms
+[1607862785.819839] 40 bytes from bardweb02.bard.edu (192.246.229.231): icmp_seq=37 ttl=45 time=106 ms
+[1607862796.826020] 40 bytes from 192.246.229.231: icmp_seq=38 ttl=45 time=106 ms
+[1607862806.938021] 40 bytes from 192.246.229.231: icmp_seq=39 ttl=45 time=106 ms
+[1607862812.047880] 40 bytes from bardweb02.bard.edu (192.246.229.231): icmp_seq=40 ttl=45 time=106 ms
+[1607862812.155344] 40 bytes from bardweb02.bard.edu (192.246.229.231): icmp_seq=41 ttl=45 time=106 ms
+[1607862813.157477] 40 bytes from bardweb02.bard.edu (192.246.229.231): icmp_seq=42 ttl=45 time=106 ms
+[1607862814.157598] 40 bytes from bardweb02.bard.edu (192.246.229.231): icmp_seq=43 ttl=45 time=105 ms
+[1607862815.158969] 40 bytes from bardweb02.bard.edu (192.246.229.231): icmp_seq=44 ttl=45 time=106 ms
+[1607862816.161307] 40 bytes from bardweb02.bard.edu (192.246.229.231): icmp_seq=45 ttl=45 time=106 ms
+[1607862817.161784] 40 bytes from bardweb02.bard.edu (192.246.229.231): icmp_seq=46 ttl=45 time=106 ms
+[1607862828.166031] 40 bytes from 192.246.229.231: icmp_seq=47 ttl=45 time=106 ms
+[1607862838.278016] 40 bytes from 192.246.229.231: icmp_seq=48 ttl=45 time=107 ms
+[1607862848.390027] 40 bytes from 192.246.229.231: icmp_seq=49 ttl=45 time=105 ms
+[1607862848.497951] 40 bytes from bardweb02.bard.edu (192.246.229.231): icmp_seq=50 ttl=45 time=106 ms
+
+--- bard.edu ping statistics ---
+50 packets transmitted, 50 received, 0% packet loss, time 154804ms
+rtt min/avg/max/mdev = 105.243/105.984/106.662/0.318 ms

@@ -1,0 +1,55 @@
+PING cerritos.edu (198.188.98.19) 32(60) bytes of data.
+[1607862699.126931] 40 bytes from 198.188.98.19: icmp_seq=1 ttl=111 time=169 ms
+[1607862709.306413] 40 bytes from 198.188.98.19: icmp_seq=2 ttl=111 time=170 ms
+[1607862719.482015] 40 bytes from 198.188.98.19: icmp_seq=3 ttl=111 time=169 ms
+[1607862720.304820] 40 bytes from www.cerritos.edu (198.188.98.19): icmp_seq=4 ttl=111 time=170 ms
+[1607862720.654324] 40 bytes from www.cerritos.edu (198.188.98.19): icmp_seq=5 ttl=111 time=170 ms
+[1607862721.656390] 40 bytes from www.cerritos.edu (198.188.98.19): icmp_seq=6 ttl=111 time=170 ms
+[1607862722.657266] 40 bytes from www.cerritos.edu (198.188.98.19): icmp_seq=7 ttl=111 time=170 ms
+[1607862723.658264] 40 bytes from www.cerritos.edu (198.188.98.19): icmp_seq=8 ttl=111 time=170 ms
+[1607862734.662096] 40 bytes from 198.188.98.19: icmp_seq=9 ttl=111 time=170 ms
+[1607862734.834394] 40 bytes from www.cerritos.edu (198.188.98.19): icmp_seq=10 ttl=111 time=170 ms
+[1607862735.834136] 40 bytes from www.cerritos.edu (198.188.98.19): icmp_seq=11 ttl=111 time=170 ms
+[1607862736.833881] 40 bytes from www.cerritos.edu (198.188.98.19): icmp_seq=12 ttl=111 time=170 ms
+[1607862737.833244] 40 bytes from www.cerritos.edu (198.188.98.19): icmp_seq=13 ttl=111 time=170 ms
+[1607862738.832137] 40 bytes from www.cerritos.edu (198.188.98.19): icmp_seq=14 ttl=111 time=170 ms
+[1607862739.831457] 40 bytes from www.cerritos.edu (198.188.98.19): icmp_seq=15 ttl=111 time=170 ms
+[1607862750.838043] 40 bytes from 198.188.98.19: icmp_seq=16 ttl=111 time=170 ms
+[1607862761.014021] 40 bytes from 198.188.98.19: icmp_seq=17 ttl=111 time=170 ms
+[1607862771.193287] 40 bytes from 198.188.98.19: icmp_seq=18 ttl=111 time=170 ms
+[1607862771.365675] 40 bytes from www.cerritos.edu (198.188.98.19): icmp_seq=19 ttl=111 time=170 ms
+[1607862772.366364] 40 bytes from www.cerritos.edu (198.188.98.19): icmp_seq=20 ttl=111 time=170 ms
+[1607862773.366235] 40 bytes from www.cerritos.edu (198.188.98.19): icmp_seq=21 ttl=111 time=170 ms
+[1607862774.365393] 40 bytes from www.cerritos.edu (198.188.98.19): icmp_seq=22 ttl=111 time=170 ms
+[1607862775.365291] 40 bytes from www.cerritos.edu (198.188.98.19): icmp_seq=23 ttl=111 time=170 ms
+[1607862776.365227] 40 bytes from www.cerritos.edu (198.188.98.19): icmp_seq=24 ttl=111 time=169 ms
+[1607862777.364776] 40 bytes from www.cerritos.edu (198.188.98.19): icmp_seq=25 ttl=111 time=169 ms
+[1607862778.364765] 40 bytes from www.cerritos.edu (198.188.98.19): icmp_seq=26 ttl=111 time=170 ms
+[1607862779.363617] 40 bytes from www.cerritos.edu (198.188.98.19): icmp_seq=27 ttl=111 time=170 ms
+[1607862780.363144] 40 bytes from www.cerritos.edu (198.188.98.19): icmp_seq=28 ttl=111 time=170 ms
+[1607862791.370393] 40 bytes from 198.188.98.19: icmp_seq=29 ttl=111 time=170 ms
+[1607862801.546887] 40 bytes from 198.188.98.19: icmp_seq=30 ttl=111 time=170 ms
+[1607862806.720643] 40 bytes from www.cerritos.edu (198.188.98.19): icmp_seq=31 ttl=111 time=170 ms
+[1607862811.895591] 40 bytes from www.cerritos.edu (198.188.98.19): icmp_seq=32 ttl=111 time=169 ms
+[1607862817.072003] 40 bytes from www.cerritos.edu (198.188.98.19): icmp_seq=33 ttl=111 time=170 ms
+[1607862817.243803] 40 bytes from www.cerritos.edu (198.188.98.19): icmp_seq=34 ttl=111 time=170 ms
+[1607862828.250074] 40 bytes from 198.188.98.19: icmp_seq=35 ttl=111 time=170 ms
+[1607862838.426041] 40 bytes from 198.188.98.19: icmp_seq=36 ttl=111 time=170 ms
+[1607862843.603413] 40 bytes from www.cerritos.edu (198.188.98.19): icmp_seq=37 ttl=111 time=170 ms
+[1607862853.782103] 40 bytes from 198.188.98.19: icmp_seq=38 ttl=111 time=170 ms
+[1607862853.955118] 40 bytes from www.cerritos.edu (198.188.98.19): icmp_seq=39 ttl=111 time=171 ms
+[1607862854.954009] 40 bytes from www.cerritos.edu (198.188.98.19): icmp_seq=40 ttl=111 time=170 ms
+[1607862855.955420] 40 bytes from www.cerritos.edu (198.188.98.19): icmp_seq=41 ttl=111 time=170 ms
+[1607862856.955099] 40 bytes from www.cerritos.edu (198.188.98.19): icmp_seq=42 ttl=111 time=170 ms
+[1607862857.956471] 40 bytes from www.cerritos.edu (198.188.98.19): icmp_seq=43 ttl=111 time=169 ms
+[1607862858.957818] 40 bytes from www.cerritos.edu (198.188.98.19): icmp_seq=44 ttl=111 time=170 ms
+[1607862859.959834] 40 bytes from www.cerritos.edu (198.188.98.19): icmp_seq=45 ttl=111 time=170 ms
+[1607862860.960582] 40 bytes from www.cerritos.edu (198.188.98.19): icmp_seq=46 ttl=111 time=170 ms
+[1607862861.962139] 40 bytes from www.cerritos.edu (198.188.98.19): icmp_seq=47 ttl=111 time=170 ms
+[1607862862.963065] 40 bytes from www.cerritos.edu (198.188.98.19): icmp_seq=48 ttl=111 time=170 ms
+[1607862863.964126] 40 bytes from www.cerritos.edu (198.188.98.19): icmp_seq=49 ttl=111 time=170 ms
+[1607862864.962973] 40 bytes from www.cerritos.edu (198.188.98.19): icmp_seq=50 ttl=111 time=170 ms
+
+--- cerritos.edu ping statistics ---
+50 packets transmitted, 50 received, 0% packet loss, time 175845ms
+rtt min/avg/max/mdev = 169.184/169.922/170.960/0.316 ms

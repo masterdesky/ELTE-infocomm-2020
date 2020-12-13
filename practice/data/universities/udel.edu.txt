@@ -1,0 +1,54 @@
+PING udel.edu (128.175.13.92) 32(60) bytes of data.
+[1607862701.758089] 40 bytes from 128.175.13.92: icmp_seq=1 ttl=236 time=105 ms
+[1607862701.865065] 40 bytes from copland.udel.edu (128.175.13.92): icmp_seq=2 ttl=236 time=105 ms
+[1607862702.867203] 40 bytes from copland.udel.edu (128.175.13.92): icmp_seq=3 ttl=236 time=105 ms
+[1607862703.868259] 40 bytes from copland.udel.edu (128.175.13.92): icmp_seq=4 ttl=236 time=105 ms
+[1607862714.875582] 40 bytes from 128.175.13.92: icmp_seq=5 ttl=236 time=106 ms
+[1607862719.987759] 40 bytes from copland.udel.edu (128.175.13.92): icmp_seq=6 ttl=236 time=106 ms
+[1607862730.102005] 40 bytes from 128.175.13.92: icmp_seq=7 ttl=236 time=105 ms
+[1607862730.212151] 40 bytes from copland.udel.edu (128.175.13.92): icmp_seq=8 ttl=236 time=106 ms
+[1607862736.211805] 40 bytes from copland.udel.edu (128.175.13.92): icmp_seq=9 ttl=236 time=105 ms
+[1607862736.318701] 40 bytes from copland.udel.edu (128.175.13.92): icmp_seq=10 ttl=236 time=105 ms
+[1607862737.319922] 40 bytes from copland.udel.edu (128.175.13.92): icmp_seq=11 ttl=236 time=106 ms
+[1607862738.319626] 40 bytes from copland.udel.edu (128.175.13.92): icmp_seq=12 ttl=236 time=105 ms
+[1607862739.320486] 40 bytes from copland.udel.edu (128.175.13.92): icmp_seq=13 ttl=236 time=105 ms
+[1607862740.321749] 40 bytes from copland.udel.edu (128.175.13.92): icmp_seq=14 ttl=236 time=106 ms
+[1607862742.320739] 40 bytes from copland.udel.edu (128.175.13.92): icmp_seq=16 ttl=236 time=105 ms
+[1607862743.322980] 40 bytes from copland.udel.edu (128.175.13.92): icmp_seq=17 ttl=236 time=106 ms
+[1607862749.328083] 40 bytes from copland.udel.edu (128.175.13.92): icmp_seq=18 ttl=236 time=105 ms
+[1607862749.436157] 40 bytes from copland.udel.edu (128.175.13.92): icmp_seq=19 ttl=236 time=106 ms
+[1607862750.437058] 40 bytes from copland.udel.edu (128.175.13.92): icmp_seq=20 ttl=236 time=106 ms
+[1607862751.435959] 40 bytes from copland.udel.edu (128.175.13.92): icmp_seq=21 ttl=236 time=105 ms
+[1607862762.442025] 40 bytes from 128.175.13.92: icmp_seq=22 ttl=236 time=105 ms
+[1607862762.549718] 40 bytes from copland.udel.edu (128.175.13.92): icmp_seq=23 ttl=236 time=105 ms
+[1607862763.550699] 40 bytes from copland.udel.edu (128.175.13.92): icmp_seq=24 ttl=236 time=105 ms
+[1607862764.551409] 40 bytes from copland.udel.edu (128.175.13.92): icmp_seq=25 ttl=236 time=105 ms
+[1607862770.557160] 40 bytes from copland.udel.edu (128.175.13.92): icmp_seq=26 ttl=236 time=105 ms
+[1607862770.664805] 40 bytes from copland.udel.edu (128.175.13.92): icmp_seq=27 ttl=236 time=105 ms
+[1607862771.666194] 40 bytes from copland.udel.edu (128.175.13.92): icmp_seq=28 ttl=236 time=106 ms
+[1607862782.670283] 40 bytes from 128.175.13.92: icmp_seq=29 ttl=236 time=106 ms
+[1607862792.782014] 40 bytes from 128.175.13.92: icmp_seq=30 ttl=236 time=105 ms
+[1607862792.890391] 40 bytes from copland.udel.edu (128.175.13.92): icmp_seq=31 ttl=236 time=106 ms
+[1607862793.895442] 40 bytes from copland.udel.edu (128.175.13.92): icmp_seq=32 ttl=236 time=110 ms
+[1607862794.892103] 40 bytes from copland.udel.edu (128.175.13.92): icmp_seq=33 ttl=236 time=105 ms
+[1607862795.893927] 40 bytes from copland.udel.edu (128.175.13.92): icmp_seq=34 ttl=236 time=105 ms
+[1607862806.898030] 40 bytes from 128.175.13.92: icmp_seq=35 ttl=236 time=105 ms
+[1607862812.008184] 40 bytes from copland.udel.edu (128.175.13.92): icmp_seq=36 ttl=236 time=106 ms
+[1607862812.115088] 40 bytes from copland.udel.edu (128.175.13.92): icmp_seq=37 ttl=236 time=105 ms
+[1607862813.117729] 40 bytes from copland.udel.edu (128.175.13.92): icmp_seq=38 ttl=236 time=106 ms
+[1607862814.118222] 40 bytes from copland.udel.edu (128.175.13.92): icmp_seq=39 ttl=236 time=105 ms
+[1607862815.119426] 40 bytes from copland.udel.edu (128.175.13.92): icmp_seq=40 ttl=236 time=106 ms
+[1607862816.120615] 40 bytes from copland.udel.edu (128.175.13.92): icmp_seq=41 ttl=236 time=105 ms
+[1607862817.121806] 40 bytes from copland.udel.edu (128.175.13.92): icmp_seq=42 ttl=236 time=106 ms
+[1607862828.126526] 40 bytes from 128.175.13.92: icmp_seq=43 ttl=236 time=105 ms
+[1607862828.233968] 40 bytes from copland.udel.edu (128.175.13.92): icmp_seq=44 ttl=236 time=105 ms
+[1607862829.235557] 40 bytes from copland.udel.edu (128.175.13.92): icmp_seq=45 ttl=236 time=105 ms
+[1607862830.235660] 40 bytes from copland.udel.edu (128.175.13.92): icmp_seq=46 ttl=236 time=106 ms
+[1607862831.236208] 40 bytes from copland.udel.edu (128.175.13.92): icmp_seq=47 ttl=236 time=105 ms
+[1607862832.238023] 40 bytes from copland.udel.edu (128.175.13.92): icmp_seq=48 ttl=236 time=106 ms
+[1607862843.242062] 40 bytes from 128.175.13.92: icmp_seq=49 ttl=236 time=106 ms
+[1607862843.348599] 40 bytes from copland.udel.edu (128.175.13.92): icmp_seq=50 ttl=236 time=105 ms
+
+--- udel.edu ping statistics ---
+50 packets transmitted, 49 received, 2% packet loss, time 151596ms
+rtt min/avg/max/mdev = 104.677/105.467/109.871/0.699 ms

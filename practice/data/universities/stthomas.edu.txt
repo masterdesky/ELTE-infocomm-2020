@@ -1,0 +1,54 @@
+PING stthomas.edu (13.249.32.117) 32(60) bytes of data.
+[1607862701.415277] 40 bytes from server-13-249-32-117.iad89.r.cloudfront.net (13.249.32.117): icmp_seq=1 ttl=236 time=111 ms
+[1607862702.414880] 40 bytes from server-13-249-32-117.iad89.r.cloudfront.net (13.249.32.117): icmp_seq=2 ttl=236 time=110 ms
+[1607862703.417223] 40 bytes from server-13-249-32-117.iad89.r.cloudfront.net (13.249.32.117): icmp_seq=3 ttl=236 time=110 ms
+[1607862704.418112] 40 bytes from server-13-249-32-117.iad89.r.cloudfront.net (13.249.32.117): icmp_seq=4 ttl=236 time=110 ms
+[1607862705.418275] 40 bytes from server-13-249-32-117.iad89.r.cloudfront.net (13.249.32.117): icmp_seq=5 ttl=236 time=110 ms
+[1607862706.421004] 40 bytes from server-13-249-32-117.iad89.r.cloudfront.net (13.249.32.117): icmp_seq=6 ttl=236 time=111 ms
+[1607862717.426166] 40 bytes from 13.249.32.117: icmp_seq=7 ttl=236 time=110 ms
+[1607862717.539129] 40 bytes from server-13-249-32-117.iad89.r.cloudfront.net (13.249.32.117): icmp_seq=8 ttl=236 time=111 ms
+[1607862718.538796] 40 bytes from server-13-249-32-117.iad89.r.cloudfront.net (13.249.32.117): icmp_seq=9 ttl=236 time=110 ms
+[1607862719.538736] 40 bytes from server-13-249-32-117.iad89.r.cloudfront.net (13.249.32.117): icmp_seq=10 ttl=236 time=110 ms
+[1607862720.538551] 40 bytes from server-13-249-32-117.iad89.r.cloudfront.net (13.249.32.117): icmp_seq=11 ttl=236 time=110 ms
+[1607862726.544307] 40 bytes from server-13-249-32-117.iad89.r.cloudfront.net (13.249.32.117): icmp_seq=12 ttl=236 time=111 ms
+[1607862726.656942] 40 bytes from server-13-249-32-117.iad89.r.cloudfront.net (13.249.32.117): icmp_seq=13 ttl=236 time=110 ms
+[1607862727.657367] 40 bytes from server-13-249-32-117.iad89.r.cloudfront.net (13.249.32.117): icmp_seq=14 ttl=236 time=110 ms
+[1607862728.658436] 40 bytes from server-13-249-32-117.iad89.r.cloudfront.net (13.249.32.117): icmp_seq=15 ttl=236 time=110 ms
+[1607862730.666496] 40 bytes from server-13-249-32-117.iad89.r.cloudfront.net (13.249.32.117): icmp_seq=17 ttl=236 time=111 ms
+[1607862741.682024] 40 bytes from 13.249.32.117: icmp_seq=18 ttl=236 time=122 ms
+[1607862741.794449] 40 bytes from server-13-249-32-117.iad89.r.cloudfront.net (13.249.32.117): icmp_seq=19 ttl=236 time=110 ms
+[1607862742.796085] 40 bytes from server-13-249-32-117.iad89.r.cloudfront.net (13.249.32.117): icmp_seq=20 ttl=236 time=110 ms
+[1607862743.795829] 40 bytes from server-13-249-32-117.iad89.r.cloudfront.net (13.249.32.117): icmp_seq=21 ttl=236 time=110 ms
+[1607862749.803890] 40 bytes from server-13-249-32-117.iad89.r.cloudfront.net (13.249.32.117): icmp_seq=22 ttl=236 time=112 ms
+[1607862749.914858] 40 bytes from server-13-249-32-117.iad89.r.cloudfront.net (13.249.32.117): icmp_seq=23 ttl=236 time=110 ms
+[1607862760.922049] 40 bytes from 13.249.32.117: icmp_seq=24 ttl=236 time=111 ms
+[1607862771.038005] 40 bytes from 13.249.32.117: icmp_seq=25 ttl=236 time=110 ms
+[1607862781.154355] 40 bytes from 13.249.32.117: icmp_seq=26 ttl=236 time=110 ms
+[1607862791.274002] 40 bytes from 13.249.32.117: icmp_seq=27 ttl=236 time=111 ms
+[1607862801.394049] 40 bytes from 13.249.32.117: icmp_seq=28 ttl=236 time=111 ms
+[1607862801.506834] 40 bytes from server-13-249-32-117.iad89.r.cloudfront.net (13.249.32.117): icmp_seq=29 ttl=236 time=111 ms
+[1607862812.514034] 40 bytes from 13.249.32.117: icmp_seq=30 ttl=236 time=110 ms
+[1607862822.630078] 40 bytes from 13.249.32.117: icmp_seq=31 ttl=236 time=111 ms
+[1607862827.744180] 40 bytes from server-13-249-32-117.iad89.r.cloudfront.net (13.249.32.117): icmp_seq=32 ttl=236 time=111 ms
+[1607862827.860314] 40 bytes from server-13-249-32-117.iad89.r.cloudfront.net (13.249.32.117): icmp_seq=33 ttl=236 time=110 ms
+[1607862828.856992] 40 bytes from server-13-249-32-117.iad89.r.cloudfront.net (13.249.32.117): icmp_seq=34 ttl=236 time=111 ms
+[1607862829.858393] 40 bytes from server-13-249-32-117.iad89.r.cloudfront.net (13.249.32.117): icmp_seq=35 ttl=236 time=110 ms
+[1607862830.860216] 40 bytes from server-13-249-32-117.iad89.r.cloudfront.net (13.249.32.117): icmp_seq=36 ttl=236 time=110 ms
+[1607862831.861681] 40 bytes from server-13-249-32-117.iad89.r.cloudfront.net (13.249.32.117): icmp_seq=37 ttl=236 time=111 ms
+[1607862832.863025] 40 bytes from server-13-249-32-117.iad89.r.cloudfront.net (13.249.32.117): icmp_seq=38 ttl=236 time=111 ms
+[1607862833.862313] 40 bytes from server-13-249-32-117.iad89.r.cloudfront.net (13.249.32.117): icmp_seq=39 ttl=236 time=110 ms
+[1607862834.862451] 40 bytes from server-13-249-32-117.iad89.r.cloudfront.net (13.249.32.117): icmp_seq=40 ttl=236 time=110 ms
+[1607862835.863212] 40 bytes from server-13-249-32-117.iad89.r.cloudfront.net (13.249.32.117): icmp_seq=41 ttl=236 time=110 ms
+[1607862836.865547] 40 bytes from server-13-249-32-117.iad89.r.cloudfront.net (13.249.32.117): icmp_seq=42 ttl=236 time=110 ms
+[1607862837.865807] 40 bytes from server-13-249-32-117.iad89.r.cloudfront.net (13.249.32.117): icmp_seq=43 ttl=236 time=110 ms
+[1607862838.865944] 40 bytes from server-13-249-32-117.iad89.r.cloudfront.net (13.249.32.117): icmp_seq=44 ttl=236 time=111 ms
+[1607862839.865470] 40 bytes from server-13-249-32-117.iad89.r.cloudfront.net (13.249.32.117): icmp_seq=45 ttl=236 time=110 ms
+[1607862840.866431] 40 bytes from server-13-249-32-117.iad89.r.cloudfront.net (13.249.32.117): icmp_seq=46 ttl=236 time=111 ms
+[1607862841.868862] 40 bytes from server-13-249-32-117.iad89.r.cloudfront.net (13.249.32.117): icmp_seq=47 ttl=236 time=111 ms
+[1607862842.868557] 40 bytes from server-13-249-32-117.iad89.r.cloudfront.net (13.249.32.117): icmp_seq=48 ttl=236 time=110 ms
+[1607862853.874105] 40 bytes from 13.249.32.117: icmp_seq=49 ttl=236 time=110 ms
+[1607862854.874143] 40 bytes from 13.249.32.117: icmp_seq=50 ttl=236 time=111 ms
+
+--- stthomas.edu ping statistics ---
+50 packets transmitted, 49 received, 2% packet loss, time 152572ms
+rtt min/avg/max/mdev = 109.538/110.619/122.381/1.761 ms

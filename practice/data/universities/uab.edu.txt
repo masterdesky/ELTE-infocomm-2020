@@ -1,0 +1,55 @@
+PING uab.edu (198.73.7.192) 32(60) bytes of data.
+[1607862668.438270] 40 bytes from 198.73.7.192: icmp_seq=1 ttl=48 time=120 ms
+[1607862674.442065] 40 bytes from 198.73.7.192: icmp_seq=2 ttl=48 time=120 ms
+[1607862684.570001] 40 bytes from 198.73.7.192: icmp_seq=3 ttl=48 time=120 ms
+[1607862689.695822] 40 bytes from 198.73.7.192: icmp_seq=4 ttl=48 time=119 ms
+[1607862689.820257] 40 bytes from 198.73.7.192: icmp_seq=5 ttl=48 time=120 ms
+[1607862695.823408] 40 bytes from 198.73.7.192: icmp_seq=6 ttl=48 time=120 ms
+[1607862700.948150] 40 bytes from 198.73.7.192: icmp_seq=7 ttl=48 time=120 ms
+[1607862706.074041] 40 bytes from 198.73.7.192: icmp_seq=8 ttl=48 time=120 ms
+[1607862716.202025] 40 bytes from 198.73.7.192: icmp_seq=9 ttl=48 time=120 ms
+[1607862721.330059] 40 bytes from 198.73.7.192: icmp_seq=10 ttl=48 time=121 ms
+[1607862726.455173] 40 bytes from 198.73.7.192: icmp_seq=11 ttl=48 time=120 ms
+[1607862736.582573] 40 bytes from 198.73.7.192: icmp_seq=12 ttl=48 time=120 ms
+[1607862741.708659] 40 bytes from 198.73.7.192: icmp_seq=13 ttl=48 time=120 ms
+[1607862746.834931] 40 bytes from 198.73.7.192: icmp_seq=14 ttl=48 time=120 ms
+[1607862751.962032] 40 bytes from 198.73.7.192: icmp_seq=15 ttl=48 time=120 ms
+[1607862757.086071] 40 bytes from 198.73.7.192: icmp_seq=16 ttl=48 time=120 ms
+[1607862767.214090] 40 bytes from 198.73.7.192: icmp_seq=17 ttl=48 time=120 ms
+[1607862772.340635] 40 bytes from 198.73.7.192: icmp_seq=18 ttl=48 time=120 ms
+[1607862777.466394] 40 bytes from 198.73.7.192: icmp_seq=19 ttl=48 time=120 ms
+[1607862787.594077] 40 bytes from 198.73.7.192: icmp_seq=20 ttl=48 time=120 ms
+[1607862792.718382] 40 bytes from 198.73.7.192: icmp_seq=21 ttl=48 time=120 ms
+[1607862797.843779] 40 bytes from 198.73.7.192: icmp_seq=22 ttl=48 time=120 ms
+[1607862802.970333] 40 bytes from 198.73.7.192: icmp_seq=23 ttl=48 time=120 ms
+[1607862803.094351] 40 bytes from 198.73.7.192: icmp_seq=24 ttl=48 time=120 ms
+[1607862804.094075] 40 bytes from 198.73.7.192: icmp_seq=25 ttl=48 time=119 ms
+[1607862805.095460] 40 bytes from 198.73.7.192: icmp_seq=26 ttl=48 time=120 ms
+[1607862806.094256] 40 bytes from 198.73.7.192: icmp_seq=27 ttl=48 time=120 ms
+[1607862817.098961] 40 bytes from 198.73.7.192: icmp_seq=28 ttl=48 time=121 ms
+[1607862817.222749] 40 bytes from 198.73.7.192: icmp_seq=29 ttl=48 time=120 ms
+[1607862828.226053] 40 bytes from 198.73.7.192: icmp_seq=30 ttl=48 time=120 ms
+[1607862838.354055] 40 bytes from 198.73.7.192: icmp_seq=31 ttl=48 time=120 ms
+[1607862848.486322] 40 bytes from 198.73.7.192: icmp_seq=32 ttl=48 time=123 ms
+[1607862853.612042] 40 bytes from 198.73.7.192: icmp_seq=33 ttl=48 time=120 ms
+[1607862853.735724] 40 bytes from 198.73.7.192: icmp_seq=34 ttl=48 time=120 ms
+[1607862859.738109] 40 bytes from 198.73.7.192: icmp_seq=35 ttl=48 time=121 ms
+[1607862869.866012] 40 bytes from 198.73.7.192: icmp_seq=36 ttl=48 time=121 ms
+[1607862874.992191] 40 bytes from 198.73.7.192: icmp_seq=37 ttl=48 time=120 ms
+[1607862875.115503] 40 bytes from 198.73.7.192: icmp_seq=38 ttl=48 time=120 ms
+[1607862881.119659] 40 bytes from 198.73.7.192: icmp_seq=39 ttl=48 time=120 ms
+[1607862881.244026] 40 bytes from 198.73.7.192: icmp_seq=40 ttl=48 time=120 ms
+[1607862882.243422] 40 bytes from 198.73.7.192: icmp_seq=41 ttl=48 time=120 ms
+[1607862883.243797] 40 bytes from 198.73.7.192: icmp_seq=42 ttl=48 time=119 ms
+[1607862884.246141] 40 bytes from 198.73.7.192: icmp_seq=43 ttl=48 time=120 ms
+[1607862885.246226] 40 bytes from 198.73.7.192: icmp_seq=44 ttl=48 time=120 ms
+[1607862886.247486] 40 bytes from 198.73.7.192: icmp_seq=45 ttl=48 time=120 ms
+[1607862887.248160] 40 bytes from 198.73.7.192: icmp_seq=46 ttl=48 time=121 ms
+[1607862888.249934] 40 bytes from 198.73.7.192: icmp_seq=47 ttl=48 time=120 ms
+[1607862889.252243] 40 bytes from 198.73.7.192: icmp_seq=48 ttl=48 time=120 ms
+[1607862890.251844] 40 bytes from 198.73.7.192: icmp_seq=49 ttl=48 time=119 ms
+[1607862891.255074] 40 bytes from 198.73.7.192: icmp_seq=50 ttl=48 time=121 ms
+
+--- uab.edu ping statistics ---
+50 packets transmitted, 50 received, 0% packet loss, time 222815ms
+rtt min/avg/max/mdev = 119.425/120.226/122.615/0.473 ms

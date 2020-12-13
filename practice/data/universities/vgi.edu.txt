@@ -1,0 +1,55 @@
+PING vgi.edu (67.20.76.74) 32(60) bytes of data.
+[1607862735.658705] 40 bytes from 67.20.76.74: icmp_seq=1 ttl=49 time=164 ms
+[1607862735.823937] 40 bytes from host2008.hostmonster.com (67.20.76.74): icmp_seq=2 ttl=49 time=163 ms
+[1607862736.824082] 40 bytes from host2008.hostmonster.com (67.20.76.74): icmp_seq=3 ttl=49 time=164 ms
+[1607862737.823209] 40 bytes from host2008.hostmonster.com (67.20.76.74): icmp_seq=4 ttl=49 time=164 ms
+[1607862738.823353] 40 bytes from host2008.hostmonster.com (67.20.76.74): icmp_seq=5 ttl=49 time=164 ms
+[1607862739.822765] 40 bytes from host2008.hostmonster.com (67.20.76.74): icmp_seq=6 ttl=49 time=164 ms
+[1607862750.830230] 40 bytes from 67.20.76.74: icmp_seq=7 ttl=49 time=163 ms
+[1607862750.995811] 40 bytes from host2008.hostmonster.com (67.20.76.74): icmp_seq=8 ttl=49 time=164 ms
+[1607862757.000088] 40 bytes from host2008.hostmonster.com (67.20.76.74): icmp_seq=9 ttl=49 time=164 ms
+[1607862767.170051] 40 bytes from 67.20.76.74: icmp_seq=10 ttl=49 time=164 ms
+[1607862767.335860] 40 bytes from host2008.hostmonster.com (67.20.76.74): icmp_seq=11 ttl=49 time=164 ms
+[1607862768.335451] 40 bytes from host2008.hostmonster.com (67.20.76.74): icmp_seq=12 ttl=49 time=164 ms
+[1607862769.336501] 40 bytes from host2008.hostmonster.com (67.20.76.74): icmp_seq=13 ttl=49 time=163 ms
+[1607862770.337598] 40 bytes from host2008.hostmonster.com (67.20.76.74): icmp_seq=14 ttl=49 time=164 ms
+[1607862771.338357] 40 bytes from host2008.hostmonster.com (67.20.76.74): icmp_seq=15 ttl=49 time=164 ms
+[1607862772.338818] 40 bytes from host2008.hostmonster.com (67.20.76.74): icmp_seq=16 ttl=49 time=163 ms
+[1607862773.339410] 40 bytes from host2008.hostmonster.com (67.20.76.74): icmp_seq=17 ttl=49 time=164 ms
+[1607862774.338340] 40 bytes from host2008.hostmonster.com (67.20.76.74): icmp_seq=18 ttl=49 time=164 ms
+[1607862775.337803] 40 bytes from host2008.hostmonster.com (67.20.76.74): icmp_seq=19 ttl=49 time=163 ms
+[1607862786.342010] 40 bytes from 67.20.76.74: icmp_seq=20 ttl=49 time=164 ms
+[1607862796.514255] 40 bytes from 67.20.76.74: icmp_seq=21 ttl=49 time=164 ms
+[1607862806.686049] 40 bytes from 67.20.76.74: icmp_seq=22 ttl=49 time=163 ms
+[1607862811.855871] 40 bytes from host2008.hostmonster.com (67.20.76.74): icmp_seq=23 ttl=49 time=164 ms
+[1607862812.021142] 40 bytes from host2008.hostmonster.com (67.20.76.74): icmp_seq=24 ttl=49 time=164 ms
+[1607862818.023987] 40 bytes from host2008.hostmonster.com (67.20.76.74): icmp_seq=25 ttl=49 time=164 ms
+[1607862828.194029] 40 bytes from 67.20.76.74: icmp_seq=26 ttl=49 time=164 ms
+[1607862833.363971] 40 bytes from host2008.hostmonster.com (67.20.76.74): icmp_seq=27 ttl=49 time=164 ms
+[1607862843.533999] 40 bytes from 67.20.76.74: icmp_seq=28 ttl=49 time=164 ms
+[1607862848.704019] 40 bytes from host2008.hostmonster.com (67.20.76.74): icmp_seq=29 ttl=49 time=164 ms
+[1607862853.871653] 40 bytes from host2008.hostmonster.com (67.20.76.74): icmp_seq=30 ttl=49 time=164 ms
+[1607862854.037242] 40 bytes from host2008.hostmonster.com (67.20.76.74): icmp_seq=31 ttl=49 time=164 ms
+[1607862855.037278] 40 bytes from host2008.hostmonster.com (67.20.76.74): icmp_seq=32 ttl=49 time=163 ms
+[1607862856.036872] 40 bytes from host2008.hostmonster.com (67.20.76.74): icmp_seq=33 ttl=49 time=163 ms
+[1607862857.036819] 40 bytes from host2008.hostmonster.com (67.20.76.74): icmp_seq=34 ttl=49 time=164 ms
+[1607862858.036803] 40 bytes from host2008.hostmonster.com (67.20.76.74): icmp_seq=35 ttl=49 time=164 ms
+[1607862859.036729] 40 bytes from host2008.hostmonster.com (67.20.76.74): icmp_seq=36 ttl=49 time=164 ms
+[1607862860.036200] 40 bytes from host2008.hostmonster.com (67.20.76.74): icmp_seq=37 ttl=49 time=163 ms
+[1607862861.036125] 40 bytes from host2008.hostmonster.com (67.20.76.74): icmp_seq=38 ttl=49 time=164 ms
+[1607862862.035885] 40 bytes from host2008.hostmonster.com (67.20.76.74): icmp_seq=39 ttl=49 time=163 ms
+[1607862863.037673] 40 bytes from host2008.hostmonster.com (67.20.76.74): icmp_seq=40 ttl=49 time=164 ms
+[1607862864.038157] 40 bytes from host2008.hostmonster.com (67.20.76.74): icmp_seq=41 ttl=49 time=164 ms
+[1607862875.042066] 40 bytes from 67.20.76.74: icmp_seq=42 ttl=49 time=163 ms
+[1607862875.207587] 40 bytes from host2008.hostmonster.com (67.20.76.74): icmp_seq=43 ttl=49 time=164 ms
+[1607862881.212122] 40 bytes from host2008.hostmonster.com (67.20.76.74): icmp_seq=44 ttl=49 time=164 ms
+[1607862881.377613] 40 bytes from host2008.hostmonster.com (67.20.76.74): icmp_seq=45 ttl=49 time=164 ms
+[1607862882.378555] 40 bytes from host2008.hostmonster.com (67.20.76.74): icmp_seq=46 ttl=49 time=164 ms
+[1607862883.379667] 40 bytes from host2008.hostmonster.com (67.20.76.74): icmp_seq=47 ttl=49 time=164 ms
+[1607862884.380880] 40 bytes from host2008.hostmonster.com (67.20.76.74): icmp_seq=48 ttl=49 time=164 ms
+[1607862885.381500] 40 bytes from host2008.hostmonster.com (67.20.76.74): icmp_seq=49 ttl=49 time=164 ms
+[1607862886.381760] 40 bytes from host2008.hostmonster.com (67.20.76.74): icmp_seq=50 ttl=49 time=164 ms
+
+--- vgi.edu ping statistics ---
+50 packets transmitted, 50 received, 0% packet loss, time 160730ms
+rtt min/avg/max/mdev = 162.898/163.617/164.297/0.264 ms

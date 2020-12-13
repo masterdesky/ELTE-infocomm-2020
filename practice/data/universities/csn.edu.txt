@@ -1,0 +1,55 @@
+PING csn.edu (54.245.106.105) 32(60) bytes of data.
+[1607862688.197846] 40 bytes from ec2-54-245-106-105.us-west-2.compute.amazonaws.com (54.245.106.105): icmp_seq=1 ttl=34 time=180 ms
+[1607862699.203153] 40 bytes from 54.245.106.105: icmp_seq=2 ttl=34 time=180 ms
+[1607862699.390158] 40 bytes from ec2-54-245-106-105.us-west-2.compute.amazonaws.com (54.245.106.105): icmp_seq=3 ttl=34 time=179 ms
+[1607862700.386867] 40 bytes from ec2-54-245-106-105.us-west-2.compute.amazonaws.com (54.245.106.105): icmp_seq=4 ttl=34 time=180 ms
+[1607862701.387819] 40 bytes from ec2-54-245-106-105.us-west-2.compute.amazonaws.com (54.245.106.105): icmp_seq=5 ttl=34 time=180 ms
+[1607862702.389458] 40 bytes from ec2-54-245-106-105.us-west-2.compute.amazonaws.com (54.245.106.105): icmp_seq=6 ttl=34 time=180 ms
+[1607862703.390728] 40 bytes from ec2-54-245-106-105.us-west-2.compute.amazonaws.com (54.245.106.105): icmp_seq=7 ttl=34 time=180 ms
+[1607862709.396250] 40 bytes from ec2-54-245-106-105.us-west-2.compute.amazonaws.com (54.245.106.105): icmp_seq=8 ttl=34 time=180 ms
+[1607862709.577731] 40 bytes from ec2-54-245-106-105.us-west-2.compute.amazonaws.com (54.245.106.105): icmp_seq=9 ttl=34 time=179 ms
+[1607862710.579891] 40 bytes from ec2-54-245-106-105.us-west-2.compute.amazonaws.com (54.245.106.105): icmp_seq=10 ttl=34 time=180 ms
+[1607862716.586652] 40 bytes from ec2-54-245-106-105.us-west-2.compute.amazonaws.com (54.245.106.105): icmp_seq=11 ttl=34 time=180 ms
+[1607862726.774066] 40 bytes from 54.245.106.105: icmp_seq=12 ttl=34 time=180 ms
+[1607862731.960982] 40 bytes from ec2-54-245-106-105.us-west-2.compute.amazonaws.com (54.245.106.105): icmp_seq=13 ttl=34 time=180 ms
+[1607862737.147770] 40 bytes from ec2-54-245-106-105.us-west-2.compute.amazonaws.com (54.245.106.105): icmp_seq=14 ttl=34 time=180 ms
+[1607862737.328966] 40 bytes from ec2-54-245-106-105.us-west-2.compute.amazonaws.com (54.245.106.105): icmp_seq=15 ttl=34 time=180 ms
+[1607862738.330527] 40 bytes from ec2-54-245-106-105.us-west-2.compute.amazonaws.com (54.245.106.105): icmp_seq=16 ttl=34 time=180 ms
+[1607862744.336259] 40 bytes from ec2-54-245-106-105.us-west-2.compute.amazonaws.com (54.245.106.105): icmp_seq=17 ttl=34 time=180 ms
+[1607862754.522010] 40 bytes from 54.245.106.105: icmp_seq=18 ttl=34 time=180 ms
+[1607862759.707873] 40 bytes from ec2-54-245-106-105.us-west-2.compute.amazonaws.com (54.245.106.105): icmp_seq=19 ttl=34 time=180 ms
+[1607862764.893140] 40 bytes from ec2-54-245-106-105.us-west-2.compute.amazonaws.com (54.245.106.105): icmp_seq=20 ttl=34 time=180 ms
+[1607862770.079827] 40 bytes from ec2-54-245-106-105.us-west-2.compute.amazonaws.com (54.245.106.105): icmp_seq=21 ttl=34 time=180 ms
+[1607862775.266647] 40 bytes from ec2-54-245-106-105.us-west-2.compute.amazonaws.com (54.245.106.105): icmp_seq=22 ttl=34 time=180 ms
+[1607862780.452323] 40 bytes from ec2-54-245-106-105.us-west-2.compute.amazonaws.com (54.245.106.105): icmp_seq=23 ttl=34 time=180 ms
+[1607862780.634505] 40 bytes from ec2-54-245-106-105.us-west-2.compute.amazonaws.com (54.245.106.105): icmp_seq=24 ttl=34 time=180 ms
+[1607862781.634302] 40 bytes from ec2-54-245-106-105.us-west-2.compute.amazonaws.com (54.245.106.105): icmp_seq=25 ttl=34 time=180 ms
+[1607862792.638006] 40 bytes from 54.245.106.105: icmp_seq=26 ttl=34 time=179 ms
+[1607862797.824287] 40 bytes from ec2-54-245-106-105.us-west-2.compute.amazonaws.com (54.245.106.105): icmp_seq=27 ttl=34 time=179 ms
+[1607862798.005931] 40 bytes from ec2-54-245-106-105.us-west-2.compute.amazonaws.com (54.245.106.105): icmp_seq=28 ttl=34 time=180 ms
+[1607862799.005662] 40 bytes from ec2-54-245-106-105.us-west-2.compute.amazonaws.com (54.245.106.105): icmp_seq=29 ttl=34 time=180 ms
+[1607862800.004796] 40 bytes from ec2-54-245-106-105.us-west-2.compute.amazonaws.com (54.245.106.105): icmp_seq=30 ttl=34 time=180 ms
+[1607862801.003917] 40 bytes from ec2-54-245-106-105.us-west-2.compute.amazonaws.com (54.245.106.105): icmp_seq=31 ttl=34 time=180 ms
+[1607862812.010011] 40 bytes from 54.245.106.105: icmp_seq=32 ttl=34 time=180 ms
+[1607862817.196121] 40 bytes from ec2-54-245-106-105.us-west-2.compute.amazonaws.com (54.245.106.105): icmp_seq=33 ttl=34 time=180 ms
+[1607862822.379412] 40 bytes from ec2-54-245-106-105.us-west-2.compute.amazonaws.com (54.245.106.105): icmp_seq=34 ttl=34 time=180 ms
+[1607862827.563773] 40 bytes from ec2-54-245-106-105.us-west-2.compute.amazonaws.com (54.245.106.105): icmp_seq=35 ttl=34 time=180 ms
+[1607862827.745586] 40 bytes from ec2-54-245-106-105.us-west-2.compute.amazonaws.com (54.245.106.105): icmp_seq=36 ttl=34 time=180 ms
+[1607862828.747054] 40 bytes from ec2-54-245-106-105.us-west-2.compute.amazonaws.com (54.245.106.105): icmp_seq=37 ttl=34 time=179 ms
+[1607862829.749047] 40 bytes from ec2-54-245-106-105.us-west-2.compute.amazonaws.com (54.245.106.105): icmp_seq=38 ttl=34 time=180 ms
+[1607862830.750654] 40 bytes from ec2-54-245-106-105.us-west-2.compute.amazonaws.com (54.245.106.105): icmp_seq=39 ttl=34 time=180 ms
+[1607862831.751868] 40 bytes from ec2-54-245-106-105.us-west-2.compute.amazonaws.com (54.245.106.105): icmp_seq=40 ttl=34 time=180 ms
+[1607862832.752716] 40 bytes from ec2-54-245-106-105.us-west-2.compute.amazonaws.com (54.245.106.105): icmp_seq=41 ttl=34 time=180 ms
+[1607862843.759033] 40 bytes from 54.245.106.105: icmp_seq=42 ttl=34 time=180 ms
+[1607862853.946061] 40 bytes from 54.245.106.105: icmp_seq=43 ttl=34 time=180 ms
+[1607862859.131572] 40 bytes from ec2-54-245-106-105.us-west-2.compute.amazonaws.com (54.245.106.105): icmp_seq=44 ttl=34 time=180 ms
+[1607862859.313198] 40 bytes from ec2-54-245-106-105.us-west-2.compute.amazonaws.com (54.245.106.105): icmp_seq=45 ttl=34 time=180 ms
+[1607862860.314518] 40 bytes from ec2-54-245-106-105.us-west-2.compute.amazonaws.com (54.245.106.105): icmp_seq=46 ttl=34 time=180 ms
+[1607862861.316094] 40 bytes from ec2-54-245-106-105.us-west-2.compute.amazonaws.com (54.245.106.105): icmp_seq=47 ttl=34 time=180 ms
+[1607862862.317518] 40 bytes from ec2-54-245-106-105.us-west-2.compute.amazonaws.com (54.245.106.105): icmp_seq=48 ttl=34 time=180 ms
+[1607862863.317372] 40 bytes from ec2-54-245-106-105.us-west-2.compute.amazonaws.com (54.245.106.105): icmp_seq=49 ttl=34 time=180 ms
+[1607862864.319157] 40 bytes from ec2-54-245-106-105.us-west-2.compute.amazonaws.com (54.245.106.105): icmp_seq=50 ttl=34 time=180 ms
+
+--- csn.edu ping statistics ---
+50 packets transmitted, 50 received, 0% packet loss, time 176122ms
+rtt min/avg/max/mdev = 179.137/179.882/180.396/0.275 ms

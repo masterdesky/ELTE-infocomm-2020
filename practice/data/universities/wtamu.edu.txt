@@ -1,0 +1,9 @@
+PING wtamu.edu (192.195.76.29) 32(60) bytes of data.
+[1607862733.923840] From 12.247.85.42 (12.247.85.42) icmp_seq=14 Packet filtered
+[1607862734.944846] From 12.247.85.42 (12.247.85.42) icmp_seq=15 Packet filtered
+[1607862748.105962] From 12.247.85.42 (12.247.85.42) icmp_seq=28 Packet filtered
+[1607862762.148266] From 12.247.85.42 icmp_seq=42 Packet filtered
+
+--- wtamu.edu ping statistics ---
+50 packets transmitted, 0 received, +4 errors, 100% packet loss, time 58402ms
+

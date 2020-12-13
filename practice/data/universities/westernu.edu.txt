@@ -1,0 +1,55 @@
+PING westernu.edu (204.9.172.92) 32(60) bytes of data.
+[1607862680.886147] 40 bytes from 204.9.172.92: icmp_seq=1 ttl=238 time=167 ms
+[1607862681.644101] 40 bytes from 204.9.172.92 (204.9.172.92): icmp_seq=2 ttl=238 time=167 ms
+[1607862682.059248] 40 bytes from 204.9.172.92 (204.9.172.92): icmp_seq=3 ttl=238 time=167 ms
+[1607862688.063988] 40 bytes from 204.9.172.92 (204.9.172.92): icmp_seq=4 ttl=238 time=167 ms
+[1607862698.238049] 40 bytes from 204.9.172.92: icmp_seq=5 ttl=238 time=167 ms
+[1607862698.406091] 40 bytes from 204.9.172.92 (204.9.172.92): icmp_seq=6 ttl=238 time=166 ms
+[1607862709.414287] 40 bytes from 204.9.172.92: icmp_seq=7 ttl=238 time=166 ms
+[1607862719.590005] 40 bytes from 204.9.172.92: icmp_seq=8 ttl=238 time=166 ms
+[1607862724.761190] 40 bytes from 204.9.172.92 (204.9.172.92): icmp_seq=9 ttl=238 time=166 ms
+[1607862734.938379] 40 bytes from 204.9.172.92: icmp_seq=10 ttl=238 time=166 ms
+[1607862735.107320] 40 bytes from 204.9.172.92 (204.9.172.92): icmp_seq=11 ttl=238 time=167 ms
+[1607862736.107628] 40 bytes from 204.9.172.92 (204.9.172.92): icmp_seq=12 ttl=238 time=166 ms
+[1607862737.105951] 40 bytes from 204.9.172.92 (204.9.172.92): icmp_seq=13 ttl=238 time=166 ms
+[1607862738.105253] 40 bytes from 204.9.172.92 (204.9.172.92): icmp_seq=14 ttl=238 time=166 ms
+[1607862739.106374] 40 bytes from 204.9.172.92 (204.9.172.92): icmp_seq=15 ttl=238 time=167 ms
+[1607862750.111511] 40 bytes from 204.9.172.92: icmp_seq=16 ttl=238 time=166 ms
+[1607862760.287079] 40 bytes from 204.9.172.92: icmp_seq=17 ttl=238 time=166 ms
+[1607862770.462007] 40 bytes from 204.9.172.92: icmp_seq=18 ttl=238 time=167 ms
+[1607862780.634257] 40 bytes from 204.9.172.92: icmp_seq=19 ttl=238 time=166 ms
+[1607862785.807720] 40 bytes from 204.9.172.92 (204.9.172.92): icmp_seq=20 ttl=238 time=167 ms
+[1607862790.979646] 40 bytes from 204.9.172.92 (204.9.172.92): icmp_seq=21 ttl=238 time=166 ms
+[1607862791.148082] 40 bytes from 204.9.172.92 (204.9.172.92): icmp_seq=22 ttl=238 time=166 ms
+[1607862802.154019] 40 bytes from 204.9.172.92: icmp_seq=23 ttl=238 time=166 ms
+[1607862807.323820] 40 bytes from 204.9.172.92 (204.9.172.92): icmp_seq=24 ttl=238 time=166 ms
+[1607862817.498003] 40 bytes from 204.9.172.92: icmp_seq=25 ttl=238 time=167 ms
+[1607862827.669995] 40 bytes from 204.9.172.92: icmp_seq=26 ttl=238 time=166 ms
+[1607862832.844057] 40 bytes from 204.9.172.92 (204.9.172.92): icmp_seq=27 ttl=238 time=167 ms
+[1607862838.015383] 40 bytes from 204.9.172.92 (204.9.172.92): icmp_seq=28 ttl=238 time=166 ms
+[1607862843.187330] 40 bytes from 204.9.172.92 (204.9.172.92): icmp_seq=29 ttl=238 time=166 ms
+[1607862843.355828] 40 bytes from 204.9.172.92 (204.9.172.92): icmp_seq=30 ttl=238 time=166 ms
+[1607862854.362179] 40 bytes from 204.9.172.92: icmp_seq=31 ttl=238 time=166 ms
+[1607862859.535878] 40 bytes from 204.9.172.92 (204.9.172.92): icmp_seq=32 ttl=238 time=167 ms
+[1607862859.703965] 40 bytes from 204.9.172.92 (204.9.172.92): icmp_seq=33 ttl=238 time=166 ms
+[1607862860.704862] 40 bytes from 204.9.172.92 (204.9.172.92): icmp_seq=34 ttl=238 time=166 ms
+[1607862861.705607] 40 bytes from 204.9.172.92 (204.9.172.92): icmp_seq=35 ttl=238 time=166 ms
+[1607862862.706216] 40 bytes from 204.9.172.92 (204.9.172.92): icmp_seq=36 ttl=238 time=166 ms
+[1607862863.707274] 40 bytes from 204.9.172.92 (204.9.172.92): icmp_seq=37 ttl=238 time=167 ms
+[1607862869.711394] 40 bytes from 204.9.172.92 (204.9.172.92): icmp_seq=38 ttl=238 time=166 ms
+[1607862869.878946] 40 bytes from 204.9.172.92 (204.9.172.92): icmp_seq=39 ttl=238 time=166 ms
+[1607862880.886092] 40 bytes from 204.9.172.92: icmp_seq=40 ttl=238 time=166 ms
+[1607862881.054607] 40 bytes from 204.9.172.92 (204.9.172.92): icmp_seq=41 ttl=238 time=166 ms
+[1607862882.054489] 40 bytes from 204.9.172.92 (204.9.172.92): icmp_seq=42 ttl=238 time=166 ms
+[1607862883.054426] 40 bytes from 204.9.172.92 (204.9.172.92): icmp_seq=43 ttl=238 time=166 ms
+[1607862884.054133] 40 bytes from 204.9.172.92 (204.9.172.92): icmp_seq=44 ttl=238 time=166 ms
+[1607862885.054564] 40 bytes from 204.9.172.92 (204.9.172.92): icmp_seq=45 ttl=238 time=166 ms
+[1607862886.053842] 40 bytes from 204.9.172.92 (204.9.172.92): icmp_seq=46 ttl=238 time=166 ms
+[1607862887.054161] 40 bytes from 204.9.172.92 (204.9.172.92): icmp_seq=47 ttl=238 time=166 ms
+[1607862888.054081] 40 bytes from 204.9.172.92 (204.9.172.92): icmp_seq=48 ttl=238 time=166 ms
+[1607862889.054105] 40 bytes from 204.9.172.92 (204.9.172.92): icmp_seq=49 ttl=238 time=166 ms
+[1607862890.054173] 40 bytes from 204.9.172.92 (204.9.172.92): icmp_seq=50 ttl=238 time=166 ms
+
+--- westernu.edu ping statistics ---
+50 packets transmitted, 50 received, 0% packet loss, time 219172ms
+rtt min/avg/max/mdev = 165.542/166.249/167.024/0.327 ms

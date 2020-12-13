@@ -1,0 +1,55 @@
+PING cazenovia.edu (23.185.0.1) 32(60) bytes of data.
+[1607862698.738952] 40 bytes from 23.185.0.1: icmp_seq=1 ttl=54 time=28.5 ms
+[1607862708.775231] 40 bytes from 23.185.0.1: icmp_seq=2 ttl=54 time=28.0 ms
+[1607862718.810057] 40 bytes from 23.185.0.1: icmp_seq=3 ttl=54 time=28.6 ms
+[1607862718.840697] 40 bytes from 23.185.0.1 (23.185.0.1): icmp_seq=4 ttl=54 time=28.5 ms
+[1607862724.843793] 40 bytes from 23.185.0.1 (23.185.0.1): icmp_seq=5 ttl=54 time=28.7 ms
+[1607862724.875251] 40 bytes from 23.185.0.1 (23.185.0.1): icmp_seq=6 ttl=54 time=28.5 ms
+[1607862730.875717] 40 bytes from 23.185.0.1 (23.185.0.1): icmp_seq=7 ttl=54 time=28.6 ms
+[1607862730.906232] 40 bytes from 23.185.0.1 (23.185.0.1): icmp_seq=8 ttl=54 time=28.4 ms
+[1607862741.910026] 40 bytes from 23.185.0.1: icmp_seq=9 ttl=54 time=28.4 ms
+[1607862751.946131] 40 bytes from 23.185.0.1: icmp_seq=10 ttl=54 time=27.8 ms
+[1607862751.976514] 40 bytes from 23.185.0.1 (23.185.0.1): icmp_seq=11 ttl=54 time=28.1 ms
+[1607862752.975593] 40 bytes from 23.185.0.1 (23.185.0.1): icmp_seq=12 ttl=54 time=28.0 ms
+[1607862753.975771] 40 bytes from 23.185.0.1 (23.185.0.1): icmp_seq=13 ttl=54 time=28.6 ms
+[1607862754.975580] 40 bytes from 23.185.0.1 (23.185.0.1): icmp_seq=14 ttl=54 time=28.4 ms
+[1607862755.976914] 40 bytes from 23.185.0.1 (23.185.0.1): icmp_seq=15 ttl=54 time=28.4 ms
+[1607862761.980170] 40 bytes from 23.185.0.1 (23.185.0.1): icmp_seq=16 ttl=54 time=28.4 ms
+[1607862762.010158] 40 bytes from 23.185.0.1 (23.185.0.1): icmp_seq=17 ttl=54 time=28.5 ms
+[1607862763.010286] 40 bytes from 23.185.0.1 (23.185.0.1): icmp_seq=18 ttl=54 time=28.4 ms
+[1607862764.009780] 40 bytes from 23.185.0.1 (23.185.0.1): icmp_seq=19 ttl=54 time=28.6 ms
+[1607862765.009592] 40 bytes from 23.185.0.1 (23.185.0.1): icmp_seq=20 ttl=54 time=28.5 ms
+[1607862776.014245] 40 bytes from 23.185.0.1: icmp_seq=21 ttl=54 time=27.8 ms
+[1607862776.044794] 40 bytes from 23.185.0.1 (23.185.0.1): icmp_seq=22 ttl=54 time=28.4 ms
+[1607862777.046116] 40 bytes from 23.185.0.1 (23.185.0.1): icmp_seq=23 ttl=54 time=28.3 ms
+[1607862778.046466] 40 bytes from 23.185.0.1 (23.185.0.1): icmp_seq=24 ttl=54 time=27.7 ms
+[1607862779.047742] 40 bytes from 23.185.0.1 (23.185.0.1): icmp_seq=25 ttl=54 time=27.6 ms
+[1607862780.048526] 40 bytes from 23.185.0.1 (23.185.0.1): icmp_seq=26 ttl=54 time=28.4 ms
+[1607862791.054187] 40 bytes from 23.185.0.1: icmp_seq=27 ttl=54 time=28.0 ms
+[1607862791.084820] 40 bytes from 23.185.0.1 (23.185.0.1): icmp_seq=28 ttl=54 time=28.5 ms
+[1607862792.085242] 40 bytes from 23.185.0.1 (23.185.0.1): icmp_seq=29 ttl=54 time=28.4 ms
+[1607862793.085909] 40 bytes from 23.185.0.1 (23.185.0.1): icmp_seq=30 ttl=54 time=28.5 ms
+[1607862794.087091] 40 bytes from 23.185.0.1 (23.185.0.1): icmp_seq=31 ttl=54 time=28.4 ms
+[1607862795.088505] 40 bytes from 23.185.0.1 (23.185.0.1): icmp_seq=32 ttl=54 time=28.3 ms
+[1607862796.090410] 40 bytes from 23.185.0.1 (23.185.0.1): icmp_seq=33 ttl=54 time=28.4 ms
+[1607862807.094011] 40 bytes from 23.185.0.1: icmp_seq=34 ttl=54 time=28.1 ms
+[1607862817.130035] 40 bytes from 23.185.0.1: icmp_seq=35 ttl=54 time=27.6 ms
+[1607862817.160479] 40 bytes from 23.185.0.1 (23.185.0.1): icmp_seq=36 ttl=54 time=28.9 ms
+[1607862823.163943] 40 bytes from 23.185.0.1 (23.185.0.1): icmp_seq=37 ttl=54 time=28.5 ms
+[1607862823.194347] 40 bytes from 23.185.0.1 (23.185.0.1): icmp_seq=38 ttl=54 time=28.3 ms
+[1607862824.193943] 40 bytes from 23.185.0.1 (23.185.0.1): icmp_seq=39 ttl=54 time=28.0 ms
+[1607862825.196195] 40 bytes from 23.185.0.1 (23.185.0.1): icmp_seq=40 ttl=54 time=28.1 ms
+[1607862826.197795] 40 bytes from 23.185.0.1 (23.185.0.1): icmp_seq=41 ttl=54 time=28.3 ms
+[1607862827.197386] 40 bytes from 23.185.0.1 (23.185.0.1): icmp_seq=42 ttl=54 time=28.6 ms
+[1607862838.202042] 40 bytes from 23.185.0.1: icmp_seq=43 ttl=54 time=28.1 ms
+[1607862843.235554] 40 bytes from 23.185.0.1 (23.185.0.1): icmp_seq=44 ttl=54 time=28.6 ms
+[1607862843.265410] 40 bytes from 23.185.0.1 (23.185.0.1): icmp_seq=45 ttl=54 time=28.0 ms
+[1607862854.270060] 40 bytes from 23.185.0.1: icmp_seq=46 ttl=54 time=28.0 ms
+[1607862864.306083] 40 bytes from 23.185.0.1: icmp_seq=47 ttl=54 time=28.3 ms
+[1607862864.336343] 40 bytes from 23.185.0.1 (23.185.0.1): icmp_seq=48 ttl=54 time=28.4 ms
+[1607862865.336062] 40 bytes from 23.185.0.1 (23.185.0.1): icmp_seq=49 ttl=54 time=27.6 ms
+[1607862866.337316] 40 bytes from 23.185.0.1 (23.185.0.1): icmp_seq=50 ttl=54 time=28.4 ms
+
+--- cazenovia.edu ping statistics ---
+50 packets transmitted, 50 received, 0% packet loss, time 177605ms
+rtt min/avg/max/mdev = 27.613/28.297/28.863/0.298 ms

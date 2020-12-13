@@ -1,0 +1,5 @@
+PING jscc.edu (198.146.108.162) 32(60) bytes of data.
+
+--- jscc.edu ping statistics ---
+50 packets transmitted, 0 received, 100% packet loss, time 49269ms
+

@@ -1,0 +1,55 @@
+PING bluecc.edu (135.84.124.41) 32(60) bytes of data.
+[1607862719.986007] 40 bytes from 135.84.124.41: icmp_seq=1 ttl=233 time=115 ms
+[1607862725.107943] 40 bytes from 135.84.124.41: icmp_seq=2 ttl=233 time=115 ms
+[1607862730.226046] 40 bytes from 135.84.124.41: icmp_seq=3 ttl=233 time=115 ms
+[1607862730.344268] 40 bytes from 135.84.124.41: icmp_seq=4 ttl=233 time=115 ms
+[1607862736.350033] 40 bytes from 135.84.124.41: icmp_seq=5 ttl=233 time=115 ms
+[1607862746.470017] 40 bytes from 135.84.124.41: icmp_seq=6 ttl=233 time=115 ms
+[1607862756.590021] 40 bytes from 135.84.124.41: icmp_seq=7 ttl=233 time=115 ms
+[1607862761.707868] 40 bytes from 135.84.124.41: icmp_seq=8 ttl=233 time=115 ms
+[1607862766.828557] 40 bytes from 135.84.124.41: icmp_seq=9 ttl=233 time=114 ms
+[1607862771.950013] 40 bytes from 135.84.124.41: icmp_seq=10 ttl=233 time=116 ms
+[1607862782.070328] 40 bytes from 135.84.124.41: icmp_seq=11 ttl=233 time=114 ms
+[1607862782.189399] 40 bytes from 135.84.124.41: icmp_seq=12 ttl=233 time=115 ms
+[1607862783.189849] 40 bytes from 135.84.124.41: icmp_seq=13 ttl=233 time=115 ms
+[1607862784.190184] 40 bytes from 135.84.124.41: icmp_seq=14 ttl=233 time=115 ms
+[1607862785.192894] 40 bytes from 135.84.124.41: icmp_seq=15 ttl=233 time=116 ms
+[1607862796.194024] 40 bytes from 135.84.124.41: icmp_seq=16 ttl=233 time=115 ms
+[1607862796.311877] 40 bytes from 135.84.124.41: icmp_seq=17 ttl=233 time=115 ms
+[1607862807.318023] 40 bytes from 135.84.124.41: icmp_seq=18 ttl=233 time=114 ms
+[1607862817.438344] 40 bytes from 135.84.124.41: icmp_seq=19 ttl=233 time=114 ms
+[1607862822.558094] 40 bytes from 135.84.124.41: icmp_seq=20 ttl=233 time=115 ms
+[1607862827.679438] 40 bytes from 135.84.124.41: icmp_seq=21 ttl=233 time=115 ms
+[1607862832.799766] 40 bytes from 135.84.124.41: icmp_seq=22 ttl=233 time=115 ms
+[1607862832.917957] 40 bytes from 135.84.124.41: icmp_seq=23 ttl=233 time=115 ms
+[1607862843.922053] 40 bytes from 135.84.124.41: icmp_seq=24 ttl=233 time=114 ms
+[1607862854.046235] 40 bytes from 135.84.124.41: icmp_seq=25 ttl=233 time=115 ms
+[1607862859.164016] 40 bytes from 135.84.124.41: icmp_seq=26 ttl=233 time=114 ms
+[1607862859.281883] 40 bytes from 135.84.124.41: icmp_seq=27 ttl=233 time=115 ms
+[1607862870.286353] 40 bytes from 135.84.124.41: icmp_seq=28 ttl=233 time=115 ms
+[1607862875.408083] 40 bytes from 135.84.124.41: icmp_seq=29 ttl=233 time=115 ms
+[1607862875.526509] 40 bytes from 135.84.124.41: icmp_seq=30 ttl=233 time=115 ms
+[1607862876.527004] 40 bytes from 135.84.124.41: icmp_seq=31 ttl=233 time=115 ms
+[1607862877.528821] 40 bytes from 135.84.124.41: icmp_seq=32 ttl=233 time=115 ms
+[1607862878.530897] 40 bytes from 135.84.124.41: icmp_seq=33 ttl=233 time=115 ms
+[1607862879.531129] 40 bytes from 135.84.124.41: icmp_seq=34 ttl=233 time=115 ms
+[1607862880.532413] 40 bytes from 135.84.124.41: icmp_seq=35 ttl=233 time=115 ms
+[1607862881.532412] 40 bytes from 135.84.124.41: icmp_seq=36 ttl=233 time=115 ms
+[1607862882.533714] 40 bytes from 135.84.124.41: icmp_seq=37 ttl=233 time=115 ms
+[1607862883.534631] 40 bytes from 135.84.124.41: icmp_seq=38 ttl=233 time=115 ms
+[1607862884.535204] 40 bytes from 135.84.124.41: icmp_seq=39 ttl=233 time=115 ms
+[1607862885.535535] 40 bytes from 135.84.124.41: icmp_seq=40 ttl=233 time=114 ms
+[1607862886.537961] 40 bytes from 135.84.124.41: icmp_seq=41 ttl=233 time=114 ms
+[1607862887.538668] 40 bytes from 135.84.124.41: icmp_seq=42 ttl=233 time=115 ms
+[1607862888.540760] 40 bytes from 135.84.124.41: icmp_seq=43 ttl=233 time=115 ms
+[1607862889.540161] 40 bytes from 135.84.124.41: icmp_seq=44 ttl=233 time=115 ms
+[1607862890.541073] 40 bytes from 135.84.124.41: icmp_seq=45 ttl=233 time=115 ms
+[1607862891.543793] 40 bytes from 135.84.124.41: icmp_seq=46 ttl=233 time=115 ms
+[1607862892.544704] 40 bytes from 135.84.124.41: icmp_seq=47 ttl=233 time=115 ms
+[1607862893.545683] 40 bytes from 135.84.124.41: icmp_seq=48 ttl=233 time=115 ms
+[1607862894.547849] 40 bytes from 135.84.124.41: icmp_seq=49 ttl=233 time=115 ms
+[1607862895.548854] 40 bytes from 135.84.124.41: icmp_seq=50 ttl=233 time=115 ms
+
+--- bluecc.edu ping statistics ---
+50 packets transmitted, 50 received, 0% packet loss, time 180564ms
+rtt min/avg/max/mdev = 114.160/114.737/115.992/0.301 ms

@@ -1,0 +1,5 @@
+PING ltcc.edu (65.74.154.203) 32(60) bytes of data.
+
+--- ltcc.edu ping statistics ---
+50 packets transmitted, 0 received, 100% packet loss, time 49270ms
+

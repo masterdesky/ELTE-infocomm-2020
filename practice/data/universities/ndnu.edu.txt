@@ -1,0 +1,55 @@
+PING ndnu.edu (108.179.200.102) 32(60) bytes of data.
+[1607862690.766524] 40 bytes from 102-200-179-108.unifiedlayer.com (108.179.200.102): icmp_seq=1 ttl=44 time=146 ms
+[1607862691.086000] 40 bytes from 102-200-179-108.unifiedlayer.com (108.179.200.102): icmp_seq=2 ttl=44 time=146 ms
+[1607862702.090240] 40 bytes from 108.179.200.102: icmp_seq=3 ttl=44 time=146 ms
+[1607862702.237357] 40 bytes from 102-200-179-108.unifiedlayer.com (108.179.200.102): icmp_seq=4 ttl=44 time=145 ms
+[1607862703.238566] 40 bytes from 102-200-179-108.unifiedlayer.com (108.179.200.102): icmp_seq=5 ttl=44 time=146 ms
+[1607862709.243910] 40 bytes from 102-200-179-108.unifiedlayer.com (108.179.200.102): icmp_seq=6 ttl=44 time=145 ms
+[1607862714.395838] 40 bytes from 102-200-179-108.unifiedlayer.com (108.179.200.102): icmp_seq=7 ttl=44 time=145 ms
+[1607862724.550005] 40 bytes from 108.179.200.102: icmp_seq=8 ttl=44 time=145 ms
+[1607862734.702034] 40 bytes from 108.179.200.102: icmp_seq=9 ttl=44 time=146 ms
+[1607862739.851899] 40 bytes from 102-200-179-108.unifiedlayer.com (108.179.200.102): icmp_seq=10 ttl=44 time=146 ms
+[1607862750.006401] 40 bytes from 108.179.200.102: icmp_seq=11 ttl=44 time=146 ms
+[1607862750.154409] 40 bytes from 102-200-179-108.unifiedlayer.com (108.179.200.102): icmp_seq=12 ttl=44 time=146 ms
+[1607862751.154651] 40 bytes from 102-200-179-108.unifiedlayer.com (108.179.200.102): icmp_seq=13 ttl=44 time=146 ms
+[1607862752.155369] 40 bytes from 102-200-179-108.unifiedlayer.com (108.179.200.102): icmp_seq=14 ttl=44 time=146 ms
+[1607862753.157216] 40 bytes from 102-200-179-108.unifiedlayer.com (108.179.200.102): icmp_seq=15 ttl=44 time=146 ms
+[1607862754.157133] 40 bytes from 102-200-179-108.unifiedlayer.com (108.179.200.102): icmp_seq=16 ttl=44 time=146 ms
+[1607862755.158662] 40 bytes from 102-200-179-108.unifiedlayer.com (108.179.200.102): icmp_seq=17 ttl=44 time=146 ms
+[1607862756.159189] 40 bytes from 102-200-179-108.unifiedlayer.com (108.179.200.102): icmp_seq=18 ttl=44 time=146 ms
+[1607862767.166657] 40 bytes from 108.179.200.102: icmp_seq=19 ttl=44 time=147 ms
+[1607862767.314177] 40 bytes from 102-200-179-108.unifiedlayer.com (108.179.200.102): icmp_seq=20 ttl=44 time=146 ms
+[1607862768.315514] 40 bytes from 102-200-179-108.unifiedlayer.com (108.179.200.102): icmp_seq=21 ttl=44 time=147 ms
+[1607862769.314637] 40 bytes from 102-200-179-108.unifiedlayer.com (108.179.200.102): icmp_seq=22 ttl=44 time=146 ms
+[1607862775.319959] 40 bytes from 102-200-179-108.unifiedlayer.com (108.179.200.102): icmp_seq=23 ttl=44 time=146 ms
+[1607862780.471726] 40 bytes from 102-200-179-108.unifiedlayer.com (108.179.200.102): icmp_seq=24 ttl=44 time=145 ms
+[1607862780.630031] 40 bytes from 102-200-179-108.unifiedlayer.com (108.179.200.102): icmp_seq=25 ttl=44 time=157 ms
+[1607862791.628802] 40 bytes from 108.179.200.102: icmp_seq=26 ttl=44 time=145 ms
+[1607862791.777205] 40 bytes from 102-200-179-108.unifiedlayer.com (108.179.200.102): icmp_seq=27 ttl=44 time=146 ms
+[1607862802.782037] 40 bytes from 108.179.200.102: icmp_seq=28 ttl=44 time=146 ms
+[1607862802.929834] 40 bytes from 102-200-179-108.unifiedlayer.com (108.179.200.102): icmp_seq=29 ttl=44 time=146 ms
+[1607862803.928357] 40 bytes from 102-200-179-108.unifiedlayer.com (108.179.200.102): icmp_seq=30 ttl=44 time=145 ms
+[1607862804.930537] 40 bytes from 102-200-179-108.unifiedlayer.com (108.179.200.102): icmp_seq=31 ttl=44 time=146 ms
+[1607862805.929636] 40 bytes from 102-200-179-108.unifiedlayer.com (108.179.200.102): icmp_seq=32 ttl=44 time=146 ms
+[1607862811.932008] 40 bytes from 102-200-179-108.unifiedlayer.com (108.179.200.102): icmp_seq=33 ttl=44 time=146 ms
+[1607862817.083963] 40 bytes from 102-200-179-108.unifiedlayer.com (108.179.200.102): icmp_seq=34 ttl=44 time=146 ms
+[1607862817.232447] 40 bytes from 102-200-179-108.unifiedlayer.com (108.179.200.102): icmp_seq=35 ttl=44 time=146 ms
+[1607862828.246569] 40 bytes from 108.179.200.102: icmp_seq=36 ttl=44 time=154 ms
+[1607862828.394403] 40 bytes from 102-200-179-108.unifiedlayer.com (108.179.200.102): icmp_seq=37 ttl=44 time=146 ms
+[1607862829.395841] 40 bytes from 102-200-179-108.unifiedlayer.com (108.179.200.102): icmp_seq=38 ttl=44 time=145 ms
+[1607862830.397290] 40 bytes from 102-200-179-108.unifiedlayer.com (108.179.200.102): icmp_seq=39 ttl=44 time=146 ms
+[1607862831.397629] 40 bytes from 102-200-179-108.unifiedlayer.com (108.179.200.102): icmp_seq=40 ttl=44 time=146 ms
+[1607862832.399234] 40 bytes from 102-200-179-108.unifiedlayer.com (108.179.200.102): icmp_seq=41 ttl=44 time=146 ms
+[1607862838.403885] 40 bytes from 102-200-179-108.unifiedlayer.com (108.179.200.102): icmp_seq=42 ttl=44 time=145 ms
+[1607862848.558032] 40 bytes from 108.179.200.102: icmp_seq=43 ttl=44 time=146 ms
+[1607862853.712213] 40 bytes from 102-200-179-108.unifiedlayer.com (108.179.200.102): icmp_seq=44 ttl=44 time=146 ms
+[1607862853.859656] 40 bytes from 102-200-179-108.unifiedlayer.com (108.179.200.102): icmp_seq=45 ttl=44 time=146 ms
+[1607862859.864061] 40 bytes from 102-200-179-108.unifiedlayer.com (108.179.200.102): icmp_seq=46 ttl=44 time=146 ms
+[1607862860.012019] 40 bytes from 102-200-179-108.unifiedlayer.com (108.179.200.102): icmp_seq=47 ttl=44 time=146 ms
+[1607862861.013264] 40 bytes from 102-200-179-108.unifiedlayer.com (108.179.200.102): icmp_seq=48 ttl=44 time=146 ms
+[1607862862.012243] 40 bytes from 102-200-179-108.unifiedlayer.com (108.179.200.102): icmp_seq=49 ttl=44 time=146 ms
+[1607862863.012142] 40 bytes from 102-200-179-108.unifiedlayer.com (108.179.200.102): icmp_seq=50 ttl=44 time=146 ms
+
+--- ndnu.edu ping statistics ---
+50 packets transmitted, 50 received, 0% packet loss, time 172926ms
+rtt min/avg/max/mdev = 144.987/146.125/156.807/1.912 ms

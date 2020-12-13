@@ -1,0 +1,55 @@
+PING pitzer.edu (134.173.112.13) 32(60) bytes of data.
+[1607862675.748720] 40 bytes from voyager2.pitzer.edu (134.173.112.13): icmp_seq=1 ttl=112 time=168 ms
+[1607862676.415523] 40 bytes from voyager2.pitzer.edu (134.173.112.13): icmp_seq=2 ttl=112 time=168 ms
+[1607862687.425685] 40 bytes from 134.173.112.13: icmp_seq=3 ttl=112 time=167 ms
+[1607862687.594871] 40 bytes from voyager2.pitzer.edu (134.173.112.13): icmp_seq=4 ttl=112 time=167 ms
+[1607862688.596044] 40 bytes from voyager2.pitzer.edu (134.173.112.13): icmp_seq=5 ttl=112 time=168 ms
+[1607862689.597654] 40 bytes from voyager2.pitzer.edu (134.173.112.13): icmp_seq=6 ttl=112 time=167 ms
+[1607862700.601998] 40 bytes from 134.173.112.13: icmp_seq=7 ttl=112 time=168 ms
+[1607862705.776075] 40 bytes from voyager2.pitzer.edu (134.173.112.13): icmp_seq=8 ttl=112 time=167 ms
+[1607862705.945855] 40 bytes from voyager2.pitzer.edu (134.173.112.13): icmp_seq=9 ttl=112 time=167 ms
+[1607862716.954022] 40 bytes from 134.173.112.13: icmp_seq=10 ttl=112 time=168 ms
+[1607862717.123828] 40 bytes from voyager2.pitzer.edu (134.173.112.13): icmp_seq=11 ttl=112 time=168 ms
+[1607862718.123969] 40 bytes from voyager2.pitzer.edu (134.173.112.13): icmp_seq=12 ttl=112 time=167 ms
+[1607862719.123860] 40 bytes from voyager2.pitzer.edu (134.173.112.13): icmp_seq=13 ttl=112 time=168 ms
+[1607862730.130026] 40 bytes from 134.173.112.13: icmp_seq=14 ttl=112 time=168 ms
+[1607862730.299357] 40 bytes from voyager2.pitzer.edu (134.173.112.13): icmp_seq=15 ttl=112 time=168 ms
+[1607862736.304221] 40 bytes from voyager2.pitzer.edu (134.173.112.13): icmp_seq=16 ttl=112 time=168 ms
+[1607862736.474618] 40 bytes from voyager2.pitzer.edu (134.173.112.13): icmp_seq=17 ttl=112 time=168 ms
+[1607862747.478013] 40 bytes from 134.173.112.13: icmp_seq=18 ttl=112 time=167 ms
+[1607862747.647930] 40 bytes from voyager2.pitzer.edu (134.173.112.13): icmp_seq=19 ttl=112 time=168 ms
+[1607862748.646754] 40 bytes from voyager2.pitzer.edu (134.173.112.13): icmp_seq=20 ttl=112 time=167 ms
+[1607862754.647760] 40 bytes from voyager2.pitzer.edu (134.173.112.13): icmp_seq=21 ttl=112 time=168 ms
+[1607862759.819955] 40 bytes from voyager2.pitzer.edu (134.173.112.13): icmp_seq=22 ttl=112 time=167 ms
+[1607862759.989238] 40 bytes from voyager2.pitzer.edu (134.173.112.13): icmp_seq=23 ttl=112 time=168 ms
+[1607862760.988670] 40 bytes from voyager2.pitzer.edu (134.173.112.13): icmp_seq=24 ttl=112 time=167 ms
+[1607862761.988615] 40 bytes from voyager2.pitzer.edu (134.173.112.13): icmp_seq=25 ttl=112 time=167 ms
+[1607862762.988341] 40 bytes from voyager2.pitzer.edu (134.173.112.13): icmp_seq=26 ttl=112 time=167 ms
+[1607862763.989204] 40 bytes from voyager2.pitzer.edu (134.173.112.13): icmp_seq=27 ttl=112 time=168 ms
+[1607862764.988749] 40 bytes from voyager2.pitzer.edu (134.173.112.13): icmp_seq=28 ttl=112 time=168 ms
+[1607862775.994635] 40 bytes from 134.173.112.13: icmp_seq=29 ttl=112 time=167 ms
+[1607862776.163510] 40 bytes from voyager2.pitzer.edu (134.173.112.13): icmp_seq=30 ttl=112 time=167 ms
+[1607862777.166248] 40 bytes from voyager2.pitzer.edu (134.173.112.13): icmp_seq=31 ttl=112 time=167 ms
+[1607862778.163028] 40 bytes from voyager2.pitzer.edu (134.173.112.13): icmp_seq=32 ttl=112 time=168 ms
+[1607862779.163520] 40 bytes from voyager2.pitzer.edu (134.173.112.13): icmp_seq=33 ttl=112 time=168 ms
+[1607862780.165148] 40 bytes from voyager2.pitzer.edu (134.173.112.13): icmp_seq=34 ttl=112 time=169 ms
+[1607862781.163738] 40 bytes from voyager2.pitzer.edu (134.173.112.13): icmp_seq=35 ttl=112 time=167 ms
+[1607862782.162777] 40 bytes from voyager2.pitzer.edu (134.173.112.13): icmp_seq=36 ttl=112 time=167 ms
+[1607862783.162749] 40 bytes from voyager2.pitzer.edu (134.173.112.13): icmp_seq=37 ttl=112 time=167 ms
+[1607862784.163654] 40 bytes from voyager2.pitzer.edu (134.173.112.13): icmp_seq=38 ttl=112 time=168 ms
+[1607862785.164659] 40 bytes from voyager2.pitzer.edu (134.173.112.13): icmp_seq=39 ttl=112 time=169 ms
+[1607862796.166010] 40 bytes from 134.173.112.13: icmp_seq=40 ttl=112 time=167 ms
+[1607862796.336633] 40 bytes from voyager2.pitzer.edu (134.173.112.13): icmp_seq=41 ttl=112 time=168 ms
+[1607862807.342014] 40 bytes from 134.173.112.13: icmp_seq=42 ttl=112 time=168 ms
+[1607862807.514250] 40 bytes from voyager2.pitzer.edu (134.173.112.13): icmp_seq=43 ttl=112 time=170 ms
+[1607862808.511850] 40 bytes from voyager2.pitzer.edu (134.173.112.13): icmp_seq=44 ttl=112 time=168 ms
+[1607862809.511289] 40 bytes from voyager2.pitzer.edu (134.173.112.13): icmp_seq=45 ttl=112 time=167 ms
+[1607862810.511592] 40 bytes from voyager2.pitzer.edu (134.173.112.13): icmp_seq=46 ttl=112 time=168 ms
+[1607862811.510974] 40 bytes from voyager2.pitzer.edu (134.173.112.13): icmp_seq=47 ttl=112 time=168 ms
+[1607862822.514070] 40 bytes from 134.173.112.13: icmp_seq=48 ttl=112 time=168 ms
+[1607862822.683263] 40 bytes from voyager2.pitzer.edu (134.173.112.13): icmp_seq=49 ttl=112 time=167 ms
+[1607862823.683969] 40 bytes from voyager2.pitzer.edu (134.173.112.13): icmp_seq=50 ttl=112 time=168 ms
+
+--- pitzer.edu ping statistics ---
+50 packets transmitted, 50 received, 0% packet loss, time 148269ms
+rtt min/avg/max/mdev = 166.931/167.585/169.658/0.506 ms

@@ -1,0 +1,55 @@
+PING nmsua.edu (50.28.103.98) 32(60) bytes of data.
+[1607862698.166006] 40 bytes from 50.28.103.98: icmp_seq=1 ttl=50 time=148 ms
+[1607862699.522504] 40 bytes from 50.28.103.98 (50.28.103.98): icmp_seq=2 ttl=50 time=148 ms
+[1607862704.676415] 40 bytes from 50.28.103.98 (50.28.103.98): icmp_seq=3 ttl=50 time=148 ms
+[1607862704.826403] 40 bytes from 50.28.103.98 (50.28.103.98): icmp_seq=4 ttl=50 time=148 ms
+[1607862705.826284] 40 bytes from 50.28.103.98 (50.28.103.98): icmp_seq=5 ttl=50 time=148 ms
+[1607862706.828341] 40 bytes from 50.28.103.98 (50.28.103.98): icmp_seq=6 ttl=50 time=148 ms
+[1607862712.831833] 40 bytes from 50.28.103.98 (50.28.103.98): icmp_seq=7 ttl=50 time=148 ms
+[1607862712.981598] 40 bytes from 50.28.103.98 (50.28.103.98): icmp_seq=8 ttl=50 time=148 ms
+[1607862718.987743] 40 bytes from 50.28.103.98 (50.28.103.98): icmp_seq=9 ttl=50 time=148 ms
+[1607862724.140096] 40 bytes from 50.28.103.98 (50.28.103.98): icmp_seq=10 ttl=50 time=147 ms
+[1607862724.290126] 40 bytes from 50.28.103.98 (50.28.103.98): icmp_seq=11 ttl=50 time=149 ms
+[1607862730.291942] 40 bytes from 50.28.103.98 (50.28.103.98): icmp_seq=12 ttl=50 time=148 ms
+[1607862735.446083] 40 bytes from 50.28.103.98 (50.28.103.98): icmp_seq=13 ttl=50 time=148 ms
+[1607862735.596208] 40 bytes from 50.28.103.98 (50.28.103.98): icmp_seq=14 ttl=50 time=148 ms
+[1607862736.597907] 40 bytes from 50.28.103.98 (50.28.103.98): icmp_seq=15 ttl=50 time=148 ms
+[1607862737.598775] 40 bytes from 50.28.103.98 (50.28.103.98): icmp_seq=16 ttl=50 time=148 ms
+[1607862738.599015] 40 bytes from 50.28.103.98 (50.28.103.98): icmp_seq=17 ttl=50 time=148 ms
+[1607862744.603790] 40 bytes from 50.28.103.98 (50.28.103.98): icmp_seq=18 ttl=50 time=148 ms
+[1607862744.753798] 40 bytes from 50.28.103.98 (50.28.103.98): icmp_seq=19 ttl=50 time=148 ms
+[1607862745.755243] 40 bytes from 50.28.103.98 (50.28.103.98): icmp_seq=20 ttl=50 time=148 ms
+[1607862746.756371] 40 bytes from 50.28.103.98 (50.28.103.98): icmp_seq=21 ttl=50 time=148 ms
+[1607862747.757470] 40 bytes from 50.28.103.98 (50.28.103.98): icmp_seq=22 ttl=50 time=148 ms
+[1607862748.757075] 40 bytes from 50.28.103.98 (50.28.103.98): icmp_seq=23 ttl=50 time=148 ms
+[1607862759.762573] 40 bytes from 50.28.103.98: icmp_seq=24 ttl=50 time=148 ms
+[1607862764.915901] 40 bytes from 50.28.103.98 (50.28.103.98): icmp_seq=25 ttl=50 time=148 ms
+[1607862770.067797] 40 bytes from 50.28.103.98 (50.28.103.98): icmp_seq=26 ttl=50 time=148 ms
+[1607862775.219755] 40 bytes from 50.28.103.98 (50.28.103.98): icmp_seq=27 ttl=50 time=148 ms
+[1607862775.369373] 40 bytes from 50.28.103.98 (50.28.103.98): icmp_seq=28 ttl=50 time=148 ms
+[1607862781.372030] 40 bytes from 50.28.103.98 (50.28.103.98): icmp_seq=29 ttl=50 time=147 ms
+[1607862791.526005] 40 bytes from 50.28.103.98: icmp_seq=30 ttl=50 time=149 ms
+[1607862791.676622] 40 bytes from 50.28.103.98 (50.28.103.98): icmp_seq=31 ttl=50 time=148 ms
+[1607862792.676367] 40 bytes from 50.28.103.98 (50.28.103.98): icmp_seq=32 ttl=50 time=148 ms
+[1607862793.677706] 40 bytes from 50.28.103.98 (50.28.103.98): icmp_seq=33 ttl=50 time=148 ms
+[1607862794.678197] 40 bytes from 50.28.103.98 (50.28.103.98): icmp_seq=34 ttl=50 time=148 ms
+[1607862795.679487] 40 bytes from 50.28.103.98 (50.28.103.98): icmp_seq=35 ttl=50 time=148 ms
+[1607862806.686006] 40 bytes from 50.28.103.98: icmp_seq=36 ttl=50 time=148 ms
+[1607862811.840169] 40 bytes from 50.28.103.98 (50.28.103.98): icmp_seq=37 ttl=50 time=148 ms
+[1607862811.990439] 40 bytes from 50.28.103.98 (50.28.103.98): icmp_seq=38 ttl=50 time=148 ms
+[1607862822.994182] 40 bytes from 50.28.103.98: icmp_seq=39 ttl=50 time=148 ms
+[1607862833.151341] 40 bytes from 50.28.103.98: icmp_seq=40 ttl=50 time=148 ms
+[1607862843.306278] 40 bytes from 50.28.103.98: icmp_seq=41 ttl=50 time=148 ms
+[1607862848.460295] 40 bytes from 50.28.103.98 (50.28.103.98): icmp_seq=42 ttl=50 time=148 ms
+[1607862853.615822] 40 bytes from 50.28.103.98 (50.28.103.98): icmp_seq=43 ttl=50 time=148 ms
+[1607862853.766067] 40 bytes from 50.28.103.98 (50.28.103.98): icmp_seq=44 ttl=50 time=148 ms
+[1607862854.765195] 40 bytes from 50.28.103.98 (50.28.103.98): icmp_seq=45 ttl=50 time=148 ms
+[1607862855.766969] 40 bytes from 50.28.103.98 (50.28.103.98): icmp_seq=46 ttl=50 time=148 ms
+[1607862856.768121] 40 bytes from 50.28.103.98 (50.28.103.98): icmp_seq=47 ttl=50 time=148 ms
+[1607862857.769709] 40 bytes from 50.28.103.98 (50.28.103.98): icmp_seq=48 ttl=50 time=148 ms
+[1607862858.770713] 40 bytes from 50.28.103.98 (50.28.103.98): icmp_seq=49 ttl=50 time=148 ms
+[1607862860.620800] 40 bytes from 50.28.103.98: icmp_seq=50 ttl=50 time=148 ms
+
+--- nmsua.edu ping statistics ---
+50 packets transmitted, 50 received, 0% packet loss, time 171610ms
+rtt min/avg/max/mdev = 147.415/148.129/148.523/0.260 ms

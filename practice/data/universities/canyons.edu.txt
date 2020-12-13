@@ -1,0 +1,55 @@
+PING canyons.edu (207.233.55.54) 32(60) bytes of data.
+[1607862689.254578] 40 bytes from 207.233.55.54: icmp_seq=1 ttl=111 time=171 ms
+[1607862689.427524] 40 bytes from redirector.canyons.edu (207.233.55.54): icmp_seq=2 ttl=111 time=170 ms
+[1607862695.432202] 40 bytes from coc.cc.ca.us (207.233.55.54): icmp_seq=3 ttl=111 time=171 ms
+[1607862695.604363] 40 bytes from canyoncountrycampus.com (207.233.55.54): icmp_seq=4 ttl=111 time=170 ms
+[1607862696.605863] 40 bytes from cocathletics.com (207.233.55.54): icmp_seq=5 ttl=111 time=170 ms
+[1607862707.610079] 40 bytes from 207.233.55.54: icmp_seq=6 ttl=111 time=170 ms
+[1607862712.787531] 40 bytes from canyonsfoundation.org (207.233.55.54): icmp_seq=7 ttl=111 time=171 ms
+[1607862717.964379] 40 bytes from canyoncountrycampus.org (207.233.55.54): icmp_seq=8 ttl=111 time=171 ms
+[1607862718.137102] 40 bytes from cocathletics.com (207.233.55.54): icmp_seq=9 ttl=111 time=170 ms
+[1607862719.137014] 40 bytes from www.canyons.cc (207.233.55.54): icmp_seq=10 ttl=111 time=170 ms
+[1607862725.140176] 40 bytes from universitycenter.cc (207.233.55.54): icmp_seq=11 ttl=111 time=171 ms
+[1607862725.313274] 40 bytes from mylive.canyons.edu (207.233.55.54): icmp_seq=12 ttl=111 time=171 ms
+[1607862731.317351] 40 bytes from universitycenter.cc (207.233.55.54): icmp_seq=13 ttl=111 time=171 ms
+[1607862741.494007] 40 bytes from 207.233.55.54: icmp_seq=14 ttl=111 time=170 ms
+[1607862741.667032] 40 bytes from alumni.canyons.edu (207.233.55.54): icmp_seq=15 ttl=111 time=171 ms
+[1607862742.667879] 40 bytes from www.canyons.cc (207.233.55.54): icmp_seq=16 ttl=111 time=171 ms
+[1607862743.669403] 40 bytes from coc.cc.ca.us (207.233.55.54): icmp_seq=17 ttl=111 time=171 ms
+[1607862749.675838] 40 bytes from canyoncountrycampus.com (207.233.55.54): icmp_seq=18 ttl=111 time=171 ms
+[1607862759.854030] 40 bytes from 207.233.55.54: icmp_seq=19 ttl=111 time=171 ms
+[1607862760.027038] 40 bytes from mymail.canyons.edu (207.233.55.54): icmp_seq=20 ttl=111 time=171 ms
+[1607862761.024987] 40 bytes from canyoncountrycampus.com (207.233.55.54): icmp_seq=21 ttl=111 time=170 ms
+[1607862767.028410] 40 bytes from redirector.canyons.edu (207.233.55.54): icmp_seq=22 ttl=111 time=171 ms
+[1607862772.204203] 40 bytes from coc.cc.ca.us (207.233.55.54): icmp_seq=23 ttl=111 time=171 ms
+[1607862782.382112] 40 bytes from 207.233.55.54: icmp_seq=24 ttl=111 time=171 ms
+[1607862782.555314] 40 bytes from alumni.canyons.edu (207.233.55.54): icmp_seq=25 ttl=111 time=171 ms
+[1607862783.556262] 40 bytes from universitycenter.cc (207.233.55.54): icmp_seq=26 ttl=111 time=171 ms
+[1607862784.556829] 40 bytes from mymail.canyons.edu (207.233.55.54): icmp_seq=27 ttl=111 time=171 ms
+[1607862785.558999] 40 bytes from mylive.canyons.edu (207.233.55.54): icmp_seq=28 ttl=111 time=171 ms
+[1607862796.562231] 40 bytes from 207.233.55.54: icmp_seq=29 ttl=111 time=172 ms
+[1607862806.742009] 40 bytes from 207.233.55.54: icmp_seq=30 ttl=111 time=171 ms
+[1607862811.916551] 40 bytes from coc.cc.ca.us (207.233.55.54): icmp_seq=31 ttl=111 time=170 ms
+[1607862817.092207] 40 bytes from alumni.canyons.edu (207.233.55.54): icmp_seq=32 ttl=111 time=171 ms
+[1607862817.265275] 40 bytes from canyonsfoundation.org (207.233.55.54): icmp_seq=33 ttl=111 time=171 ms
+[1607862818.265075] 40 bytes from canyons.ws (207.233.55.54): icmp_seq=34 ttl=111 time=170 ms
+[1607862819.266923] 40 bytes from cocathletics.com (207.233.55.54): icmp_seq=35 ttl=111 time=171 ms
+[1607862820.268194] 40 bytes from mylive.canyons.edu (207.233.55.54): icmp_seq=36 ttl=111 time=170 ms
+[1607862821.268820] 40 bytes from alumni.canyons.edu (207.233.55.54): icmp_seq=37 ttl=111 time=171 ms
+[1607862822.270744] 40 bytes from www.canyons.cc (207.233.55.54): icmp_seq=38 ttl=111 time=171 ms
+[1607862828.273495] 40 bytes from canyoncountrycampus.org (207.233.55.54): icmp_seq=39 ttl=111 time=170 ms
+[1607862838.450085] 40 bytes from 207.233.55.54: icmp_seq=40 ttl=111 time=170 ms
+[1607862843.627856] 40 bytes from mymail.canyons.edu (207.233.55.54): icmp_seq=41 ttl=111 time=171 ms
+[1607862848.804115] 40 bytes from redirector.canyons.edu (207.233.55.54): icmp_seq=42 ttl=111 time=170 ms
+[1607862848.976759] 40 bytes from canyons.info (207.233.55.54): icmp_seq=43 ttl=111 time=170 ms
+[1607862849.977450] 40 bytes from mylive.canyons.edu (207.233.55.54): icmp_seq=44 ttl=111 time=171 ms
+[1607862850.977208] 40 bytes from leap4coc.canyons.edu (207.233.55.54): icmp_seq=45 ttl=111 time=171 ms
+[1607862851.985154] 40 bytes from canyons.info (207.233.55.54): icmp_seq=46 ttl=111 time=176 ms
+[1607862852.980510] 40 bytes from canyonsfoundation.org (207.233.55.54): icmp_seq=47 ttl=111 time=170 ms
+[1607862858.983958] 40 bytes from universitycenter.cc (207.233.55.54): icmp_seq=48 ttl=111 time=171 ms
+[1607862859.156726] 40 bytes from leap4coc.canyons.edu (207.233.55.54): icmp_seq=49 ttl=111 time=170 ms
+[1607862860.156673] 40 bytes from mymail.canyons.edu (207.233.55.54): icmp_seq=50 ttl=111 time=171 ms
+
+--- canyons.edu ping statistics ---
+50 packets transmitted, 50 received, 0% packet loss, time 180909ms
+rtt min/avg/max/mdev = 169.710/170.630/175.959/0.826 ms

@@ -1,0 +1,55 @@
+PING marygrove.edu (173.199.134.142) 32(60) bytes of data.
+[1607862710.250096] 40 bytes from 173.199.134.142: icmp_seq=1 ttl=50 time=127 ms
+[1607862720.386022] 40 bytes from 173.199.134.142: icmp_seq=2 ttl=50 time=127 ms
+[1607862720.514632] 40 bytes from host.ihmsisters.org (173.199.134.142): icmp_seq=3 ttl=50 time=126 ms
+[1607862721.516432] 40 bytes from host.ihmsisters.org (173.199.134.142): icmp_seq=4 ttl=50 time=126 ms
+[1607862722.516650] 40 bytes from host.ihmsisters.org (173.199.134.142): icmp_seq=5 ttl=50 time=126 ms
+[1607862723.517914] 40 bytes from host.ihmsisters.org (173.199.134.142): icmp_seq=6 ttl=50 time=126 ms
+[1607862724.516885] 40 bytes from host.ihmsisters.org (173.199.134.142): icmp_seq=7 ttl=50 time=126 ms
+[1607862725.517032] 40 bytes from host.ihmsisters.org (173.199.134.142): icmp_seq=8 ttl=50 time=126 ms
+[1607862726.514773] 40 bytes from host.ihmsisters.org (173.199.134.142): icmp_seq=9 ttl=50 time=126 ms
+[1607862727.517346] 40 bytes from host.ihmsisters.org (173.199.134.142): icmp_seq=10 ttl=50 time=127 ms
+[1607862728.518265] 40 bytes from host.ihmsisters.org (173.199.134.142): icmp_seq=11 ttl=50 time=126 ms
+[1607862739.526070] 40 bytes from 173.199.134.142: icmp_seq=12 ttl=50 time=126 ms
+[1607862744.656276] 40 bytes from host.ihmsisters.org (173.199.134.142): icmp_seq=13 ttl=50 time=126 ms
+[1607862744.784719] 40 bytes from host.ihmsisters.org (173.199.134.142): icmp_seq=14 ttl=50 time=126 ms
+[1607862750.787701] 40 bytes from host.ihmsisters.org (173.199.134.142): icmp_seq=15 ttl=50 time=126 ms
+[1607862760.922124] 40 bytes from 173.199.134.142: icmp_seq=16 ttl=50 time=126 ms
+[1607862771.054031] 40 bytes from 173.199.134.142: icmp_seq=17 ttl=50 time=126 ms
+[1607862781.185996] 40 bytes from 173.199.134.142: icmp_seq=18 ttl=50 time=126 ms
+[1607862781.313653] 40 bytes from host.ihmsisters.org (173.199.134.142): icmp_seq=19 ttl=50 time=126 ms
+[1607862782.314520] 40 bytes from host.ihmsisters.org (173.199.134.142): icmp_seq=20 ttl=50 time=126 ms
+[1607862783.314721] 40 bytes from host.ihmsisters.org (173.199.134.142): icmp_seq=21 ttl=50 time=126 ms
+[1607862784.317087] 40 bytes from host.ihmsisters.org (173.199.134.142): icmp_seq=22 ttl=50 time=126 ms
+[1607862785.318110] 40 bytes from host.ihmsisters.org (173.199.134.142): icmp_seq=23 ttl=50 time=126 ms
+[1607862786.319434] 40 bytes from host.ihmsisters.org (173.199.134.142): icmp_seq=24 ttl=50 time=126 ms
+[1607862787.318535] 40 bytes from host.ihmsisters.org (173.199.134.142): icmp_seq=25 ttl=50 time=126 ms
+[1607862788.318729] 40 bytes from host.ihmsisters.org (173.199.134.142): icmp_seq=26 ttl=50 time=126 ms
+[1607862789.321011] 40 bytes from host.ihmsisters.org (173.199.134.142): icmp_seq=27 ttl=50 time=126 ms
+[1607862790.322306] 40 bytes from host.ihmsisters.org (173.199.134.142): icmp_seq=28 ttl=50 time=127 ms
+[1607862796.327450] 40 bytes from host.ihmsisters.org (173.199.134.142): icmp_seq=29 ttl=50 time=126 ms
+[1607862801.459209] 40 bytes from host.ihmsisters.org (173.199.134.142): icmp_seq=30 ttl=50 time=126 ms
+[1607862806.591417] 40 bytes from host.ihmsisters.org (173.199.134.142): icmp_seq=31 ttl=50 time=126 ms
+[1607862806.719766] 40 bytes from host.ihmsisters.org (173.199.134.142): icmp_seq=32 ttl=50 time=126 ms
+[1607862812.723515] 40 bytes from host.ihmsisters.org (173.199.134.142): icmp_seq=33 ttl=50 time=126 ms
+[1607862822.858027] 40 bytes from 173.199.134.142: icmp_seq=34 ttl=50 time=126 ms
+[1607862832.990062] 40 bytes from 173.199.134.142: icmp_seq=35 ttl=50 time=127 ms
+[1607862838.124022] 40 bytes from host.ihmsisters.org (173.199.134.142): icmp_seq=36 ttl=50 time=127 ms
+[1607862843.256092] 40 bytes from host.ihmsisters.org (173.199.134.142): icmp_seq=37 ttl=50 time=126 ms
+[1607862848.389251] 40 bytes from host.ihmsisters.org (173.199.134.142): icmp_seq=38 ttl=50 time=126 ms
+[1607862848.517618] 40 bytes from host.ihmsisters.org (173.199.134.142): icmp_seq=39 ttl=50 time=126 ms
+[1607862859.522071] 40 bytes from 173.199.134.142: icmp_seq=40 ttl=50 time=126 ms
+[1607862859.658376] 40 bytes from host.ihmsisters.org (173.199.134.142): icmp_seq=41 ttl=50 time=134 ms
+[1607862860.650948] 40 bytes from host.ihmsisters.org (173.199.134.142): icmp_seq=42 ttl=50 time=126 ms
+[1607862861.652847] 40 bytes from host.ihmsisters.org (173.199.134.142): icmp_seq=43 ttl=50 time=126 ms
+[1607862862.653907] 40 bytes from host.ihmsisters.org (173.199.134.142): icmp_seq=44 ttl=50 time=126 ms
+[1607862863.656536] 40 bytes from host.ihmsisters.org (173.199.134.142): icmp_seq=45 ttl=50 time=126 ms
+[1607862869.660246] 40 bytes from host.ihmsisters.org (173.199.134.142): icmp_seq=46 ttl=50 time=126 ms
+[1607862869.788170] 40 bytes from host.ihmsisters.org (173.199.134.142): icmp_seq=47 ttl=50 time=126 ms
+[1607862870.790840] 40 bytes from host.ihmsisters.org (173.199.134.142): icmp_seq=48 ttl=50 time=126 ms
+[1607862871.792077] 40 bytes from host.ihmsisters.org (173.199.134.142): icmp_seq=49 ttl=50 time=126 ms
+[1607862872.792354] 40 bytes from host.ihmsisters.org (173.199.134.142): icmp_seq=50 ttl=50 time=126 ms
+
+--- marygrove.edu ping statistics ---
+50 packets transmitted, 50 received, 0% packet loss, time 172546ms
+rtt min/avg/max/mdev = 125.598/126.400/134.174/1.142 ms

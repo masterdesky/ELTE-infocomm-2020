@@ -1,0 +1,5 @@
+PING monmouthcollege.edu (23.22.243.208) 32(60) bytes of data.
+
+--- monmouthcollege.edu ping statistics ---
+50 packets transmitted, 0 received, 100% packet loss, time 49264ms
+

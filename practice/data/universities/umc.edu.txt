@@ -1,0 +1,55 @@
+PING umc.edu (192.231.68.40) 32(60) bytes of data.
+[1607862688.183776] 40 bytes from www.umc.edu (192.231.68.40): icmp_seq=1 ttl=238 time=136 ms
+[1607862693.323638] 40 bytes from umc.edu (192.231.68.40): icmp_seq=2 ttl=238 time=137 ms
+[1607862693.461619] 40 bytes from umc.edu (192.231.68.40): icmp_seq=3 ttl=238 time=136 ms
+[1607862694.463110] 40 bytes from umc.edu (192.231.68.40): icmp_seq=4 ttl=238 time=136 ms
+[1607862695.464102] 40 bytes from www.umc.edu (192.231.68.40): icmp_seq=5 ttl=238 time=136 ms
+[1607862706.470029] 40 bytes from 192.231.68.40: icmp_seq=6 ttl=238 time=135 ms
+[1607862711.613958] 40 bytes from umc.edu (192.231.68.40): icmp_seq=7 ttl=238 time=138 ms
+[1607862716.756462] 40 bytes from www.umc.edu (192.231.68.40): icmp_seq=8 ttl=238 time=136 ms
+[1607862716.894404] 40 bytes from www.umc.edu (192.231.68.40): icmp_seq=9 ttl=238 time=136 ms
+[1607862717.894458] 40 bytes from umc.edu (192.231.68.40): icmp_seq=10 ttl=238 time=136 ms
+[1607862723.896217] 40 bytes from umc.edu (192.231.68.40): icmp_seq=11 ttl=238 time=136 ms
+[1607862724.034928] 40 bytes from conf.umc.edu (192.231.68.40): icmp_seq=12 ttl=238 time=136 ms
+[1607862725.034904] 40 bytes from umc.edu (192.231.68.40): icmp_seq=13 ttl=238 time=136 ms
+[1607862726.035409] 40 bytes from umc.edu (192.231.68.40): icmp_seq=14 ttl=238 time=136 ms
+[1607862727.033966] 40 bytes from www.umc.edu (192.231.68.40): icmp_seq=15 ttl=238 time=136 ms
+[1607862728.035512] 40 bytes from conf.umc.edu (192.231.68.40): icmp_seq=16 ttl=238 time=136 ms
+[1607862729.035260] 40 bytes from conf.umc.edu (192.231.68.40): icmp_seq=17 ttl=238 time=136 ms
+[1607862730.034870] 40 bytes from umc.edu (192.231.68.40): icmp_seq=18 ttl=238 time=136 ms
+[1607862736.035792] 40 bytes from umc.edu (192.231.68.40): icmp_seq=19 ttl=238 time=136 ms
+[1607862736.174320] 40 bytes from conf.umc.edu (192.231.68.40): icmp_seq=20 ttl=238 time=136 ms
+[1607862737.175600] 40 bytes from umc.edu (192.231.68.40): icmp_seq=21 ttl=238 time=136 ms
+[1607862738.175723] 40 bytes from umc.edu (192.231.68.40): icmp_seq=22 ttl=238 time=136 ms
+[1607862739.176297] 40 bytes from www.umc.edu (192.231.68.40): icmp_seq=23 ttl=238 time=137 ms
+[1607862740.177329] 40 bytes from www.umc.edu (192.231.68.40): icmp_seq=24 ttl=238 time=136 ms
+[1607862741.177092] 40 bytes from umc.edu (192.231.68.40): icmp_seq=25 ttl=238 time=136 ms
+[1607862752.182007] 40 bytes from 192.231.68.40: icmp_seq=26 ttl=238 time=135 ms
+[1607862757.324553] 40 bytes from www.umc.edu (192.231.68.40): icmp_seq=27 ttl=238 time=136 ms
+[1607862762.466045] 40 bytes from www.umc.edu (192.231.68.40): icmp_seq=28 ttl=238 time=136 ms
+[1607862762.604219] 40 bytes from www.umc.edu (192.231.68.40): icmp_seq=29 ttl=238 time=136 ms
+[1607862763.604879] 40 bytes from umc.edu (192.231.68.40): icmp_seq=30 ttl=238 time=136 ms
+[1607862764.606877] 40 bytes from umc.edu (192.231.68.40): icmp_seq=31 ttl=238 time=137 ms
+[1607862775.613994] 40 bytes from 192.231.68.40: icmp_seq=32 ttl=238 time=136 ms
+[1607862780.755939] 40 bytes from www.umc.edu (192.231.68.40): icmp_seq=33 ttl=238 time=136 ms
+[1607862780.893759] 40 bytes from umc.edu (192.231.68.40): icmp_seq=34 ttl=238 time=136 ms
+[1607862791.898039] 40 bytes from 192.231.68.40: icmp_seq=35 ttl=238 time=136 ms
+[1607862802.042004] 40 bytes from 192.231.68.40: icmp_seq=36 ttl=238 time=136 ms
+[1607862812.186006] 40 bytes from 192.231.68.40: icmp_seq=37 ttl=238 time=136 ms
+[1607862812.323837] 40 bytes from conf.umc.edu (192.231.68.40): icmp_seq=38 ttl=238 time=136 ms
+[1607862813.326263] 40 bytes from conf.umc.edu (192.231.68.40): icmp_seq=39 ttl=238 time=137 ms
+[1607862814.327552] 40 bytes from umc.edu (192.231.68.40): icmp_seq=40 ttl=238 time=136 ms
+[1607862815.327713] 40 bytes from umc.edu (192.231.68.40): icmp_seq=41 ttl=238 time=136 ms
+[1607862816.330045] 40 bytes from umc.edu (192.231.68.40): icmp_seq=42 ttl=238 time=136 ms
+[1607862817.336352] 40 bytes from umc.edu (192.231.68.40): icmp_seq=43 ttl=238 time=141 ms
+[1607862818.331858] 40 bytes from umc.edu (192.231.68.40): icmp_seq=44 ttl=238 time=136 ms
+[1607862819.332164] 40 bytes from umc.edu (192.231.68.40): icmp_seq=45 ttl=238 time=136 ms
+[1607862820.332423] 40 bytes from conf.umc.edu (192.231.68.40): icmp_seq=46 ttl=238 time=136 ms
+[1607862821.333126] 40 bytes from conf.umc.edu (192.231.68.40): icmp_seq=47 ttl=238 time=137 ms
+[1607862822.332484] 40 bytes from umc.edu (192.231.68.40): icmp_seq=48 ttl=238 time=136 ms
+[1607862823.333724] 40 bytes from umc.edu (192.231.68.40): icmp_seq=49 ttl=238 time=136 ms
+[1607862824.333717] 40 bytes from www.umc.edu (192.231.68.40): icmp_seq=50 ttl=238 time=136 ms
+
+--- umc.edu ping statistics ---
+50 packets transmitted, 50 received, 0% packet loss, time 141153ms
+rtt min/avg/max/mdev = 135.408/136.312/141.090/0.812 ms

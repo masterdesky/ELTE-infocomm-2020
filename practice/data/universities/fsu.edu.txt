@@ -1,0 +1,55 @@
+PING fsu.edu (146.201.111.62) 32(60) bytes of data.
+[1607862692.995857] 40 bytes from webvm.its.fsu.edu (146.201.111.62): icmp_seq=1 ttl=236 time=141 ms
+[1607862703.146003] 40 bytes from 146.201.111.62: icmp_seq=2 ttl=236 time=141 ms
+[1607862703.288634] 40 bytes from webvm.its.fsu.edu (146.201.111.62): icmp_seq=3 ttl=236 time=141 ms
+[1607862709.295131] 40 bytes from webvm.its.fsu.edu (146.201.111.62): icmp_seq=4 ttl=236 time=141 ms
+[1607862709.438090] 40 bytes from webvm.its.fsu.edu (146.201.111.62): icmp_seq=5 ttl=236 time=140 ms
+[1607862710.439024] 40 bytes from webvm.its.fsu.edu (146.201.111.62): icmp_seq=6 ttl=236 time=140 ms
+[1607862716.444935] 40 bytes from webvm.its.fsu.edu (146.201.111.62): icmp_seq=7 ttl=236 time=140 ms
+[1607862726.594150] 40 bytes from 146.201.111.62: icmp_seq=8 ttl=236 time=141 ms
+[1607862736.742028] 40 bytes from 146.201.111.62: icmp_seq=9 ttl=236 time=140 ms
+[1607862736.884807] 40 bytes from webvm.its.fsu.edu (146.201.111.62): icmp_seq=10 ttl=236 time=141 ms
+[1607862737.884769] 40 bytes from webvm.its.fsu.edu (146.201.111.62): icmp_seq=11 ttl=236 time=141 ms
+[1607862738.884724] 40 bytes from webvm.its.fsu.edu (146.201.111.62): icmp_seq=12 ttl=236 time=141 ms
+[1607862739.884982] 40 bytes from webvm.its.fsu.edu (146.201.111.62): icmp_seq=13 ttl=236 time=141 ms
+[1607862740.885746] 40 bytes from webvm.its.fsu.edu (146.201.111.62): icmp_seq=14 ttl=236 time=141 ms
+[1607862741.886065] 40 bytes from webvm.its.fsu.edu (146.201.111.62): icmp_seq=15 ttl=236 time=141 ms
+[1607862742.887161] 40 bytes from webvm.its.fsu.edu (146.201.111.62): icmp_seq=16 ttl=236 time=141 ms
+[1607862743.887171] 40 bytes from webvm.its.fsu.edu (146.201.111.62): icmp_seq=17 ttl=236 time=141 ms
+[1607862744.889063] 40 bytes from webvm.its.fsu.edu (146.201.111.62): icmp_seq=18 ttl=236 time=141 ms
+[1607862755.894026] 40 bytes from 146.201.111.62: icmp_seq=19 ttl=236 time=141 ms
+[1607862766.042616] 40 bytes from 146.201.111.62: icmp_seq=20 ttl=236 time=141 ms
+[1607862766.185215] 40 bytes from webvm.its.fsu.edu (146.201.111.62): icmp_seq=21 ttl=236 time=141 ms
+[1607862767.186467] 40 bytes from webvm.its.fsu.edu (146.201.111.62): icmp_seq=22 ttl=236 time=141 ms
+[1607862768.185461] 40 bytes from webvm.its.fsu.edu (146.201.111.62): icmp_seq=23 ttl=236 time=140 ms
+[1607862769.186705] 40 bytes from webvm.its.fsu.edu (146.201.111.62): icmp_seq=24 ttl=236 time=141 ms
+[1607862770.186684] 40 bytes from webvm.its.fsu.edu (146.201.111.62): icmp_seq=25 ttl=236 time=140 ms
+[1607862781.194101] 40 bytes from 146.201.111.62: icmp_seq=26 ttl=236 time=141 ms
+[1607862791.342000] 40 bytes from 146.201.111.62: icmp_seq=27 ttl=236 time=140 ms
+[1607862791.485061] 40 bytes from webvm.its.fsu.edu (146.201.111.62): icmp_seq=28 ttl=236 time=141 ms
+[1607862792.484472] 40 bytes from webvm.its.fsu.edu (146.201.111.62): icmp_seq=29 ttl=236 time=141 ms
+[1607862793.485329] 40 bytes from webvm.its.fsu.edu (146.201.111.62): icmp_seq=30 ttl=236 time=140 ms
+[1607862794.492606] 40 bytes from webvm.its.fsu.edu (146.201.111.62): icmp_seq=31 ttl=236 time=146 ms
+[1607862795.488913] 40 bytes from webvm.its.fsu.edu (146.201.111.62): icmp_seq=32 ttl=236 time=141 ms
+[1607862801.491911] 40 bytes from webvm.its.fsu.edu (146.201.111.62): icmp_seq=33 ttl=236 time=140 ms
+[1607862801.634667] 40 bytes from webvm.its.fsu.edu (146.201.111.62): icmp_seq=34 ttl=236 time=141 ms
+[1607862802.634516] 40 bytes from webvm.its.fsu.edu (146.201.111.62): icmp_seq=35 ttl=236 time=141 ms
+[1607862803.634282] 40 bytes from webvm.its.fsu.edu (146.201.111.62): icmp_seq=36 ttl=236 time=141 ms
+[1607862804.633910] 40 bytes from webvm.its.fsu.edu (146.201.111.62): icmp_seq=37 ttl=236 time=141 ms
+[1607862805.633386] 40 bytes from webvm.its.fsu.edu (146.201.111.62): icmp_seq=38 ttl=236 time=141 ms
+[1607862806.633232] 40 bytes from webvm.its.fsu.edu (146.201.111.62): icmp_seq=39 ttl=236 time=140 ms
+[1607862817.638100] 40 bytes from 146.201.111.62: icmp_seq=40 ttl=236 time=140 ms
+[1607862822.784535] 40 bytes from webvm.its.fsu.edu (146.201.111.62): icmp_seq=41 ttl=236 time=141 ms
+[1607862832.934008] 40 bytes from 146.201.111.62: icmp_seq=42 ttl=236 time=141 ms
+[1607862838.079925] 40 bytes from webvm.its.fsu.edu (146.201.111.62): icmp_seq=43 ttl=236 time=141 ms
+[1607862843.228073] 40 bytes from webvm.its.fsu.edu (146.201.111.62): icmp_seq=44 ttl=236 time=141 ms
+[1607862848.376185] 40 bytes from webvm.its.fsu.edu (146.201.111.62): icmp_seq=45 ttl=236 time=141 ms
+[1607862848.518922] 40 bytes from webvm.its.fsu.edu (146.201.111.62): icmp_seq=46 ttl=236 time=141 ms
+[1607862854.524005] 40 bytes from webvm.its.fsu.edu (146.201.111.62): icmp_seq=47 ttl=236 time=140 ms
+[1607862854.666202] 40 bytes from webvm.its.fsu.edu (146.201.111.62): icmp_seq=48 ttl=236 time=140 ms
+[1607862855.667255] 40 bytes from webvm.its.fsu.edu (146.201.111.62): icmp_seq=49 ttl=236 time=141 ms
+[1607862856.667957] 40 bytes from webvm.its.fsu.edu (146.201.111.62): icmp_seq=50 ttl=236 time=141 ms
+
+--- fsu.edu ping statistics ---
+50 packets transmitted, 50 received, 0% packet loss, time 169587ms
+rtt min/avg/max/mdev = 139.849/140.765/145.886/0.784 ms

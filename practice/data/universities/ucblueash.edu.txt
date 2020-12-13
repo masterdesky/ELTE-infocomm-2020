@@ -1,0 +1,55 @@
+PING ucblueash.edu (129.137.3.95) 32(60) bytes of data.
+[1607862708.704014] 40 bytes from ucblueash.edu (129.137.3.95): icmp_seq=1 ttl=232 time=123 ms
+[1607862718.834020] 40 bytes from 129.137.3.95: icmp_seq=2 ttl=232 time=122 ms
+[1607862718.959058] 40 bytes from ucblueash.edu (129.137.3.95): icmp_seq=3 ttl=232 time=123 ms
+[1607862719.959229] 40 bytes from ucblueash.edu (129.137.3.95): icmp_seq=4 ttl=232 time=123 ms
+[1607862720.958961] 40 bytes from ucblueash.edu (129.137.3.95): icmp_seq=5 ttl=232 time=123 ms
+[1607862731.966024] 40 bytes from 129.137.3.95: icmp_seq=6 ttl=232 time=123 ms
+[1607862732.090092] 40 bytes from ucblueash.edu (129.137.3.95): icmp_seq=7 ttl=232 time=123 ms
+[1607862733.089480] 40 bytes from ucblueash.edu (129.137.3.95): icmp_seq=8 ttl=232 time=122 ms
+[1607862739.092242] 40 bytes from ucblueash.edu (129.137.3.95): icmp_seq=9 ttl=232 time=122 ms
+[1607862744.220117] 40 bytes from ucblueash.edu (129.137.3.95): icmp_seq=10 ttl=232 time=122 ms
+[1607862744.343835] 40 bytes from ucblueash.edu (129.137.3.95): icmp_seq=11 ttl=232 time=122 ms
+[1607862745.345800] 40 bytes from ucblueash.edu (129.137.3.95): icmp_seq=12 ttl=232 time=122 ms
+[1607862746.346170] 40 bytes from ucblueash.edu (129.137.3.95): icmp_seq=13 ttl=232 time=122 ms
+[1607862747.347202] 40 bytes from ucblueash.edu (129.137.3.95): icmp_seq=14 ttl=232 time=123 ms
+[1607862748.346243] 40 bytes from ucblueash.edu (129.137.3.95): icmp_seq=15 ttl=232 time=123 ms
+[1607862749.346934] 40 bytes from ucblueash.edu (129.137.3.95): icmp_seq=16 ttl=232 time=123 ms
+[1607862750.347872] 40 bytes from ucblueash.edu (129.137.3.95): icmp_seq=17 ttl=232 time=123 ms
+[1607862751.347722] 40 bytes from ucblueash.edu (129.137.3.95): icmp_seq=18 ttl=232 time=123 ms
+[1607862752.347388] 40 bytes from ucblueash.edu (129.137.3.95): icmp_seq=19 ttl=232 time=122 ms
+[1607862753.347901] 40 bytes from ucblueash.edu (129.137.3.95): icmp_seq=20 ttl=232 time=122 ms
+[1607862754.351415] 40 bytes from ucblueash.edu (129.137.3.95): icmp_seq=21 ttl=232 time=125 ms
+[1607862755.349259] 40 bytes from ucblueash.edu (129.137.3.95): icmp_seq=22 ttl=232 time=122 ms
+[1607862756.350928] 40 bytes from ucblueash.edu (129.137.3.95): icmp_seq=23 ttl=232 time=123 ms
+[1607862762.356169] 40 bytes from ucblueash.edu (129.137.3.95): icmp_seq=24 ttl=232 time=125 ms
+[1607862767.484753] 40 bytes from ucblueash.edu (129.137.3.95): icmp_seq=25 ttl=232 time=122 ms
+[1607862767.609027] 40 bytes from ucblueash.edu (129.137.3.95): icmp_seq=26 ttl=232 time=122 ms
+[1607862768.609502] 40 bytes from ucblueash.edu (129.137.3.95): icmp_seq=27 ttl=232 time=123 ms
+[1607862769.608495] 40 bytes from ucblueash.edu (129.137.3.95): icmp_seq=28 ttl=232 time=122 ms
+[1607862770.608453] 40 bytes from ucblueash.edu (129.137.3.95): icmp_seq=29 ttl=232 time=122 ms
+[1607862771.609553] 40 bytes from ucblueash.edu (129.137.3.95): icmp_seq=30 ttl=232 time=123 ms
+[1607862772.608011] 40 bytes from ucblueash.edu (129.137.3.95): icmp_seq=31 ttl=232 time=122 ms
+[1607862773.608564] 40 bytes from ucblueash.edu (129.137.3.95): icmp_seq=32 ttl=232 time=123 ms
+[1607862774.608832] 40 bytes from ucblueash.edu (129.137.3.95): icmp_seq=33 ttl=232 time=123 ms
+[1607862780.611723] 40 bytes from ucblueash.edu (129.137.3.95): icmp_seq=34 ttl=232 time=122 ms
+[1607862785.740044] 40 bytes from ucblueash.edu (129.137.3.95): icmp_seq=35 ttl=232 time=123 ms
+[1607862785.864267] 40 bytes from ucblueash.edu (129.137.3.95): icmp_seq=36 ttl=232 time=122 ms
+[1607862796.870278] 40 bytes from 129.137.3.95: icmp_seq=37 ttl=232 time=123 ms
+[1607862807.002123] 40 bytes from 129.137.3.95: icmp_seq=38 ttl=232 time=123 ms
+[1607862817.134163] 40 bytes from 129.137.3.95: icmp_seq=39 ttl=232 time=123 ms
+[1607862817.259718] 40 bytes from ucblueash.edu (129.137.3.95): icmp_seq=40 ttl=232 time=123 ms
+[1607862828.262607] 40 bytes from 129.137.3.95: icmp_seq=41 ttl=232 time=122 ms
+[1607862838.394018] 40 bytes from 129.137.3.95: icmp_seq=42 ttl=232 time=123 ms
+[1607862848.522044] 40 bytes from 129.137.3.95: icmp_seq=43 ttl=232 time=122 ms
+[1607862848.646579] 40 bytes from ucblueash.edu (129.137.3.95): icmp_seq=44 ttl=232 time=122 ms
+[1607862849.645722] 40 bytes from ucblueash.edu (129.137.3.95): icmp_seq=45 ttl=232 time=122 ms
+[1607862850.646233] 40 bytes from ucblueash.edu (129.137.3.95): icmp_seq=46 ttl=232 time=122 ms
+[1607862851.648508] 40 bytes from ucblueash.edu (129.137.3.95): icmp_seq=47 ttl=232 time=123 ms
+[1607862852.648099] 40 bytes from ucblueash.edu (129.137.3.95): icmp_seq=48 ttl=232 time=123 ms
+[1607862853.647997] 40 bytes from ucblueash.edu (129.137.3.95): icmp_seq=49 ttl=232 time=122 ms
+[1607862855.523004] 40 bytes from 129.137.3.95: icmp_seq=50 ttl=232 time=122 ms
+
+--- ucblueash.edu ping statistics ---
+50 packets transmitted, 50 received, 0% packet loss, time 150949ms
+rtt min/avg/max/mdev = 121.652/122.542/125.466/0.606 ms

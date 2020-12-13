@@ -1,0 +1,55 @@
+PING cos.edu (198.189.24.76) 32(60) bytes of data.
+[1607862694.246099] 40 bytes from 198.189.24.76: icmp_seq=1 ttl=47 time=180 ms
+[1607862704.434020] 40 bytes from 198.189.24.76: icmp_seq=2 ttl=47 time=180 ms
+[1607862710.318089] 40 bytes from 198.189.24.76: icmp_seq=3 ttl=47 time=180 ms
+[1607862720.506033] 40 bytes from 198.189.24.76: icmp_seq=4 ttl=47 time=181 ms
+[1607862720.856473] 40 bytes from 198.189.24.76: icmp_seq=5 ttl=47 time=180 ms
+[1607862726.694169] 40 bytes from 198.189.24.76: icmp_seq=6 ttl=47 time=180 ms
+[1607862731.878005] 40 bytes from 198.189.24.76: icmp_seq=7 ttl=47 time=180 ms
+[1607862737.064420] 40 bytes from 198.189.24.76: icmp_seq=8 ttl=47 time=180 ms
+[1607862747.254014] 40 bytes from 198.189.24.76: icmp_seq=9 ttl=47 time=181 ms
+[1607862747.438760] 40 bytes from 198.189.24.76: icmp_seq=10 ttl=47 time=181 ms
+[1607862748.438773] 40 bytes from 198.189.24.76: icmp_seq=11 ttl=47 time=180 ms
+[1607862749.439313] 40 bytes from 198.189.24.76: icmp_seq=12 ttl=47 time=180 ms
+[1607862760.442041] 40 bytes from 198.189.24.76: icmp_seq=13 ttl=47 time=180 ms
+[1607862770.630013] 40 bytes from 198.189.24.76: icmp_seq=14 ttl=47 time=180 ms
+[1607862780.819043] 40 bytes from 198.189.24.76: icmp_seq=15 ttl=47 time=181 ms
+[1607862791.006018] 40 bytes from 198.189.24.76: icmp_seq=16 ttl=47 time=180 ms
+[1607862796.190011] 40 bytes from 198.189.24.76: icmp_seq=17 ttl=47 time=180 ms
+[1607862796.373789] 40 bytes from 198.189.24.76: icmp_seq=18 ttl=47 time=180 ms
+[1607862807.378054] 40 bytes from 198.189.24.76: icmp_seq=19 ttl=47 time=179 ms
+[1607862812.563277] 40 bytes from 198.189.24.76: icmp_seq=20 ttl=47 time=180 ms
+[1607862822.750012] 40 bytes from 198.189.24.76: icmp_seq=21 ttl=47 time=180 ms
+[1607862832.938030] 40 bytes from 198.189.24.76: icmp_seq=22 ttl=47 time=180 ms
+[1607862838.124074] 40 bytes from 198.189.24.76: icmp_seq=23 ttl=47 time=181 ms
+[1607862843.308032] 40 bytes from 198.189.24.76: icmp_seq=24 ttl=47 time=181 ms
+[1607862848.492117] 40 bytes from 198.189.24.76: icmp_seq=25 ttl=47 time=180 ms
+[1607862853.678097] 40 bytes from 198.189.24.76: icmp_seq=26 ttl=47 time=180 ms
+[1607862853.861798] 40 bytes from 198.189.24.76: icmp_seq=27 ttl=47 time=180 ms
+[1607862864.865993] 40 bytes from 198.189.24.76: icmp_seq=28 ttl=47 time=180 ms
+[1607862875.054015] 40 bytes from 198.189.24.76: icmp_seq=29 ttl=47 time=181 ms
+[1607862875.238348] 40 bytes from 198.189.24.76: icmp_seq=30 ttl=47 time=180 ms
+[1607862881.242123] 40 bytes from 198.189.24.76: icmp_seq=31 ttl=47 time=180 ms
+[1607862881.426252] 40 bytes from 198.189.24.76: icmp_seq=32 ttl=47 time=180 ms
+[1607862882.426086] 40 bytes from 198.189.24.76: icmp_seq=33 ttl=47 time=180 ms
+[1607862883.427431] 40 bytes from 198.189.24.76: icmp_seq=34 ttl=47 time=180 ms
+[1607862884.427536] 40 bytes from 198.189.24.76: icmp_seq=35 ttl=47 time=180 ms
+[1607862885.428203] 40 bytes from 198.189.24.76: icmp_seq=36 ttl=47 time=180 ms
+[1607862886.429306] 40 bytes from 198.189.24.76: icmp_seq=37 ttl=47 time=180 ms
+[1607862887.429986] 40 bytes from 198.189.24.76: icmp_seq=38 ttl=47 time=180 ms
+[1607862888.430657] 40 bytes from 198.189.24.76: icmp_seq=39 ttl=47 time=180 ms
+[1607862889.432862] 40 bytes from 198.189.24.76: icmp_seq=40 ttl=47 time=180 ms
+[1607862890.434148] 40 bytes from 198.189.24.76: icmp_seq=41 ttl=47 time=180 ms
+[1607862891.435248] 40 bytes from 198.189.24.76: icmp_seq=42 ttl=47 time=180 ms
+[1607862892.436374] 40 bytes from 198.189.24.76: icmp_seq=43 ttl=47 time=180 ms
+[1607862893.437778] 40 bytes from 198.189.24.76: icmp_seq=44 ttl=47 time=180 ms
+[1607862894.438513] 40 bytes from 198.189.24.76: icmp_seq=45 ttl=47 time=180 ms
+[1607862895.438762] 40 bytes from 198.189.24.76: icmp_seq=46 ttl=47 time=181 ms
+[1607862896.440865] 40 bytes from 198.189.24.76: icmp_seq=47 ttl=47 time=181 ms
+[1607862897.440677] 40 bytes from 198.189.24.76: icmp_seq=48 ttl=47 time=180 ms
+[1607862898.441266] 40 bytes from 198.189.24.76: icmp_seq=49 ttl=47 time=180 ms
+[1607862899.443798] 40 bytes from 198.189.24.76: icmp_seq=50 ttl=47 time=181 ms
+
+--- cos.edu ping statistics ---
+50 packets transmitted, 50 received, 0% packet loss, time 215201ms
+rtt min/avg/max/mdev = 179.484/180.272/180.834/0.286 ms

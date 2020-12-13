@@ -1,0 +1,55 @@
+PING mnstate.edu (199.17.81.1) 32(60) bytes of data.
+[1607862691.720783] 40 bytes from 199.17.81.1 (199.17.81.1): icmp_seq=1 ttl=105 time=128 ms
+[1607862701.854928] 40 bytes from 199.17.81.1: icmp_seq=2 ttl=105 time=127 ms
+[1607862701.984460] 40 bytes from 199.17.81.1 (199.17.81.1): icmp_seq=3 ttl=105 time=127 ms
+[1607862712.990019] 40 bytes from 199.17.81.1: icmp_seq=4 ttl=105 time=127 ms
+[1607862713.120331] 40 bytes from 199.17.81.1 (199.17.81.1): icmp_seq=5 ttl=105 time=128 ms
+[1607862724.121995] 40 bytes from 199.17.81.1: icmp_seq=6 ttl=105 time=128 ms
+[1607862734.258955] 40 bytes from 199.17.81.1: icmp_seq=7 ttl=105 time=127 ms
+[1607862734.388367] 40 bytes from 199.17.81.1 (199.17.81.1): icmp_seq=8 ttl=105 time=127 ms
+[1607862735.388216] 40 bytes from 199.17.81.1 (199.17.81.1): icmp_seq=9 ttl=105 time=128 ms
+[1607862741.391405] 40 bytes from 199.17.81.1 (199.17.81.1): icmp_seq=10 ttl=105 time=127 ms
+[1607862746.524642] 40 bytes from 199.17.81.1 (199.17.81.1): icmp_seq=11 ttl=105 time=127 ms
+[1607862756.662022] 40 bytes from 199.17.81.1: icmp_seq=12 ttl=105 time=128 ms
+[1607862761.796227] 40 bytes from 199.17.81.1 (199.17.81.1): icmp_seq=13 ttl=105 time=127 ms
+[1607862771.930025] 40 bytes from 199.17.81.1: icmp_seq=14 ttl=105 time=127 ms
+[1607862777.064172] 40 bytes from 199.17.81.1 (199.17.81.1): icmp_seq=15 ttl=105 time=127 ms
+[1607862782.196715] 40 bytes from 199.17.81.1 (199.17.81.1): icmp_seq=16 ttl=105 time=127 ms
+[1607862782.325869] 40 bytes from 199.17.81.1 (199.17.81.1): icmp_seq=17 ttl=105 time=127 ms
+[1607862783.326951] 40 bytes from 199.17.81.1 (199.17.81.1): icmp_seq=18 ttl=105 time=127 ms
+[1607862784.329355] 40 bytes from 199.17.81.1 (199.17.81.1): icmp_seq=19 ttl=105 time=127 ms
+[1607862785.330923] 40 bytes from 199.17.81.1 (199.17.81.1): icmp_seq=20 ttl=105 time=127 ms
+[1607862791.335841] 40 bytes from 199.17.81.1 (199.17.81.1): icmp_seq=21 ttl=105 time=127 ms
+[1607862791.464966] 40 bytes from 199.17.81.1 (199.17.81.1): icmp_seq=22 ttl=105 time=127 ms
+[1607862792.464224] 40 bytes from 199.17.81.1 (199.17.81.1): icmp_seq=23 ttl=105 time=127 ms
+[1607862793.465783] 40 bytes from 199.17.81.1 (199.17.81.1): icmp_seq=24 ttl=105 time=127 ms
+[1607862794.466159] 40 bytes from 199.17.81.1 (199.17.81.1): icmp_seq=25 ttl=105 time=127 ms
+[1607862795.467790] 40 bytes from 199.17.81.1 (199.17.81.1): icmp_seq=26 ttl=105 time=128 ms
+[1607862801.471961] 40 bytes from 199.17.81.1 (199.17.81.1): icmp_seq=27 ttl=105 time=127 ms
+[1607862806.604298] 40 bytes from 199.17.81.1 (199.17.81.1): icmp_seq=28 ttl=105 time=127 ms
+[1607862806.733663] 40 bytes from 199.17.81.1 (199.17.81.1): icmp_seq=29 ttl=105 time=128 ms
+[1607862812.736021] 40 bytes from 199.17.81.1 (199.17.81.1): icmp_seq=30 ttl=105 time=127 ms
+[1607862812.865818] 40 bytes from 199.17.81.1 (199.17.81.1): icmp_seq=31 ttl=105 time=128 ms
+[1607862813.866485] 40 bytes from 199.17.81.1 (199.17.81.1): icmp_seq=32 ttl=105 time=128 ms
+[1607862814.867676] 40 bytes from 199.17.81.1 (199.17.81.1): icmp_seq=33 ttl=105 time=127 ms
+[1607862815.868494] 40 bytes from 199.17.81.1 (199.17.81.1): icmp_seq=34 ttl=105 time=127 ms
+[1607862816.869147] 40 bytes from 199.17.81.1 (199.17.81.1): icmp_seq=35 ttl=105 time=127 ms
+[1607862827.874089] 40 bytes from 199.17.81.1: icmp_seq=36 ttl=105 time=127 ms
+[1607862838.074017] 40 bytes from 199.17.81.1: icmp_seq=37 ttl=105 time=194 ms
+[1607862843.205885] 40 bytes from 199.17.81.1 (199.17.81.1): icmp_seq=38 ttl=105 time=127 ms
+[1607862843.334941] 40 bytes from 199.17.81.1 (199.17.81.1): icmp_seq=39 ttl=105 time=128 ms
+[1607862854.342014] 40 bytes from 199.17.81.1: icmp_seq=40 ttl=105 time=128 ms
+[1607862864.478008] 40 bytes from 199.17.81.1: icmp_seq=41 ttl=105 time=127 ms
+[1607862869.612158] 40 bytes from 199.17.81.1 (199.17.81.1): icmp_seq=42 ttl=105 time=128 ms
+[1607862869.741441] 40 bytes from 199.17.81.1 (199.17.81.1): icmp_seq=43 ttl=105 time=127 ms
+[1607862870.742908] 40 bytes from 199.17.81.1 (199.17.81.1): icmp_seq=44 ttl=105 time=127 ms
+[1607862871.743442] 40 bytes from 199.17.81.1 (199.17.81.1): icmp_seq=45 ttl=105 time=127 ms
+[1607862872.744075] 40 bytes from 199.17.81.1 (199.17.81.1): icmp_seq=46 ttl=105 time=127 ms
+[1607862873.745401] 40 bytes from 199.17.81.1 (199.17.81.1): icmp_seq=47 ttl=105 time=127 ms
+[1607862874.746088] 40 bytes from 199.17.81.1 (199.17.81.1): icmp_seq=48 ttl=105 time=127 ms
+[1607862880.752081] 40 bytes from 199.17.81.1 (199.17.81.1): icmp_seq=49 ttl=105 time=127 ms
+[1607862880.881068] 40 bytes from 199.17.81.1 (199.17.81.1): icmp_seq=50 ttl=105 time=127 ms
+
+--- mnstate.edu ping statistics ---
+50 packets transmitted, 50 received, 0% packet loss, time 194548ms
+rtt min/avg/max/mdev = 126.685/128.628/194.053/9.350 ms

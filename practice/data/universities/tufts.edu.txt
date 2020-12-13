@@ -1,0 +1,55 @@
+PING tufts.edu (23.185.0.2) 32(60) bytes of data.
+[1607862682.975364] 40 bytes from 23.185.0.2 (23.185.0.2): icmp_seq=1 ttl=54 time=28.1 ms
+[1607862693.978019] 40 bytes from 23.185.0.2: icmp_seq=2 ttl=54 time=27.2 ms
+[1607862694.007716] 40 bytes from 23.185.0.2 (23.185.0.2): icmp_seq=3 ttl=54 time=27.7 ms
+[1607862695.007198] 40 bytes from 23.185.0.2 (23.185.0.2): icmp_seq=4 ttl=54 time=27.4 ms
+[1607862706.013999] 40 bytes from 23.185.0.2: icmp_seq=5 ttl=54 time=28.0 ms
+[1607862711.047917] 40 bytes from 23.185.0.2 (23.185.0.2): icmp_seq=6 ttl=54 time=28.0 ms
+[1607862711.078403] 40 bytes from 23.185.0.2 (23.185.0.2): icmp_seq=7 ttl=54 time=27.9 ms
+[1607862722.082028] 40 bytes from 23.185.0.2: icmp_seq=8 ttl=54 time=27.2 ms
+[1607862727.115977] 40 bytes from 23.185.0.2 (23.185.0.2): icmp_seq=9 ttl=54 time=28.1 ms
+[1607862727.146339] 40 bytes from 23.185.0.2 (23.185.0.2): icmp_seq=10 ttl=54 time=28.1 ms
+[1607862728.145508] 40 bytes from 23.185.0.2 (23.185.0.2): icmp_seq=11 ttl=54 time=27.2 ms
+[1607862739.154093] 40 bytes from 23.185.0.2: icmp_seq=12 ttl=54 time=27.7 ms
+[1607862739.184267] 40 bytes from 23.185.0.2 (23.185.0.2): icmp_seq=13 ttl=54 time=28.1 ms
+[1607862740.185858] 40 bytes from 23.185.0.2 (23.185.0.2): icmp_seq=14 ttl=54 time=28.0 ms
+[1607862741.184903] 40 bytes from 23.185.0.2 (23.185.0.2): icmp_seq=15 ttl=54 time=28.0 ms
+[1607862752.190030] 40 bytes from 23.185.0.2: icmp_seq=16 ttl=54 time=27.8 ms
+[1607862762.226135] 40 bytes from 23.185.0.2: icmp_seq=17 ttl=54 time=27.9 ms
+[1607862772.262022] 40 bytes from 23.185.0.2: icmp_seq=18 ttl=54 time=28.1 ms
+[1607862777.296005] 40 bytes from 23.185.0.2 (23.185.0.2): icmp_seq=19 ttl=54 time=27.2 ms
+[1607862777.325586] 40 bytes from 23.185.0.2 (23.185.0.2): icmp_seq=20 ttl=54 time=28.0 ms
+[1607862778.324922] 40 bytes from 23.185.0.2 (23.185.0.2): icmp_seq=21 ttl=54 time=27.3 ms
+[1607862779.325100] 40 bytes from 23.185.0.2 (23.185.0.2): icmp_seq=22 ttl=54 time=28.1 ms
+[1607862780.324846] 40 bytes from 23.185.0.2 (23.185.0.2): icmp_seq=23 ttl=54 time=27.9 ms
+[1607862791.330148] 40 bytes from 23.185.0.2: icmp_seq=24 ttl=54 time=28.3 ms
+[1607862796.363129] 40 bytes from 23.185.0.2 (23.185.0.2): icmp_seq=25 ttl=54 time=28.0 ms
+[1607862801.395929] 40 bytes from 23.185.0.2 (23.185.0.2): icmp_seq=26 ttl=54 time=28.1 ms
+[1607862801.425993] 40 bytes from 23.185.0.2 (23.185.0.2): icmp_seq=27 ttl=54 time=28.0 ms
+[1607862802.426044] 40 bytes from 23.185.0.2 (23.185.0.2): icmp_seq=28 ttl=54 time=27.2 ms
+[1607862803.428026] 40 bytes from 23.185.0.2 (23.185.0.2): icmp_seq=29 ttl=54 time=27.8 ms
+[1607862804.430133] 40 bytes from 23.185.0.2 (23.185.0.2): icmp_seq=30 ttl=54 time=28.1 ms
+[1607862805.430988] 40 bytes from 23.185.0.2 (23.185.0.2): icmp_seq=31 ttl=54 time=28.2 ms
+[1607862806.432264] 40 bytes from 23.185.0.2 (23.185.0.2): icmp_seq=32 ttl=54 time=28.0 ms
+[1607862812.436827] 40 bytes from 23.185.0.2 (23.185.0.2): icmp_seq=33 ttl=54 time=28.1 ms
+[1607862822.474027] 40 bytes from 23.185.0.2: icmp_seq=34 ttl=54 time=27.2 ms
+[1607862822.504028] 40 bytes from 23.185.0.2 (23.185.0.2): icmp_seq=35 ttl=54 time=27.8 ms
+[1607862823.504224] 40 bytes from 23.185.0.2 (23.185.0.2): icmp_seq=36 ttl=54 time=28.3 ms
+[1607862824.504374] 40 bytes from 23.185.0.2 (23.185.0.2): icmp_seq=37 ttl=54 time=28.1 ms
+[1607862825.504964] 40 bytes from 23.185.0.2 (23.185.0.2): icmp_seq=38 ttl=54 time=27.2 ms
+[1607862826.507208] 40 bytes from 23.185.0.2 (23.185.0.2): icmp_seq=39 ttl=54 time=28.2 ms
+[1607862827.506985] 40 bytes from 23.185.0.2 (23.185.0.2): icmp_seq=40 ttl=54 time=28.0 ms
+[1607862833.511738] 40 bytes from 23.185.0.2 (23.185.0.2): icmp_seq=41 ttl=54 time=28.2 ms
+[1607862843.546031] 40 bytes from 23.185.0.2: icmp_seq=42 ttl=54 time=27.9 ms
+[1607862843.576298] 40 bytes from 23.185.0.2 (23.185.0.2): icmp_seq=43 ttl=54 time=28.3 ms
+[1607862844.577483] 40 bytes from 23.185.0.2 (23.185.0.2): icmp_seq=44 ttl=54 time=28.0 ms
+[1607862845.579603] 40 bytes from 23.185.0.2 (23.185.0.2): icmp_seq=45 ttl=54 time=27.6 ms
+[1607862846.578921] 40 bytes from 23.185.0.2 (23.185.0.2): icmp_seq=46 ttl=54 time=27.3 ms
+[1607862847.577891] 40 bytes from 23.185.0.2 (23.185.0.2): icmp_seq=47 ttl=54 time=27.7 ms
+[1607862848.577924] 40 bytes from 23.185.0.2 (23.185.0.2): icmp_seq=48 ttl=54 time=28.0 ms
+[1607862859.582054] 40 bytes from 23.185.0.2: icmp_seq=49 ttl=54 time=27.9 ms
+[1607862860.582098] 40 bytes from 23.185.0.2: icmp_seq=50 ttl=54 time=28.1 ms
+
+--- tufts.edu ping statistics ---
+50 packets transmitted, 50 received, 0% packet loss, time 176637ms
+rtt min/avg/max/mdev = 27.158/27.854/28.273/0.339 ms

@@ -1,0 +1,55 @@
+PING jmu.edu (134.126.10.50) 32(60) bytes of data.
+[1607862716.582029] 40 bytes from 134.126.10.50: icmp_seq=1 ttl=48 time=108 ms
+[1607862716.691706] 40 bytes from athletics.jmu.edu (134.126.10.50): icmp_seq=2 ttl=48 time=108 ms
+[1607862717.692236] 40 bytes from jmu.edu (134.126.10.50): icmp_seq=3 ttl=48 time=108 ms
+[1607862718.691434] 40 bytes from jmu.edu (134.126.10.50): icmp_seq=4 ttl=48 time=107 ms
+[1607862724.694701] 40 bytes from jmu.edu (134.126.10.50): icmp_seq=5 ttl=48 time=108 ms
+[1607862734.810507] 40 bytes from 134.126.10.50: icmp_seq=6 ttl=48 time=108 ms
+[1607862739.924696] 40 bytes from athletics.jmu.edu (134.126.10.50): icmp_seq=7 ttl=48 time=108 ms
+[1607862740.033784] 40 bytes from jmu.edu (134.126.10.50): icmp_seq=8 ttl=48 time=107 ms
+[1607862741.033993] 40 bytes from jmu.edu (134.126.10.50): icmp_seq=9 ttl=48 time=108 ms
+[1607862742.033734] 40 bytes from jmu.edu (134.126.10.50): icmp_seq=10 ttl=48 time=108 ms
+[1607862743.034779] 40 bytes from athletics.jmu.edu (134.126.10.50): icmp_seq=11 ttl=48 time=108 ms
+[1607862744.034403] 40 bytes from athletics.jmu.edu (134.126.10.50): icmp_seq=12 ttl=48 time=107 ms
+[1607862745.034220] 40 bytes from jmu.edu (134.126.10.50): icmp_seq=13 ttl=48 time=107 ms
+[1607862746.035469] 40 bytes from athletics.jmu.edu (134.126.10.50): icmp_seq=14 ttl=48 time=108 ms
+[1607862747.035357] 40 bytes from jmu.edu (134.126.10.50): icmp_seq=15 ttl=48 time=108 ms
+[1607862748.036052] 40 bytes from athletics.jmu.edu (134.126.10.50): icmp_seq=16 ttl=48 time=108 ms
+[1607862749.035272] 40 bytes from jmu.edu (134.126.10.50): icmp_seq=17 ttl=48 time=108 ms
+[1607862750.034645] 40 bytes from athletics.jmu.edu (134.126.10.50): icmp_seq=18 ttl=48 time=108 ms
+[1607862751.034237] 40 bytes from jmu.edu (134.126.10.50): icmp_seq=19 ttl=48 time=108 ms
+[1607862752.034313] 40 bytes from athletics.jmu.edu (134.126.10.50): icmp_seq=20 ttl=48 time=108 ms
+[1607862753.034124] 40 bytes from athletics.jmu.edu (134.126.10.50): icmp_seq=21 ttl=48 time=108 ms
+[1607862754.033519] 40 bytes from athletics.jmu.edu (134.126.10.50): icmp_seq=22 ttl=48 time=108 ms
+[1607862755.033686] 40 bytes from jmu.edu (134.126.10.50): icmp_seq=23 ttl=48 time=108 ms
+[1607862761.035890] 40 bytes from athletics.jmu.edu (134.126.10.50): icmp_seq=24 ttl=48 time=108 ms
+[1607862761.146092] 40 bytes from jmu.edu (134.126.10.50): icmp_seq=25 ttl=48 time=108 ms
+[1607862772.154019] 40 bytes from 134.126.10.50: icmp_seq=26 ttl=48 time=108 ms
+[1607862777.267185] 40 bytes from athletics.jmu.edu (134.126.10.50): icmp_seq=27 ttl=48 time=108 ms
+[1607862777.377540] 40 bytes from jmu.edu (134.126.10.50): icmp_seq=28 ttl=48 time=108 ms
+[1607862778.377217] 40 bytes from athletics.jmu.edu (134.126.10.50): icmp_seq=29 ttl=48 time=108 ms
+[1607862779.376976] 40 bytes from athletics.jmu.edu (134.126.10.50): icmp_seq=30 ttl=48 time=108 ms
+[1607862780.376302] 40 bytes from athletics.jmu.edu (134.126.10.50): icmp_seq=31 ttl=48 time=108 ms
+[1607862791.382004] 40 bytes from 134.126.10.50: icmp_seq=32 ttl=48 time=108 ms
+[1607862801.498033] 40 bytes from 134.126.10.50: icmp_seq=33 ttl=48 time=108 ms
+[1607862806.611706] 40 bytes from jmu.edu (134.126.10.50): icmp_seq=34 ttl=48 time=108 ms
+[1607862806.721463] 40 bytes from jmu.edu (134.126.10.50): icmp_seq=35 ttl=48 time=108 ms
+[1607862817.726152] 40 bytes from 134.126.10.50: icmp_seq=36 ttl=48 time=108 ms
+[1607862817.835790] 40 bytes from jmu.edu (134.126.10.50): icmp_seq=37 ttl=48 time=108 ms
+[1607862818.836040] 40 bytes from jmu.edu (134.126.10.50): icmp_seq=38 ttl=48 time=108 ms
+[1607862819.836046] 40 bytes from athletics.jmu.edu (134.126.10.50): icmp_seq=39 ttl=48 time=108 ms
+[1607862820.836539] 40 bytes from jmu.edu (134.126.10.50): icmp_seq=40 ttl=48 time=108 ms
+[1607862821.835498] 40 bytes from athletics.jmu.edu (134.126.10.50): icmp_seq=41 ttl=48 time=108 ms
+[1607862832.842039] 40 bytes from 134.126.10.50: icmp_seq=42 ttl=48 time=108 ms
+[1607862832.951921] 40 bytes from jmu.edu (134.126.10.50): icmp_seq=43 ttl=48 time=108 ms
+[1607862843.958011] 40 bytes from 134.126.10.50: icmp_seq=44 ttl=48 time=108 ms
+[1607862854.074067] 40 bytes from 134.126.10.50: icmp_seq=45 ttl=48 time=108 ms
+[1607862854.183941] 40 bytes from athletics.jmu.edu (134.126.10.50): icmp_seq=46 ttl=48 time=108 ms
+[1607862855.185585] 40 bytes from jmu.edu (134.126.10.50): icmp_seq=47 ttl=48 time=108 ms
+[1607862856.186624] 40 bytes from athletics.jmu.edu (134.126.10.50): icmp_seq=48 ttl=48 time=108 ms
+[1607862857.188158] 40 bytes from athletics.jmu.edu (134.126.10.50): icmp_seq=49 ttl=48 time=108 ms
+[1607862858.189146] 40 bytes from jmu.edu (134.126.10.50): icmp_seq=50 ttl=48 time=108 ms
+
+--- jmu.edu ping statistics ---
+50 packets transmitted, 50 received, 0% packet loss, time 151613ms
+rtt min/avg/max/mdev = 107.169/107.924/108.421/0.256 ms

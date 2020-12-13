@@ -1,0 +1,54 @@
+PING uscb.edu (72.52.156.11) 32(60) bytes of data.
+[1607862700.180400] 40 bytes from host.uscb.edu (72.52.156.11): icmp_seq=1 ttl=49 time=124 ms
+[1607862701.182623] 40 bytes from host.uscb.edu (72.52.156.11): icmp_seq=2 ttl=49 time=124 ms
+[1607862707.187610] 40 bytes from host.uscb.edu (72.52.156.11): icmp_seq=3 ttl=49 time=125 ms
+[1607862717.320487] 40 bytes from 72.52.156.11: icmp_seq=4 ttl=49 time=124 ms
+[1607862717.446979] 40 bytes from host.uscb.edu (72.52.156.11): icmp_seq=5 ttl=49 time=124 ms
+[1607862718.446293] 40 bytes from host.uscb.edu (72.52.156.11): icmp_seq=6 ttl=49 time=124 ms
+[1607862729.450018] 40 bytes from 72.52.156.11: icmp_seq=7 ttl=49 time=124 ms
+[1607862740.581988] 40 bytes from 72.52.156.11: icmp_seq=9 ttl=49 time=124 ms
+[1607862745.711785] 40 bytes from host.uscb.edu (72.52.156.11): icmp_seq=10 ttl=49 time=124 ms
+[1607862750.840005] 40 bytes from host.uscb.edu (72.52.156.11): icmp_seq=11 ttl=49 time=124 ms
+[1607862755.967645] 40 bytes from host.uscb.edu (72.52.156.11): icmp_seq=12 ttl=49 time=124 ms
+[1607862756.094417] 40 bytes from host.uscb.edu (72.52.156.11): icmp_seq=13 ttl=49 time=125 ms
+[1607862762.095957] 40 bytes from host.uscb.edu (72.52.156.11): icmp_seq=14 ttl=49 time=124 ms
+[1607862772.226017] 40 bytes from 72.52.156.11: icmp_seq=15 ttl=49 time=124 ms
+[1607862777.356083] 40 bytes from host.uscb.edu (72.52.156.11): icmp_seq=16 ttl=49 time=124 ms
+[1607862782.483759] 40 bytes from host.uscb.edu (72.52.156.11): icmp_seq=17 ttl=49 time=124 ms
+[1607862792.614010] 40 bytes from 72.52.156.11: icmp_seq=18 ttl=49 time=124 ms
+[1607862802.746007] 40 bytes from 72.52.156.11: icmp_seq=19 ttl=49 time=124 ms
+[1607862807.876287] 40 bytes from host.uscb.edu (72.52.156.11): icmp_seq=20 ttl=49 time=124 ms
+[1607862818.010130] 40 bytes from 72.52.156.11: icmp_seq=21 ttl=49 time=124 ms
+[1607862818.135847] 40 bytes from host.uscb.edu (72.52.156.11): icmp_seq=22 ttl=49 time=124 ms
+[1607862819.138300] 40 bytes from host.uscb.edu (72.52.156.11): icmp_seq=23 ttl=49 time=125 ms
+[1607862820.139217] 40 bytes from host.uscb.edu (72.52.156.11): icmp_seq=24 ttl=49 time=125 ms
+[1607862821.140381] 40 bytes from host.uscb.edu (72.52.156.11): icmp_seq=25 ttl=49 time=125 ms
+[1607862822.141136] 40 bytes from host.uscb.edu (72.52.156.11): icmp_seq=26 ttl=49 time=125 ms
+[1607862833.150031] 40 bytes from 72.52.156.11: icmp_seq=27 ttl=49 time=125 ms
+[1607862843.282022] 40 bytes from 72.52.156.11: icmp_seq=28 ttl=49 time=124 ms
+[1607862848.411885] 40 bytes from host.uscb.edu (72.52.156.11): icmp_seq=29 ttl=49 time=124 ms
+[1607862848.537652] 40 bytes from host.uscb.edu (72.52.156.11): icmp_seq=30 ttl=49 time=124 ms
+[1607862854.543738] 40 bytes from host.uscb.edu (72.52.156.11): icmp_seq=31 ttl=49 time=125 ms
+[1607862864.674157] 40 bytes from 72.52.156.11: icmp_seq=32 ttl=49 time=124 ms
+[1607862869.804633] 40 bytes from host.uscb.edu (72.52.156.11): icmp_seq=33 ttl=49 time=124 ms
+[1607862874.936055] 40 bytes from host.uscb.edu (72.52.156.11): icmp_seq=34 ttl=49 time=125 ms
+[1607862875.062417] 40 bytes from host.uscb.edu (72.52.156.11): icmp_seq=35 ttl=49 time=124 ms
+[1607862876.062951] 40 bytes from host.uscb.edu (72.52.156.11): icmp_seq=36 ttl=49 time=124 ms
+[1607862877.063190] 40 bytes from host.uscb.edu (72.52.156.11): icmp_seq=37 ttl=49 time=125 ms
+[1607862878.062705] 40 bytes from host.uscb.edu (72.52.156.11): icmp_seq=38 ttl=49 time=124 ms
+[1607862879.062161] 40 bytes from host.uscb.edu (72.52.156.11): icmp_seq=39 ttl=49 time=125 ms
+[1607862880.062749] 40 bytes from host.uscb.edu (72.52.156.11): icmp_seq=40 ttl=49 time=125 ms
+[1607862881.062957] 40 bytes from host.uscb.edu (72.52.156.11): icmp_seq=41 ttl=49 time=125 ms
+[1607862887.067168] 40 bytes from host.uscb.edu (72.52.156.11): icmp_seq=42 ttl=49 time=124 ms
+[1607862887.194074] 40 bytes from host.uscb.edu (72.52.156.11): icmp_seq=43 ttl=49 time=125 ms
+[1607862888.195699] 40 bytes from host.uscb.edu (72.52.156.11): icmp_seq=44 ttl=49 time=125 ms
+[1607862889.196999] 40 bytes from host.uscb.edu (72.52.156.11): icmp_seq=45 ttl=49 time=125 ms
+[1607862890.198721] 40 bytes from host.uscb.edu (72.52.156.11): icmp_seq=46 ttl=49 time=125 ms
+[1607862891.199865] 40 bytes from host.uscb.edu (72.52.156.11): icmp_seq=47 ttl=49 time=124 ms
+[1607862892.200588] 40 bytes from host.uscb.edu (72.52.156.11): icmp_seq=48 ttl=49 time=124 ms
+[1607862893.200744] 40 bytes from host.uscb.edu (72.52.156.11): icmp_seq=49 ttl=49 time=124 ms
+[1607862894.201685] 40 bytes from host.uscb.edu (72.52.156.11): icmp_seq=50 ttl=49 time=124 ms
+
+--- uscb.edu ping statistics ---
+50 packets transmitted, 49 received, 2% packet loss, time 194021ms
+rtt min/avg/max/mdev = 123.662/124.352/124.865/0.258 ms

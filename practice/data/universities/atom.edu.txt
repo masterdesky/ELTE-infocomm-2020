@@ -1,0 +1,55 @@
+PING atom.edu (173.236.152.103) 32(60) bytes of data.
+[1607862687.344323] 40 bytes from apache2-ichiban.dori.dreamhost.com (173.236.152.103): icmp_seq=1 ttl=44 time=111 ms
+[1607862687.814544] 40 bytes from apache2-ichiban.dori.dreamhost.com (173.236.152.103): icmp_seq=2 ttl=44 time=111 ms
+[1607862698.823323] 40 bytes from 173.236.152.103: icmp_seq=3 ttl=44 time=111 ms
+[1607862698.936193] 40 bytes from apache2-ichiban.dori.dreamhost.com (173.236.152.103): icmp_seq=4 ttl=44 time=111 ms
+[1607862709.942094] 40 bytes from 173.236.152.103: icmp_seq=5 ttl=44 time=111 ms
+[1607862710.054999] 40 bytes from apache2-ichiban.dori.dreamhost.com (173.236.152.103): icmp_seq=6 ttl=44 time=111 ms
+[1607862721.058093] 40 bytes from 173.236.152.103: icmp_seq=7 ttl=44 time=110 ms
+[1607862721.172356] 40 bytes from apache2-ichiban.dori.dreamhost.com (173.236.152.103): icmp_seq=8 ttl=44 time=111 ms
+[1607862727.175937] 40 bytes from apache2-ichiban.dori.dreamhost.com (173.236.152.103): icmp_seq=9 ttl=44 time=110 ms
+[1607862737.294227] 40 bytes from 173.236.152.103: icmp_seq=10 ttl=44 time=111 ms
+[1607862742.412505] 40 bytes from apache2-ichiban.dori.dreamhost.com (173.236.152.103): icmp_seq=11 ttl=44 time=111 ms
+[1607862742.525271] 40 bytes from apache2-ichiban.dori.dreamhost.com (173.236.152.103): icmp_seq=12 ttl=44 time=111 ms
+[1607862743.526031] 40 bytes from apache2-ichiban.dori.dreamhost.com (173.236.152.103): icmp_seq=13 ttl=44 time=110 ms
+[1607862754.534002] 40 bytes from 173.236.152.103: icmp_seq=14 ttl=44 time=111 ms
+[1607862754.645872] 40 bytes from apache2-ichiban.dori.dreamhost.com (173.236.152.103): icmp_seq=15 ttl=44 time=110 ms
+[1607862755.647680] 40 bytes from apache2-ichiban.dori.dreamhost.com (173.236.152.103): icmp_seq=16 ttl=44 time=111 ms
+[1607862766.653995] 40 bytes from 173.236.152.103: icmp_seq=17 ttl=44 time=111 ms
+[1607862766.767277] 40 bytes from apache2-ichiban.dori.dreamhost.com (173.236.152.103): icmp_seq=18 ttl=44 time=111 ms
+[1607862767.767693] 40 bytes from apache2-ichiban.dori.dreamhost.com (173.236.152.103): icmp_seq=19 ttl=44 time=110 ms
+[1607862768.768045] 40 bytes from apache2-ichiban.dori.dreamhost.com (173.236.152.103): icmp_seq=20 ttl=44 time=111 ms
+[1607862769.768604] 40 bytes from apache2-ichiban.dori.dreamhost.com (173.236.152.103): icmp_seq=21 ttl=44 time=111 ms
+[1607862780.774005] 40 bytes from 173.236.152.103: icmp_seq=22 ttl=44 time=111 ms
+[1607862785.892374] 40 bytes from apache2-ichiban.dori.dreamhost.com (173.236.152.103): icmp_seq=23 ttl=44 time=111 ms
+[1607862791.007722] 40 bytes from apache2-ichiban.dori.dreamhost.com (173.236.152.103): icmp_seq=24 ttl=44 time=111 ms
+[1607862791.120093] 40 bytes from apache2-ichiban.dori.dreamhost.com (173.236.152.103): icmp_seq=25 ttl=44 time=110 ms
+[1607862802.126101] 40 bytes from 173.236.152.103: icmp_seq=26 ttl=44 time=111 ms
+[1607862812.242043] 40 bytes from 173.236.152.103: icmp_seq=27 ttl=44 time=111 ms
+[1607862812.354949] 40 bytes from apache2-ichiban.dori.dreamhost.com (173.236.152.103): icmp_seq=28 ttl=44 time=111 ms
+[1607862813.356661] 40 bytes from apache2-ichiban.dori.dreamhost.com (173.236.152.103): icmp_seq=29 ttl=44 time=111 ms
+[1607862814.358526] 40 bytes from apache2-ichiban.dori.dreamhost.com (173.236.152.103): icmp_seq=30 ttl=44 time=111 ms
+[1607862815.358919] 40 bytes from apache2-ichiban.dori.dreamhost.com (173.236.152.103): icmp_seq=31 ttl=44 time=110 ms
+[1607862816.361070] 40 bytes from apache2-ichiban.dori.dreamhost.com (173.236.152.103): icmp_seq=32 ttl=44 time=111 ms
+[1607862822.365150] 40 bytes from apache2-ichiban.dori.dreamhost.com (173.236.152.103): icmp_seq=33 ttl=44 time=110 ms
+[1607862822.477212] 40 bytes from apache2-ichiban.dori.dreamhost.com (173.236.152.103): icmp_seq=34 ttl=44 time=111 ms
+[1607862823.477919] 40 bytes from apache2-ichiban.dori.dreamhost.com (173.236.152.103): icmp_seq=35 ttl=44 time=111 ms
+[1607862824.478179] 40 bytes from apache2-ichiban.dori.dreamhost.com (173.236.152.103): icmp_seq=36 ttl=44 time=110 ms
+[1607862825.479784] 40 bytes from apache2-ichiban.dori.dreamhost.com (173.236.152.103): icmp_seq=37 ttl=44 time=111 ms
+[1607862826.481173] 40 bytes from apache2-ichiban.dori.dreamhost.com (173.236.152.103): icmp_seq=38 ttl=44 time=110 ms
+[1607862827.480865] 40 bytes from apache2-ichiban.dori.dreamhost.com (173.236.152.103): icmp_seq=39 ttl=44 time=111 ms
+[1607862833.483963] 40 bytes from apache2-ichiban.dori.dreamhost.com (173.236.152.103): icmp_seq=40 ttl=44 time=110 ms
+[1607862843.602060] 40 bytes from 173.236.152.103: icmp_seq=41 ttl=44 time=111 ms
+[1607862843.714330] 40 bytes from apache2-ichiban.dori.dreamhost.com (173.236.152.103): icmp_seq=42 ttl=44 time=110 ms
+[1607862844.715804] 40 bytes from apache2-ichiban.dori.dreamhost.com (173.236.152.103): icmp_seq=43 ttl=44 time=111 ms
+[1607862845.716132] 40 bytes from apache2-ichiban.dori.dreamhost.com (173.236.152.103): icmp_seq=44 ttl=44 time=111 ms
+[1607862846.716311] 40 bytes from apache2-ichiban.dori.dreamhost.com (173.236.152.103): icmp_seq=45 ttl=44 time=111 ms
+[1607862847.715035] 40 bytes from apache2-ichiban.dori.dreamhost.com (173.236.152.103): icmp_seq=46 ttl=44 time=111 ms
+[1607862848.715349] 40 bytes from apache2-ichiban.dori.dreamhost.com (173.236.152.103): icmp_seq=47 ttl=44 time=110 ms
+[1607862849.715220] 40 bytes from apache2-ichiban.dori.dreamhost.com (173.236.152.103): icmp_seq=48 ttl=44 time=111 ms
+[1607862850.716660] 40 bytes from apache2-ichiban.dori.dreamhost.com (173.236.152.103): icmp_seq=49 ttl=44 time=111 ms
+[1607862851.718827] 40 bytes from apache2-ichiban.dori.dreamhost.com (173.236.152.103): icmp_seq=50 ttl=44 time=111 ms
+
+--- atom.edu ping statistics ---
+50 packets transmitted, 50 received, 0% packet loss, time 164903ms
+rtt min/avg/max/mdev = 109.869/110.541/110.952/0.241 ms

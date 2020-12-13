@@ -1,0 +1,55 @@
+PING carnegiescience.edu (192.70.249.137) 32(60) bytes of data.
+[1607862681.601670] 40 bytes from 192-70-249-137.carnegiescience.edu (192.70.249.137): icmp_seq=1 ttl=44 time=114 ms
+[1607862692.610042] 40 bytes from 192.70.249.137: icmp_seq=2 ttl=44 time=114 ms
+[1607862692.725922] 40 bytes from 192-70-249-137.carnegiescience.edu (192.70.249.137): icmp_seq=3 ttl=44 time=114 ms
+[1607862693.727451] 40 bytes from 192-70-249-137.carnegiescience.edu (192.70.249.137): icmp_seq=4 ttl=44 time=114 ms
+[1607862704.734042] 40 bytes from 192.70.249.137: icmp_seq=5 ttl=44 time=113 ms
+[1607862714.854028] 40 bytes from 192.70.249.137: icmp_seq=6 ttl=44 time=113 ms
+[1607862724.974023] 40 bytes from 192.70.249.137: icmp_seq=7 ttl=44 time=113 ms
+[1607862730.094420] 40 bytes from 192-70-249-137.carnegiescience.edu (192.70.249.137): icmp_seq=8 ttl=44 time=114 ms
+[1607862730.210608] 40 bytes from 192-70-249-137.carnegiescience.edu (192.70.249.137): icmp_seq=9 ttl=44 time=114 ms
+[1607862736.215244] 40 bytes from 192-70-249-137.carnegiescience.edu (192.70.249.137): icmp_seq=10 ttl=44 time=114 ms
+[1607862746.338041] 40 bytes from 192.70.249.137: icmp_seq=11 ttl=44 time=113 ms
+[1607862746.453678] 40 bytes from 192-70-249-137.carnegiescience.edu (192.70.249.137): icmp_seq=12 ttl=44 time=113 ms
+[1607862747.455552] 40 bytes from 192-70-249-137.carnegiescience.edu (192.70.249.137): icmp_seq=13 ttl=44 time=114 ms
+[1607862748.455249] 40 bytes from 192-70-249-137.carnegiescience.edu (192.70.249.137): icmp_seq=14 ttl=44 time=114 ms
+[1607862749.456620] 40 bytes from 192-70-249-137.carnegiescience.edu (192.70.249.137): icmp_seq=15 ttl=44 time=114 ms
+[1607862760.462036] 40 bytes from 192.70.249.137: icmp_seq=16 ttl=44 time=113 ms
+[1607862760.577662] 40 bytes from 192-70-249-137.carnegiescience.edu (192.70.249.137): icmp_seq=17 ttl=44 time=114 ms
+[1607862761.577033] 40 bytes from 192-70-249-137.carnegiescience.edu (192.70.249.137): icmp_seq=18 ttl=44 time=114 ms
+[1607862762.577037] 40 bytes from 192-70-249-137.carnegiescience.edu (192.70.249.137): icmp_seq=19 ttl=44 time=114 ms
+[1607862763.577370] 40 bytes from 192-70-249-137.carnegiescience.edu (192.70.249.137): icmp_seq=20 ttl=44 time=114 ms
+[1607862764.577478] 40 bytes from 192-70-249-137.carnegiescience.edu (192.70.249.137): icmp_seq=21 ttl=44 time=113 ms
+[1607862775.586013] 40 bytes from 192.70.249.137: icmp_seq=22 ttl=44 time=114 ms
+[1607862780.704106] 40 bytes from 192-70-249-137.carnegiescience.edu (192.70.249.137): icmp_seq=23 ttl=44 time=114 ms
+[1607862785.824103] 40 bytes from 192-70-249-137.carnegiescience.edu (192.70.249.137): icmp_seq=24 ttl=44 time=114 ms
+[1607862790.943612] 40 bytes from 192-70-249-137.carnegiescience.edu (192.70.249.137): icmp_seq=25 ttl=44 time=114 ms
+[1607862791.059197] 40 bytes from 192-70-249-137.carnegiescience.edu (192.70.249.137): icmp_seq=26 ttl=44 time=114 ms
+[1607862802.066044] 40 bytes from 192.70.249.137: icmp_seq=27 ttl=44 time=114 ms
+[1607862812.190029] 40 bytes from 192.70.249.137: icmp_seq=28 ttl=44 time=114 ms
+[1607862812.305467] 40 bytes from 192-70-249-137.carnegiescience.edu (192.70.249.137): icmp_seq=29 ttl=44 time=114 ms
+[1607862813.307403] 40 bytes from 192-70-249-137.carnegiescience.edu (192.70.249.137): icmp_seq=30 ttl=44 time=114 ms
+[1607862814.308541] 40 bytes from 192-70-249-137.carnegiescience.edu (192.70.249.137): icmp_seq=31 ttl=44 time=114 ms
+[1607862815.308557] 40 bytes from 192-70-249-137.carnegiescience.edu (192.70.249.137): icmp_seq=32 ttl=44 time=113 ms
+[1607862816.310805] 40 bytes from 192-70-249-137.carnegiescience.edu (192.70.249.137): icmp_seq=33 ttl=44 time=114 ms
+[1607862822.315156] 40 bytes from 192-70-249-137.carnegiescience.edu (192.70.249.137): icmp_seq=34 ttl=44 time=113 ms
+[1607862822.430300] 40 bytes from 192-70-249-137.carnegiescience.edu (192.70.249.137): icmp_seq=35 ttl=44 time=113 ms
+[1607862833.434058] 40 bytes from 192.70.249.137: icmp_seq=36 ttl=44 time=113 ms
+[1607862843.554533] 40 bytes from 192.70.249.137: icmp_seq=37 ttl=44 time=114 ms
+[1607862853.674048] 40 bytes from 192.70.249.137: icmp_seq=38 ttl=44 time=113 ms
+[1607862853.789788] 40 bytes from 192-70-249-137.carnegiescience.edu (192.70.249.137): icmp_seq=39 ttl=44 time=114 ms
+[1607862864.794037] 40 bytes from 192.70.249.137: icmp_seq=40 ttl=44 time=113 ms
+[1607862869.912043] 40 bytes from 192-70-249-137.carnegiescience.edu (192.70.249.137): icmp_seq=41 ttl=44 time=113 ms
+[1607862870.027429] 40 bytes from 192-70-249-137.carnegiescience.edu (192.70.249.137): icmp_seq=42 ttl=44 time=113 ms
+[1607862871.027241] 40 bytes from 192-70-249-137.carnegiescience.edu (192.70.249.137): icmp_seq=43 ttl=44 time=113 ms
+[1607862872.028639] 40 bytes from 192-70-249-137.carnegiescience.edu (192.70.249.137): icmp_seq=44 ttl=44 time=114 ms
+[1607862873.028118] 40 bytes from 192-70-249-137.carnegiescience.edu (192.70.249.137): icmp_seq=45 ttl=44 time=114 ms
+[1607862874.028477] 40 bytes from 192-70-249-137.carnegiescience.edu (192.70.249.137): icmp_seq=46 ttl=44 time=114 ms
+[1607862875.029187] 40 bytes from 192-70-249-137.carnegiescience.edu (192.70.249.137): icmp_seq=47 ttl=44 time=114 ms
+[1607862876.030638] 40 bytes from 192-70-249-137.carnegiescience.edu (192.70.249.137): icmp_seq=48 ttl=44 time=114 ms
+[1607862877.029749] 40 bytes from 192-70-249-137.carnegiescience.edu (192.70.249.137): icmp_seq=49 ttl=44 time=114 ms
+[1607862878.030985] 40 bytes from 192-70-249-137.carnegiescience.edu (192.70.249.137): icmp_seq=50 ttl=44 time=115 ms
+
+--- carnegiescience.edu ping statistics ---
+50 packets transmitted, 50 received, 0% packet loss, time 196428ms
+rtt min/avg/max/mdev = 112.730/113.537/114.551/0.314 ms

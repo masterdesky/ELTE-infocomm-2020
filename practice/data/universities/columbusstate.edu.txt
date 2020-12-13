@@ -1,0 +1,55 @@
+PING columbusstate.edu (168.26.226.206) 32(60) bytes of data.
+[1607862672.734636] 40 bytes from www.ColumbusState.EDU (168.26.226.206): icmp_seq=1 ttl=238 time=117 ms
+[1607862673.734643] 40 bytes from www.ColumbusState.EDU (168.26.226.206): icmp_seq=2 ttl=238 time=118 ms
+[1607862674.736698] 40 bytes from www.ColumbusState.EDU (168.26.226.206): icmp_seq=3 ttl=238 time=118 ms
+[1607862685.742274] 40 bytes from 168.26.226.206: icmp_seq=4 ttl=238 time=118 ms
+[1607862690.865206] 40 bytes from www.ColumbusState.EDU (168.26.226.206): icmp_seq=5 ttl=238 time=118 ms
+[1607862690.985772] 40 bytes from www.ColumbusState.EDU (168.26.226.206): icmp_seq=6 ttl=238 time=118 ms
+[1607862691.985067] 40 bytes from www.ColumbusState.EDU (168.26.226.206): icmp_seq=7 ttl=238 time=118 ms
+[1607862692.987288] 40 bytes from www.ColumbusState.EDU (168.26.226.206): icmp_seq=8 ttl=238 time=118 ms
+[1607862693.988512] 40 bytes from www.ColumbusState.EDU (168.26.226.206): icmp_seq=9 ttl=238 time=118 ms
+[1607862694.987528] 40 bytes from www.ColumbusState.EDU (168.26.226.206): icmp_seq=10 ttl=238 time=117 ms
+[1607862705.994689] 40 bytes from 168.26.226.206: icmp_seq=11 ttl=238 time=118 ms
+[1607862706.115497] 40 bytes from www.ColumbusState.EDU (168.26.226.206): icmp_seq=12 ttl=238 time=118 ms
+[1607862707.116009] 40 bytes from www.ColumbusState.EDU (168.26.226.206): icmp_seq=13 ttl=238 time=118 ms
+[1607862708.117402] 40 bytes from www.ColumbusState.EDU (168.26.226.206): icmp_seq=14 ttl=238 time=118 ms
+[1607862709.117486] 40 bytes from www.ColumbusState.EDU (168.26.226.206): icmp_seq=15 ttl=238 time=118 ms
+[1607862710.115640] 40 bytes from www.ColumbusState.EDU (168.26.226.206): icmp_seq=16 ttl=238 time=118 ms
+[1607862711.116784] 40 bytes from www.ColumbusState.EDU (168.26.226.206): icmp_seq=17 ttl=238 time=118 ms
+[1607862722.122026] 40 bytes from 168.26.226.206: icmp_seq=18 ttl=238 time=118 ms
+[1607862722.247573] 40 bytes from www.ColumbusState.EDU (168.26.226.206): icmp_seq=19 ttl=238 time=123 ms
+[1607862723.244066] 40 bytes from www.ColumbusState.EDU (168.26.226.206): icmp_seq=20 ttl=238 time=118 ms
+[1607862724.242300] 40 bytes from www.ColumbusState.EDU (168.26.226.206): icmp_seq=21 ttl=238 time=117 ms
+[1607862730.243665] 40 bytes from www.ColumbusState.EDU (168.26.226.206): icmp_seq=22 ttl=238 time=117 ms
+[1607862730.364577] 40 bytes from www.ColumbusState.EDU (168.26.226.206): icmp_seq=23 ttl=238 time=118 ms
+[1607862731.364939] 40 bytes from www.ColumbusState.EDU (168.26.226.206): icmp_seq=24 ttl=238 time=118 ms
+[1607862742.370035] 40 bytes from 168.26.226.206: icmp_seq=25 ttl=238 time=117 ms
+[1607862752.494016] 40 bytes from 168.26.226.206: icmp_seq=26 ttl=238 time=118 ms
+[1607862752.614458] 40 bytes from www.ColumbusState.EDU (168.26.226.206): icmp_seq=27 ttl=238 time=118 ms
+[1607862753.615811] 40 bytes from www.ColumbusState.EDU (168.26.226.206): icmp_seq=28 ttl=238 time=118 ms
+[1607862754.614526] 40 bytes from www.ColumbusState.EDU (168.26.226.206): icmp_seq=29 ttl=238 time=117 ms
+[1607862765.622153] 40 bytes from 168.26.226.206: icmp_seq=30 ttl=238 time=118 ms
+[1607862765.742494] 40 bytes from www.ColumbusState.EDU (168.26.226.206): icmp_seq=31 ttl=238 time=118 ms
+[1607862771.744668] 40 bytes from www.ColumbusState.EDU (168.26.226.206): icmp_seq=32 ttl=238 time=118 ms
+[1607862771.864757] 40 bytes from www.ColumbusState.EDU (168.26.226.206): icmp_seq=33 ttl=238 time=118 ms
+[1607862772.864715] 40 bytes from www.ColumbusState.EDU (168.26.226.206): icmp_seq=34 ttl=238 time=118 ms
+[1607862773.864452] 40 bytes from www.ColumbusState.EDU (168.26.226.206): icmp_seq=35 ttl=238 time=118 ms
+[1607862774.864052] 40 bytes from www.ColumbusState.EDU (168.26.226.206): icmp_seq=36 ttl=238 time=117 ms
+[1607862775.863947] 40 bytes from www.ColumbusState.EDU (168.26.226.206): icmp_seq=37 ttl=238 time=118 ms
+[1607862781.867013] 40 bytes from www.ColumbusState.EDU (168.26.226.206): icmp_seq=38 ttl=238 time=118 ms
+[1607862791.993994] 40 bytes from 168.26.226.206: icmp_seq=39 ttl=238 time=118 ms
+[1607862792.114056] 40 bytes from www.ColumbusState.EDU (168.26.226.206): icmp_seq=40 ttl=238 time=118 ms
+[1607862793.114119] 40 bytes from www.ColumbusState.EDU (168.26.226.206): icmp_seq=41 ttl=238 time=118 ms
+[1607862794.113948] 40 bytes from www.ColumbusState.EDU (168.26.226.206): icmp_seq=42 ttl=238 time=118 ms
+[1607862795.114745] 40 bytes from www.ColumbusState.EDU (168.26.226.206): icmp_seq=43 ttl=238 time=119 ms
+[1607862796.114288] 40 bytes from www.ColumbusState.EDU (168.26.226.206): icmp_seq=44 ttl=238 time=118 ms
+[1607862797.114347] 40 bytes from www.ColumbusState.EDU (168.26.226.206): icmp_seq=45 ttl=238 time=118 ms
+[1607862798.114025] 40 bytes from www.ColumbusState.EDU (168.26.226.206): icmp_seq=46 ttl=238 time=118 ms
+[1607862799.113507] 40 bytes from www.ColumbusState.EDU (168.26.226.206): icmp_seq=47 ttl=238 time=118 ms
+[1607862800.113373] 40 bytes from www.ColumbusState.EDU (168.26.226.206): icmp_seq=48 ttl=238 time=118 ms
+[1607862801.113696] 40 bytes from www.ColumbusState.EDU (168.26.226.206): icmp_seq=49 ttl=238 time=118 ms
+[1607862802.113957] 40 bytes from www.ColumbusState.EDU (168.26.226.206): icmp_seq=50 ttl=238 time=118 ms
+
+--- columbusstate.edu ping statistics ---
+50 packets transmitted, 50 received, 0% packet loss, time 129379ms
+rtt min/avg/max/mdev = 117.026/117.938/123.229/0.801 ms

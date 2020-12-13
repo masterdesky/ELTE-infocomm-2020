@@ -1,0 +1,55 @@
+PING mtaloy.edu (35.185.44.193) 32(60) bytes of data.
+[1607862717.754559] 40 bytes from 193.44.185.35.bc.googleusercontent.com (35.185.44.193): icmp_seq=1 ttl=56 time=114 ms
+[1607862718.701901] 40 bytes from 193.44.185.35.bc.googleusercontent.com (35.185.44.193): icmp_seq=2 ttl=56 time=114 ms
+[1607862719.702480] 40 bytes from 193.44.185.35.bc.googleusercontent.com (35.185.44.193): icmp_seq=3 ttl=56 time=114 ms
+[1607862720.700763] 40 bytes from 193.44.185.35.bc.googleusercontent.com (35.185.44.193): icmp_seq=4 ttl=56 time=114 ms
+[1607862726.703735] 40 bytes from 193.44.185.35.bc.googleusercontent.com (35.185.44.193): icmp_seq=5 ttl=56 time=114 ms
+[1607862731.824094] 40 bytes from 193.44.185.35.bc.googleusercontent.com (35.185.44.193): icmp_seq=6 ttl=56 time=114 ms
+[1607862731.939384] 40 bytes from 193.44.185.35.bc.googleusercontent.com (35.185.44.193): icmp_seq=7 ttl=56 time=114 ms
+[1607862732.940741] 40 bytes from 193.44.185.35.bc.googleusercontent.com (35.185.44.193): icmp_seq=8 ttl=56 time=114 ms
+[1607862733.939209] 40 bytes from 193.44.185.35.bc.googleusercontent.com (35.185.44.193): icmp_seq=9 ttl=56 time=113 ms
+[1607862734.938695] 40 bytes from 193.44.185.35.bc.googleusercontent.com (35.185.44.193): icmp_seq=10 ttl=56 time=114 ms
+[1607862735.938560] 40 bytes from 193.44.185.35.bc.googleusercontent.com (35.185.44.193): icmp_seq=11 ttl=56 time=114 ms
+[1607862746.942040] 40 bytes from 35.185.44.193: icmp_seq=12 ttl=56 time=114 ms
+[1607862747.057458] 40 bytes from 193.44.185.35.bc.googleusercontent.com (35.185.44.193): icmp_seq=13 ttl=56 time=113 ms
+[1607862748.057466] 40 bytes from 193.44.185.35.bc.googleusercontent.com (35.185.44.193): icmp_seq=14 ttl=56 time=114 ms
+[1607862749.057091] 40 bytes from 193.44.185.35.bc.googleusercontent.com (35.185.44.193): icmp_seq=15 ttl=56 time=114 ms
+[1607862760.062170] 40 bytes from 35.185.44.193: icmp_seq=16 ttl=56 time=114 ms
+[1607862770.182007] 40 bytes from 35.185.44.193: icmp_seq=17 ttl=56 time=114 ms
+[1607862775.299470] 40 bytes from 193.44.185.35.bc.googleusercontent.com (35.185.44.193): icmp_seq=18 ttl=56 time=114 ms
+[1607862775.415386] 40 bytes from 193.44.185.35.bc.googleusercontent.com (35.185.44.193): icmp_seq=19 ttl=56 time=114 ms
+[1607862786.422052] 40 bytes from 35.185.44.193: icmp_seq=20 ttl=56 time=114 ms
+[1607862786.538571] 40 bytes from 193.44.185.35.bc.googleusercontent.com (35.185.44.193): icmp_seq=21 ttl=56 time=115 ms
+[1607862792.540213] 40 bytes from 193.44.185.35.bc.googleusercontent.com (35.185.44.193): icmp_seq=22 ttl=56 time=114 ms
+[1607862802.662064] 40 bytes from 35.185.44.193: icmp_seq=23 ttl=56 time=115 ms
+[1607862812.782009] 40 bytes from 35.185.44.193: icmp_seq=24 ttl=56 time=114 ms
+[1607862817.903294] 40 bytes from 193.44.185.35.bc.googleusercontent.com (35.185.44.193): icmp_seq=25 ttl=56 time=114 ms
+[1607862828.025999] 40 bytes from 35.185.44.193: icmp_seq=26 ttl=56 time=114 ms
+[1607862833.143710] 40 bytes from 193.44.185.35.bc.googleusercontent.com (35.185.44.193): icmp_seq=27 ttl=56 time=114 ms
+[1607862838.263929] 40 bytes from 193.44.185.35.bc.googleusercontent.com (35.185.44.193): icmp_seq=28 ttl=56 time=114 ms
+[1607862848.386038] 40 bytes from 35.185.44.193: icmp_seq=29 ttl=56 time=114 ms
+[1607862848.503929] 40 bytes from 193.44.185.35.bc.googleusercontent.com (35.185.44.193): icmp_seq=30 ttl=56 time=116 ms
+[1607862859.510046] 40 bytes from 35.185.44.193: icmp_seq=31 ttl=56 time=114 ms
+[1607862859.626338] 40 bytes from 193.44.185.35.bc.googleusercontent.com (35.185.44.193): icmp_seq=32 ttl=56 time=114 ms
+[1607862860.626431] 40 bytes from 193.44.185.35.bc.googleusercontent.com (35.185.44.193): icmp_seq=33 ttl=56 time=114 ms
+[1607862861.628401] 40 bytes from 193.44.185.35.bc.googleusercontent.com (35.185.44.193): icmp_seq=34 ttl=56 time=114 ms
+[1607862862.629479] 40 bytes from 193.44.185.35.bc.googleusercontent.com (35.185.44.193): icmp_seq=35 ttl=56 time=114 ms
+[1607862863.630150] 40 bytes from 193.44.185.35.bc.googleusercontent.com (35.185.44.193): icmp_seq=36 ttl=56 time=114 ms
+[1607862869.637873] 40 bytes from 193.44.185.35.bc.googleusercontent.com (35.185.44.193): icmp_seq=37 ttl=56 time=116 ms
+[1607862869.754033] 40 bytes from 193.44.185.35.bc.googleusercontent.com (35.185.44.193): icmp_seq=38 ttl=56 time=114 ms
+[1607862870.754425] 40 bytes from 193.44.185.35.bc.googleusercontent.com (35.185.44.193): icmp_seq=39 ttl=56 time=114 ms
+[1607862871.755526] 40 bytes from 193.44.185.35.bc.googleusercontent.com (35.185.44.193): icmp_seq=40 ttl=56 time=114 ms
+[1607862872.755690] 40 bytes from 193.44.185.35.bc.googleusercontent.com (35.185.44.193): icmp_seq=41 ttl=56 time=114 ms
+[1607862873.756655] 40 bytes from 193.44.185.35.bc.googleusercontent.com (35.185.44.193): icmp_seq=42 ttl=56 time=114 ms
+[1607862874.756593] 40 bytes from 193.44.185.35.bc.googleusercontent.com (35.185.44.193): icmp_seq=43 ttl=56 time=114 ms
+[1607862880.759995] 40 bytes from 193.44.185.35.bc.googleusercontent.com (35.185.44.193): icmp_seq=44 ttl=56 time=113 ms
+[1607862880.875407] 40 bytes from 193.44.185.35.bc.googleusercontent.com (35.185.44.193): icmp_seq=45 ttl=56 time=114 ms
+[1607862881.877043] 40 bytes from 193.44.185.35.bc.googleusercontent.com (35.185.44.193): icmp_seq=46 ttl=56 time=114 ms
+[1607862882.877965] 40 bytes from 193.44.185.35.bc.googleusercontent.com (35.185.44.193): icmp_seq=47 ttl=56 time=114 ms
+[1607862883.879662] 40 bytes from 193.44.185.35.bc.googleusercontent.com (35.185.44.193): icmp_seq=48 ttl=56 time=114 ms
+[1607862884.880131] 40 bytes from 193.44.185.35.bc.googleusercontent.com (35.185.44.193): icmp_seq=49 ttl=56 time=114 ms
+[1607862885.882111] 40 bytes from 193.44.185.35.bc.googleusercontent.com (35.185.44.193): icmp_seq=50 ttl=56 time=114 ms
+
+--- mtaloy.edu ping statistics ---
+50 packets transmitted, 50 received, 0% packet loss, time 168180ms
+rtt min/avg/max/mdev = 113.170/114.022/116.424/0.509 ms

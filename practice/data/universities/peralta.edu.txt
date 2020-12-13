@@ -1,0 +1,55 @@
+PING peralta.edu (173.231.200.208) 32(60) bytes of data.
+[1607862700.238019] 40 bytes from 173.231.200.208: icmp_seq=1 ttl=50 time=164 ms
+[1607862700.404561] 40 bytes from ded4910.inmotionhosting.com (173.231.200.208): icmp_seq=2 ttl=50 time=164 ms
+[1607862711.409996] 40 bytes from 173.231.200.208: icmp_seq=3 ttl=50 time=164 ms
+[1607862711.576088] 40 bytes from ded4910.inmotionhosting.com (173.231.200.208): icmp_seq=4 ttl=50 time=164 ms
+[1607862712.576857] 40 bytes from ded4910.inmotionhosting.com (173.231.200.208): icmp_seq=5 ttl=50 time=164 ms
+[1607862718.582716] 40 bytes from ded4910.inmotionhosting.com (173.231.200.208): icmp_seq=6 ttl=50 time=164 ms
+[1607862718.748629] 40 bytes from ded4910.inmotionhosting.com (173.231.200.208): icmp_seq=7 ttl=50 time=163 ms
+[1607862719.748290] 40 bytes from ded4910.inmotionhosting.com (173.231.200.208): icmp_seq=8 ttl=50 time=163 ms
+[1607862725.751992] 40 bytes from ded4910.inmotionhosting.com (173.231.200.208): icmp_seq=9 ttl=50 time=164 ms
+[1607862735.926008] 40 bytes from 173.231.200.208: icmp_seq=10 ttl=50 time=164 ms
+[1607862746.098073] 40 bytes from 173.231.200.208: icmp_seq=11 ttl=50 time=164 ms
+[1607862751.267734] 40 bytes from ded4910.inmotionhosting.com (173.231.200.208): icmp_seq=12 ttl=50 time=164 ms
+[1607862751.433759] 40 bytes from ded4910.inmotionhosting.com (173.231.200.208): icmp_seq=13 ttl=50 time=164 ms
+[1607862752.434585] 40 bytes from ded4910.inmotionhosting.com (173.231.200.208): icmp_seq=14 ttl=50 time=163 ms
+[1607862753.436437] 40 bytes from ded4910.inmotionhosting.com (173.231.200.208): icmp_seq=15 ttl=50 time=164 ms
+[1607862754.436545] 40 bytes from ded4910.inmotionhosting.com (173.231.200.208): icmp_seq=16 ttl=50 time=164 ms
+[1607862755.438126] 40 bytes from ded4910.inmotionhosting.com (173.231.200.208): icmp_seq=17 ttl=50 time=164 ms
+[1607862756.438375] 40 bytes from ded4910.inmotionhosting.com (173.231.200.208): icmp_seq=18 ttl=50 time=164 ms
+[1607862757.437666] 40 bytes from ded4910.inmotionhosting.com (173.231.200.208): icmp_seq=19 ttl=50 time=163 ms
+[1607862758.439702] 40 bytes from ded4910.inmotionhosting.com (173.231.200.208): icmp_seq=20 ttl=50 time=164 ms
+[1607862759.439267] 40 bytes from ded4910.inmotionhosting.com (173.231.200.208): icmp_seq=21 ttl=50 time=163 ms
+[1607862760.439829] 40 bytes from ded4910.inmotionhosting.com (173.231.200.208): icmp_seq=22 ttl=50 time=163 ms
+[1607862761.440701] 40 bytes from ded4910.inmotionhosting.com (173.231.200.208): icmp_seq=23 ttl=50 time=164 ms
+[1607862767.445583] 40 bytes from ded4910.inmotionhosting.com (173.231.200.208): icmp_seq=24 ttl=50 time=164 ms
+[1607862777.618032] 40 bytes from 173.231.200.208: icmp_seq=25 ttl=50 time=164 ms
+[1607862777.783997] 40 bytes from ded4910.inmotionhosting.com (173.231.200.208): icmp_seq=26 ttl=50 time=164 ms
+[1607862778.783484] 40 bytes from ded4910.inmotionhosting.com (173.231.200.208): icmp_seq=27 ttl=50 time=164 ms
+[1607862779.783408] 40 bytes from ded4910.inmotionhosting.com (173.231.200.208): icmp_seq=28 ttl=50 time=164 ms
+[1607862780.783853] 40 bytes from ded4910.inmotionhosting.com (173.231.200.208): icmp_seq=29 ttl=50 time=164 ms
+[1607862791.789996] 40 bytes from 173.231.200.208: icmp_seq=30 ttl=50 time=163 ms
+[1607862801.962033] 40 bytes from 173.231.200.208: icmp_seq=31 ttl=50 time=164 ms
+[1607862802.127981] 40 bytes from ded4910.inmotionhosting.com (173.231.200.208): icmp_seq=32 ttl=50 time=164 ms
+[1607862803.127802] 40 bytes from ded4910.inmotionhosting.com (173.231.200.208): icmp_seq=33 ttl=50 time=164 ms
+[1607862804.127946] 40 bytes from ded4910.inmotionhosting.com (173.231.200.208): icmp_seq=34 ttl=50 time=164 ms
+[1607862805.127453] 40 bytes from ded4910.inmotionhosting.com (173.231.200.208): icmp_seq=35 ttl=50 time=164 ms
+[1607862806.127670] 40 bytes from ded4910.inmotionhosting.com (173.231.200.208): icmp_seq=36 ttl=50 time=164 ms
+[1607862817.134004] 40 bytes from 173.231.200.208: icmp_seq=37 ttl=50 time=163 ms
+[1607862822.304055] 40 bytes from ded4910.inmotionhosting.com (173.231.200.208): icmp_seq=38 ttl=50 time=164 ms
+[1607862822.470486] 40 bytes from ded4910.inmotionhosting.com (173.231.200.208): icmp_seq=39 ttl=50 time=164 ms
+[1607862833.474043] 40 bytes from 173.231.200.208: icmp_seq=40 ttl=50 time=164 ms
+[1607862838.644176] 40 bytes from ded4910.inmotionhosting.com (173.231.200.208): icmp_seq=41 ttl=50 time=164 ms
+[1607862848.814072] 40 bytes from 173.231.200.208: icmp_seq=42 ttl=50 time=164 ms
+[1607862858.986209] 40 bytes from 173.231.200.208: icmp_seq=43 ttl=50 time=164 ms
+[1607862859.152048] 40 bytes from ded4910.inmotionhosting.com (173.231.200.208): icmp_seq=44 ttl=50 time=164 ms
+[1607862865.155748] 40 bytes from ded4910.inmotionhosting.com (173.231.200.208): icmp_seq=45 ttl=50 time=163 ms
+[1607862875.326311] 40 bytes from 173.231.200.208: icmp_seq=46 ttl=50 time=164 ms
+[1607862875.491358] 40 bytes from ded4910.inmotionhosting.com (173.231.200.208): icmp_seq=47 ttl=50 time=163 ms
+[1607862876.492204] 40 bytes from ded4910.inmotionhosting.com (173.231.200.208): icmp_seq=48 ttl=50 time=163 ms
+[1607862877.494362] 40 bytes from ded4910.inmotionhosting.com (173.231.200.208): icmp_seq=49 ttl=50 time=164 ms
+[1607862878.495254] 40 bytes from ded4910.inmotionhosting.com (173.231.200.208): icmp_seq=50 ttl=50 time=164 ms
+
+--- peralta.edu ping statistics ---
+50 packets transmitted, 50 received, 0% packet loss, time 188263ms
+rtt min/avg/max/mdev = 163.063/163.800/164.234/0.317 ms

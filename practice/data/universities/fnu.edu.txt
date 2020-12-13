@@ -1,0 +1,5 @@
+PING fnu.edu (35.174.162.44) 32(60) bytes of data.
+
+--- fnu.edu ping statistics ---
+50 packets transmitted, 0 received, 100% packet loss, time 49586ms
+

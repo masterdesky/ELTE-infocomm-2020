@@ -1,0 +1,55 @@
+PING oregonstate.edu (35.161.98.54) 32(60) bytes of data.
+[1607862720.461999] 40 bytes from 35.161.98.54: icmp_seq=1 ttl=36 time=179 ms
+[1607862730.646001] 40 bytes from 35.161.98.54: icmp_seq=2 ttl=36 time=179 ms
+[1607862740.834018] 40 bytes from 35.161.98.54: icmp_seq=3 ttl=36 time=179 ms
+[1607862751.022040] 40 bytes from 35.161.98.54: icmp_seq=4 ttl=36 time=179 ms
+[1607862751.538723] 40 bytes from ec2-35-161-98-54.us-west-2.compute.amazonaws.com (35.161.98.54): icmp_seq=5 ttl=36 time=179 ms
+[1607862752.203968] 40 bytes from ec2-35-161-98-54.us-west-2.compute.amazonaws.com (35.161.98.54): icmp_seq=6 ttl=36 time=179 ms
+[1607862753.205778] 40 bytes from ec2-35-161-98-54.us-west-2.compute.amazonaws.com (35.161.98.54): icmp_seq=7 ttl=36 time=179 ms
+[1607862754.208245] 40 bytes from ec2-35-161-98-54.us-west-2.compute.amazonaws.com (35.161.98.54): icmp_seq=8 ttl=36 time=179 ms
+[1607862755.206144] 40 bytes from ec2-35-161-98-54.us-west-2.compute.amazonaws.com (35.161.98.54): icmp_seq=9 ttl=36 time=179 ms
+[1607862756.206779] 40 bytes from ec2-35-161-98-54.us-west-2.compute.amazonaws.com (35.161.98.54): icmp_seq=10 ttl=36 time=179 ms
+[1607862762.212016] 40 bytes from ec2-35-161-98-54.us-west-2.compute.amazonaws.com (35.161.98.54): icmp_seq=11 ttl=36 time=179 ms
+[1607862767.396955] 40 bytes from ec2-35-161-98-54.us-west-2.compute.amazonaws.com (35.161.98.54): icmp_seq=12 ttl=36 time=179 ms
+[1607862767.578553] 40 bytes from ec2-35-161-98-54.us-west-2.compute.amazonaws.com (35.161.98.54): icmp_seq=13 ttl=36 time=179 ms
+[1607862768.577511] 40 bytes from ec2-35-161-98-54.us-west-2.compute.amazonaws.com (35.161.98.54): icmp_seq=14 ttl=36 time=179 ms
+[1607862769.577312] 40 bytes from ec2-35-161-98-54.us-west-2.compute.amazonaws.com (35.161.98.54): icmp_seq=15 ttl=36 time=179 ms
+[1607862770.576630] 40 bytes from ec2-35-161-98-54.us-west-2.compute.amazonaws.com (35.161.98.54): icmp_seq=16 ttl=36 time=179 ms
+[1607862771.578274] 40 bytes from ec2-35-161-98-54.us-west-2.compute.amazonaws.com (35.161.98.54): icmp_seq=17 ttl=36 time=179 ms
+[1607862782.586030] 40 bytes from 35.161.98.54: icmp_seq=18 ttl=36 time=179 ms
+[1607862792.774285] 40 bytes from 35.161.98.54: icmp_seq=19 ttl=36 time=179 ms
+[1607862797.960032] 40 bytes from ec2-35-161-98-54.us-west-2.compute.amazonaws.com (35.161.98.54): icmp_seq=20 ttl=36 time=179 ms
+[1607862798.141355] 40 bytes from ec2-35-161-98-54.us-west-2.compute.amazonaws.com (35.161.98.54): icmp_seq=21 ttl=36 time=179 ms
+[1607862799.140149] 40 bytes from ec2-35-161-98-54.us-west-2.compute.amazonaws.com (35.161.98.54): icmp_seq=22 ttl=36 time=179 ms
+[1607862800.140361] 40 bytes from ec2-35-161-98-54.us-west-2.compute.amazonaws.com (35.161.98.54): icmp_seq=23 ttl=36 time=178 ms
+[1607862801.139906] 40 bytes from ec2-35-161-98-54.us-west-2.compute.amazonaws.com (35.161.98.54): icmp_seq=24 ttl=36 time=179 ms
+[1607862812.146001] 40 bytes from 35.161.98.54: icmp_seq=25 ttl=36 time=179 ms
+[1607862822.333999] 40 bytes from 35.161.98.54: icmp_seq=26 ttl=36 time=179 ms
+[1607862822.515090] 40 bytes from ec2-35-161-98-54.us-west-2.compute.amazonaws.com (35.161.98.54): icmp_seq=27 ttl=36 time=179 ms
+[1607862823.514275] 40 bytes from ec2-35-161-98-54.us-west-2.compute.amazonaws.com (35.161.98.54): icmp_seq=28 ttl=36 time=178 ms
+[1607862824.514080] 40 bytes from ec2-35-161-98-54.us-west-2.compute.amazonaws.com (35.161.98.54): icmp_seq=29 ttl=36 time=179 ms
+[1607862825.516024] 40 bytes from ec2-35-161-98-54.us-west-2.compute.amazonaws.com (35.161.98.54): icmp_seq=30 ttl=36 time=179 ms
+[1607862826.516329] 40 bytes from ec2-35-161-98-54.us-west-2.compute.amazonaws.com (35.161.98.54): icmp_seq=31 ttl=36 time=179 ms
+[1607862827.516166] 40 bytes from ec2-35-161-98-54.us-west-2.compute.amazonaws.com (35.161.98.54): icmp_seq=32 ttl=36 time=178 ms
+[1607862838.522025] 40 bytes from 35.161.98.54: icmp_seq=33 ttl=36 time=179 ms
+[1607862838.703623] 40 bytes from ec2-35-161-98-54.us-west-2.compute.amazonaws.com (35.161.98.54): icmp_seq=34 ttl=36 time=179 ms
+[1607862839.704183] 40 bytes from ec2-35-161-98-54.us-west-2.compute.amazonaws.com (35.161.98.54): icmp_seq=35 ttl=36 time=179 ms
+[1607862840.706479] 40 bytes from ec2-35-161-98-54.us-west-2.compute.amazonaws.com (35.161.98.54): icmp_seq=36 ttl=36 time=179 ms
+[1607862841.707332] 40 bytes from ec2-35-161-98-54.us-west-2.compute.amazonaws.com (35.161.98.54): icmp_seq=37 ttl=36 time=179 ms
+[1607862842.707801] 40 bytes from ec2-35-161-98-54.us-west-2.compute.amazonaws.com (35.161.98.54): icmp_seq=38 ttl=36 time=179 ms
+[1607862843.707546] 40 bytes from ec2-35-161-98-54.us-west-2.compute.amazonaws.com (35.161.98.54): icmp_seq=39 ttl=36 time=178 ms
+[1607862844.709998] 40 bytes from ec2-35-161-98-54.us-west-2.compute.amazonaws.com (35.161.98.54): icmp_seq=40 ttl=36 time=179 ms
+[1607862845.709270] 40 bytes from ec2-35-161-98-54.us-west-2.compute.amazonaws.com (35.161.98.54): icmp_seq=41 ttl=36 time=179 ms
+[1607862846.708704] 40 bytes from ec2-35-161-98-54.us-west-2.compute.amazonaws.com (35.161.98.54): icmp_seq=42 ttl=36 time=178 ms
+[1607862847.708648] 40 bytes from ec2-35-161-98-54.us-west-2.compute.amazonaws.com (35.161.98.54): icmp_seq=43 ttl=36 time=179 ms
+[1607862853.711940] 40 bytes from ec2-35-161-98-54.us-west-2.compute.amazonaws.com (35.161.98.54): icmp_seq=44 ttl=36 time=179 ms
+[1607862853.892860] 40 bytes from ec2-35-161-98-54.us-west-2.compute.amazonaws.com (35.161.98.54): icmp_seq=45 ttl=36 time=179 ms
+[1607862859.895925] 40 bytes from ec2-35-161-98-54.us-west-2.compute.amazonaws.com (35.161.98.54): icmp_seq=46 ttl=36 time=179 ms
+[1607862870.081995] 40 bytes from 35.161.98.54: icmp_seq=47 ttl=36 time=179 ms
+[1607862870.262937] 40 bytes from ec2-35-161-98-54.us-west-2.compute.amazonaws.com (35.161.98.54): icmp_seq=48 ttl=36 time=179 ms
+[1607862871.263156] 40 bytes from ec2-35-161-98-54.us-west-2.compute.amazonaws.com (35.161.98.54): icmp_seq=49 ttl=36 time=179 ms
+[1607862872.264296] 40 bytes from ec2-35-161-98-54.us-west-2.compute.amazonaws.com (35.161.98.54): icmp_seq=50 ttl=36 time=179 ms
+
+--- oregonstate.edu ping statistics ---
+50 packets transmitted, 50 received, 0% packet loss, time 161809ms
+rtt min/avg/max/mdev = 178.309/178.989/179.370/0.282 ms

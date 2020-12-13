@@ -1,0 +1,55 @@
+PING wustl.edu (128.252.160.5) 32(60) bytes of data.
+[1607862692.966017] 40 bytes from 128.252.160.5: icmp_seq=1 ttl=236 time=137 ms
+[1607862703.114287] 40 bytes from 128.252.160.5: icmp_seq=2 ttl=236 time=137 ms
+[1607862704.450931] 40 bytes from pathology.wustl.edu (128.252.160.5): icmp_seq=3 ttl=236 time=141 ms
+[1607862709.591548] 40 bytes from wustl.edu (128.252.160.5): icmp_seq=4 ttl=236 time=137 ms
+[1607862709.729915] 40 bytes from wustl.edu (128.252.160.5): icmp_seq=5 ttl=236 time=137 ms
+[1607862720.733989] 40 bytes from 128.252.160.5: icmp_seq=6 ttl=236 time=137 ms
+[1607862725.875095] 40 bytes from psychiatry.wustl.edu (128.252.160.5): icmp_seq=7 ttl=236 time=137 ms
+[1607862726.013788] 40 bytes from pathology.wustl.edu (128.252.160.5): icmp_seq=8 ttl=236 time=136 ms
+[1607862727.013676] 40 bytes from pathology.wustl.edu (128.252.160.5): icmp_seq=9 ttl=236 time=137 ms
+[1607862728.012706] 40 bytes from ohts.wustl.edu (128.252.160.5): icmp_seq=10 ttl=236 time=136 ms
+[1607862729.012803] 40 bytes from ris.wustl.edu (128.252.160.5): icmp_seq=11 ttl=236 time=137 ms
+[1607862730.012710] 40 bytes from psychiatry.wustl.edu (128.252.160.5): icmp_seq=12 ttl=236 time=137 ms
+[1607862731.011231] 40 bytes from pathology.wustl.edu (128.252.160.5): icmp_seq=13 ttl=236 time=137 ms
+[1607862732.010816] 40 bytes from psychiatry.wustl.edu (128.252.160.5): icmp_seq=14 ttl=236 time=136 ms
+[1607862733.011817] 40 bytes from psychiatry.wustl.edu (128.252.160.5): icmp_seq=15 ttl=236 time=137 ms
+[1607862739.015959] 40 bytes from pathology.wustl.edu (128.252.160.5): icmp_seq=16 ttl=236 time=137 ms
+[1607862744.159278] 40 bytes from pathology.wustl.edu (128.252.160.5): icmp_seq=17 ttl=236 time=137 ms
+[1607862749.299851] 40 bytes from ris.wustl.edu (128.252.160.5): icmp_seq=18 ttl=236 time=136 ms
+[1607862749.438448] 40 bytes from pathology.wustl.edu (128.252.160.5): icmp_seq=19 ttl=236 time=137 ms
+[1607862755.444161] 40 bytes from wustl.edu (128.252.160.5): icmp_seq=20 ttl=236 time=137 ms
+[1607862755.583219] 40 bytes from wustl.edu (128.252.160.5): icmp_seq=21 ttl=236 time=137 ms
+[1607862756.584534] 40 bytes from pathology.wustl.edu (128.252.160.5): icmp_seq=22 ttl=236 time=137 ms
+[1607862757.584510] 40 bytes from psychiatry.wustl.edu (128.252.160.5): icmp_seq=23 ttl=236 time=137 ms
+[1607862758.585387] 40 bytes from psychiatry.wustl.edu (128.252.160.5): icmp_seq=24 ttl=236 time=137 ms
+[1607862759.586544] 40 bytes from wustl.edu (128.252.160.5): icmp_seq=25 ttl=236 time=137 ms
+[1607862770.594040] 40 bytes from 128.252.160.5: icmp_seq=26 ttl=236 time=137 ms
+[1607862775.735775] 40 bytes from ris.wustl.edu (128.252.160.5): icmp_seq=27 ttl=236 time=137 ms
+[1607862775.874789] 40 bytes from ris.wustl.edu (128.252.160.5): icmp_seq=28 ttl=236 time=137 ms
+[1607862776.875162] 40 bytes from wustl.edu (128.252.160.5): icmp_seq=29 ttl=236 time=137 ms
+[1607862777.876085] 40 bytes from ris.wustl.edu (128.252.160.5): icmp_seq=30 ttl=236 time=137 ms
+[1607862778.876027] 40 bytes from ohts.wustl.edu (128.252.160.5): icmp_seq=31 ttl=236 time=137 ms
+[1607862779.876784] 40 bytes from pathology.wustl.edu (128.252.160.5): icmp_seq=32 ttl=236 time=137 ms
+[1607862780.876163] 40 bytes from psychiatry.wustl.edu (128.252.160.5): icmp_seq=33 ttl=236 time=136 ms
+[1607862781.877426] 40 bytes from ohts.wustl.edu (128.252.160.5): icmp_seq=34 ttl=236 time=137 ms
+[1607862782.876237] 40 bytes from ris.wustl.edu (128.252.160.5): icmp_seq=35 ttl=236 time=137 ms
+[1607862783.882576] 40 bytes from wustl.edu (128.252.160.5): icmp_seq=36 ttl=236 time=137 ms
+[1607862784.878892] 40 bytes from ris.wustl.edu (128.252.160.5): icmp_seq=37 ttl=236 time=137 ms
+[1607862785.879016] 40 bytes from pathology.wustl.edu (128.252.160.5): icmp_seq=38 ttl=236 time=136 ms
+[1607862796.886044] 40 bytes from 128.252.160.5: icmp_seq=39 ttl=236 time=137 ms
+[1607862807.030030] 40 bytes from 128.252.160.5: icmp_seq=40 ttl=236 time=137 ms
+[1607862817.174043] 40 bytes from 128.252.160.5: icmp_seq=41 ttl=236 time=137 ms
+[1607862817.313556] 40 bytes from wustl.edu (128.252.160.5): icmp_seq=42 ttl=236 time=137 ms
+[1607862818.311720] 40 bytes from ris.wustl.edu (128.252.160.5): icmp_seq=43 ttl=236 time=136 ms
+[1607862819.313915] 40 bytes from pathology.wustl.edu (128.252.160.5): icmp_seq=44 ttl=236 time=137 ms
+[1607862820.314732] 40 bytes from pathology.wustl.edu (128.252.160.5): icmp_seq=45 ttl=236 time=137 ms
+[1607862821.314772] 40 bytes from wustl.edu (128.252.160.5): icmp_seq=46 ttl=236 time=137 ms
+[1607862822.316217] 40 bytes from pathology.wustl.edu (128.252.160.5): icmp_seq=47 ttl=236 time=137 ms
+[1607862823.317032] 40 bytes from ohts.wustl.edu (128.252.160.5): icmp_seq=48 ttl=236 time=137 ms
+[1607862824.316780] 40 bytes from pathology.wustl.edu (128.252.160.5): icmp_seq=49 ttl=236 time=137 ms
+[1607862825.317280] 40 bytes from ris.wustl.edu (128.252.160.5): icmp_seq=50 ttl=236 time=137 ms
+
+--- wustl.edu ping statistics ---
+50 packets transmitted, 50 received, 0% packet loss, time 142358ms
+rtt min/avg/max/mdev = 136.211/137.014/141.166/0.667 ms

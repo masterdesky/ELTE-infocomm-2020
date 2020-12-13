@@ -1,0 +1,55 @@
+PING dvc.edu (198.101.210.194) 32(60) bytes of data.
+[1607862669.966716] 40 bytes from 198-101-210-194.static.cloud-ips.com (198.101.210.194): icmp_seq=1 ttl=42 time=143 ms
+[1607862680.426026] 40 bytes from 198.101.210.194: icmp_seq=2 ttl=42 time=143 ms
+[1607862690.578016] 40 bytes from 198.101.210.194: icmp_seq=3 ttl=42 time=143 ms
+[1607862695.727880] 40 bytes from 198-101-210-194.static.cloud-ips.com (198.101.210.194): icmp_seq=4 ttl=42 time=143 ms
+[1607862700.875985] 40 bytes from 198-101-210-194.static.cloud-ips.com (198.101.210.194): icmp_seq=5 ttl=42 time=143 ms
+[1607862711.025997] 40 bytes from 198.101.210.194: icmp_seq=6 ttl=42 time=143 ms
+[1607862716.175931] 40 bytes from 198-101-210-194.static.cloud-ips.com (198.101.210.194): icmp_seq=7 ttl=42 time=143 ms
+[1607862726.326013] 40 bytes from 198.101.210.194: icmp_seq=8 ttl=42 time=143 ms
+[1607862731.475817] 40 bytes from 198-101-210-194.static.cloud-ips.com (198.101.210.194): icmp_seq=9 ttl=42 time=143 ms
+[1607862741.626480] 40 bytes from 198.101.210.194: icmp_seq=10 ttl=42 time=143 ms
+[1607862751.778032] 40 bytes from 198.101.210.194: icmp_seq=11 ttl=42 time=143 ms
+[1607862756.927887] 40 bytes from 198-101-210-194.static.cloud-ips.com (198.101.210.194): icmp_seq=12 ttl=42 time=143 ms
+[1607862757.072619] 40 bytes from 198-101-210-194.static.cloud-ips.com (198.101.210.194): icmp_seq=13 ttl=42 time=142 ms
+[1607862758.073194] 40 bytes from 198-101-210-194.static.cloud-ips.com (198.101.210.194): icmp_seq=14 ttl=42 time=143 ms
+[1607862759.072683] 40 bytes from 198-101-210-194.static.cloud-ips.com (198.101.210.194): icmp_seq=15 ttl=42 time=142 ms
+[1607862770.078042] 40 bytes from 198.101.210.194: icmp_seq=16 ttl=42 time=143 ms
+[1607862775.228045] 40 bytes from 198-101-210-194.static.cloud-ips.com (198.101.210.194): icmp_seq=17 ttl=42 time=143 ms
+[1607862775.372974] 40 bytes from 198-101-210-194.static.cloud-ips.com (198.101.210.194): icmp_seq=18 ttl=42 time=143 ms
+[1607862786.378027] 40 bytes from 198.101.210.194: icmp_seq=19 ttl=42 time=142 ms
+[1607862791.528034] 40 bytes from 198-101-210-194.static.cloud-ips.com (198.101.210.194): icmp_seq=20 ttl=42 time=143 ms
+[1607862801.678312] 40 bytes from 198.101.210.194: icmp_seq=21 ttl=42 time=143 ms
+[1607862811.830042] 40 bytes from 198.101.210.194: icmp_seq=22 ttl=42 time=143 ms
+[1607862811.974935] 40 bytes from 198-101-210-194.static.cloud-ips.com (198.101.210.194): icmp_seq=23 ttl=42 time=143 ms
+[1607862812.974594] 40 bytes from 198-101-210-194.static.cloud-ips.com (198.101.210.194): icmp_seq=24 ttl=42 time=142 ms
+[1607862813.976346] 40 bytes from 198-101-210-194.static.cloud-ips.com (198.101.210.194): icmp_seq=25 ttl=42 time=143 ms
+[1607862814.977927] 40 bytes from 198-101-210-194.static.cloud-ips.com (198.101.210.194): icmp_seq=26 ttl=42 time=142 ms
+[1607862815.979038] 40 bytes from 198-101-210-194.static.cloud-ips.com (198.101.210.194): icmp_seq=27 ttl=42 time=143 ms
+[1607862816.979969] 40 bytes from 198-101-210-194.static.cloud-ips.com (198.101.210.194): icmp_seq=28 ttl=42 time=143 ms
+[1607862822.983883] 40 bytes from 198-101-210-194.static.cloud-ips.com (198.101.210.194): icmp_seq=29 ttl=42 time=142 ms
+[1607862833.135017] 40 bytes from 198.101.210.194: icmp_seq=30 ttl=42 time=142 ms
+[1607862843.286342] 40 bytes from 198.101.210.194: icmp_seq=31 ttl=42 time=142 ms
+[1607862843.431312] 40 bytes from 198-101-210-194.static.cloud-ips.com (198.101.210.194): icmp_seq=32 ttl=42 time=143 ms
+[1607862844.431449] 40 bytes from 198-101-210-194.static.cloud-ips.com (198.101.210.194): icmp_seq=33 ttl=42 time=142 ms
+[1607862845.432900] 40 bytes from 198-101-210-194.static.cloud-ips.com (198.101.210.194): icmp_seq=34 ttl=42 time=142 ms
+[1607862846.434571] 40 bytes from 198-101-210-194.static.cloud-ips.com (198.101.210.194): icmp_seq=35 ttl=42 time=143 ms
+[1607862847.435596] 40 bytes from 198-101-210-194.static.cloud-ips.com (198.101.210.194): icmp_seq=36 ttl=42 time=143 ms
+[1607862848.434301] 40 bytes from 198-101-210-194.static.cloud-ips.com (198.101.210.194): icmp_seq=37 ttl=42 time=143 ms
+[1607862859.442055] 40 bytes from 198.101.210.194: icmp_seq=38 ttl=42 time=142 ms
+[1607862864.587608] 40 bytes from 198-101-210-194.static.cloud-ips.com (198.101.210.194): icmp_seq=39 ttl=42 time=142 ms
+[1607862869.735899] 40 bytes from 198-101-210-194.static.cloud-ips.com (198.101.210.194): icmp_seq=40 ttl=42 time=143 ms
+[1607862869.880255] 40 bytes from 198-101-210-194.static.cloud-ips.com (198.101.210.194): icmp_seq=41 ttl=42 time=142 ms
+[1607862880.886227] 40 bytes from 198.101.210.194: icmp_seq=42 ttl=42 time=142 ms
+[1607862881.031369] 40 bytes from 198-101-210-194.static.cloud-ips.com (198.101.210.194): icmp_seq=43 ttl=42 time=143 ms
+[1607862882.030613] 40 bytes from 198-101-210-194.static.cloud-ips.com (198.101.210.194): icmp_seq=44 ttl=42 time=143 ms
+[1607862888.035409] 40 bytes from 198-101-210-194.static.cloud-ips.com (198.101.210.194): icmp_seq=45 ttl=42 time=143 ms
+[1607862888.180130] 40 bytes from 198-101-210-194.static.cloud-ips.com (198.101.210.194): icmp_seq=46 ttl=42 time=143 ms
+[1607862889.181878] 40 bytes from 198-101-210-194.static.cloud-ips.com (198.101.210.194): icmp_seq=47 ttl=42 time=142 ms
+[1607862890.182179] 40 bytes from 198-101-210-194.static.cloud-ips.com (198.101.210.194): icmp_seq=48 ttl=42 time=143 ms
+[1607862891.183624] 40 bytes from 198-101-210-194.static.cloud-ips.com (198.101.210.194): icmp_seq=49 ttl=42 time=143 ms
+[1607862892.184710] 40 bytes from 198-101-210-194.static.cloud-ips.com (198.101.210.194): icmp_seq=50 ttl=42 time=142 ms
+
+--- dvc.edu ping statistics ---
+50 packets transmitted, 50 received, 0% packet loss, time 222767ms
+rtt min/avg/max/mdev = 142.030/142.704/143.371/0.343 ms

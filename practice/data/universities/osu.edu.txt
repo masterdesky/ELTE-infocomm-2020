@@ -1,0 +1,55 @@
+PING osu.edu (99.83.250.163) 32(60) bytes of data.
+[1607862708.807149] 40 bytes from 99.83.250.163: icmp_seq=1 ttl=116 time=30.3 ms
+[1607862714.061061] 40 bytes from adb3d01069f8e5066.awsglobalaccelerator.com (99.83.250.163): icmp_seq=2 ttl=116 time=31.2 ms
+[1607862714.094202] 40 bytes from adb3d01069f8e5066.awsglobalaccelerator.com (99.83.250.163): icmp_seq=3 ttl=116 time=30.5 ms
+[1607862715.094579] 40 bytes from adb3d01069f8e5066.awsglobalaccelerator.com (99.83.250.163): icmp_seq=4 ttl=116 time=30.4 ms
+[1607862716.095325] 40 bytes from adb3d01069f8e5066.awsglobalaccelerator.com (99.83.250.163): icmp_seq=5 ttl=116 time=31.0 ms
+[1607862717.096467] 40 bytes from adb3d01069f8e5066.awsglobalaccelerator.com (99.83.250.163): icmp_seq=6 ttl=116 time=30.9 ms
+[1607862718.096919] 40 bytes from adb3d01069f8e5066.awsglobalaccelerator.com (99.83.250.163): icmp_seq=7 ttl=116 time=31.0 ms
+[1607862729.102013] 40 bytes from 99.83.250.163: icmp_seq=8 ttl=116 time=31.1 ms
+[1607862729.134560] 40 bytes from adb3d01069f8e5066.awsglobalaccelerator.com (99.83.250.163): icmp_seq=9 ttl=116 time=31.2 ms
+[1607862730.136157] 40 bytes from adb3d01069f8e5066.awsglobalaccelerator.com (99.83.250.163): icmp_seq=10 ttl=116 time=30.7 ms
+[1607862731.135795] 40 bytes from adb3d01069f8e5066.awsglobalaccelerator.com (99.83.250.163): icmp_seq=11 ttl=116 time=30.9 ms
+[1607862732.137049] 40 bytes from adb3d01069f8e5066.awsglobalaccelerator.com (99.83.250.163): icmp_seq=12 ttl=116 time=31.2 ms
+[1607862733.138667] 40 bytes from adb3d01069f8e5066.awsglobalaccelerator.com (99.83.250.163): icmp_seq=13 ttl=116 time=31.1 ms
+[1607862744.142005] 40 bytes from 99.83.250.163: icmp_seq=14 ttl=116 time=30.4 ms
+[1607862744.175350] 40 bytes from adb3d01069f8e5066.awsglobalaccelerator.com (99.83.250.163): icmp_seq=15 ttl=116 time=31.2 ms
+[1607862745.176118] 40 bytes from adb3d01069f8e5066.awsglobalaccelerator.com (99.83.250.163): icmp_seq=16 ttl=116 time=30.5 ms
+[1607862751.179874] 40 bytes from adb3d01069f8e5066.awsglobalaccelerator.com (99.83.250.163): icmp_seq=17 ttl=116 time=31.1 ms
+[1607862761.220483] 40 bytes from 99.83.250.163: icmp_seq=18 ttl=116 time=31.0 ms
+[1607862761.253549] 40 bytes from adb3d01069f8e5066.awsglobalaccelerator.com (99.83.250.163): icmp_seq=19 ttl=116 time=31.1 ms
+[1607862762.253805] 40 bytes from adb3d01069f8e5066.awsglobalaccelerator.com (99.83.250.163): icmp_seq=20 ttl=116 time=31.0 ms
+[1607862763.254695] 40 bytes from adb3d01069f8e5066.awsglobalaccelerator.com (99.83.250.163): icmp_seq=21 ttl=116 time=31.1 ms
+[1607862764.254755] 40 bytes from adb3d01069f8e5066.awsglobalaccelerator.com (99.83.250.163): icmp_seq=22 ttl=116 time=31.0 ms
+[1607862765.256195] 40 bytes from adb3d01069f8e5066.awsglobalaccelerator.com (99.83.250.163): icmp_seq=23 ttl=116 time=30.9 ms
+[1607862771.259988] 40 bytes from adb3d01069f8e5066.awsglobalaccelerator.com (99.83.250.163): icmp_seq=24 ttl=116 time=30.2 ms
+[1607862781.298103] 40 bytes from 99.83.250.163: icmp_seq=25 ttl=116 time=31.2 ms
+[1607862791.338360] 40 bytes from 99.83.250.163: icmp_seq=26 ttl=116 time=31.1 ms
+[1607862796.375669] 40 bytes from adb3d01069f8e5066.awsglobalaccelerator.com (99.83.250.163): icmp_seq=27 ttl=116 time=30.6 ms
+[1607862801.412171] 40 bytes from adb3d01069f8e5066.awsglobalaccelerator.com (99.83.250.163): icmp_seq=28 ttl=116 time=30.5 ms
+[1607862801.444604] 40 bytes from adb3d01069f8e5066.awsglobalaccelerator.com (99.83.250.163): icmp_seq=29 ttl=116 time=31.0 ms
+[1607862802.446933] 40 bytes from adb3d01069f8e5066.awsglobalaccelerator.com (99.83.250.163): icmp_seq=30 ttl=116 time=31.0 ms
+[1607862803.447241] 40 bytes from adb3d01069f8e5066.awsglobalaccelerator.com (99.83.250.163): icmp_seq=31 ttl=116 time=30.9 ms
+[1607862804.447810] 40 bytes from adb3d01069f8e5066.awsglobalaccelerator.com (99.83.250.163): icmp_seq=32 ttl=116 time=31.1 ms
+[1607862805.449533] 40 bytes from adb3d01069f8e5066.awsglobalaccelerator.com (99.83.250.163): icmp_seq=33 ttl=116 time=31.2 ms
+[1607862806.450304] 40 bytes from adb3d01069f8e5066.awsglobalaccelerator.com (99.83.250.163): icmp_seq=34 ttl=116 time=30.3 ms
+[1607862817.458045] 40 bytes from 99.83.250.163: icmp_seq=35 ttl=116 time=30.9 ms
+[1607862822.495967] 40 bytes from adb3d01069f8e5066.awsglobalaccelerator.com (99.83.250.163): icmp_seq=36 ttl=116 time=31.1 ms
+[1607862827.532246] 40 bytes from adb3d01069f8e5066.awsglobalaccelerator.com (99.83.250.163): icmp_seq=37 ttl=116 time=31.5 ms
+[1607862827.564970] 40 bytes from adb3d01069f8e5066.awsglobalaccelerator.com (99.83.250.163): icmp_seq=38 ttl=116 time=30.9 ms
+[1607862838.570035] 40 bytes from 99.83.250.163: icmp_seq=39 ttl=116 time=31.0 ms
+[1607862838.603512] 40 bytes from adb3d01069f8e5066.awsglobalaccelerator.com (99.83.250.163): icmp_seq=40 ttl=116 time=31.2 ms
+[1607862839.603257] 40 bytes from adb3d01069f8e5066.awsglobalaccelerator.com (99.83.250.163): icmp_seq=41 ttl=116 time=31.0 ms
+[1607862840.604604] 40 bytes from adb3d01069f8e5066.awsglobalaccelerator.com (99.83.250.163): icmp_seq=42 ttl=116 time=31.2 ms
+[1607862841.606193] 40 bytes from adb3d01069f8e5066.awsglobalaccelerator.com (99.83.250.163): icmp_seq=43 ttl=116 time=31.0 ms
+[1607862842.607335] 40 bytes from adb3d01069f8e5066.awsglobalaccelerator.com (99.83.250.163): icmp_seq=44 ttl=116 time=31.2 ms
+[1607862853.614018] 40 bytes from 99.83.250.163: icmp_seq=45 ttl=116 time=30.6 ms
+[1607862853.647165] 40 bytes from adb3d01069f8e5066.awsglobalaccelerator.com (99.83.250.163): icmp_seq=46 ttl=116 time=31.1 ms
+[1607862854.645504] 40 bytes from adb3d01069f8e5066.awsglobalaccelerator.com (99.83.250.163): icmp_seq=47 ttl=116 time=31.0 ms
+[1607862855.647384] 40 bytes from adb3d01069f8e5066.awsglobalaccelerator.com (99.83.250.163): icmp_seq=48 ttl=116 time=31.2 ms
+[1607862856.648663] 40 bytes from adb3d01069f8e5066.awsglobalaccelerator.com (99.83.250.163): icmp_seq=49 ttl=116 time=31.0 ms
+[1607862857.649355] 40 bytes from adb3d01069f8e5066.awsglobalaccelerator.com (99.83.250.163): icmp_seq=50 ttl=116 time=30.7 ms
+
+--- osu.edu ping statistics ---
+50 packets transmitted, 50 received, 0% packet loss, time 158850ms
+rtt min/avg/max/mdev = 30.190/30.936/31.478/0.290 ms

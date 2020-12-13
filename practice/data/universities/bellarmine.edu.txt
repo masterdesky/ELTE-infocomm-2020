@@ -1,0 +1,103 @@
+PING bellarmine.edu (198.190.212.28) 32(60) bytes of data.
+[1607862696.722011] 40 bytes from 198.190.212.28: icmp_seq=1 ttl=113 time=125 ms
+[1607862698.192220] 40 bytes from 198.190.212.28: icmp_seq=1 ttl=113 time=125 ms (DUP!)
+[1607862698.194392] 40 bytes from 198.190.212.28: icmp_seq=2 ttl=113 time=137 ms
+[1607862698.196538] 40 bytes from 198.190.212.28: icmp_seq=2 ttl=113 time=138 ms (DUP!)
+[1607862698.322669] 40 bytes from 198.190.212.28: icmp_seq=3 ttl=113 time=126 ms
+[1607862698.324733] 40 bytes from 198.190.212.28: icmp_seq=3 ttl=113 time=126 ms (DUP!)
+[1607862709.326102] 40 bytes from 198.190.212.28: icmp_seq=4 ttl=113 time=125 ms
+[1607862709.328312] 40 bytes from 198.190.212.28: icmp_seq=4 ttl=113 time=126 ms (DUP!)
+[1607862709.454215] 40 bytes from 198.190.212.28: icmp_seq=5 ttl=113 time=126 ms
+[1607862714.461405] 40 bytes from 198.190.212.28: icmp_seq=5 ttl=113 time=126 ms (DUP!)
+[1607862719.594222] 40 bytes from 198.190.212.28: icmp_seq=6 ttl=113 time=126 ms
+[1607862719.596315] 40 bytes from 198.190.212.28: icmp_seq=6 ttl=113 time=126 ms (DUP!)
+[1607862729.725999] 40 bytes from 198.190.212.28: icmp_seq=7 ttl=113 time=125 ms
+[1607862739.738052] 40 bytes from 198.190.212.28: icmp_seq=7 ttl=113 time=126 ms (DUP!)
+[1607862749.870035] 40 bytes from 198.190.212.28: icmp_seq=9 ttl=113 time=126 ms
+[1607862754.876954] 40 bytes from 198.190.212.28: icmp_seq=9 ttl=113 time=126 ms (DUP!)
+[1607862764.886018] 40 bytes from 198.190.212.28: icmp_seq=10 ttl=113 time=126 ms
+[1607862764.888132] 40 bytes from 198.190.212.28: icmp_seq=10 ttl=113 time=126 ms (DUP!)
+[1607862765.014366] 40 bytes from 198.190.212.28: icmp_seq=11 ttl=113 time=126 ms
+[1607862770.020598] 40 bytes from 198.190.212.28: icmp_seq=11 ttl=113 time=126 ms (DUP!)
+[1607862770.148417] 40 bytes from 198.190.212.28: icmp_seq=12 ttl=113 time=126 ms
+[1607862770.150606] 40 bytes from 198.190.212.28: icmp_seq=12 ttl=113 time=126 ms (DUP!)
+[1607862781.154088] 40 bytes from 198.190.212.28: icmp_seq=13 ttl=113 time=126 ms
+[1607862791.162061] 40 bytes from 198.190.212.28: icmp_seq=13 ttl=113 time=126 ms (DUP!)
+[1607862796.168535] 40 bytes from 198.190.212.28: icmp_seq=14 ttl=113 time=126 ms
+[1607862796.170616] 40 bytes from 198.190.212.28: icmp_seq=14 ttl=113 time=126 ms (DUP!)
+[1607862796.295540] 40 bytes from 198.190.212.28: icmp_seq=15 ttl=113 time=125 ms
+[1607862796.297037] 40 bytes from 198.190.212.28: icmp_seq=15 ttl=113 time=126 ms (DUP!)
+[1607862807.302324] 40 bytes from 198.190.212.28: icmp_seq=16 ttl=113 time=126 ms
+[1607862817.310392] 40 bytes from 198.190.212.28: icmp_seq=16 ttl=113 time=126 ms (DUP!)
+[1607862822.315620] 40 bytes from 198.190.212.28: icmp_seq=17 ttl=113 time=126 ms
+[1607862822.317775] 40 bytes from 198.190.212.28: icmp_seq=17 ttl=113 time=126 ms (DUP!)
+[1607862822.443123] 40 bytes from 198.190.212.28: icmp_seq=18 ttl=113 time=125 ms
+[1607862822.445095] 40 bytes from 198.190.212.28: icmp_seq=18 ttl=113 time=126 ms (DUP!)
+[1607862833.446057] 40 bytes from 198.190.212.28: icmp_seq=19 ttl=113 time=125 ms
+[1607862843.454498] 40 bytes from 198.190.212.28: icmp_seq=19 ttl=113 time=126 ms (DUP!)
+[1607862843.456804] 40 bytes from 198.190.212.28: icmp_seq=20 ttl=113 time=126 ms
+[1607862848.460626] 40 bytes from 198.190.212.28: icmp_seq=20 ttl=113 time=126 ms (DUP!)
+[1607862848.462713] 40 bytes from 198.190.212.28: icmp_seq=21 ttl=113 time=126 ms
+[1607862848.464788] 40 bytes from 198.190.212.28: icmp_seq=21 ttl=113 time=126 ms (DUP!)
+[1607862848.590375] 40 bytes from 198.190.212.28: icmp_seq=22 ttl=113 time=125 ms
+[1607862848.592383] 40 bytes from 198.190.212.28: icmp_seq=22 ttl=113 time=126 ms (DUP!)
+[1607862859.594045] 40 bytes from 198.190.212.28: icmp_seq=23 ttl=113 time=125 ms
+[1607862859.596469] 40 bytes from 198.190.212.28: icmp_seq=23 ttl=113 time=126 ms (DUP!)
+[1607862864.724210] 40 bytes from 198.190.212.28: icmp_seq=24 ttl=113 time=126 ms
+[1607862869.728197] 40 bytes from 198.190.212.28: icmp_seq=24 ttl=113 time=126 ms (DUP!)
+[1607862869.730453] 40 bytes from 198.190.212.28: icmp_seq=25 ttl=113 time=125 ms
+[1607862869.733014] 40 bytes from 198.190.212.28: icmp_seq=25 ttl=113 time=125 ms (DUP!)
+[1607862869.858594] 40 bytes from 198.190.212.28: icmp_seq=26 ttl=113 time=126 ms
+[1607862869.861190] 40 bytes from 198.190.212.28: icmp_seq=26 ttl=113 time=126 ms (DUP!)
+[1607862875.864168] 40 bytes from 198.190.212.28: icmp_seq=27 ttl=113 time=125 ms
+[1607862880.867766] 40 bytes from 198.190.212.28: icmp_seq=27 ttl=113 time=125 ms (DUP!)
+[1607862880.869858] 40 bytes from 198.190.212.28: icmp_seq=28 ttl=113 time=126 ms
+[1607862880.872140] 40 bytes from 198.190.212.28: icmp_seq=28 ttl=113 time=126 ms (DUP!)
+[1607862880.998562] 40 bytes from 198.190.212.28: icmp_seq=29 ttl=113 time=126 ms
+[1607862881.001007] 40 bytes from 198.190.212.28: icmp_seq=29 ttl=113 time=126 ms (DUP!)
+[1607862881.998584] 40 bytes from 198.190.212.28: icmp_seq=30 ttl=113 time=126 ms
+[1607862882.001056] 40 bytes from 198.190.212.28: icmp_seq=30 ttl=113 time=126 ms (DUP!)
+[1607862882.997555] 40 bytes from 198.190.212.28: icmp_seq=31 ttl=113 time=126 ms
+[1607862888.004254] 40 bytes from 198.190.212.28: icmp_seq=31 ttl=113 time=126 ms (DUP!)
+[1607862888.132867] 40 bytes from 198.190.212.28: icmp_seq=32 ttl=113 time=126 ms
+[1607862888.135146] 40 bytes from 198.190.212.28: icmp_seq=32 ttl=113 time=126 ms (DUP!)
+[1607862889.134763] 40 bytes from 198.190.212.28: icmp_seq=33 ttl=113 time=126 ms
+[1607862889.137178] 40 bytes from 198.190.212.28: icmp_seq=33 ttl=113 time=126 ms (DUP!)
+[1607862890.136294] 40 bytes from 198.190.212.28: icmp_seq=34 ttl=113 time=126 ms
+[1607862890.137998] 40 bytes from 198.190.212.28: icmp_seq=34 ttl=113 time=126 ms (DUP!)
+[1607862891.138177] 40 bytes from 198.190.212.28: icmp_seq=35 ttl=113 time=126 ms
+[1607862891.140626] 40 bytes from 198.190.212.28: icmp_seq=35 ttl=113 time=126 ms (DUP!)
+[1607862892.139636] 40 bytes from 198.190.212.28: icmp_seq=36 ttl=113 time=126 ms
+[1607862892.141972] 40 bytes from 198.190.212.28: icmp_seq=36 ttl=113 time=126 ms (DUP!)
+[1607862893.140540] 40 bytes from 198.190.212.28: icmp_seq=37 ttl=113 time=125 ms
+[1607862893.142100] 40 bytes from 198.190.212.28: icmp_seq=37 ttl=113 time=125 ms (DUP!)
+[1607862894.142012] 40 bytes from 198.190.212.28: icmp_seq=38 ttl=113 time=126 ms
+[1607862894.144367] 40 bytes from 198.190.212.28: icmp_seq=38 ttl=113 time=126 ms (DUP!)
+[1607862895.143245] 40 bytes from 198.190.212.28: icmp_seq=39 ttl=113 time=126 ms
+[1607862895.145103] 40 bytes from 198.190.212.28: icmp_seq=39 ttl=113 time=126 ms (DUP!)
+[1607862896.145688] 40 bytes from 198.190.212.28: icmp_seq=40 ttl=113 time=126 ms
+[1607862896.147946] 40 bytes from 198.190.212.28: icmp_seq=40 ttl=113 time=126 ms (DUP!)
+[1607862897.146824] 40 bytes from 198.190.212.28: icmp_seq=41 ttl=113 time=126 ms
+[1607862897.149401] 40 bytes from 198.190.212.28: icmp_seq=41 ttl=113 time=126 ms (DUP!)
+[1607862898.148070] 40 bytes from 198.190.212.28: icmp_seq=42 ttl=113 time=126 ms
+[1607862898.150521] 40 bytes from 198.190.212.28: icmp_seq=42 ttl=113 time=126 ms (DUP!)
+[1607862899.148314] 40 bytes from 198.190.212.28: icmp_seq=43 ttl=113 time=126 ms
+[1607862899.150640] 40 bytes from 198.190.212.28: icmp_seq=43 ttl=113 time=126 ms (DUP!)
+[1607862900.149728] 40 bytes from 198.190.212.28: icmp_seq=44 ttl=113 time=126 ms
+[1607862900.152074] 40 bytes from 198.190.212.28: icmp_seq=44 ttl=113 time=126 ms (DUP!)
+[1607862901.151114] 40 bytes from 198.190.212.28: icmp_seq=45 ttl=113 time=126 ms
+[1607862901.152696] 40 bytes from 198.190.212.28: icmp_seq=45 ttl=113 time=126 ms (DUP!)
+[1607862902.152905] 40 bytes from 198.190.212.28: icmp_seq=46 ttl=113 time=126 ms
+[1607862902.155227] 40 bytes from 198.190.212.28: icmp_seq=46 ttl=113 time=126 ms (DUP!)
+[1607862903.154474] 40 bytes from 198.190.212.28: icmp_seq=47 ttl=113 time=126 ms
+[1607862903.156890] 40 bytes from 198.190.212.28: icmp_seq=47 ttl=113 time=126 ms (DUP!)
+[1607862904.156031] 40 bytes from 198.190.212.28: icmp_seq=48 ttl=113 time=126 ms
+[1607862904.158153] 40 bytes from 198.190.212.28: icmp_seq=48 ttl=113 time=126 ms (DUP!)
+[1607862905.157070] 40 bytes from 198.190.212.28: icmp_seq=49 ttl=113 time=125 ms
+[1607862905.159453] 40 bytes from 198.190.212.28: icmp_seq=49 ttl=113 time=125 ms (DUP!)
+[1607862906.156854] 40 bytes from 198.190.212.28: icmp_seq=50 ttl=113 time=125 ms
+[1607862906.158798] 40 bytes from 198.190.212.28: icmp_seq=50 ttl=113 time=125 ms (DUP!)
+
+--- bellarmine.edu ping statistics ---
+50 packets transmitted, 49 received, +49 duplicates, 2% packet loss, time 219440ms
+rtt min/avg/max/mdev = 124.887/126.015/137.602/1.669 ms, pipe 2

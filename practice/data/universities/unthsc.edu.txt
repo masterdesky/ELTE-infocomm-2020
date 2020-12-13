@@ -1,0 +1,55 @@
+PING unthsc.edu (35.185.43.14) 32(60) bytes of data.
+[1607862726.091041] 40 bytes from 14.43.185.35.bc.googleusercontent.com (35.185.43.14): icmp_seq=1 ttl=55 time=114 ms
+[1607862726.206439] 40 bytes from 14.43.185.35.bc.googleusercontent.com (35.185.43.14): icmp_seq=2 ttl=55 time=114 ms
+[1607862727.207261] 40 bytes from 14.43.185.35.bc.googleusercontent.com (35.185.43.14): icmp_seq=3 ttl=55 time=114 ms
+[1607862728.209636] 40 bytes from 14.43.185.35.bc.googleusercontent.com (35.185.43.14): icmp_seq=4 ttl=55 time=114 ms
+[1607862729.210125] 40 bytes from 14.43.185.35.bc.googleusercontent.com (35.185.43.14): icmp_seq=5 ttl=55 time=114 ms
+[1607862730.210620] 40 bytes from 14.43.185.35.bc.googleusercontent.com (35.185.43.14): icmp_seq=6 ttl=55 time=113 ms
+[1607862741.214042] 40 bytes from 35.185.43.14: icmp_seq=7 ttl=55 time=113 ms
+[1607862746.333667] 40 bytes from 14.43.185.35.bc.googleusercontent.com (35.185.43.14): icmp_seq=8 ttl=55 time=113 ms
+[1607862756.454160] 40 bytes from 35.185.43.14: icmp_seq=9 ttl=55 time=114 ms
+[1607862756.569305] 40 bytes from 14.43.185.35.bc.googleusercontent.com (35.185.43.14): icmp_seq=10 ttl=55 time=113 ms
+[1607862757.568165] 40 bytes from 14.43.185.35.bc.googleusercontent.com (35.185.43.14): icmp_seq=11 ttl=55 time=113 ms
+[1607862758.570840] 40 bytes from 14.43.185.35.bc.googleusercontent.com (35.185.43.14): icmp_seq=12 ttl=55 time=114 ms
+[1607862759.572028] 40 bytes from 14.43.185.35.bc.googleusercontent.com (35.185.43.14): icmp_seq=13 ttl=55 time=114 ms
+[1607862765.576117] 40 bytes from 14.43.185.35.bc.googleusercontent.com (35.185.43.14): icmp_seq=14 ttl=55 time=114 ms
+[1607862775.697992] 40 bytes from 35.185.43.14: icmp_seq=15 ttl=55 time=114 ms
+[1607862780.815337] 40 bytes from 14.43.185.35.bc.googleusercontent.com (35.185.43.14): icmp_seq=16 ttl=55 time=113 ms
+[1607862790.938030] 40 bytes from 35.185.43.14: icmp_seq=17 ttl=55 time=114 ms
+[1607862791.054221] 40 bytes from 14.43.185.35.bc.googleusercontent.com (35.185.43.14): icmp_seq=18 ttl=55 time=114 ms
+[1607862802.058081] 40 bytes from 35.185.43.14: icmp_seq=19 ttl=55 time=113 ms
+[1607862802.173281] 40 bytes from 14.43.185.35.bc.googleusercontent.com (35.185.43.14): icmp_seq=20 ttl=55 time=114 ms
+[1607862803.174791] 40 bytes from 14.43.185.35.bc.googleusercontent.com (35.185.43.14): icmp_seq=21 ttl=55 time=113 ms
+[1607862804.175936] 40 bytes from 14.43.185.35.bc.googleusercontent.com (35.185.43.14): icmp_seq=22 ttl=55 time=114 ms
+[1607862805.177402] 40 bytes from 14.43.185.35.bc.googleusercontent.com (35.185.43.14): icmp_seq=23 ttl=55 time=114 ms
+[1607862806.177766] 40 bytes from 14.43.185.35.bc.googleusercontent.com (35.185.43.14): icmp_seq=24 ttl=55 time=114 ms
+[1607862812.184745] 40 bytes from 14.43.185.35.bc.googleusercontent.com (35.185.43.14): icmp_seq=25 ttl=55 time=114 ms
+[1607862822.306059] 40 bytes from 35.185.43.14: icmp_seq=26 ttl=55 time=113 ms
+[1607862822.422472] 40 bytes from 14.43.185.35.bc.googleusercontent.com (35.185.43.14): icmp_seq=27 ttl=55 time=114 ms
+[1607862828.423884] 40 bytes from 14.43.185.35.bc.googleusercontent.com (35.185.43.14): icmp_seq=28 ttl=55 time=113 ms
+[1607862828.539356] 40 bytes from 14.43.185.35.bc.googleusercontent.com (35.185.43.14): icmp_seq=29 ttl=55 time=113 ms
+[1607862829.541237] 40 bytes from 14.43.185.35.bc.googleusercontent.com (35.185.43.14): icmp_seq=30 ttl=55 time=114 ms
+[1607862830.541204] 40 bytes from 14.43.185.35.bc.googleusercontent.com (35.185.43.14): icmp_seq=31 ttl=55 time=114 ms
+[1607862831.543602] 40 bytes from 14.43.185.35.bc.googleusercontent.com (35.185.43.14): icmp_seq=32 ttl=55 time=114 ms
+[1607862832.544622] 40 bytes from 14.43.185.35.bc.googleusercontent.com (35.185.43.14): icmp_seq=33 ttl=55 time=114 ms
+[1607862843.550010] 40 bytes from 35.185.43.14: icmp_seq=34 ttl=55 time=113 ms
+[1607862853.670748] 40 bytes from 35.185.43.14: icmp_seq=35 ttl=55 time=114 ms
+[1607862853.785968] 40 bytes from 14.43.185.35.bc.googleusercontent.com (35.185.43.14): icmp_seq=36 ttl=55 time=113 ms
+[1607862854.784813] 40 bytes from 14.43.185.35.bc.googleusercontent.com (35.185.43.14): icmp_seq=37 ttl=55 time=113 ms
+[1607862855.787860] 40 bytes from 14.43.185.35.bc.googleusercontent.com (35.185.43.14): icmp_seq=38 ttl=55 time=114 ms
+[1607862856.788459] 40 bytes from 14.43.185.35.bc.googleusercontent.com (35.185.43.14): icmp_seq=39 ttl=55 time=113 ms
+[1607862857.790325] 40 bytes from 14.43.185.35.bc.googleusercontent.com (35.185.43.14): icmp_seq=40 ttl=55 time=114 ms
+[1607862858.791353] 40 bytes from 14.43.185.35.bc.googleusercontent.com (35.185.43.14): icmp_seq=41 ttl=55 time=114 ms
+[1607862864.796061] 40 bytes from 14.43.185.35.bc.googleusercontent.com (35.185.43.14): icmp_seq=42 ttl=55 time=114 ms
+[1607862869.915644] 40 bytes from 14.43.185.35.bc.googleusercontent.com (35.185.43.14): icmp_seq=43 ttl=55 time=113 ms
+[1607862875.035624] 40 bytes from 14.43.185.35.bc.googleusercontent.com (35.185.43.14): icmp_seq=44 ttl=55 time=114 ms
+[1607862875.151554] 40 bytes from 14.43.185.35.bc.googleusercontent.com (35.185.43.14): icmp_seq=45 ttl=55 time=114 ms
+[1607862876.156709] 40 bytes from 14.43.185.35.bc.googleusercontent.com (35.185.43.14): icmp_seq=46 ttl=55 time=114 ms
+[1607862877.154117] 40 bytes from 14.43.185.35.bc.googleusercontent.com (35.185.43.14): icmp_seq=47 ttl=55 time=114 ms
+[1607862878.155042] 40 bytes from 14.43.185.35.bc.googleusercontent.com (35.185.43.14): icmp_seq=48 ttl=55 time=114 ms
+[1607862879.155722] 40 bytes from 14.43.185.35.bc.googleusercontent.com (35.185.43.14): icmp_seq=49 ttl=55 time=113 ms
+[1607862880.158415] 40 bytes from 14.43.185.35.bc.googleusercontent.com (35.185.43.14): icmp_seq=50 ttl=55 time=114 ms
+
+--- unthsc.edu ping statistics ---
+50 packets transmitted, 50 received, 0% packet loss, time 160076ms
+rtt min/avg/max/mdev = 112.777/113.600/114.286/0.351 ms

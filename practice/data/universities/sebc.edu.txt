@@ -1,0 +1,55 @@
+PING sebc.edu (172.67.191.77) 32(60) bytes of data.
+[1607862668.314731] 40 bytes from 172.67.191.77 (172.67.191.77): icmp_seq=1 ttl=54 time=34.4 ms
+[1607862669.304742] 40 bytes from 172.67.191.77 (172.67.191.77): icmp_seq=2 ttl=54 time=33.9 ms
+[1607862670.305960] 40 bytes from 172.67.191.77 (172.67.191.77): icmp_seq=3 ttl=54 time=34.3 ms
+[1607862671.307541] 40 bytes from 172.67.191.77 (172.67.191.77): icmp_seq=4 ttl=54 time=34.5 ms
+[1607862672.308291] 40 bytes from 172.67.191.77 (172.67.191.77): icmp_seq=5 ttl=54 time=33.8 ms
+[1607862683.314703] 40 bytes from 172.67.191.77: icmp_seq=6 ttl=54 time=34.3 ms
+[1607862693.354055] 40 bytes from 172.67.191.77: icmp_seq=7 ttl=54 time=33.7 ms
+[1607862703.398018] 40 bytes from 172.67.191.77: icmp_seq=8 ttl=54 time=34.8 ms
+[1607862703.434607] 40 bytes from 172.67.191.77 (172.67.191.77): icmp_seq=9 ttl=54 time=34.1 ms
+[1607862714.442989] 40 bytes from 172.67.191.77: icmp_seq=10 ttl=54 time=34.2 ms
+[1607862724.486549] 40 bytes from 172.67.191.77: icmp_seq=11 ttl=54 time=33.9 ms
+[1607862729.523766] 40 bytes from 172.67.191.77 (172.67.191.77): icmp_seq=12 ttl=54 time=33.9 ms
+[1607862734.563728] 40 bytes from 172.67.191.77 (172.67.191.77): icmp_seq=13 ttl=54 time=34.2 ms
+[1607862739.604269] 40 bytes from 172.67.191.77 (172.67.191.77): icmp_seq=14 ttl=54 time=34.2 ms
+[1607862739.640514] 40 bytes from 172.67.191.77 (172.67.191.77): icmp_seq=15 ttl=54 time=33.9 ms
+[1607862740.640465] 40 bytes from 172.67.191.77 (172.67.191.77): icmp_seq=16 ttl=54 time=33.2 ms
+[1607862751.646009] 40 bytes from 172.67.191.77: icmp_seq=17 ttl=54 time=34.1 ms
+[1607862751.681825] 40 bytes from 172.67.191.77 (172.67.191.77): icmp_seq=18 ttl=54 time=33.6 ms
+[1607862752.683920] 40 bytes from 172.67.191.77 (172.67.191.77): icmp_seq=19 ttl=54 time=34.2 ms
+[1607862753.686083] 40 bytes from 172.67.191.77 (172.67.191.77): icmp_seq=20 ttl=54 time=34.3 ms
+[1607862759.687881] 40 bytes from 172.67.191.77 (172.67.191.77): icmp_seq=21 ttl=54 time=33.1 ms
+[1607862759.724161] 40 bytes from 172.67.191.77 (172.67.191.77): icmp_seq=22 ttl=54 time=34.1 ms
+[1607862760.722707] 40 bytes from 172.67.191.77 (172.67.191.77): icmp_seq=23 ttl=54 time=33.4 ms
+[1607862766.726421] 40 bytes from 172.67.191.77 (172.67.191.77): icmp_seq=24 ttl=54 time=34.1 ms
+[1607862776.770026] 40 bytes from 172.67.191.77: icmp_seq=25 ttl=54 time=33.9 ms
+[1607862776.806213] 40 bytes from 172.67.191.77 (172.67.191.77): icmp_seq=26 ttl=54 time=34.6 ms
+[1607862777.805401] 40 bytes from 172.67.191.77 (172.67.191.77): icmp_seq=27 ttl=54 time=33.5 ms
+[1607862778.806566] 40 bytes from 172.67.191.77 (172.67.191.77): icmp_seq=28 ttl=54 time=34.1 ms
+[1607862779.812210] 40 bytes from 172.67.191.77 (172.67.191.77): icmp_seq=29 ttl=54 time=40.1 ms
+[1607862785.812295] 40 bytes from 172.67.191.77 (172.67.191.77): icmp_seq=30 ttl=54 time=34.5 ms
+[1607862785.848653] 40 bytes from 172.67.191.77 (172.67.191.77): icmp_seq=31 ttl=54 time=34.3 ms
+[1607862796.854238] 40 bytes from 172.67.191.77: icmp_seq=32 ttl=54 time=33.7 ms
+[1607862806.894022] 40 bytes from 172.67.191.77: icmp_seq=33 ttl=54 time=34.4 ms
+[1607862811.931675] 40 bytes from 172.67.191.77 (172.67.191.77): icmp_seq=34 ttl=54 time=34.2 ms
+[1607862811.967979] 40 bytes from 172.67.191.77 (172.67.191.77): icmp_seq=35 ttl=54 time=34.3 ms
+[1607862822.974023] 40 bytes from 172.67.191.77: icmp_seq=36 ttl=54 time=33.8 ms
+[1607862833.018067] 40 bytes from 172.67.191.77: icmp_seq=37 ttl=54 time=34.4 ms
+[1607862838.056618] 40 bytes from 172.67.191.77 (172.67.191.77): icmp_seq=38 ttl=54 time=34.3 ms
+[1607862838.094195] 40 bytes from 172.67.191.77 (172.67.191.77): icmp_seq=39 ttl=54 time=33.8 ms
+[1607862839.093325] 40 bytes from 172.67.191.77 (172.67.191.77): icmp_seq=40 ttl=54 time=34.0 ms
+[1607862840.094829] 40 bytes from 172.67.191.77 (172.67.191.77): icmp_seq=41 ttl=54 time=33.8 ms
+[1607862841.097117] 40 bytes from 172.67.191.77 (172.67.191.77): icmp_seq=42 ttl=54 time=34.0 ms
+[1607862842.098091] 40 bytes from 172.67.191.77 (172.67.191.77): icmp_seq=43 ttl=54 time=33.9 ms
+[1607862843.098557] 40 bytes from 172.67.191.77 (172.67.191.77): icmp_seq=44 ttl=54 time=34.0 ms
+[1607862854.102057] 40 bytes from 172.67.191.77: icmp_seq=45 ttl=54 time=33.8 ms
+[1607862854.138322] 40 bytes from 172.67.191.77 (172.67.191.77): icmp_seq=46 ttl=54 time=34.4 ms
+[1607862855.140232] 40 bytes from 172.67.191.77 (172.67.191.77): icmp_seq=47 ttl=54 time=34.4 ms
+[1607862856.140529] 40 bytes from 172.67.191.77 (172.67.191.77): icmp_seq=48 ttl=54 time=34.1 ms
+[1607862857.141699] 40 bytes from 172.67.191.77 (172.67.191.77): icmp_seq=49 ttl=54 time=34.2 ms
+[1607862858.142463] 40 bytes from 172.67.191.77 (172.67.191.77): icmp_seq=50 ttl=54 time=34.2 ms
+
+--- sebc.edu ping statistics ---
+50 packets transmitted, 50 received, 0% packet loss, time 189839ms
+rtt min/avg/max/mdev = 33.102/34.172/40.129/0.916 ms

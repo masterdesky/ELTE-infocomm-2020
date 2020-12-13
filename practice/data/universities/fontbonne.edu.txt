@@ -1,0 +1,55 @@
+PING fontbonne.edu (72.10.48.182) 32(60) bytes of data.
+[1607862711.838034] 40 bytes from 72.10.48.182: icmp_seq=1 ttl=50 time=103 ms
+[1607862721.950056] 40 bytes from 72.10.48.182: icmp_seq=2 ttl=50 time=103 ms
+[1607862722.731147] 40 bytes from fontbonne.edu (72.10.48.182): icmp_seq=3 ttl=50 time=103 ms
+[1607862723.054527] 40 bytes from fontbonne.edu (72.10.48.182): icmp_seq=4 ttl=50 time=103 ms
+[1607862729.058103] 40 bytes from fontbonne.edu (72.10.48.182): icmp_seq=5 ttl=50 time=102 ms
+[1607862739.170033] 40 bytes from 72.10.48.182: icmp_seq=6 ttl=50 time=103 ms
+[1607862739.274288] 40 bytes from fontbonne.edu (72.10.48.182): icmp_seq=7 ttl=50 time=102 ms
+[1607862740.275933] 40 bytes from fontbonne.edu (72.10.48.182): icmp_seq=8 ttl=50 time=103 ms
+[1607862741.274789] 40 bytes from fontbonne.edu (72.10.48.182): icmp_seq=9 ttl=50 time=102 ms
+[1607862742.277697] 40 bytes from fontbonne.edu (72.10.48.182): icmp_seq=10 ttl=50 time=103 ms
+[1607862743.277345] 40 bytes from fontbonne.edu (72.10.48.182): icmp_seq=11 ttl=50 time=103 ms
+[1607862744.279331] 40 bytes from fontbonne.edu (72.10.48.182): icmp_seq=12 ttl=50 time=103 ms
+[1607862750.283815] 40 bytes from fontbonne.edu (72.10.48.182): icmp_seq=13 ttl=50 time=103 ms
+[1607862760.394055] 40 bytes from 72.10.48.182: icmp_seq=14 ttl=50 time=103 ms
+[1607862765.503716] 40 bytes from fontbonne.edu (72.10.48.182): icmp_seq=15 ttl=50 time=103 ms
+[1607862775.614010] 40 bytes from 72.10.48.182: icmp_seq=16 ttl=50 time=102 ms
+[1607862775.718750] 40 bytes from fontbonne.edu (72.10.48.182): icmp_seq=17 ttl=50 time=103 ms
+[1607862781.723674] 40 bytes from fontbonne.edu (72.10.48.182): icmp_seq=18 ttl=50 time=103 ms
+[1607862781.828119] 40 bytes from fontbonne.edu (72.10.48.182): icmp_seq=19 ttl=50 time=102 ms
+[1607862792.835042] 40 bytes from 72.10.48.182: icmp_seq=20 ttl=50 time=102 ms
+[1607862797.944180] 40 bytes from fontbonne.edu (72.10.48.182): icmp_seq=21 ttl=50 time=103 ms
+[1607862798.049337] 40 bytes from fontbonne.edu (72.10.48.182): icmp_seq=22 ttl=50 time=103 ms
+[1607862799.048346] 40 bytes from fontbonne.edu (72.10.48.182): icmp_seq=23 ttl=50 time=103 ms
+[1607862800.047625] 40 bytes from fontbonne.edu (72.10.48.182): icmp_seq=24 ttl=50 time=103 ms
+[1607862801.048245] 40 bytes from fontbonne.edu (72.10.48.182): icmp_seq=25 ttl=50 time=103 ms
+[1607862802.048133] 40 bytes from fontbonne.edu (72.10.48.182): icmp_seq=26 ttl=50 time=103 ms
+[1607862803.048286] 40 bytes from fontbonne.edu (72.10.48.182): icmp_seq=27 ttl=50 time=103 ms
+[1607862804.048197] 40 bytes from fontbonne.edu (72.10.48.182): icmp_seq=28 ttl=50 time=103 ms
+[1607862805.047688] 40 bytes from fontbonne.edu (72.10.48.182): icmp_seq=29 ttl=50 time=103 ms
+[1607862806.047288] 40 bytes from fontbonne.edu (72.10.48.182): icmp_seq=30 ttl=50 time=103 ms
+[1607862817.054013] 40 bytes from 72.10.48.182: icmp_seq=31 ttl=50 time=103 ms
+[1607862817.158556] 40 bytes from fontbonne.edu (72.10.48.182): icmp_seq=32 ttl=50 time=103 ms
+[1607862818.157697] 40 bytes from fontbonne.edu (72.10.48.182): icmp_seq=33 ttl=50 time=102 ms
+[1607862819.160191] 40 bytes from fontbonne.edu (72.10.48.182): icmp_seq=34 ttl=50 time=103 ms
+[1607862820.161464] 40 bytes from fontbonne.edu (72.10.48.182): icmp_seq=35 ttl=50 time=103 ms
+[1607862821.160724] 40 bytes from fontbonne.edu (72.10.48.182): icmp_seq=36 ttl=50 time=103 ms
+[1607862822.161867] 40 bytes from fontbonne.edu (72.10.48.182): icmp_seq=37 ttl=50 time=103 ms
+[1607862828.163935] 40 bytes from fontbonne.edu (72.10.48.182): icmp_seq=38 ttl=50 time=103 ms
+[1607862833.273666] 40 bytes from fontbonne.edu (72.10.48.182): icmp_seq=39 ttl=50 time=103 ms
+[1607862843.382111] 40 bytes from 72.10.48.182: icmp_seq=40 ttl=50 time=102 ms
+[1607862848.492181] 40 bytes from fontbonne.edu (72.10.48.182): icmp_seq=41 ttl=50 time=103 ms
+[1607862853.599968] 40 bytes from fontbonne.edu (72.10.48.182): icmp_seq=42 ttl=50 time=103 ms
+[1607862853.704533] 40 bytes from fontbonne.edu (72.10.48.182): icmp_seq=43 ttl=50 time=103 ms
+[1607862854.704038] 40 bytes from fontbonne.edu (72.10.48.182): icmp_seq=44 ttl=50 time=103 ms
+[1607862855.705851] 40 bytes from fontbonne.edu (72.10.48.182): icmp_seq=45 ttl=50 time=103 ms
+[1607862856.707645] 40 bytes from fontbonne.edu (72.10.48.182): icmp_seq=46 ttl=50 time=103 ms
+[1607862857.709188] 40 bytes from fontbonne.edu (72.10.48.182): icmp_seq=47 ttl=50 time=103 ms
+[1607862858.710711] 40 bytes from fontbonne.edu (72.10.48.182): icmp_seq=48 ttl=50 time=103 ms
+[1607862869.718094] 40 bytes from 72.10.48.182: icmp_seq=49 ttl=50 time=103 ms
+[1607862869.823250] 40 bytes from fontbonne.edu (72.10.48.182): icmp_seq=50 ttl=50 time=103 ms
+
+--- fontbonne.edu ping statistics ---
+50 packets transmitted, 50 received, 0% packet loss, time 167992ms
+rtt min/avg/max/mdev = 101.909/102.712/103.184/0.301 ms

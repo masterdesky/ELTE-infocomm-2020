@@ -1,0 +1,5 @@
+PING obu.edu (69.160.148.150) 32(60) bytes of data.
+
+--- obu.edu ping statistics ---
+50 packets transmitted, 0 received, 100% packet loss, time 49631ms
+

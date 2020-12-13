@@ -1,0 +1,55 @@
+PING napavalley.edu (209.129.252.110) 32(60) bytes of data.
+[1607862690.106248] From 207.62.197.2 icmp_seq=1 Time to live exceeded
+[1607862700.290415] From 207.62.197.2 icmp_seq=2 Time to live exceeded
+[1607862710.474476] From 207.62.197.2 icmp_seq=3 Time to live exceeded
+[1607862720.658847] From 207.62.197.2 icmp_seq=4 Time to live exceeded
+[1607862730.844305] From 207.62.197.2 icmp_seq=5 Time to live exceeded
+[1607862741.026798] From 207.62.197.2 icmp_seq=6 Time to live exceeded
+[1607862751.210219] From 207.62.197.2 icmp_seq=7 Time to live exceeded
+[1607862761.393842] From 207.62.197.2 icmp_seq=8 Time to live exceeded
+[1607862771.578401] From 207.62.197.2 icmp_seq=9 Time to live exceeded
+[1607862776.760050] From 207.62.197.2 icmp_seq=10 Time to live exceeded
+[1607862781.939511] From 207.62.197.2 icmp_seq=11 Time to live exceeded
+[1607862787.121384] From 207.62.197.2 icmp_seq=12 Time to live exceeded
+[1607862797.305765] From 207.62.197.2 icmp_seq=13 Time to live exceeded
+[1607862807.489114] From 207.62.197.2 icmp_seq=14 Time to live exceeded
+[1607862817.673341] From 207.62.197.2 icmp_seq=15 Time to live exceeded
+[1607862827.858582] From 207.62.197.2 icmp_seq=16 Time to live exceeded
+[1607862838.042329] From 207.62.197.2 icmp_seq=17 Time to live exceeded
+[1607862848.225996] From 207.62.197.2 icmp_seq=18 Time to live exceeded
+[1607862853.407771] From 207.62.197.2 icmp_seq=19 Time to live exceeded
+[1607862854.409428] From 207.62.197.2 icmp_seq=20 Time to live exceeded
+[1607862864.593645] From 207.62.197.2 icmp_seq=21 Time to live exceeded
+[1607862869.773644] From 207.62.197.2 icmp_seq=22 Time to live exceeded
+[1607862870.775648] From 207.62.197.2 icmp_seq=23 Time to live exceeded
+[1607862880.958171] From 207.62.197.2 icmp_seq=24 Time to live exceeded
+[1607862881.958619] From 207.62.197.2 icmp_seq=25 Time to live exceeded
+[1607862882.960108] From 207.62.197.2 icmp_seq=26 Time to live exceeded
+[1607862883.960556] From 207.62.197.2 icmp_seq=27 Time to live exceeded
+[1607862884.962236] From 207.62.197.2 icmp_seq=28 Time to live exceeded
+[1607862885.962772] From 207.62.197.2 icmp_seq=29 Time to live exceeded
+[1607862886.965511] From 207.62.197.2 icmp_seq=30 Time to live exceeded
+[1607862897.149031] From 207.62.197.2 icmp_seq=31 Time to live exceeded
+[1607862907.333128] From 207.62.197.2 icmp_seq=32 Time to live exceeded
+[1607862908.334080] From 207.62.197.2 icmp_seq=33 Time to live exceeded
+[1607862909.335679] From 207.62.197.2 icmp_seq=34 Time to live exceeded
+[1607862910.336630] From 207.62.197.2 icmp_seq=35 Time to live exceeded
+[1607862911.338374] From 207.62.197.2 icmp_seq=36 Time to live exceeded
+[1607862912.339566] From 207.62.197.2 icmp_seq=37 Time to live exceeded
+[1607862917.518268] From 207.62.197.2 icmp_seq=38 Time to live exceeded
+[1607862918.520693] From 207.62.197.2 icmp_seq=39 Time to live exceeded
+[1607862919.522517] From 207.62.197.2 icmp_seq=40 Time to live exceeded
+[1607862920.523718] From 207.62.197.2 icmp_seq=41 Time to live exceeded
+[1607862921.524477] From 207.62.197.2 icmp_seq=42 Time to live exceeded
+[1607862922.526361] From 207.62.197.2 icmp_seq=43 Time to live exceeded
+[1607862932.709267] From 207.62.197.2 icmp_seq=44 Time to live exceeded
+[1607862933.710338] From 207.62.197.2 icmp_seq=45 Time to live exceeded
+[1607862934.711300] From 207.62.197.2 icmp_seq=46 Time to live exceeded
+[1607862944.892971] From 207.62.197.2 icmp_seq=47 Time to live exceeded
+[1607862945.893883] From 207.62.197.2 icmp_seq=48 Time to live exceeded
+[1607862946.895664] From 207.62.197.2 icmp_seq=49 Time to live exceeded
+[1607862947.896891] From 207.62.197.2 icmp_seq=50 Time to live exceeded
+
+--- napavalley.edu ping statistics ---
+50 packets transmitted, 0 received, +50 errors, 100% packet loss, time 257792ms
+

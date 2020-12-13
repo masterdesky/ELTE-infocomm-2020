@@ -1,0 +1,55 @@
+PING ozarks.edu (35.194.25.72) 32(60) bytes of data.
+[1607862668.584588] 40 bytes from 72.25.194.35.bc.googleusercontent.com (35.194.25.72): icmp_seq=1 ttl=50 time=122 ms
+[1607862679.590056] 40 bytes from 35.194.25.72: icmp_seq=2 ttl=50 time=121 ms
+[1607862689.717998] 40 bytes from 35.194.25.72: icmp_seq=3 ttl=50 time=122 ms
+[1607862694.845662] 40 bytes from 72.25.194.35.bc.googleusercontent.com (35.194.25.72): icmp_seq=4 ttl=50 time=122 ms
+[1607862699.973877] 40 bytes from 72.25.194.35.bc.googleusercontent.com (35.194.25.72): icmp_seq=5 ttl=50 time=121 ms
+[1607862710.107179] 40 bytes from 35.194.25.72: icmp_seq=6 ttl=50 time=121 ms
+[1607862715.235757] 40 bytes from 72.25.194.35.bc.googleusercontent.com (35.194.25.72): icmp_seq=7 ttl=50 time=122 ms
+[1607862715.359514] 40 bytes from 72.25.194.35.bc.googleusercontent.com (35.194.25.72): icmp_seq=8 ttl=50 time=121 ms
+[1607862726.366030] 40 bytes from 35.194.25.72: icmp_seq=9 ttl=50 time=122 ms
+[1607862726.490249] 40 bytes from 72.25.194.35.bc.googleusercontent.com (35.194.25.72): icmp_seq=10 ttl=50 time=122 ms
+[1607862727.492384] 40 bytes from 72.25.194.35.bc.googleusercontent.com (35.194.25.72): icmp_seq=11 ttl=50 time=122 ms
+[1607862728.492234] 40 bytes from 72.25.194.35.bc.googleusercontent.com (35.194.25.72): icmp_seq=12 ttl=50 time=122 ms
+[1607862734.495844] 40 bytes from 72.25.194.35.bc.googleusercontent.com (35.194.25.72): icmp_seq=13 ttl=50 time=121 ms
+[1607862744.626067] 40 bytes from 35.194.25.72: icmp_seq=14 ttl=50 time=121 ms
+[1607862754.754042] 40 bytes from 35.194.25.72: icmp_seq=15 ttl=50 time=122 ms
+[1607862764.882049] 40 bytes from 35.194.25.72: icmp_seq=16 ttl=50 time=122 ms
+[1607862765.005923] 40 bytes from 72.25.194.35.bc.googleusercontent.com (35.194.25.72): icmp_seq=17 ttl=50 time=122 ms
+[1607862776.014004] 40 bytes from 35.194.25.72: icmp_seq=18 ttl=50 time=123 ms
+[1607862776.137559] 40 bytes from 72.25.194.35.bc.googleusercontent.com (35.194.25.72): icmp_seq=19 ttl=50 time=121 ms
+[1607862777.137949] 40 bytes from 72.25.194.35.bc.googleusercontent.com (35.194.25.72): icmp_seq=20 ttl=50 time=122 ms
+[1607862778.138421] 40 bytes from 72.25.194.35.bc.googleusercontent.com (35.194.25.72): icmp_seq=21 ttl=50 time=122 ms
+[1607862779.139777] 40 bytes from 72.25.194.35.bc.googleusercontent.com (35.194.25.72): icmp_seq=22 ttl=50 time=121 ms
+[1607862780.141890] 40 bytes from 72.25.194.35.bc.googleusercontent.com (35.194.25.72): icmp_seq=23 ttl=50 time=122 ms
+[1607862786.147909] 40 bytes from 72.25.194.35.bc.googleusercontent.com (35.194.25.72): icmp_seq=24 ttl=50 time=122 ms
+[1607862796.278053] 40 bytes from 35.194.25.72: icmp_seq=25 ttl=50 time=122 ms
+[1607862801.404110] 40 bytes from 72.25.194.35.bc.googleusercontent.com (35.194.25.72): icmp_seq=26 ttl=50 time=121 ms
+[1607862801.527737] 40 bytes from 72.25.194.35.bc.googleusercontent.com (35.194.25.72): icmp_seq=27 ttl=50 time=122 ms
+[1607862812.534858] 40 bytes from 35.194.25.72: icmp_seq=28 ttl=50 time=121 ms
+[1607862822.662059] 40 bytes from 35.194.25.72: icmp_seq=29 ttl=50 time=121 ms
+[1607862832.790001] 40 bytes from 35.194.25.72: icmp_seq=30 ttl=50 time=122 ms
+[1607862832.914527] 40 bytes from 72.25.194.35.bc.googleusercontent.com (35.194.25.72): icmp_seq=31 ttl=50 time=122 ms
+[1607862843.922115] 40 bytes from 35.194.25.72: icmp_seq=32 ttl=50 time=122 ms
+[1607862854.050843] 40 bytes from 35.194.25.72: icmp_seq=33 ttl=50 time=122 ms
+[1607862854.174993] 40 bytes from 72.25.194.35.bc.googleusercontent.com (35.194.25.72): icmp_seq=34 ttl=50 time=122 ms
+[1607862855.174914] 40 bytes from 72.25.194.35.bc.googleusercontent.com (35.194.25.72): icmp_seq=35 ttl=50 time=121 ms
+[1607862856.177365] 40 bytes from 72.25.194.35.bc.googleusercontent.com (35.194.25.72): icmp_seq=36 ttl=50 time=121 ms
+[1607862857.179151] 40 bytes from 72.25.194.35.bc.googleusercontent.com (35.194.25.72): icmp_seq=37 ttl=50 time=122 ms
+[1607862858.180968] 40 bytes from 72.25.194.35.bc.googleusercontent.com (35.194.25.72): icmp_seq=38 ttl=50 time=122 ms
+[1607862859.181796] 40 bytes from 72.25.194.35.bc.googleusercontent.com (35.194.25.72): icmp_seq=39 ttl=50 time=122 ms
+[1607862860.183045] 40 bytes from 72.25.194.35.bc.googleusercontent.com (35.194.25.72): icmp_seq=40 ttl=50 time=121 ms
+[1607862861.185147] 40 bytes from 72.25.194.35.bc.googleusercontent.com (35.194.25.72): icmp_seq=41 ttl=50 time=122 ms
+[1607862862.186821] 40 bytes from 72.25.194.35.bc.googleusercontent.com (35.194.25.72): icmp_seq=42 ttl=50 time=122 ms
+[1607862863.187743] 40 bytes from 72.25.194.35.bc.googleusercontent.com (35.194.25.72): icmp_seq=43 ttl=50 time=122 ms
+[1607862864.188303] 40 bytes from 72.25.194.35.bc.googleusercontent.com (35.194.25.72): icmp_seq=44 ttl=50 time=122 ms
+[1607862875.194024] 40 bytes from 35.194.25.72: icmp_seq=45 ttl=50 time=122 ms
+[1607862875.317913] 40 bytes from 72.25.194.35.bc.googleusercontent.com (35.194.25.72): icmp_seq=46 ttl=50 time=122 ms
+[1607862876.318935] 40 bytes from 72.25.194.35.bc.googleusercontent.com (35.194.25.72): icmp_seq=47 ttl=50 time=122 ms
+[1607862877.320085] 40 bytes from 72.25.194.35.bc.googleusercontent.com (35.194.25.72): icmp_seq=48 ttl=50 time=122 ms
+[1607862878.321588] 40 bytes from 72.25.194.35.bc.googleusercontent.com (35.194.25.72): icmp_seq=49 ttl=50 time=121 ms
+[1607862879.323398] 40 bytes from 72.25.194.35.bc.googleusercontent.com (35.194.25.72): icmp_seq=50 ttl=50 time=122 ms
+
+--- ozarks.edu ping statistics ---
+50 packets transmitted, 50 received, 0% packet loss, time 210741ms
+rtt min/avg/max/mdev = 120.735/121.642/122.760/0.385 ms

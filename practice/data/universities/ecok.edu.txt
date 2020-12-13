@@ -1,0 +1,55 @@
+PING ecok.edu (198.11.7.250) 32(60) bytes of data.
+[1607862724.145653] 40 bytes from 198.11.7.250: icmp_seq=1 ttl=42 time=145 ms
+[1607862734.298127] 40 bytes from 198.11.7.250: icmp_seq=2 ttl=42 time=145 ms
+[1607862744.454014] 40 bytes from 198.11.7.250: icmp_seq=3 ttl=42 time=150 ms
+[1607862754.606034] 40 bytes from 198.11.7.250: icmp_seq=4 ttl=42 time=145 ms
+[1607862764.758023] 40 bytes from 198.11.7.250: icmp_seq=5 ttl=42 time=145 ms
+[1607862772.323960] 40 bytes from 198.11.7.250: icmp_seq=6 ttl=42 time=145 ms
+[1607862779.244293] 40 bytes from 198.11.7.250: icmp_seq=7 ttl=42 time=145 ms
+[1607862779.393197] 40 bytes from 198.11.7.250: icmp_seq=8 ttl=42 time=145 ms
+[1607862780.391702] 40 bytes from 198.11.7.250: icmp_seq=9 ttl=42 time=144 ms
+[1607862791.394007] 40 bytes from 198.11.7.250: icmp_seq=10 ttl=42 time=145 ms
+[1607862797.481528] 40 bytes from 198.11.7.250: icmp_seq=11 ttl=42 time=145 ms
+[1607862802.631562] 40 bytes from 198.11.7.250: icmp_seq=12 ttl=42 time=145 ms
+[1607862812.782008] 40 bytes from 198.11.7.250: icmp_seq=13 ttl=42 time=145 ms
+[1607862822.934031] 40 bytes from 198.11.7.250: icmp_seq=14 ttl=42 time=145 ms
+[1607862833.086052] 40 bytes from 198.11.7.250: icmp_seq=15 ttl=42 time=145 ms
+[1607862843.238075] 40 bytes from 198.11.7.250: icmp_seq=16 ttl=42 time=145 ms
+[1607862849.322450] 40 bytes from 198.11.7.250: icmp_seq=17 ttl=42 time=145 ms
+[1607862854.474039] 40 bytes from 198.11.7.250: icmp_seq=18 ttl=42 time=145 ms
+[1607862854.623011] 40 bytes from 198.11.7.250: icmp_seq=19 ttl=42 time=145 ms
+[1607862856.540028] 40 bytes from 198.11.7.250: icmp_seq=20 ttl=42 time=145 ms
+[1607862856.689297] 40 bytes from 198.11.7.250: icmp_seq=21 ttl=42 time=145 ms
+[1607862857.689467] 40 bytes from 198.11.7.250: icmp_seq=22 ttl=42 time=145 ms
+[1607862858.691194] 40 bytes from 198.11.7.250: icmp_seq=23 ttl=42 time=145 ms
+[1607862865.430964] 40 bytes from 198.11.7.250: icmp_seq=24 ttl=42 time=145 ms
+[1607862870.580094] 40 bytes from 198.11.7.250: icmp_seq=25 ttl=42 time=145 ms
+[1607862870.737305] 40 bytes from 198.11.7.250: icmp_seq=26 ttl=42 time=154 ms
+[1607862871.740906] 40 bytes from 198.11.7.250: icmp_seq=27 ttl=42 time=156 ms
+[1607862872.745141] 40 bytes from 198.11.7.250: icmp_seq=28 ttl=42 time=158 ms
+[1607862873.752035] 40 bytes from 198.11.7.250: icmp_seq=29 ttl=42 time=164 ms
+[1607862874.751047] 40 bytes from 198.11.7.250: icmp_seq=30 ttl=42 time=161 ms
+[1607862881.494580] 40 bytes from 198.11.7.250: icmp_seq=31 ttl=42 time=163 ms
+[1607862881.642810] 40 bytes from 198.11.7.250: icmp_seq=32 ttl=42 time=145 ms
+[1607862882.642803] 40 bytes from 198.11.7.250: icmp_seq=33 ttl=42 time=145 ms
+[1607862883.644863] 40 bytes from 198.11.7.250: icmp_seq=34 ttl=42 time=145 ms
+[1607862884.645321] 40 bytes from 198.11.7.250: icmp_seq=35 ttl=42 time=145 ms
+[1607862885.646319] 40 bytes from 198.11.7.250: icmp_seq=36 ttl=42 time=145 ms
+[1607862886.647819] 40 bytes from 198.11.7.250: icmp_seq=37 ttl=42 time=145 ms
+[1607862888.382428] 40 bytes from 198.11.7.250: icmp_seq=38 ttl=42 time=145 ms
+[1607862888.648106] 40 bytes from 198.11.7.250: icmp_seq=39 ttl=42 time=145 ms
+[1607862889.649059] 40 bytes from 198.11.7.250: icmp_seq=40 ttl=42 time=145 ms
+[1607862890.652742] 40 bytes from 198.11.7.250: icmp_seq=41 ttl=42 time=147 ms
+[1607862891.652728] 40 bytes from 198.11.7.250: icmp_seq=42 ttl=42 time=145 ms
+[1607862892.654147] 40 bytes from 198.11.7.250: icmp_seq=43 ttl=42 time=145 ms
+[1607862893.653798] 40 bytes from 198.11.7.250: icmp_seq=44 ttl=42 time=145 ms
+[1607862895.395842] 40 bytes from 198.11.7.250: icmp_seq=45 ttl=42 time=145 ms
+[1607862895.656077] 40 bytes from 198.11.7.250: icmp_seq=46 ttl=42 time=145 ms
+[1607862896.656468] 40 bytes from 198.11.7.250: icmp_seq=47 ttl=42 time=144 ms
+[1607862897.657449] 40 bytes from 198.11.7.250: icmp_seq=48 ttl=42 time=145 ms
+[1607862898.658980] 40 bytes from 198.11.7.250: icmp_seq=49 ttl=42 time=145 ms
+[1607862899.659132] 40 bytes from 198.11.7.250: icmp_seq=50 ttl=42 time=145 ms
+
+--- ecok.edu ping statistics ---
+50 packets transmitted, 50 received, 0% packet loss, time 185520ms
+rtt min/avg/max/mdev = 144.121/146.807/163.975/4.857 ms

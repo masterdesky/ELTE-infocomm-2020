@@ -1,0 +1,55 @@
+PING everettcc.edu (45.60.105.245) 32(60) bytes of data.
+[1607862709.054513] 40 bytes from 45.60.105.245 (45.60.105.245): icmp_seq=1 ttl=52 time=121 ms
+[1607862709.756712] 40 bytes from 45.60.105.245 (45.60.105.245): icmp_seq=2 ttl=52 time=120 ms
+[1607862720.762205] 40 bytes from 45.60.105.245: icmp_seq=3 ttl=52 time=120 ms
+[1607862730.890079] 40 bytes from 45.60.105.245: icmp_seq=4 ttl=52 time=122 ms
+[1607862731.011249] 40 bytes from 45.60.105.245 (45.60.105.245): icmp_seq=5 ttl=52 time=120 ms
+[1607862742.017995] 40 bytes from 45.60.105.245: icmp_seq=6 ttl=52 time=120 ms
+[1607862747.143752] 40 bytes from 45.60.105.245 (45.60.105.245): icmp_seq=7 ttl=52 time=120 ms
+[1607862757.270281] 40 bytes from 45.60.105.245: icmp_seq=8 ttl=52 time=120 ms
+[1607862762.396085] 40 bytes from 45.60.105.245 (45.60.105.245): icmp_seq=9 ttl=52 time=120 ms
+[1607862762.518325] 40 bytes from 45.60.105.245 (45.60.105.245): icmp_seq=10 ttl=52 time=121 ms
+[1607862763.519309] 40 bytes from 45.60.105.245 (45.60.105.245): icmp_seq=11 ttl=52 time=120 ms
+[1607862764.519976] 40 bytes from 45.60.105.245 (45.60.105.245): icmp_seq=12 ttl=52 time=120 ms
+[1607862770.523525] 40 bytes from 45.60.105.245 (45.60.105.245): icmp_seq=13 ttl=52 time=121 ms
+[1607862770.647781] 40 bytes from 45.60.105.245 (45.60.105.245): icmp_seq=14 ttl=52 time=121 ms
+[1607862771.646483] 40 bytes from 45.60.105.245 (45.60.105.245): icmp_seq=15 ttl=52 time=120 ms
+[1607862782.654357] 40 bytes from 45.60.105.245: icmp_seq=16 ttl=52 time=121 ms
+[1607862782.776118] 40 bytes from 45.60.105.245 (45.60.105.245): icmp_seq=17 ttl=52 time=120 ms
+[1607862783.778403] 40 bytes from 45.60.105.245 (45.60.105.245): icmp_seq=18 ttl=52 time=120 ms
+[1607862784.778652] 40 bytes from 45.60.105.245 (45.60.105.245): icmp_seq=19 ttl=52 time=120 ms
+[1607862785.779935] 40 bytes from 45.60.105.245 (45.60.105.245): icmp_seq=20 ttl=52 time=120 ms
+[1607862786.781012] 40 bytes from 45.60.105.245 (45.60.105.245): icmp_seq=21 ttl=52 time=120 ms
+[1607862792.784253] 40 bytes from 45.60.105.245 (45.60.105.245): icmp_seq=22 ttl=52 time=120 ms
+[1607862802.909993] 40 bytes from 45.60.105.245: icmp_seq=23 ttl=52 time=120 ms
+[1607862803.032683] 40 bytes from 45.60.105.245 (45.60.105.245): icmp_seq=24 ttl=52 time=121 ms
+[1607862804.032917] 40 bytes from 45.60.105.245 (45.60.105.245): icmp_seq=25 ttl=52 time=120 ms
+[1607862805.031603] 40 bytes from 45.60.105.245 (45.60.105.245): icmp_seq=26 ttl=52 time=121 ms
+[1607862806.031703] 40 bytes from 45.60.105.245 (45.60.105.245): icmp_seq=27 ttl=52 time=120 ms
+[1607862812.035411] 40 bytes from 45.60.105.245 (45.60.105.245): icmp_seq=28 ttl=52 time=121 ms
+[1607862817.159649] 40 bytes from 45.60.105.245 (45.60.105.245): icmp_seq=29 ttl=52 time=120 ms
+[1607862817.281347] 40 bytes from 45.60.105.245 (45.60.105.245): icmp_seq=30 ttl=52 time=120 ms
+[1607862828.286319] 40 bytes from 45.60.105.245: icmp_seq=31 ttl=52 time=120 ms
+[1607862828.408605] 40 bytes from 45.60.105.245 (45.60.105.245): icmp_seq=32 ttl=52 time=120 ms
+[1607862829.409760] 40 bytes from 45.60.105.245 (45.60.105.245): icmp_seq=33 ttl=52 time=121 ms
+[1607862830.410709] 40 bytes from 45.60.105.245 (45.60.105.245): icmp_seq=34 ttl=52 time=120 ms
+[1607862831.411857] 40 bytes from 45.60.105.245 (45.60.105.245): icmp_seq=35 ttl=52 time=120 ms
+[1607862832.412154] 40 bytes from 45.60.105.245 (45.60.105.245): icmp_seq=36 ttl=52 time=120 ms
+[1607862838.414930] 40 bytes from 45.60.105.245 (45.60.105.245): icmp_seq=37 ttl=52 time=120 ms
+[1607862848.542004] 40 bytes from 45.60.105.245: icmp_seq=38 ttl=52 time=120 ms
+[1607862848.663958] 40 bytes from 45.60.105.245 (45.60.105.245): icmp_seq=39 ttl=52 time=120 ms
+[1607862849.663690] 40 bytes from 45.60.105.245 (45.60.105.245): icmp_seq=40 ttl=52 time=120 ms
+[1607862850.664484] 40 bytes from 45.60.105.245 (45.60.105.245): icmp_seq=41 ttl=52 time=121 ms
+[1607862851.666218] 40 bytes from 45.60.105.245 (45.60.105.245): icmp_seq=42 ttl=52 time=121 ms
+[1607862852.667078] 40 bytes from 45.60.105.245 (45.60.105.245): icmp_seq=43 ttl=52 time=121 ms
+[1607862853.666562] 40 bytes from 45.60.105.245 (45.60.105.245): icmp_seq=44 ttl=52 time=121 ms
+[1607862859.668032] 40 bytes from 45.60.105.245 (45.60.105.245): icmp_seq=45 ttl=52 time=120 ms
+[1607862869.794030] 40 bytes from 45.60.105.245: icmp_seq=46 ttl=52 time=120 ms
+[1607862869.915677] 40 bytes from 45.60.105.245 (45.60.105.245): icmp_seq=47 ttl=52 time=120 ms
+[1607862875.919979] 40 bytes from 45.60.105.245 (45.60.105.245): icmp_seq=48 ttl=52 time=121 ms
+[1607862881.043756] 40 bytes from 45.60.105.245 (45.60.105.245): icmp_seq=49 ttl=52 time=120 ms
+[1607862881.165622] 40 bytes from 45.60.105.245 (45.60.105.245): icmp_seq=50 ttl=52 time=120 ms
+
+--- everettcc.edu ping statistics ---
+50 packets transmitted, 50 received, 0% packet loss, time 172408ms
+rtt min/avg/max/mdev = 119.627/120.344/121.745/0.350 ms

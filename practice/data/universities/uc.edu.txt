@@ -1,0 +1,55 @@
+PING uc.edu (129.137.4.225) 32(60) bytes of data.
+[1607862693.654297] 40 bytes from uc.edu (129.137.4.225): icmp_seq=1 ttl=231 time=123 ms
+[1607862694.654649] 40 bytes from uc.edu (129.137.4.225): icmp_seq=2 ttl=231 time=122 ms
+[1607862695.657427] 40 bytes from uc.edu (129.137.4.225): icmp_seq=3 ttl=231 time=122 ms
+[1607862706.664445] 40 bytes from 129.137.4.225: icmp_seq=4 ttl=231 time=122 ms
+[1607862706.789598] 40 bytes from uc.edu (129.137.4.225): icmp_seq=5 ttl=231 time=123 ms
+[1607862717.794085] 40 bytes from 129.137.4.225: icmp_seq=6 ttl=231 time=122 ms
+[1607862717.918811] 40 bytes from uc.edu (129.137.4.225): icmp_seq=7 ttl=231 time=123 ms
+[1607862728.922031] 40 bytes from 129.137.4.225: icmp_seq=8 ttl=231 time=123 ms
+[1607862729.047234] 40 bytes from uc.edu (129.137.4.225): icmp_seq=9 ttl=231 time=123 ms
+[1607862730.046072] 40 bytes from uc.edu (129.137.4.225): icmp_seq=10 ttl=231 time=123 ms
+[1607862731.046130] 40 bytes from uc.edu (129.137.4.225): icmp_seq=11 ttl=231 time=122 ms
+[1607862732.047227] 40 bytes from uc.edu (129.137.4.225): icmp_seq=12 ttl=231 time=122 ms
+[1607862733.046194] 40 bytes from uc.edu (129.137.4.225): icmp_seq=13 ttl=231 time=122 ms
+[1607862734.046140] 40 bytes from uc.edu (129.137.4.225): icmp_seq=14 ttl=231 time=122 ms
+[1607862735.046381] 40 bytes from uc.edu (129.137.4.225): icmp_seq=15 ttl=231 time=122 ms
+[1607862736.045827] 40 bytes from uc.edu (129.137.4.225): icmp_seq=16 ttl=231 time=122 ms
+[1607862737.047822] 40 bytes from uc.edu (129.137.4.225): icmp_seq=17 ttl=231 time=125 ms
+[1607862738.046627] 40 bytes from uc.edu (129.137.4.225): icmp_seq=18 ttl=231 time=123 ms
+[1607862739.044261] 40 bytes from uc.edu (129.137.4.225): icmp_seq=19 ttl=231 time=122 ms
+[1607862740.046678] 40 bytes from uc.edu (129.137.4.225): icmp_seq=20 ttl=231 time=123 ms
+[1607862741.045167] 40 bytes from uc.edu (129.137.4.225): icmp_seq=21 ttl=231 time=122 ms
+[1607862742.045333] 40 bytes from uc.edu (129.137.4.225): icmp_seq=22 ttl=231 time=122 ms
+[1607862743.045634] 40 bytes from uc.edu (129.137.4.225): icmp_seq=23 ttl=231 time=122 ms
+[1607862744.046620] 40 bytes from uc.edu (129.137.4.225): icmp_seq=24 ttl=231 time=122 ms
+[1607862755.054009] 40 bytes from 129.137.4.225: icmp_seq=25 ttl=231 time=123 ms
+[1607862755.178658] 40 bytes from uc.edu (129.137.4.225): icmp_seq=26 ttl=231 time=123 ms
+[1607862756.180042] 40 bytes from uc.edu (129.137.4.225): icmp_seq=27 ttl=231 time=123 ms
+[1607862757.181712] 40 bytes from uc.edu (129.137.4.225): icmp_seq=28 ttl=231 time=123 ms
+[1607862758.182439] 40 bytes from uc.edu (129.137.4.225): icmp_seq=29 ttl=231 time=122 ms
+[1607862759.184816] 40 bytes from uc.edu (129.137.4.225): icmp_seq=30 ttl=231 time=124 ms
+[1607862770.190050] 40 bytes from 129.137.4.225: icmp_seq=31 ttl=231 time=122 ms
+[1607862775.318444] 40 bytes from uc.edu (129.137.4.225): icmp_seq=32 ttl=231 time=122 ms
+[1607862780.443551] 40 bytes from uc.edu (129.137.4.225): icmp_seq=33 ttl=231 time=122 ms
+[1607862780.567808] 40 bytes from uc.edu (129.137.4.225): icmp_seq=34 ttl=231 time=122 ms
+[1607862781.567680] 40 bytes from uc.edu (129.137.4.225): icmp_seq=35 ttl=231 time=122 ms
+[1607862792.574064] 40 bytes from 129.137.4.225: icmp_seq=36 ttl=231 time=122 ms
+[1607862802.702037] 40 bytes from 129.137.4.225: icmp_seq=37 ttl=231 time=122 ms
+[1607862812.830012] 40 bytes from 129.137.4.225: icmp_seq=38 ttl=231 time=122 ms
+[1607862822.962073] 40 bytes from 129.137.4.225: icmp_seq=39 ttl=231 time=124 ms
+[1607862823.085889] 40 bytes from uc.edu (129.137.4.225): icmp_seq=40 ttl=231 time=122 ms
+[1607862824.087018] 40 bytes from uc.edu (129.137.4.225): icmp_seq=41 ttl=231 time=123 ms
+[1607862825.087005] 40 bytes from uc.edu (129.137.4.225): icmp_seq=42 ttl=231 time=124 ms
+[1607862826.086984] 40 bytes from uc.edu (129.137.4.225): icmp_seq=43 ttl=231 time=123 ms
+[1607862827.085656] 40 bytes from uc.edu (129.137.4.225): icmp_seq=44 ttl=231 time=123 ms
+[1607862838.090391] 40 bytes from 129.137.4.225: icmp_seq=45 ttl=231 time=123 ms
+[1607862838.214785] 40 bytes from uc.edu (129.137.4.225): icmp_seq=46 ttl=231 time=122 ms
+[1607862839.215358] 40 bytes from uc.edu (129.137.4.225): icmp_seq=47 ttl=231 time=122 ms
+[1607862840.216072] 40 bytes from uc.edu (129.137.4.225): icmp_seq=48 ttl=231 time=123 ms
+[1607862841.217562] 40 bytes from uc.edu (129.137.4.225): icmp_seq=49 ttl=231 time=122 ms
+[1607862842.217708] 40 bytes from uc.edu (129.137.4.225): icmp_seq=50 ttl=231 time=123 ms
+
+--- uc.edu ping statistics ---
+50 packets transmitted, 50 received, 0% packet loss, time 148564ms
+rtt min/avg/max/mdev = 121.591/122.468/124.500/0.511 ms

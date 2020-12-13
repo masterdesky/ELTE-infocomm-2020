@@ -1,0 +1,55 @@
+PING swcc.edu (107.180.47.11) 32(60) bytes of data.
+[1607862676.043904] 40 bytes from ip-107-180-47-11.ip.secureserver.net (107.180.47.11): icmp_seq=1 ttl=47 time=106 ms
+[1607862681.151826] 40 bytes from ip-107-180-47-11.ip.secureserver.net (107.180.47.11): icmp_seq=2 ttl=47 time=103 ms
+[1607862681.256949] 40 bytes from ip-107-180-47-11.ip.secureserver.net (107.180.47.11): icmp_seq=3 ttl=47 time=103 ms
+[1607862687.262711] 40 bytes from ip-107-180-47-11.ip.secureserver.net (107.180.47.11): icmp_seq=4 ttl=47 time=103 ms
+[1607862687.370078] 40 bytes from ip-107-180-47-11.ip.secureserver.net (107.180.47.11): icmp_seq=5 ttl=47 time=102 ms
+[1607862688.369428] 40 bytes from ip-107-180-47-11.ip.secureserver.net (107.180.47.11): icmp_seq=6 ttl=47 time=103 ms
+[1607862699.378083] 40 bytes from 107.180.47.11: icmp_seq=7 ttl=47 time=103 ms
+[1607862704.496004] 40 bytes from ip-107-180-47-11.ip.secureserver.net (107.180.47.11): icmp_seq=8 ttl=47 time=112 ms
+[1607862704.615919] 40 bytes from ip-107-180-47-11.ip.secureserver.net (107.180.47.11): icmp_seq=9 ttl=47 time=117 ms
+[1607862710.603587] 40 bytes from ip-107-180-47-11.ip.secureserver.net (107.180.47.11): icmp_seq=10 ttl=47 time=103 ms
+[1607862715.711642] 40 bytes from ip-107-180-47-11.ip.secureserver.net (107.180.47.11): icmp_seq=11 ttl=47 time=103 ms
+[1607862720.819874] 40 bytes from ip-107-180-47-11.ip.secureserver.net (107.180.47.11): icmp_seq=12 ttl=47 time=102 ms
+[1607862720.925931] 40 bytes from ip-107-180-47-11.ip.secureserver.net (107.180.47.11): icmp_seq=13 ttl=47 time=103 ms
+[1607862721.926249] 40 bytes from ip-107-180-47-11.ip.secureserver.net (107.180.47.11): icmp_seq=14 ttl=47 time=104 ms
+[1607862727.931989] 40 bytes from ip-107-180-47-11.ip.secureserver.net (107.180.47.11): icmp_seq=15 ttl=47 time=107 ms
+[1607862728.037451] 40 bytes from ip-107-180-47-11.ip.secureserver.net (107.180.47.11): icmp_seq=16 ttl=47 time=103 ms
+[1607862739.042000] 40 bytes from 107.180.47.11: icmp_seq=17 ttl=47 time=102 ms
+[1607862739.146603] 40 bytes from ip-107-180-47-11.ip.secureserver.net (107.180.47.11): icmp_seq=18 ttl=47 time=102 ms
+[1607862740.148089] 40 bytes from ip-107-180-47-11.ip.secureserver.net (107.180.47.11): icmp_seq=19 ttl=47 time=103 ms
+[1607862741.146984] 40 bytes from ip-107-180-47-11.ip.secureserver.net (107.180.47.11): icmp_seq=20 ttl=47 time=103 ms
+[1607862747.153712] 40 bytes from ip-107-180-47-11.ip.secureserver.net (107.180.47.11): icmp_seq=21 ttl=47 time=103 ms
+[1607862752.263773] 40 bytes from ip-107-180-47-11.ip.secureserver.net (107.180.47.11): icmp_seq=22 ttl=47 time=103 ms
+[1607862752.368989] 40 bytes from ip-107-180-47-11.ip.secureserver.net (107.180.47.11): icmp_seq=23 ttl=47 time=103 ms
+[1607862753.370590] 40 bytes from ip-107-180-47-11.ip.secureserver.net (107.180.47.11): icmp_seq=24 ttl=47 time=103 ms
+[1607862754.370302] 40 bytes from ip-107-180-47-11.ip.secureserver.net (107.180.47.11): icmp_seq=25 ttl=47 time=103 ms
+[1607862755.371034] 40 bytes from ip-107-180-47-11.ip.secureserver.net (107.180.47.11): icmp_seq=26 ttl=47 time=103 ms
+[1607862756.372031] 40 bytes from ip-107-180-47-11.ip.secureserver.net (107.180.47.11): icmp_seq=27 ttl=47 time=103 ms
+[1607862767.378418] 40 bytes from 107.180.47.11: icmp_seq=28 ttl=47 time=103 ms
+[1607862767.483449] 40 bytes from ip-107-180-47-11.ip.secureserver.net (107.180.47.11): icmp_seq=29 ttl=47 time=103 ms
+[1607862768.483446] 40 bytes from ip-107-180-47-11.ip.secureserver.net (107.180.47.11): icmp_seq=30 ttl=47 time=103 ms
+[1607862769.482683] 40 bytes from ip-107-180-47-11.ip.secureserver.net (107.180.47.11): icmp_seq=31 ttl=47 time=103 ms
+[1607862780.490057] 40 bytes from 107.180.47.11: icmp_seq=32 ttl=47 time=103 ms
+[1607862780.595893] 40 bytes from ip-107-180-47-11.ip.secureserver.net (107.180.47.11): icmp_seq=33 ttl=47 time=104 ms
+[1607862781.593866] 40 bytes from ip-107-180-47-11.ip.secureserver.net (107.180.47.11): icmp_seq=34 ttl=47 time=102 ms
+[1607862782.593428] 40 bytes from ip-107-180-47-11.ip.secureserver.net (107.180.47.11): icmp_seq=35 ttl=47 time=103 ms
+[1607862783.595083] 40 bytes from ip-107-180-47-11.ip.secureserver.net (107.180.47.11): icmp_seq=36 ttl=47 time=103 ms
+[1607862784.596538] 40 bytes from ip-107-180-47-11.ip.secureserver.net (107.180.47.11): icmp_seq=37 ttl=47 time=103 ms
+[1607862785.597281] 40 bytes from ip-107-180-47-11.ip.secureserver.net (107.180.47.11): icmp_seq=38 ttl=47 time=103 ms
+[1607862791.599242] 40 bytes from ip-107-180-47-11.ip.secureserver.net (107.180.47.11): icmp_seq=39 ttl=47 time=103 ms
+[1607862791.704446] 40 bytes from ip-107-180-47-11.ip.secureserver.net (107.180.47.11): icmp_seq=40 ttl=47 time=103 ms
+[1607862792.704095] 40 bytes from ip-107-180-47-11.ip.secureserver.net (107.180.47.11): icmp_seq=41 ttl=47 time=103 ms
+[1607862793.706130] 40 bytes from ip-107-180-47-11.ip.secureserver.net (107.180.47.11): icmp_seq=42 ttl=47 time=103 ms
+[1607862794.706183] 40 bytes from ip-107-180-47-11.ip.secureserver.net (107.180.47.11): icmp_seq=43 ttl=47 time=102 ms
+[1607862795.707728] 40 bytes from ip-107-180-47-11.ip.secureserver.net (107.180.47.11): icmp_seq=44 ttl=47 time=103 ms
+[1607862806.714046] 40 bytes from 107.180.47.11: icmp_seq=45 ttl=47 time=103 ms
+[1607862811.824182] 40 bytes from ip-107-180-47-11.ip.secureserver.net (107.180.47.11): icmp_seq=46 ttl=47 time=104 ms
+[1607862811.928930] 40 bytes from ip-107-180-47-11.ip.secureserver.net (107.180.47.11): icmp_seq=47 ttl=47 time=103 ms
+[1607862817.935778] 40 bytes from ip-107-180-47-11.ip.secureserver.net (107.180.47.11): icmp_seq=48 ttl=47 time=106 ms
+[1607862828.046077] 40 bytes from 107.180.47.11: icmp_seq=49 ttl=47 time=102 ms
+[1607862829.046159] 40 bytes from 107.180.47.11: icmp_seq=50 ttl=47 time=103 ms
+
+--- swcc.edu ping statistics ---
+50 packets transmitted, 50 received, 0% packet loss, time 157113ms
+rtt min/avg/max/mdev = 102.093/103.607/117.458/2.488 ms

@@ -1,0 +1,55 @@
+PING sccnc.edu (104.236.118.240) 32(60) bytes of data.
+[1607862715.154045] 40 bytes from 104.236.118.240: icmp_seq=1 ttl=46 time=108 ms
+[1607862715.982363] 40 bytes from sccnc.edu (104.236.118.240): icmp_seq=2 ttl=46 time=108 ms
+[1607862726.270002] 40 bytes from 104.236.118.240: icmp_seq=3 ttl=46 time=107 ms
+[1607862731.383720] 40 bytes from sccnc.edu (104.236.118.240): icmp_seq=4 ttl=46 time=107 ms
+[1607862736.497808] 40 bytes from sccnc.edu (104.236.118.240): icmp_seq=5 ttl=46 time=107 ms
+[1607862736.606999] 40 bytes from sccnc.edu (104.236.118.240): icmp_seq=6 ttl=46 time=107 ms
+[1607862737.607539] 40 bytes from sccnc.edu (104.236.118.240): icmp_seq=7 ttl=46 time=107 ms
+[1607862738.609713] 40 bytes from sccnc.edu (104.236.118.240): icmp_seq=8 ttl=46 time=107 ms
+[1607862744.615831] 40 bytes from sccnc.edu (104.236.118.240): icmp_seq=9 ttl=46 time=107 ms
+[1607862744.724255] 40 bytes from sccnc.edu (104.236.118.240): icmp_seq=10 ttl=46 time=106 ms
+[1607862745.725697] 40 bytes from sccnc.edu (104.236.118.240): icmp_seq=11 ttl=46 time=107 ms
+[1607862746.727473] 40 bytes from sccnc.edu (104.236.118.240): icmp_seq=12 ttl=46 time=107 ms
+[1607862747.729114] 40 bytes from sccnc.edu (104.236.118.240): icmp_seq=13 ttl=46 time=107 ms
+[1607862748.728605] 40 bytes from sccnc.edu (104.236.118.240): icmp_seq=14 ttl=46 time=107 ms
+[1607862759.734049] 40 bytes from 104.236.118.240: icmp_seq=15 ttl=46 time=107 ms
+[1607862759.843038] 40 bytes from sccnc.edu (104.236.118.240): icmp_seq=16 ttl=46 time=107 ms
+[1607862770.850065] 40 bytes from 104.236.118.240: icmp_seq=17 ttl=46 time=107 ms
+[1607862770.958920] 40 bytes from sccnc.edu (104.236.118.240): icmp_seq=18 ttl=46 time=107 ms
+[1607862776.961187] 40 bytes from sccnc.edu (104.236.118.240): icmp_seq=19 ttl=46 time=107 ms
+[1607862782.075580] 40 bytes from sccnc.edu (104.236.118.240): icmp_seq=20 ttl=46 time=107 ms
+[1607862782.184375] 40 bytes from sccnc.edu (104.236.118.240): icmp_seq=21 ttl=46 time=107 ms
+[1607862783.185178] 40 bytes from sccnc.edu (104.236.118.240): icmp_seq=22 ttl=46 time=107 ms
+[1607862784.187115] 40 bytes from sccnc.edu (104.236.118.240): icmp_seq=23 ttl=46 time=107 ms
+[1607862785.187861] 40 bytes from sccnc.edu (104.236.118.240): icmp_seq=24 ttl=46 time=107 ms
+[1607862796.194024] 40 bytes from 104.236.118.240: icmp_seq=25 ttl=46 time=107 ms
+[1607862796.303791] 40 bytes from sccnc.edu (104.236.118.240): icmp_seq=26 ttl=46 time=108 ms
+[1607862807.310308] 40 bytes from 104.236.118.240: icmp_seq=27 ttl=46 time=107 ms
+[1607862812.424049] 40 bytes from sccnc.edu (104.236.118.240): icmp_seq=28 ttl=46 time=107 ms
+[1607862822.538085] 40 bytes from 104.236.118.240: icmp_seq=29 ttl=46 time=107 ms
+[1607862827.651810] 40 bytes from sccnc.edu (104.236.118.240): icmp_seq=30 ttl=46 time=107 ms
+[1607862827.761090] 40 bytes from sccnc.edu (104.236.118.240): icmp_seq=31 ttl=46 time=107 ms
+[1607862833.763828] 40 bytes from sccnc.edu (104.236.118.240): icmp_seq=32 ttl=46 time=107 ms
+[1607862843.878060] 40 bytes from 104.236.118.240: icmp_seq=33 ttl=46 time=107 ms
+[1607862853.990065] 40 bytes from 104.236.118.240: icmp_seq=34 ttl=46 time=106 ms
+[1607862859.104063] 40 bytes from sccnc.edu (104.236.118.240): icmp_seq=35 ttl=46 time=107 ms
+[1607862859.213463] 40 bytes from sccnc.edu (104.236.118.240): icmp_seq=36 ttl=46 time=107 ms
+[1607862860.215270] 40 bytes from sccnc.edu (104.236.118.240): icmp_seq=37 ttl=46 time=107 ms
+[1607862861.215959] 40 bytes from sccnc.edu (104.236.118.240): icmp_seq=38 ttl=46 time=107 ms
+[1607862862.217140] 40 bytes from sccnc.edu (104.236.118.240): icmp_seq=39 ttl=46 time=107 ms
+[1607862863.218468] 40 bytes from sccnc.edu (104.236.118.240): icmp_seq=40 ttl=46 time=107 ms
+[1607862864.220101] 40 bytes from sccnc.edu (104.236.118.240): icmp_seq=41 ttl=46 time=107 ms
+[1607862865.220913] 40 bytes from sccnc.edu (104.236.118.240): icmp_seq=42 ttl=46 time=107 ms
+[1607862866.222154] 40 bytes from sccnc.edu (104.236.118.240): icmp_seq=43 ttl=46 time=107 ms
+[1607862867.222347] 40 bytes from sccnc.edu (104.236.118.240): icmp_seq=44 ttl=46 time=107 ms
+[1607862868.223991] 40 bytes from sccnc.edu (104.236.118.240): icmp_seq=45 ttl=46 time=107 ms
+[1607862869.225897] 40 bytes from sccnc.edu (104.236.118.240): icmp_seq=46 ttl=46 time=107 ms
+[1607862870.224564] 40 bytes from sccnc.edu (104.236.118.240): icmp_seq=47 ttl=46 time=106 ms
+[1607862871.226373] 40 bytes from sccnc.edu (104.236.118.240): icmp_seq=48 ttl=46 time=107 ms
+[1607862872.227276] 40 bytes from sccnc.edu (104.236.118.240): icmp_seq=49 ttl=46 time=107 ms
+[1607862873.228375] 40 bytes from sccnc.edu (104.236.118.240): icmp_seq=50 ttl=46 time=107 ms
+
+--- sccnc.edu ping statistics ---
+50 packets transmitted, 50 received, 0% packet loss, time 168081ms
+rtt min/avg/max/mdev = 106.456/107.158/108.103/0.313 ms

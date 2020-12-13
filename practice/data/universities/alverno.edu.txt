@@ -1,0 +1,55 @@
+PING alverno.edu (159.203.174.156) 32(60) bytes of data.
+[1607862715.507888] 40 bytes from www.alverno.edu (159.203.174.156): icmp_seq=1 ttl=45 time=107 ms
+[1607862716.137199] 40 bytes from www.alverno.edu (159.203.174.156): icmp_seq=2 ttl=45 time=107 ms
+[1607862717.138291] 40 bytes from www.alverno.edu (159.203.174.156): icmp_seq=3 ttl=45 time=107 ms
+[1607862723.143439] 40 bytes from www.alverno.edu (159.203.174.156): icmp_seq=4 ttl=45 time=108 ms
+[1607862723.253710] 40 bytes from www.alverno.edu (159.203.174.156): icmp_seq=5 ttl=45 time=108 ms
+[1607862729.256305] 40 bytes from www.alverno.edu (159.203.174.156): icmp_seq=6 ttl=45 time=108 ms
+[1607862729.365013] 40 bytes from www.alverno.edu (159.203.174.156): icmp_seq=7 ttl=45 time=107 ms
+[1607862730.366448] 40 bytes from www.alverno.edu (159.203.174.156): icmp_seq=8 ttl=45 time=107 ms
+[1607862741.374026] 40 bytes from 159.203.174.156: icmp_seq=9 ttl=45 time=108 ms
+[1607862746.491514] 40 bytes from www.alverno.edu (159.203.174.156): icmp_seq=10 ttl=45 time=113 ms
+[1607862756.606061] 40 bytes from 159.203.174.156: icmp_seq=11 ttl=45 time=108 ms
+[1607862756.714802] 40 bytes from www.alverno.edu (159.203.174.156): icmp_seq=12 ttl=45 time=107 ms
+[1607862757.714217] 40 bytes from www.alverno.edu (159.203.174.156): icmp_seq=13 ttl=45 time=107 ms
+[1607862758.715792] 40 bytes from www.alverno.edu (159.203.174.156): icmp_seq=14 ttl=45 time=108 ms
+[1607862759.717391] 40 bytes from www.alverno.edu (159.203.174.156): icmp_seq=15 ttl=45 time=108 ms
+[1607862760.715858] 40 bytes from www.alverno.edu (159.203.174.156): icmp_seq=16 ttl=45 time=108 ms
+[1607862771.722060] 40 bytes from 159.203.174.156: icmp_seq=17 ttl=45 time=107 ms
+[1607862781.838049] 40 bytes from 159.203.174.156: icmp_seq=18 ttl=45 time=108 ms
+[1607862781.947632] 40 bytes from www.alverno.edu (159.203.174.156): icmp_seq=19 ttl=45 time=108 ms
+[1607862782.947287] 40 bytes from www.alverno.edu (159.203.174.156): icmp_seq=20 ttl=45 time=107 ms
+[1607862783.947453] 40 bytes from www.alverno.edu (159.203.174.156): icmp_seq=21 ttl=45 time=107 ms
+[1607862784.949005] 40 bytes from www.alverno.edu (159.203.174.156): icmp_seq=22 ttl=45 time=108 ms
+[1607862790.951993] 40 bytes from www.alverno.edu (159.203.174.156): icmp_seq=23 ttl=45 time=107 ms
+[1607862791.062323] 40 bytes from www.alverno.edu (159.203.174.156): icmp_seq=24 ttl=45 time=108 ms
+[1607862802.066025] 40 bytes from 159.203.174.156: icmp_seq=25 ttl=45 time=107 ms
+[1607862812.182135] 40 bytes from 159.203.174.156: icmp_seq=26 ttl=45 time=108 ms
+[1607862822.298042] 40 bytes from 159.203.174.156: icmp_seq=27 ttl=45 time=108 ms
+[1607862822.408777] 40 bytes from www.alverno.edu (159.203.174.156): icmp_seq=28 ttl=45 time=108 ms
+[1607862823.407416] 40 bytes from www.alverno.edu (159.203.174.156): icmp_seq=29 ttl=45 time=108 ms
+[1607862824.406647] 40 bytes from www.alverno.edu (159.203.174.156): icmp_seq=30 ttl=45 time=107 ms
+[1607862825.409081] 40 bytes from www.alverno.edu (159.203.174.156): icmp_seq=31 ttl=45 time=108 ms
+[1607862826.410838] 40 bytes from www.alverno.edu (159.203.174.156): icmp_seq=32 ttl=45 time=108 ms
+[1607862827.410197] 40 bytes from www.alverno.edu (159.203.174.156): icmp_seq=33 ttl=45 time=108 ms
+[1607862833.413722] 40 bytes from www.alverno.edu (159.203.174.156): icmp_seq=34 ttl=45 time=108 ms
+[1607862833.523147] 40 bytes from www.alverno.edu (159.203.174.156): icmp_seq=35 ttl=45 time=108 ms
+[1607862834.523193] 40 bytes from www.alverno.edu (159.203.174.156): icmp_seq=36 ttl=45 time=107 ms
+[1607862835.524674] 40 bytes from www.alverno.edu (159.203.174.156): icmp_seq=37 ttl=45 time=108 ms
+[1607862836.526790] 40 bytes from www.alverno.edu (159.203.174.156): icmp_seq=38 ttl=45 time=108 ms
+[1607862837.526457] 40 bytes from www.alverno.edu (159.203.174.156): icmp_seq=39 ttl=45 time=107 ms
+[1607862848.529998] 40 bytes from 159.203.174.156: icmp_seq=40 ttl=45 time=107 ms
+[1607862853.643820] 40 bytes from www.alverno.edu (159.203.174.156): icmp_seq=41 ttl=45 time=108 ms
+[1607862853.752158] 40 bytes from www.alverno.edu (159.203.174.156): icmp_seq=42 ttl=45 time=107 ms
+[1607862864.758674] 40 bytes from 159.203.174.156: icmp_seq=43 ttl=45 time=107 ms
+[1607862869.871765] 40 bytes from www.alverno.edu (159.203.174.156): icmp_seq=44 ttl=45 time=107 ms
+[1607862874.983574] 40 bytes from www.alverno.edu (159.203.174.156): icmp_seq=45 ttl=45 time=108 ms
+[1607862875.094902] 40 bytes from www.alverno.edu (159.203.174.156): icmp_seq=46 ttl=45 time=108 ms
+[1607862876.092984] 40 bytes from www.alverno.edu (159.203.174.156): icmp_seq=47 ttl=45 time=108 ms
+[1607862877.092889] 40 bytes from www.alverno.edu (159.203.174.156): icmp_seq=48 ttl=45 time=107 ms
+[1607862878.094520] 40 bytes from www.alverno.edu (159.203.174.156): icmp_seq=49 ttl=45 time=108 ms
+[1607862879.095083] 40 bytes from www.alverno.edu (159.203.174.156): icmp_seq=50 ttl=45 time=108 ms
+
+--- alverno.edu ping statistics ---
+50 packets transmitted, 50 received, 0% packet loss, time 163958ms
+rtt min/avg/max/mdev = 106.732/107.577/113.341/0.904 ms

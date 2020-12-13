@@ -1,0 +1,55 @@
+PING antiochne.edu (23.185.0.3) 32(60) bytes of data.
+[1607862716.298131] 40 bytes from 23.185.0.3: icmp_seq=1 ttl=55 time=27.4 ms
+[1607862726.334282] 40 bytes from 23.185.0.3: icmp_seq=2 ttl=55 time=27.3 ms
+[1607862736.370013] 40 bytes from 23.185.0.3: icmp_seq=3 ttl=55 time=26.7 ms
+[1607862741.403892] 40 bytes from 23.185.0.3 (23.185.0.3): icmp_seq=4 ttl=55 time=27.2 ms
+[1607862741.433662] 40 bytes from 23.185.0.3 (23.185.0.3): icmp_seq=5 ttl=55 time=27.3 ms
+[1607862742.434606] 40 bytes from 23.185.0.3 (23.185.0.3): icmp_seq=6 ttl=55 time=26.9 ms
+[1607862743.434840] 40 bytes from 23.185.0.3 (23.185.0.3): icmp_seq=7 ttl=55 time=27.3 ms
+[1607862744.437329] 40 bytes from 23.185.0.3 (23.185.0.3): icmp_seq=8 ttl=55 time=27.3 ms
+[1607862745.438990] 40 bytes from 23.185.0.3 (23.185.0.3): icmp_seq=9 ttl=55 time=27.4 ms
+[1607862746.440367] 40 bytes from 23.185.0.3 (23.185.0.3): icmp_seq=10 ttl=55 time=26.9 ms
+[1607862752.446768] 40 bytes from 23.185.0.3 (23.185.0.3): icmp_seq=11 ttl=55 time=27.3 ms
+[1607862752.476537] 40 bytes from 23.185.0.3 (23.185.0.3): icmp_seq=12 ttl=55 time=27.3 ms
+[1607862753.477698] 40 bytes from 23.185.0.3 (23.185.0.3): icmp_seq=13 ttl=55 time=27.6 ms
+[1607862754.476303] 40 bytes from 23.185.0.3 (23.185.0.3): icmp_seq=14 ttl=55 time=26.6 ms
+[1607862755.476415] 40 bytes from 23.185.0.3 (23.185.0.3): icmp_seq=15 ttl=55 time=26.5 ms
+[1607862761.479841] 40 bytes from 23.185.0.3 (23.185.0.3): icmp_seq=16 ttl=55 time=27.2 ms
+[1607862766.512099] 40 bytes from 23.185.0.3 (23.185.0.3): icmp_seq=17 ttl=55 time=27.4 ms
+[1607862771.544031] 40 bytes from 23.185.0.3 (23.185.0.3): icmp_seq=18 ttl=55 time=27.4 ms
+[1607862776.576097] 40 bytes from 23.185.0.3 (23.185.0.3): icmp_seq=19 ttl=55 time=27.2 ms
+[1607862776.604894] 40 bytes from 23.185.0.3 (23.185.0.3): icmp_seq=20 ttl=55 time=27.2 ms
+[1607862777.605345] 40 bytes from 23.185.0.3 (23.185.0.3): icmp_seq=21 ttl=55 time=27.3 ms
+[1607862778.605210] 40 bytes from 23.185.0.3 (23.185.0.3): icmp_seq=22 ttl=55 time=27.3 ms
+[1607862779.604632] 40 bytes from 23.185.0.3 (23.185.0.3): icmp_seq=23 ttl=55 time=27.3 ms
+[1607862780.604246] 40 bytes from 23.185.0.3 (23.185.0.3): icmp_seq=24 ttl=55 time=27.3 ms
+[1607862791.610014] 40 bytes from 23.185.0.3: icmp_seq=25 ttl=55 time=27.3 ms
+[1607862791.639021] 40 bytes from 23.185.0.3 (23.185.0.3): icmp_seq=26 ttl=55 time=27.2 ms
+[1607862802.642045] 40 bytes from 23.185.0.3: icmp_seq=27 ttl=55 time=27.1 ms
+[1607862807.675770] 40 bytes from 23.185.0.3 (23.185.0.3): icmp_seq=28 ttl=55 time=27.3 ms
+[1607862807.704527] 40 bytes from 23.185.0.3 (23.185.0.3): icmp_seq=29 ttl=55 time=26.6 ms
+[1607862808.705231] 40 bytes from 23.185.0.3 (23.185.0.3): icmp_seq=30 ttl=55 time=27.3 ms
+[1607862809.704663] 40 bytes from 23.185.0.3 (23.185.0.3): icmp_seq=31 ttl=55 time=27.0 ms
+[1607862810.705264] 40 bytes from 23.185.0.3 (23.185.0.3): icmp_seq=32 ttl=55 time=27.4 ms
+[1607862811.704636] 40 bytes from 23.185.0.3 (23.185.0.3): icmp_seq=33 ttl=55 time=27.2 ms
+[1607862822.710043] 40 bytes from 23.185.0.3: icmp_seq=34 ttl=55 time=27.1 ms
+[1607862827.740505] 40 bytes from 23.185.0.3 (23.185.0.3): icmp_seq=35 ttl=55 time=26.6 ms
+[1607862832.773348] 40 bytes from 23.185.0.3 (23.185.0.3): icmp_seq=36 ttl=55 time=27.3 ms
+[1607862832.802107] 40 bytes from 23.185.0.3 (23.185.0.3): icmp_seq=37 ttl=55 time=26.6 ms
+[1607862843.810048] 40 bytes from 23.185.0.3: icmp_seq=38 ttl=55 time=27.3 ms
+[1607862843.839502] 40 bytes from 23.185.0.3 (23.185.0.3): icmp_seq=39 ttl=55 time=27.4 ms
+[1607862844.840933] 40 bytes from 23.185.0.3 (23.185.0.3): icmp_seq=40 ttl=55 time=27.4 ms
+[1607862845.840034] 40 bytes from 23.185.0.3 (23.185.0.3): icmp_seq=41 ttl=55 time=27.0 ms
+[1607862846.840699] 40 bytes from 23.185.0.3 (23.185.0.3): icmp_seq=42 ttl=55 time=27.2 ms
+[1607862847.839644] 40 bytes from 23.185.0.3 (23.185.0.3): icmp_seq=43 ttl=55 time=27.3 ms
+[1607862853.844007] 40 bytes from 23.185.0.3 (23.185.0.3): icmp_seq=44 ttl=55 time=27.1 ms
+[1607862853.872754] 40 bytes from 23.185.0.3 (23.185.0.3): icmp_seq=45 ttl=55 time=26.7 ms
+[1607862859.875907] 40 bytes from 23.185.0.3 (23.185.0.3): icmp_seq=46 ttl=55 time=27.5 ms
+[1607862869.910044] 40 bytes from 23.185.0.3: icmp_seq=47 ttl=55 time=27.2 ms
+[1607862874.943854] 40 bytes from 23.185.0.3 (23.185.0.3): icmp_seq=48 ttl=55 time=27.4 ms
+[1607862874.973191] 40 bytes from 23.185.0.3 (23.185.0.3): icmp_seq=49 ttl=55 time=27.4 ms
+[1607862875.974517] 40 bytes from 23.185.0.3 (23.185.0.3): icmp_seq=50 ttl=55 time=27.5 ms
+
+--- antiochne.edu ping statistics ---
+50 packets transmitted, 50 received, 0% packet loss, time 169683ms
+rtt min/avg/max/mdev = 26.512/27.177/27.567/0.261 ms

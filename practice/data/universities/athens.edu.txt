@@ -1,0 +1,54 @@
+PING athens.edu (162.144.194.218) 32(60) bytes of data.
+[1607862668.300811] 40 bytes from server.athensstate.net (162.144.194.218): icmp_seq=1 ttl=49 time=164 ms
+[1607862679.306036] 40 bytes from 162.144.194.218: icmp_seq=2 ttl=49 time=164 ms
+[1607862679.472493] 40 bytes from server.athensstate.net (162.144.194.218): icmp_seq=3 ttl=49 time=164 ms
+[1607862680.474411] 40 bytes from server.athensstate.net (162.144.194.218): icmp_seq=4 ttl=49 time=163 ms
+[1607862686.476258] 40 bytes from server.athensstate.net (162.144.194.218): icmp_seq=5 ttl=49 time=164 ms
+[1607862686.641305] 40 bytes from server.athensstate.net (162.144.194.218): icmp_seq=6 ttl=49 time=163 ms
+[1607862697.646033] 40 bytes from 162.144.194.218: icmp_seq=7 ttl=49 time=163 ms
+[1607862698.814092] 40 bytes from server.athensstate.net (162.144.194.218): icmp_seq=9 ttl=49 time=164 ms
+[1607862699.814061] 40 bytes from server.athensstate.net (162.144.194.218): icmp_seq=10 ttl=49 time=164 ms
+[1607862700.814194] 40 bytes from server.athensstate.net (162.144.194.218): icmp_seq=11 ttl=49 time=164 ms
+[1607862701.815252] 40 bytes from server.athensstate.net (162.144.194.218): icmp_seq=12 ttl=49 time=164 ms
+[1607862702.815673] 40 bytes from server.athensstate.net (162.144.194.218): icmp_seq=13 ttl=49 time=164 ms
+[1607862713.826014] 40 bytes from 162.144.194.218: icmp_seq=14 ttl=49 time=164 ms
+[1607862723.998467] 40 bytes from 162.144.194.218: icmp_seq=15 ttl=49 time=164 ms
+[1607862724.164885] 40 bytes from server.athensstate.net (162.144.194.218): icmp_seq=16 ttl=49 time=164 ms
+[1607862730.167921] 40 bytes from server.athensstate.net (162.144.194.218): icmp_seq=17 ttl=49 time=165 ms
+[1607862730.334656] 40 bytes from server.athensstate.net (162.144.194.218): icmp_seq=18 ttl=49 time=164 ms
+[1607862731.334903] 40 bytes from server.athensstate.net (162.144.194.218): icmp_seq=19 ttl=49 time=164 ms
+[1607862737.339849] 40 bytes from server.athensstate.net (162.144.194.218): icmp_seq=20 ttl=49 time=164 ms
+[1607862737.505477] 40 bytes from server.athensstate.net (162.144.194.218): icmp_seq=21 ttl=49 time=163 ms
+[1607862738.507172] 40 bytes from server.athensstate.net (162.144.194.218): icmp_seq=22 ttl=49 time=164 ms
+[1607862739.507926] 40 bytes from server.athensstate.net (162.144.194.218): icmp_seq=23 ttl=49 time=164 ms
+[1607862740.508894] 40 bytes from server.athensstate.net (162.144.194.218): icmp_seq=24 ttl=49 time=164 ms
+[1607862741.509508] 40 bytes from server.athensstate.net (162.144.194.218): icmp_seq=25 ttl=49 time=164 ms
+[1607862742.509192] 40 bytes from server.athensstate.net (162.144.194.218): icmp_seq=26 ttl=49 time=164 ms
+[1607862743.510932] 40 bytes from server.athensstate.net (162.144.194.218): icmp_seq=27 ttl=49 time=164 ms
+[1607862749.515726] 40 bytes from server.athensstate.net (162.144.194.218): icmp_seq=28 ttl=49 time=163 ms
+[1607862754.683594] 40 bytes from server.athensstate.net (162.144.194.218): icmp_seq=29 ttl=49 time=164 ms
+[1607862759.851617] 40 bytes from server.athensstate.net (162.144.194.218): icmp_seq=30 ttl=49 time=163 ms
+[1607862770.022063] 40 bytes from 162.144.194.218: icmp_seq=31 ttl=49 time=164 ms
+[1607862775.192196] 40 bytes from server.athensstate.net (162.144.194.218): icmp_seq=32 ttl=49 time=164 ms
+[1607862775.357819] 40 bytes from server.athensstate.net (162.144.194.218): icmp_seq=33 ttl=49 time=164 ms
+[1607862776.356750] 40 bytes from server.athensstate.net (162.144.194.218): icmp_seq=34 ttl=49 time=163 ms
+[1607862787.362540] 40 bytes from 162.144.194.218: icmp_seq=35 ttl=49 time=163 ms
+[1607862792.531757] 40 bytes from server.athensstate.net (162.144.194.218): icmp_seq=36 ttl=49 time=163 ms
+[1607862797.699943] 40 bytes from server.athensstate.net (162.144.194.218): icmp_seq=37 ttl=49 time=164 ms
+[1607862797.865071] 40 bytes from server.athensstate.net (162.144.194.218): icmp_seq=38 ttl=49 time=163 ms
+[1607862798.865627] 40 bytes from server.athensstate.net (162.144.194.218): icmp_seq=39 ttl=49 time=164 ms
+[1607862799.865543] 40 bytes from server.athensstate.net (162.144.194.218): icmp_seq=40 ttl=49 time=164 ms
+[1607862800.865398] 40 bytes from server.athensstate.net (162.144.194.218): icmp_seq=41 ttl=49 time=164 ms
+[1607862811.870001] 40 bytes from 162.144.194.218: icmp_seq=42 ttl=49 time=164 ms
+[1607862812.035105] 40 bytes from server.athensstate.net (162.144.194.218): icmp_seq=43 ttl=49 time=163 ms
+[1607862823.042097] 40 bytes from 162.144.194.218: icmp_seq=44 ttl=49 time=164 ms
+[1607862833.214013] 40 bytes from 162.144.194.218: icmp_seq=45 ttl=49 time=164 ms
+[1607862838.384102] 40 bytes from server.athensstate.net (162.144.194.218): icmp_seq=46 ttl=49 time=164 ms
+[1607862848.554263] 40 bytes from 162.144.194.218: icmp_seq=47 ttl=49 time=164 ms
+[1607862853.722861] 40 bytes from server.athensstate.net (162.144.194.218): icmp_seq=48 ttl=49 time=164 ms
+[1607862853.888307] 40 bytes from server.athensstate.net (162.144.194.218): icmp_seq=49 ttl=49 time=163 ms
+[1607862855.722470] 40 bytes from 162.144.194.218: icmp_seq=50 ttl=49 time=164 ms
+
+--- athens.edu ping statistics ---
+50 packets transmitted, 49 received, 2% packet loss, time 186588ms
+rtt min/avg/max/mdev = 163.134/163.862/164.505/0.344 ms

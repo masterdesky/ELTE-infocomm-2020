@@ -1,0 +1,54 @@
+PING uclaextension.edu (52.36.131.229) 32(60) bytes of data.
+[1607862680.726027] 40 bytes from 52.36.131.229: icmp_seq=1 ttl=36 time=181 ms
+[1607862680.909462] 40 bytes from ec2-52-36-131-229.us-west-2.compute.amazonaws.com (52.36.131.229): icmp_seq=2 ttl=36 time=181 ms
+[1607862691.914040] 40 bytes from 52.36.131.229: icmp_seq=3 ttl=36 time=180 ms
+[1607862697.102009] 40 bytes from ec2-52-36-131-229.us-west-2.compute.amazonaws.com (52.36.131.229): icmp_seq=4 ttl=36 time=181 ms
+[1607862697.286409] 40 bytes from ec2-52-36-131-229.us-west-2.compute.amazonaws.com (52.36.131.229): icmp_seq=5 ttl=36 time=181 ms
+[1607862698.286896] 40 bytes from ec2-52-36-131-229.us-west-2.compute.amazonaws.com (52.36.131.229): icmp_seq=6 ttl=36 time=181 ms
+[1607862699.288016] 40 bytes from ec2-52-36-131-229.us-west-2.compute.amazonaws.com (52.36.131.229): icmp_seq=7 ttl=36 time=181 ms
+[1607862700.290700] 40 bytes from ec2-52-36-131-229.us-west-2.compute.amazonaws.com (52.36.131.229): icmp_seq=8 ttl=36 time=181 ms
+[1607862701.291328] 40 bytes from ec2-52-36-131-229.us-west-2.compute.amazonaws.com (52.36.131.229): icmp_seq=9 ttl=36 time=182 ms
+[1607862707.296019] 40 bytes from ec2-52-36-131-229.us-west-2.compute.amazonaws.com (52.36.131.229): icmp_seq=10 ttl=36 time=181 ms
+[1607862707.479027] 40 bytes from ec2-52-36-131-229.us-west-2.compute.amazonaws.com (52.36.131.229): icmp_seq=11 ttl=36 time=181 ms
+[1607862718.486042] 40 bytes from 52.36.131.229: icmp_seq=12 ttl=36 time=181 ms
+[1607862718.669198] 40 bytes from ec2-52-36-131-229.us-west-2.compute.amazonaws.com (52.36.131.229): icmp_seq=13 ttl=36 time=181 ms
+[1607862729.674008] 40 bytes from 52.36.131.229: icmp_seq=14 ttl=36 time=181 ms
+[1607862730.855790] 40 bytes from ec2-52-36-131-229.us-west-2.compute.amazonaws.com (52.36.131.229): icmp_seq=16 ttl=36 time=181 ms
+[1607862731.856545] 40 bytes from ec2-52-36-131-229.us-west-2.compute.amazonaws.com (52.36.131.229): icmp_seq=17 ttl=36 time=181 ms
+[1607862732.855784] 40 bytes from ec2-52-36-131-229.us-west-2.compute.amazonaws.com (52.36.131.229): icmp_seq=18 ttl=36 time=181 ms
+[1607862733.855333] 40 bytes from ec2-52-36-131-229.us-west-2.compute.amazonaws.com (52.36.131.229): icmp_seq=19 ttl=36 time=181 ms
+[1607862734.854644] 40 bytes from ec2-52-36-131-229.us-west-2.compute.amazonaws.com (52.36.131.229): icmp_seq=20 ttl=36 time=181 ms
+[1607862740.856126] 40 bytes from ec2-52-36-131-229.us-west-2.compute.amazonaws.com (52.36.131.229): icmp_seq=21 ttl=36 time=181 ms
+[1607862746.044098] 40 bytes from ec2-52-36-131-229.us-west-2.compute.amazonaws.com (52.36.131.229): icmp_seq=22 ttl=36 time=180 ms
+[1607862746.227074] 40 bytes from ec2-52-36-131-229.us-west-2.compute.amazonaws.com (52.36.131.229): icmp_seq=23 ttl=36 time=181 ms
+[1607862747.228725] 40 bytes from ec2-52-36-131-229.us-west-2.compute.amazonaws.com (52.36.131.229): icmp_seq=24 ttl=36 time=181 ms
+[1607862748.229516] 40 bytes from ec2-52-36-131-229.us-west-2.compute.amazonaws.com (52.36.131.229): icmp_seq=25 ttl=36 time=180 ms
+[1607862749.231815] 40 bytes from ec2-52-36-131-229.us-west-2.compute.amazonaws.com (52.36.131.229): icmp_seq=26 ttl=36 time=181 ms
+[1607862755.235904] 40 bytes from ec2-52-36-131-229.us-west-2.compute.amazonaws.com (52.36.131.229): icmp_seq=27 ttl=36 time=181 ms
+[1607862755.419011] 40 bytes from ec2-52-36-131-229.us-west-2.compute.amazonaws.com (52.36.131.229): icmp_seq=28 ttl=36 time=181 ms
+[1607862756.420509] 40 bytes from ec2-52-36-131-229.us-west-2.compute.amazonaws.com (52.36.131.229): icmp_seq=29 ttl=36 time=181 ms
+[1607862762.423772] 40 bytes from ec2-52-36-131-229.us-west-2.compute.amazonaws.com (52.36.131.229): icmp_seq=30 ttl=36 time=181 ms
+[1607862772.614196] 40 bytes from 52.36.131.229: icmp_seq=31 ttl=36 time=181 ms
+[1607862772.797052] 40 bytes from ec2-52-36-131-229.us-west-2.compute.amazonaws.com (52.36.131.229): icmp_seq=32 ttl=36 time=181 ms
+[1607862773.796827] 40 bytes from ec2-52-36-131-229.us-west-2.compute.amazonaws.com (52.36.131.229): icmp_seq=33 ttl=36 time=181 ms
+[1607862774.797555] 40 bytes from ec2-52-36-131-229.us-west-2.compute.amazonaws.com (52.36.131.229): icmp_seq=34 ttl=36 time=181 ms
+[1607862785.802345] 40 bytes from 52.36.131.229: icmp_seq=35 ttl=36 time=181 ms
+[1607862790.990018] 40 bytes from ec2-52-36-131-229.us-west-2.compute.amazonaws.com (52.36.131.229): icmp_seq=36 ttl=36 time=181 ms
+[1607862796.176104] 40 bytes from ec2-52-36-131-229.us-west-2.compute.amazonaws.com (52.36.131.229): icmp_seq=37 ttl=36 time=181 ms
+[1607862796.358875] 40 bytes from ec2-52-36-131-229.us-west-2.compute.amazonaws.com (52.36.131.229): icmp_seq=38 ttl=36 time=181 ms
+[1607862802.363757] 40 bytes from ec2-52-36-131-229.us-west-2.compute.amazonaws.com (52.36.131.229): icmp_seq=39 ttl=36 time=181 ms
+[1607862812.554125] 40 bytes from 52.36.131.229: icmp_seq=40 ttl=36 time=181 ms
+[1607862822.742035] 40 bytes from 52.36.131.229: icmp_seq=41 ttl=36 time=181 ms
+[1607862832.930119] 40 bytes from 52.36.131.229: icmp_seq=42 ttl=36 time=181 ms
+[1607862833.113514] 40 bytes from ec2-52-36-131-229.us-west-2.compute.amazonaws.com (52.36.131.229): icmp_seq=43 ttl=36 time=181 ms
+[1607862834.113704] 40 bytes from ec2-52-36-131-229.us-west-2.compute.amazonaws.com (52.36.131.229): icmp_seq=44 ttl=36 time=181 ms
+[1607862835.112262] 40 bytes from ec2-52-36-131-229.us-west-2.compute.amazonaws.com (52.36.131.229): icmp_seq=45 ttl=36 time=181 ms
+[1607862836.111949] 40 bytes from ec2-52-36-131-229.us-west-2.compute.amazonaws.com (52.36.131.229): icmp_seq=46 ttl=36 time=181 ms
+[1607862837.112693] 40 bytes from ec2-52-36-131-229.us-west-2.compute.amazonaws.com (52.36.131.229): icmp_seq=47 ttl=36 time=181 ms
+[1607862838.111146] 40 bytes from ec2-52-36-131-229.us-west-2.compute.amazonaws.com (52.36.131.229): icmp_seq=48 ttl=36 time=181 ms
+[1607862849.118010] 40 bytes from 52.36.131.229: icmp_seq=49 ttl=36 time=181 ms
+[1607862849.300494] 40 bytes from ec2-52-36-131-229.us-west-2.compute.amazonaws.com (52.36.131.229): icmp_seq=50 ttl=36 time=181 ms
+
+--- uclaextension.edu ping statistics ---
+50 packets transmitted, 49 received, 2% packet loss, time 178580ms
+rtt min/avg/max/mdev = 180.284/181.059/181.575/0.273 ms

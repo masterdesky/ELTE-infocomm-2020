@@ -1,0 +1,55 @@
+PING howardcollege.edu (192.124.249.157) 32(60) bytes of data.
+[1607862712.890609] 40 bytes from 192.124.249.157: icmp_seq=1 ttl=53 time=15.6 ms
+[1607862722.914056] 40 bytes from 192.124.249.157: icmp_seq=2 ttl=53 time=16.0 ms
+[1607862727.965105] 40 bytes from cloudproxy10157.sucuri.net (192.124.249.157): icmp_seq=3 ttl=53 time=15.7 ms
+[1607862727.982482] 40 bytes from cloudproxy10157.sucuri.net (192.124.249.157): icmp_seq=4 ttl=53 time=15.4 ms
+[1607862728.984058] 40 bytes from cloudproxy10157.sucuri.net (192.124.249.157): icmp_seq=5 ttl=53 time=16.1 ms
+[1607862729.982081] 40 bytes from cloudproxy10157.sucuri.net (192.124.249.157): icmp_seq=6 ttl=53 time=15.5 ms
+[1607862730.981401] 40 bytes from cloudproxy10157.sucuri.net (192.124.249.157): icmp_seq=7 ttl=53 time=15.1 ms
+[1607862731.981238] 40 bytes from cloudproxy10157.sucuri.net (192.124.249.157): icmp_seq=8 ttl=53 time=15.0 ms
+[1607862732.982194] 40 bytes from cloudproxy10157.sucuri.net (192.124.249.157): icmp_seq=9 ttl=53 time=15.7 ms
+[1607862738.985836] 40 bytes from cloudproxy10157.sucuri.net (192.124.249.157): icmp_seq=10 ttl=53 time=15.0 ms
+[1607862739.002907] 40 bytes from cloudproxy10157.sucuri.net (192.124.249.157): icmp_seq=11 ttl=53 time=15.7 ms
+[1607862750.010072] 40 bytes from 192.124.249.157: icmp_seq=12 ttl=53 time=16.2 ms
+[1607862755.032175] 40 bytes from cloudproxy10157.sucuri.net (192.124.249.157): icmp_seq=13 ttl=53 time=16.1 ms
+[1607862765.054048] 40 bytes from 192.124.249.157: icmp_seq=14 ttl=53 time=15.9 ms
+[1607862770.076065] 40 bytes from cloudproxy10157.sucuri.net (192.124.249.157): icmp_seq=15 ttl=53 time=15.6 ms
+[1607862770.093673] 40 bytes from cloudproxy10157.sucuri.net (192.124.249.157): icmp_seq=16 ttl=53 time=15.3 ms
+[1607862771.095474] 40 bytes from cloudproxy10157.sucuri.net (192.124.249.157): icmp_seq=17 ttl=53 time=15.8 ms
+[1607862782.102065] 40 bytes from 192.124.249.157: icmp_seq=18 ttl=53 time=15.9 ms
+[1607862787.123553] 40 bytes from cloudproxy10157.sucuri.net (192.124.249.157): icmp_seq=19 ttl=53 time=15.6 ms
+[1607862787.141258] 40 bytes from cloudproxy10157.sucuri.net (192.124.249.157): icmp_seq=20 ttl=53 time=15.6 ms
+[1607862788.141075] 40 bytes from cloudproxy10157.sucuri.net (192.124.249.157): icmp_seq=21 ttl=53 time=15.3 ms
+[1607862789.143548] 40 bytes from cloudproxy10157.sucuri.net (192.124.249.157): icmp_seq=22 ttl=53 time=15.7 ms
+[1607862790.143618] 40 bytes from cloudproxy10157.sucuri.net (192.124.249.157): icmp_seq=23 ttl=53 time=16.0 ms
+[1607862791.144871] 40 bytes from cloudproxy10157.sucuri.net (192.124.249.157): icmp_seq=24 ttl=53 time=15.2 ms
+[1607862792.144614] 40 bytes from cloudproxy10157.sucuri.net (192.124.249.157): icmp_seq=25 ttl=53 time=15.5 ms
+[1607862793.145880] 40 bytes from cloudproxy10157.sucuri.net (192.124.249.157): icmp_seq=26 ttl=53 time=15.8 ms
+[1607862794.147517] 40 bytes from cloudproxy10157.sucuri.net (192.124.249.157): icmp_seq=27 ttl=53 time=15.9 ms
+[1607862795.146795] 40 bytes from cloudproxy10157.sucuri.net (192.124.249.157): icmp_seq=28 ttl=53 time=15.2 ms
+[1607862796.149262] 40 bytes from cloudproxy10157.sucuri.net (192.124.249.157): icmp_seq=29 ttl=53 time=15.4 ms
+[1607862807.154043] 40 bytes from 192.124.249.157: icmp_seq=30 ttl=53 time=15.3 ms
+[1607862817.178053] 40 bytes from 192.124.249.157: icmp_seq=31 ttl=53 time=15.1 ms
+[1607862817.195166] 40 bytes from cloudproxy10157.sucuri.net (192.124.249.157): icmp_seq=32 ttl=53 time=15.4 ms
+[1607862818.195530] 40 bytes from cloudproxy10157.sucuri.net (192.124.249.157): icmp_seq=33 ttl=53 time=15.7 ms
+[1607862819.197198] 40 bytes from cloudproxy10157.sucuri.net (192.124.249.157): icmp_seq=34 ttl=53 time=16.0 ms
+[1607862820.203935] 40 bytes from cloudproxy10157.sucuri.net (192.124.249.157): icmp_seq=35 ttl=53 time=20.7 ms
+[1607862821.198681] 40 bytes from cloudproxy10157.sucuri.net (192.124.249.157): icmp_seq=36 ttl=53 time=15.8 ms
+[1607862822.199323] 40 bytes from cloudproxy10157.sucuri.net (192.124.249.157): icmp_seq=37 ttl=53 time=15.7 ms
+[1607862833.206007] 40 bytes from 192.124.249.157: icmp_seq=38 ttl=53 time=15.8 ms
+[1607862843.230070] 40 bytes from 192.124.249.157: icmp_seq=39 ttl=53 time=15.1 ms
+[1607862843.248647] 40 bytes from cloudproxy10157.sucuri.net (192.124.249.157): icmp_seq=40 ttl=53 time=16.0 ms
+[1607862854.254084] 40 bytes from 192.124.249.157: icmp_seq=41 ttl=53 time=15.8 ms
+[1607862859.275595] 40 bytes from cloudproxy10157.sucuri.net (192.124.249.157): icmp_seq=42 ttl=53 time=15.4 ms
+[1607862859.293259] 40 bytes from cloudproxy10157.sucuri.net (192.124.249.157): icmp_seq=43 ttl=53 time=15.7 ms
+[1607862860.295122] 40 bytes from cloudproxy10157.sucuri.net (192.124.249.157): icmp_seq=44 ttl=53 time=15.9 ms
+[1607862861.295514] 40 bytes from cloudproxy10157.sucuri.net (192.124.249.157): icmp_seq=45 ttl=53 time=15.2 ms
+[1607862862.297464] 40 bytes from cloudproxy10157.sucuri.net (192.124.249.157): icmp_seq=46 ttl=53 time=16.0 ms
+[1607862863.298720] 40 bytes from cloudproxy10157.sucuri.net (192.124.249.157): icmp_seq=47 ttl=53 time=15.2 ms
+[1607862864.300285] 40 bytes from cloudproxy10157.sucuri.net (192.124.249.157): icmp_seq=48 ttl=53 time=15.9 ms
+[1607862865.300472] 40 bytes from cloudproxy10157.sucuri.net (192.124.249.157): icmp_seq=49 ttl=53 time=15.3 ms
+[1607862866.302216] 40 bytes from cloudproxy10157.sucuri.net (192.124.249.157): icmp_seq=50 ttl=53 time=15.6 ms
+
+--- howardcollege.edu ping statistics ---
+50 packets transmitted, 50 received, 0% packet loss, time 163418ms
+rtt min/avg/max/mdev = 14.950/15.708/20.684/0.778 ms

@@ -1,0 +1,8 @@
+PING wpi.edu (130.215.36.26) 32(60) bytes of data.
+[1607862683.287378] From 199.167.124.10 icmp_seq=1 Packet filtered
+[1607862723.619577] From 199.167.124.10.hvdata.net (199.167.124.10) icmp_seq=32 Packet filtered
+[1607862733.632988] From 199.167.124.10.hvdata.net (199.167.124.10) icmp_seq=42 Packet filtered
+
+--- wpi.edu ping statistics ---
+50 packets transmitted, 0 received, +3 errors, 100% packet loss, time 58350ms
+

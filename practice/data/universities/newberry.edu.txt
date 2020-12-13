@@ -1,0 +1,55 @@
+PING newberry.edu (45.55.105.198) 32(60) bytes of data.
+[1607862710.424480] 40 bytes from 45.55.105.198 (45.55.105.198): icmp_seq=1 ttl=50 time=107 ms
+[1607862720.538010] 40 bytes from 45.55.105.198: icmp_seq=2 ttl=50 time=106 ms
+[1607862730.654044] 40 bytes from 45.55.105.198: icmp_seq=3 ttl=50 time=106 ms
+[1607862740.770032] 40 bytes from 45.55.105.198: icmp_seq=4 ttl=50 time=107 ms
+[1607862740.879045] 40 bytes from 45.55.105.198 (45.55.105.198): icmp_seq=5 ttl=50 time=107 ms
+[1607862741.878574] 40 bytes from 45.55.105.198 (45.55.105.198): icmp_seq=6 ttl=50 time=106 ms
+[1607862742.879800] 40 bytes from 45.55.105.198 (45.55.105.198): icmp_seq=7 ttl=50 time=106 ms
+[1607862743.880795] 40 bytes from 45.55.105.198 (45.55.105.198): icmp_seq=8 ttl=50 time=106 ms
+[1607862749.883750] 40 bytes from 45.55.105.198 (45.55.105.198): icmp_seq=9 ttl=50 time=106 ms
+[1607862754.996214] 40 bytes from 45.55.105.198 (45.55.105.198): icmp_seq=10 ttl=50 time=106 ms
+[1607862755.104962] 40 bytes from 45.55.105.198 (45.55.105.198): icmp_seq=11 ttl=50 time=106 ms
+[1607862756.104721] 40 bytes from 45.55.105.198 (45.55.105.198): icmp_seq=12 ttl=50 time=106 ms
+[1607862762.107956] 40 bytes from 45.55.105.198 (45.55.105.198): icmp_seq=13 ttl=50 time=107 ms
+[1607862772.222004] 40 bytes from 45.55.105.198: icmp_seq=14 ttl=50 time=106 ms
+[1607862782.334373] 40 bytes from 45.55.105.198: icmp_seq=15 ttl=50 time=107 ms
+[1607862782.442618] 40 bytes from 45.55.105.198 (45.55.105.198): icmp_seq=16 ttl=50 time=107 ms
+[1607862783.442969] 40 bytes from 45.55.105.198 (45.55.105.198): icmp_seq=17 ttl=50 time=106 ms
+[1607862784.445870] 40 bytes from 45.55.105.198 (45.55.105.198): icmp_seq=18 ttl=50 time=106 ms
+[1607862785.446782] 40 bytes from 45.55.105.198 (45.55.105.198): icmp_seq=19 ttl=50 time=106 ms
+[1607862791.447928] 40 bytes from 45.55.105.198 (45.55.105.198): icmp_seq=20 ttl=50 time=106 ms
+[1607862801.562061] 40 bytes from 45.55.105.198: icmp_seq=21 ttl=50 time=106 ms
+[1607862806.674375] 40 bytes from 45.55.105.198 (45.55.105.198): icmp_seq=22 ttl=50 time=106 ms
+[1607862806.782433] 40 bytes from 45.55.105.198 (45.55.105.198): icmp_seq=23 ttl=50 time=106 ms
+[1607862817.786048] 40 bytes from 45.55.105.198: icmp_seq=24 ttl=50 time=106 ms
+[1607862817.894861] 40 bytes from 45.55.105.198 (45.55.105.198): icmp_seq=25 ttl=50 time=107 ms
+[1607862818.894091] 40 bytes from 45.55.105.198 (45.55.105.198): icmp_seq=26 ttl=50 time=106 ms
+[1607862819.894418] 40 bytes from 45.55.105.198 (45.55.105.198): icmp_seq=27 ttl=50 time=107 ms
+[1607862820.894499] 40 bytes from 45.55.105.198 (45.55.105.198): icmp_seq=28 ttl=50 time=106 ms
+[1607862821.894340] 40 bytes from 45.55.105.198 (45.55.105.198): icmp_seq=29 ttl=50 time=106 ms
+[1607862822.894695] 40 bytes from 45.55.105.198 (45.55.105.198): icmp_seq=30 ttl=50 time=106 ms
+[1607862823.894844] 40 bytes from 45.55.105.198 (45.55.105.198): icmp_seq=31 ttl=50 time=106 ms
+[1607862824.894636] 40 bytes from 45.55.105.198 (45.55.105.198): icmp_seq=32 ttl=50 time=107 ms
+[1607862825.896795] 40 bytes from 45.55.105.198 (45.55.105.198): icmp_seq=33 ttl=50 time=107 ms
+[1607862826.896991] 40 bytes from 45.55.105.198 (45.55.105.198): icmp_seq=34 ttl=50 time=106 ms
+[1607862832.899930] 40 bytes from 45.55.105.198 (45.55.105.198): icmp_seq=35 ttl=50 time=107 ms
+[1607862838.011908] 40 bytes from 45.55.105.198 (45.55.105.198): icmp_seq=36 ttl=50 time=106 ms
+[1607862838.119588] 40 bytes from 45.55.105.198 (45.55.105.198): icmp_seq=37 ttl=50 time=106 ms
+[1607862849.126086] 40 bytes from 45.55.105.198: icmp_seq=38 ttl=50 time=106 ms
+[1607862854.236111] 40 bytes from 45.55.105.198 (45.55.105.198): icmp_seq=39 ttl=50 time=107 ms
+[1607862854.344091] 40 bytes from 45.55.105.198 (45.55.105.198): icmp_seq=40 ttl=50 time=106 ms
+[1607862855.346545] 40 bytes from 45.55.105.198 (45.55.105.198): icmp_seq=41 ttl=50 time=106 ms
+[1607862856.348684] 40 bytes from 45.55.105.198 (45.55.105.198): icmp_seq=42 ttl=50 time=107 ms
+[1607862857.348423] 40 bytes from 45.55.105.198 (45.55.105.198): icmp_seq=43 ttl=50 time=107 ms
+[1607862858.349973] 40 bytes from 45.55.105.198 (45.55.105.198): icmp_seq=44 ttl=50 time=106 ms
+[1607862864.352180] 40 bytes from 45.55.105.198 (45.55.105.198): icmp_seq=45 ttl=50 time=106 ms
+[1607862864.460548] 40 bytes from 45.55.105.198 (45.55.105.198): icmp_seq=46 ttl=50 time=106 ms
+[1607862870.464037] 40 bytes from 45.55.105.198 (45.55.105.198): icmp_seq=47 ttl=50 time=106 ms
+[1607862875.575685] 40 bytes from 45.55.105.198 (45.55.105.198): icmp_seq=48 ttl=50 time=107 ms
+[1607862875.683458] 40 bytes from 45.55.105.198 (45.55.105.198): icmp_seq=49 ttl=50 time=106 ms
+[1607862877.576962] 40 bytes from 45.55.105.198: icmp_seq=50 ttl=50 time=107 ms
+
+--- newberry.edu ping statistics ---
+50 packets transmitted, 50 received, 0% packet loss, time 171687ms
+rtt min/avg/max/mdev = 105.720/106.376/107.171/0.321 ms

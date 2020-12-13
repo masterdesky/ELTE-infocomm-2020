@@ -1,0 +1,55 @@
+PING washjeff.edu (216.146.46.10) 32(60) bytes of data.
+[1607862713.538231] 40 bytes from redirector1.dynect.net (216.146.46.10): icmp_seq=1 ttl=50 time=105 ms
+[1607862719.543838] 40 bytes from redirector1.dynect.net (216.146.46.10): icmp_seq=2 ttl=50 time=105 ms
+[1607862724.655102] 40 bytes from redirector1.dynect.net (216.146.46.10): icmp_seq=3 ttl=50 time=106 ms
+[1607862734.766018] 40 bytes from 216.146.46.10: icmp_seq=4 ttl=50 time=105 ms
+[1607862739.876226] 40 bytes from redirector1.dynect.net (216.146.46.10): icmp_seq=5 ttl=50 time=105 ms
+[1607862749.990104] 40 bytes from 216.146.46.10: icmp_seq=6 ttl=50 time=105 ms
+[1607862750.098068] 40 bytes from redirector1.dynect.net (216.146.46.10): icmp_seq=7 ttl=50 time=105 ms
+[1607862751.097217] 40 bytes from redirector1.dynect.net (216.146.46.10): icmp_seq=8 ttl=50 time=105 ms
+[1607862757.099123] 40 bytes from redirector1.dynect.net (216.146.46.10): icmp_seq=9 ttl=50 time=106 ms
+[1607862757.206181] 40 bytes from redirector1.dynect.net (216.146.46.10): icmp_seq=10 ttl=50 time=105 ms
+[1607862758.207274] 40 bytes from redirector1.dynect.net (216.146.46.10): icmp_seq=11 ttl=50 time=105 ms
+[1607862759.208484] 40 bytes from redirector1.dynect.net (216.146.46.10): icmp_seq=12 ttl=50 time=106 ms
+[1607862770.214108] 40 bytes from 216.146.46.10: icmp_seq=13 ttl=50 time=106 ms
+[1607862775.325694] 40 bytes from redirector1.dynect.net (216.146.46.10): icmp_seq=14 ttl=50 time=105 ms
+[1607862780.435247] 40 bytes from redirector1.dynect.net (216.146.46.10): icmp_seq=15 ttl=50 time=105 ms
+[1607862780.542843] 40 bytes from redirector1.dynect.net (216.146.46.10): icmp_seq=16 ttl=50 time=106 ms
+[1607862791.546015] 40 bytes from 216.146.46.10: icmp_seq=17 ttl=50 time=105 ms
+[1607862801.658027] 40 bytes from 216.146.46.10: icmp_seq=18 ttl=50 time=105 ms
+[1607862801.765525] 40 bytes from redirector1.dynect.net (216.146.46.10): icmp_seq=19 ttl=50 time=105 ms
+[1607862812.770082] 40 bytes from 216.146.46.10: icmp_seq=20 ttl=50 time=106 ms
+[1607862822.882022] 40 bytes from 216.146.46.10: icmp_seq=21 ttl=50 time=106 ms
+[1607862832.994072] 40 bytes from 216.146.46.10: icmp_seq=22 ttl=50 time=105 ms
+[1607862838.103870] 40 bytes from redirector1.dynect.net (216.146.46.10): icmp_seq=23 ttl=50 time=105 ms
+[1607862843.216102] 40 bytes from redirector1.dynect.net (216.146.46.10): icmp_seq=24 ttl=50 time=106 ms
+[1607862843.322532] 40 bytes from redirector1.dynect.net (216.146.46.10): icmp_seq=25 ttl=50 time=105 ms
+[1607862844.323760] 40 bytes from redirector1.dynect.net (216.146.46.10): icmp_seq=26 ttl=50 time=105 ms
+[1607862845.325060] 40 bytes from redirector1.dynect.net (216.146.46.10): icmp_seq=27 ttl=50 time=105 ms
+[1607862846.326451] 40 bytes from redirector1.dynect.net (216.146.46.10): icmp_seq=28 ttl=50 time=105 ms
+[1607862847.328031] 40 bytes from redirector1.dynect.net (216.146.46.10): icmp_seq=29 ttl=50 time=105 ms
+[1607862848.329243] 40 bytes from redirector1.dynect.net (216.146.46.10): icmp_seq=30 ttl=50 time=106 ms
+[1607862859.334031] 40 bytes from 216.146.46.10: icmp_seq=31 ttl=50 time=105 ms
+[1607862864.443932] 40 bytes from redirector1.dynect.net (216.146.46.10): icmp_seq=32 ttl=50 time=105 ms
+[1607862864.551584] 40 bytes from redirector1.dynect.net (216.146.46.10): icmp_seq=33 ttl=50 time=105 ms
+[1607862865.553196] 40 bytes from redirector1.dynect.net (216.146.46.10): icmp_seq=34 ttl=50 time=106 ms
+[1607862866.554460] 40 bytes from redirector1.dynect.net (216.146.46.10): icmp_seq=35 ttl=50 time=105 ms
+[1607862867.555653] 40 bytes from redirector1.dynect.net (216.146.46.10): icmp_seq=36 ttl=50 time=105 ms
+[1607862868.556195] 40 bytes from redirector1.dynect.net (216.146.46.10): icmp_seq=37 ttl=50 time=106 ms
+[1607862869.557744] 40 bytes from redirector1.dynect.net (216.146.46.10): icmp_seq=38 ttl=50 time=106 ms
+[1607862875.563379] 40 bytes from redirector1.dynect.net (216.146.46.10): icmp_seq=39 ttl=50 time=106 ms
+[1607862875.670924] 40 bytes from redirector1.dynect.net (216.146.46.10): icmp_seq=40 ttl=50 time=106 ms
+[1607862881.676121] 40 bytes from redirector1.dynect.net (216.146.46.10): icmp_seq=41 ttl=50 time=105 ms
+[1607862881.783645] 40 bytes from redirector1.dynect.net (216.146.46.10): icmp_seq=42 ttl=50 time=105 ms
+[1607862882.784203] 40 bytes from redirector1.dynect.net (216.146.46.10): icmp_seq=43 ttl=50 time=105 ms
+[1607862883.785231] 40 bytes from redirector1.dynect.net (216.146.46.10): icmp_seq=44 ttl=50 time=106 ms
+[1607862884.787304] 40 bytes from redirector1.dynect.net (216.146.46.10): icmp_seq=45 ttl=50 time=106 ms
+[1607862885.788419] 40 bytes from redirector1.dynect.net (216.146.46.10): icmp_seq=46 ttl=50 time=105 ms
+[1607862886.789394] 40 bytes from redirector1.dynect.net (216.146.46.10): icmp_seq=47 ttl=50 time=106 ms
+[1607862887.790162] 40 bytes from redirector1.dynect.net (216.146.46.10): icmp_seq=48 ttl=50 time=106 ms
+[1607862888.791835] 40 bytes from redirector1.dynect.net (216.146.46.10): icmp_seq=49 ttl=50 time=106 ms
+[1607862889.792767] 40 bytes from redirector1.dynect.net (216.146.46.10): icmp_seq=50 ttl=50 time=105 ms
+
+--- washjeff.edu ping statistics ---
+50 packets transmitted, 50 received, 0% packet loss, time 176255ms
+rtt min/avg/max/mdev = 104.598/105.381/105.820/0.277 ms

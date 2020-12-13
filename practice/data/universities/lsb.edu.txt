@@ -1,0 +1,55 @@
+PING lsb.edu (104.24.99.78) 32(60) bytes of data.
+[1607862717.293056] 40 bytes from 104.24.99.78 (104.24.99.78): icmp_seq=1 ttl=55 time=36.4 ms
+[1607862718.276814] 40 bytes from 104.24.99.78 (104.24.99.78): icmp_seq=2 ttl=55 time=36.5 ms
+[1607862729.282151] 40 bytes from 104.24.99.78: icmp_seq=3 ttl=55 time=36.3 ms
+[1607862729.320036] 40 bytes from 104.24.99.78 (104.24.99.78): icmp_seq=4 ttl=55 time=36.0 ms
+[1607862730.322186] 40 bytes from 104.24.99.78 (104.24.99.78): icmp_seq=5 ttl=55 time=36.1 ms
+[1607862736.323778] 40 bytes from 104.24.99.78 (104.24.99.78): icmp_seq=6 ttl=55 time=36.2 ms
+[1607862741.363721] 40 bytes from 104.24.99.78 (104.24.99.78): icmp_seq=7 ttl=55 time=36.5 ms
+[1607862746.403488] 40 bytes from 104.24.99.78 (104.24.99.78): icmp_seq=8 ttl=55 time=35.3 ms
+[1607862751.443709] 40 bytes from 104.24.99.78 (104.24.99.78): icmp_seq=9 ttl=55 time=35.2 ms
+[1607862761.485991] 40 bytes from 104.24.99.78: icmp_seq=10 ttl=55 time=35.9 ms
+[1607862761.524380] 40 bytes from 104.24.99.78 (104.24.99.78): icmp_seq=11 ttl=55 time=36.3 ms
+[1607862762.524012] 40 bytes from 104.24.99.78 (104.24.99.78): icmp_seq=12 ttl=55 time=35.4 ms
+[1607862763.526623] 40 bytes from 104.24.99.78 (104.24.99.78): icmp_seq=13 ttl=55 time=36.4 ms
+[1607862764.525908] 40 bytes from 104.24.99.78 (104.24.99.78): icmp_seq=14 ttl=55 time=36.4 ms
+[1607862775.534009] 40 bytes from 104.24.99.78: icmp_seq=15 ttl=55 time=36.3 ms
+[1607862780.578542] 40 bytes from 104.24.99.78 (104.24.99.78): icmp_seq=16 ttl=55 time=36.3 ms
+[1607862780.616430] 40 bytes from 104.24.99.78 (104.24.99.78): icmp_seq=17 ttl=55 time=35.8 ms
+[1607862786.621364] 40 bytes from 104.24.99.78 (104.24.99.78): icmp_seq=18 ttl=55 time=35.7 ms
+[1607862796.666014] 40 bytes from 104.24.99.78: icmp_seq=19 ttl=55 time=36.4 ms
+[1607862806.710077] 40 bytes from 104.24.99.78: icmp_seq=20 ttl=55 time=35.9 ms
+[1607862806.748287] 40 bytes from 104.24.99.78 (104.24.99.78): icmp_seq=21 ttl=55 time=36.4 ms
+[1607862817.754377] 40 bytes from 104.24.99.78: icmp_seq=22 ttl=55 time=36.2 ms
+[1607862822.796196] 40 bytes from 104.24.99.78 (104.24.99.78): icmp_seq=23 ttl=55 time=36.1 ms
+[1607862832.838036] 40 bytes from 104.24.99.78: icmp_seq=24 ttl=55 time=36.3 ms
+[1607862832.876186] 40 bytes from 104.24.99.78 (104.24.99.78): icmp_seq=25 ttl=55 time=36.0 ms
+[1607862843.882041] 40 bytes from 104.24.99.78: icmp_seq=26 ttl=55 time=36.5 ms
+[1607862848.923360] 40 bytes from 104.24.99.78 (104.24.99.78): icmp_seq=27 ttl=55 time=36.0 ms
+[1607862853.964083] 40 bytes from 104.24.99.78 (104.24.99.78): icmp_seq=28 ttl=55 time=36.4 ms
+[1607862854.002389] 40 bytes from 104.24.99.78 (104.24.99.78): icmp_seq=29 ttl=55 time=35.9 ms
+[1607862855.002306] 40 bytes from 104.24.99.78 (104.24.99.78): icmp_seq=30 ttl=55 time=36.1 ms
+[1607862856.002431] 40 bytes from 104.24.99.78 (104.24.99.78): icmp_seq=31 ttl=55 time=36.2 ms
+[1607862857.003147] 40 bytes from 104.24.99.78 (104.24.99.78): icmp_seq=32 ttl=55 time=36.4 ms
+[1607862858.002306] 40 bytes from 104.24.99.78 (104.24.99.78): icmp_seq=33 ttl=55 time=35.9 ms
+[1607862859.002005] 40 bytes from 104.24.99.78 (104.24.99.78): icmp_seq=34 ttl=55 time=36.1 ms
+[1607862860.002688] 40 bytes from 104.24.99.78 (104.24.99.78): icmp_seq=35 ttl=55 time=35.6 ms
+[1607862861.003879] 40 bytes from 104.24.99.78 (104.24.99.78): icmp_seq=36 ttl=55 time=36.2 ms
+[1607862862.003613] 40 bytes from 104.24.99.78 (104.24.99.78): icmp_seq=37 ttl=55 time=36.1 ms
+[1607862863.003910] 40 bytes from 104.24.99.78 (104.24.99.78): icmp_seq=38 ttl=55 time=36.1 ms
+[1607862864.003679] 40 bytes from 104.24.99.78 (104.24.99.78): icmp_seq=39 ttl=55 time=35.7 ms
+[1607862865.004199] 40 bytes from 104.24.99.78 (104.24.99.78): icmp_seq=40 ttl=55 time=36.4 ms
+[1607862866.004564] 40 bytes from 104.24.99.78 (104.24.99.78): icmp_seq=41 ttl=55 time=36.5 ms
+[1607862867.003933] 40 bytes from 104.24.99.78 (104.24.99.78): icmp_seq=42 ttl=55 time=35.8 ms
+[1607862868.003564] 40 bytes from 104.24.99.78 (104.24.99.78): icmp_seq=43 ttl=55 time=35.8 ms
+[1607862869.004174] 40 bytes from 104.24.99.78 (104.24.99.78): icmp_seq=44 ttl=55 time=35.9 ms
+[1607862870.004959] 40 bytes from 104.24.99.78 (104.24.99.78): icmp_seq=45 ttl=55 time=36.6 ms
+[1607862871.004614] 40 bytes from 104.24.99.78 (104.24.99.78): icmp_seq=46 ttl=55 time=36.5 ms
+[1607862872.004732] 40 bytes from 104.24.99.78 (104.24.99.78): icmp_seq=47 ttl=55 time=36.3 ms
+[1607862873.004490] 40 bytes from 104.24.99.78 (104.24.99.78): icmp_seq=48 ttl=55 time=36.2 ms
+[1607862874.004839] 40 bytes from 104.24.99.78 (104.24.99.78): icmp_seq=49 ttl=55 time=36.5 ms
+[1607862875.004754] 40 bytes from 104.24.99.78 (104.24.99.78): icmp_seq=50 ttl=55 time=36.5 ms
+
+--- lsb.edu ping statistics ---
+50 packets transmitted, 50 received, 0% packet loss, time 157728ms
+rtt min/avg/max/mdev = 35.174/36.134/36.565/0.328 ms

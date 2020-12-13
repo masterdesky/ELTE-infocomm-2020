@@ -1,0 +1,55 @@
+PING stlawu.edu (69.6.96.162) 32(60) bytes of data.
+[1607862721.354063] 40 bytes from 69.6.96.162: icmp_seq=1 ttl=42 time=117 ms
+[1607862721.783516] 40 bytes from www.stlawu.edu (69.6.96.162): icmp_seq=2 ttl=42 time=118 ms
+[1607862722.474519] 40 bytes from www.stlawu.edu (69.6.96.162): icmp_seq=3 ttl=42 time=117 ms
+[1607862723.476583] 40 bytes from www.stlawu.edu (69.6.96.162): icmp_seq=4 ttl=42 time=117 ms
+[1607862724.475178] 40 bytes from www.stlawu.edu (69.6.96.162): icmp_seq=5 ttl=42 time=117 ms
+[1607862735.481998] 40 bytes from 69.6.96.162: icmp_seq=6 ttl=42 time=118 ms
+[1607862740.603681] 40 bytes from www.stlawu.edu (69.6.96.162): icmp_seq=7 ttl=42 time=117 ms
+[1607862745.727696] 40 bytes from www.stlawu.edu (69.6.96.162): icmp_seq=8 ttl=42 time=117 ms
+[1607862745.847326] 40 bytes from www.stlawu.edu (69.6.96.162): icmp_seq=9 ttl=42 time=117 ms
+[1607862746.847945] 40 bytes from www.stlawu.edu (69.6.96.162): icmp_seq=10 ttl=42 time=117 ms
+[1607862747.849548] 40 bytes from www.stlawu.edu (69.6.96.162): icmp_seq=11 ttl=42 time=118 ms
+[1607862748.849008] 40 bytes from www.stlawu.edu (69.6.96.162): icmp_seq=12 ttl=42 time=117 ms
+[1607862749.849157] 40 bytes from www.stlawu.edu (69.6.96.162): icmp_seq=13 ttl=42 time=118 ms
+[1607862755.852037] 40 bytes from www.stlawu.edu (69.6.96.162): icmp_seq=14 ttl=42 time=118 ms
+[1607862765.978000] 40 bytes from 69.6.96.162: icmp_seq=15 ttl=42 time=118 ms
+[1607862776.102182] 40 bytes from 69.6.96.162: icmp_seq=16 ttl=42 time=117 ms
+[1607862781.226935] 40 bytes from www.stlawu.edu (69.6.96.162): icmp_seq=17 ttl=42 time=118 ms
+[1607862791.354045] 40 bytes from 69.6.96.162: icmp_seq=18 ttl=42 time=118 ms
+[1607862801.478015] 40 bytes from 69.6.96.162: icmp_seq=19 ttl=42 time=118 ms
+[1607862806.599050] 40 bytes from www.stlawu.edu (69.6.96.162): icmp_seq=20 ttl=42 time=118 ms
+[1607862806.719031] 40 bytes from www.stlawu.edu (69.6.96.162): icmp_seq=21 ttl=42 time=118 ms
+[1607862817.722049] 40 bytes from 69.6.96.162: icmp_seq=22 ttl=42 time=117 ms
+[1607862827.846310] 40 bytes from 69.6.96.162: icmp_seq=23 ttl=42 time=118 ms
+[1607862827.965094] 40 bytes from www.stlawu.edu (69.6.96.162): icmp_seq=24 ttl=42 time=117 ms
+[1607862828.967747] 40 bytes from www.stlawu.edu (69.6.96.162): icmp_seq=25 ttl=42 time=118 ms
+[1607862829.966748] 40 bytes from www.stlawu.edu (69.6.96.162): icmp_seq=26 ttl=42 time=117 ms
+[1607862830.967750] 40 bytes from www.stlawu.edu (69.6.96.162): icmp_seq=27 ttl=42 time=118 ms
+[1607862831.967190] 40 bytes from www.stlawu.edu (69.6.96.162): icmp_seq=28 ttl=42 time=118 ms
+[1607862837.971603] 40 bytes from www.stlawu.edu (69.6.96.162): icmp_seq=29 ttl=42 time=117 ms
+[1607862838.090145] 40 bytes from www.stlawu.edu (69.6.96.162): icmp_seq=30 ttl=42 time=117 ms
+[1607862849.098337] 40 bytes from 69.6.96.162: icmp_seq=31 ttl=42 time=118 ms
+[1607862854.222934] 40 bytes from www.stlawu.edu (69.6.96.162): icmp_seq=32 ttl=42 time=117 ms
+[1607862859.343646] 40 bytes from www.stlawu.edu (69.6.96.162): icmp_seq=33 ttl=42 time=117 ms
+[1607862859.463239] 40 bytes from www.stlawu.edu (69.6.96.162): icmp_seq=34 ttl=42 time=117 ms
+[1607862860.464849] 40 bytes from www.stlawu.edu (69.6.96.162): icmp_seq=35 ttl=42 time=118 ms
+[1607862861.465682] 40 bytes from www.stlawu.edu (69.6.96.162): icmp_seq=36 ttl=42 time=118 ms
+[1607862862.467289] 40 bytes from www.stlawu.edu (69.6.96.162): icmp_seq=37 ttl=42 time=117 ms
+[1607862863.469268] 40 bytes from www.stlawu.edu (69.6.96.162): icmp_seq=38 ttl=42 time=117 ms
+[1607862864.469496] 40 bytes from www.stlawu.edu (69.6.96.162): icmp_seq=39 ttl=42 time=117 ms
+[1607862870.476012] 40 bytes from www.stlawu.edu (69.6.96.162): icmp_seq=40 ttl=42 time=118 ms
+[1607862870.595402] 40 bytes from www.stlawu.edu (69.6.96.162): icmp_seq=41 ttl=42 time=117 ms
+[1607862871.596079] 40 bytes from www.stlawu.edu (69.6.96.162): icmp_seq=42 ttl=42 time=117 ms
+[1607862872.597406] 40 bytes from www.stlawu.edu (69.6.96.162): icmp_seq=43 ttl=42 time=117 ms
+[1607862873.598647] 40 bytes from www.stlawu.edu (69.6.96.162): icmp_seq=44 ttl=42 time=117 ms
+[1607862874.599919] 40 bytes from www.stlawu.edu (69.6.96.162): icmp_seq=45 ttl=42 time=117 ms
+[1607862875.601944] 40 bytes from www.stlawu.edu (69.6.96.162): icmp_seq=46 ttl=42 time=118 ms
+[1607862881.604770] 40 bytes from www.stlawu.edu (69.6.96.162): icmp_seq=47 ttl=42 time=117 ms
+[1607862881.724166] 40 bytes from www.stlawu.edu (69.6.96.162): icmp_seq=48 ttl=42 time=117 ms
+[1607862882.725276] 40 bytes from www.stlawu.edu (69.6.96.162): icmp_seq=49 ttl=42 time=117 ms
+[1607862883.726109] 40 bytes from www.stlawu.edu (69.6.96.162): icmp_seq=50 ttl=42 time=117 ms
+
+--- stlawu.edu ping statistics ---
+50 packets transmitted, 50 received, 0% packet loss, time 172377ms
+rtt min/avg/max/mdev = 116.602/117.435/117.881/0.272 ms

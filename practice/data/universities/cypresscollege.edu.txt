@@ -1,0 +1,55 @@
+PING cypresscollege.edu (204.102.0.242) 32(60) bytes of data.
+[1607862690.644277] 40 bytes from www.cypresscollege.edu (204.102.0.242): icmp_seq=1 ttl=48 time=168 ms
+[1607862690.815745] 40 bytes from cypresscollege.edu (204.102.0.242): icmp_seq=2 ttl=48 time=168 ms
+[1607862701.822034] 40 bytes from 204.102.0.242: icmp_seq=3 ttl=48 time=168 ms
+[1607862706.997584] 40 bytes from cypresscollege.edu (204.102.0.242): icmp_seq=4 ttl=48 time=168 ms
+[1607862717.174032] 40 bytes from 204.102.0.242: icmp_seq=5 ttl=48 time=168 ms
+[1607862717.344021] 40 bytes from www.cypresscollege.edu (204.102.0.242): icmp_seq=6 ttl=48 time=168 ms
+[1607862718.346224] 40 bytes from xwww.cypresscollege.edu (204.102.0.242): icmp_seq=7 ttl=48 time=168 ms
+[1607862719.345529] 40 bytes from xwww.cypresscollege.edu (204.102.0.242): icmp_seq=8 ttl=48 time=168 ms
+[1607862720.346383] 40 bytes from www.cypresscollege.edu (204.102.0.242): icmp_seq=9 ttl=48 time=168 ms
+[1607862721.348296] 40 bytes from cypresscollege.edu (204.102.0.242): icmp_seq=10 ttl=48 time=168 ms
+[1607862732.354029] 40 bytes from 204.102.0.242: icmp_seq=11 ttl=48 time=167 ms
+[1607862732.524595] 40 bytes from xwww.cypresscollege.edu (204.102.0.242): icmp_seq=12 ttl=48 time=168 ms
+[1607862733.525345] 40 bytes from xwww.cypresscollege.edu (204.102.0.242): icmp_seq=13 ttl=48 time=168 ms
+[1607862734.526590] 40 bytes from cypresscollege.edu (204.102.0.242): icmp_seq=14 ttl=48 time=168 ms
+[1607862735.526261] 40 bytes from cypresscollege.edu (204.102.0.242): icmp_seq=15 ttl=48 time=168 ms
+[1607862746.535208] 40 bytes from 204.102.0.242: icmp_seq=16 ttl=48 time=168 ms
+[1607862746.705496] 40 bytes from xwww.cypresscollege.edu (204.102.0.242): icmp_seq=17 ttl=48 time=168 ms
+[1607862747.706815] 40 bytes from xwww.cypresscollege.edu (204.102.0.242): icmp_seq=18 ttl=48 time=168 ms
+[1607862748.706927] 40 bytes from www.cypresscollege.edu (204.102.0.242): icmp_seq=19 ttl=48 time=168 ms
+[1607862759.710124] 40 bytes from 204.102.0.242: icmp_seq=20 ttl=48 time=168 ms
+[1607862764.884066] 40 bytes from xwww.cypresscollege.edu (204.102.0.242): icmp_seq=21 ttl=48 time=168 ms
+[1607862765.054786] 40 bytes from www.cypresscollege.edu (204.102.0.242): icmp_seq=22 ttl=48 time=168 ms
+[1607862766.053535] 40 bytes from xwww.cypresscollege.edu (204.102.0.242): icmp_seq=23 ttl=48 time=168 ms
+[1607862767.054983] 40 bytes from cypresscollege.edu (204.102.0.242): icmp_seq=24 ttl=48 time=168 ms
+[1607862768.053619] 40 bytes from www.cypresscollege.edu (204.102.0.242): icmp_seq=25 ttl=48 time=167 ms
+[1607862769.053524] 40 bytes from cypresscollege.edu (204.102.0.242): icmp_seq=26 ttl=48 time=168 ms
+[1607862770.053076] 40 bytes from xwww.cypresscollege.edu (204.102.0.242): icmp_seq=27 ttl=48 time=168 ms
+[1607862776.055868] 40 bytes from xwww.cypresscollege.edu (204.102.0.242): icmp_seq=28 ttl=48 time=168 ms
+[1607862776.225882] 40 bytes from xwww.cypresscollege.edu (204.102.0.242): icmp_seq=29 ttl=48 time=168 ms
+[1607862777.226973] 40 bytes from cypresscollege.edu (204.102.0.242): icmp_seq=30 ttl=48 time=168 ms
+[1607862778.229275] 40 bytes from www.cypresscollege.edu (204.102.0.242): icmp_seq=31 ttl=48 time=168 ms
+[1607862779.230920] 40 bytes from cypresscollege.edu (204.102.0.242): icmp_seq=32 ttl=48 time=168 ms
+[1607862780.231575] 40 bytes from xwww.cypresscollege.edu (204.102.0.242): icmp_seq=33 ttl=48 time=168 ms
+[1607862786.235819] 40 bytes from www.cypresscollege.edu (204.102.0.242): icmp_seq=34 ttl=48 time=168 ms
+[1607862796.410050] 40 bytes from 204.102.0.242: icmp_seq=35 ttl=48 time=168 ms
+[1607862801.583774] 40 bytes from xwww.cypresscollege.edu (204.102.0.242): icmp_seq=36 ttl=48 time=168 ms
+[1607862801.754408] 40 bytes from cypresscollege.edu (204.102.0.242): icmp_seq=37 ttl=48 time=168 ms
+[1607862812.758031] 40 bytes from 204.102.0.242: icmp_seq=38 ttl=48 time=168 ms
+[1607862822.934014] 40 bytes from 204.102.0.242: icmp_seq=39 ttl=48 time=168 ms
+[1607862833.110049] 40 bytes from 204.102.0.242: icmp_seq=40 ttl=48 time=168 ms
+[1607862843.286016] 40 bytes from 204.102.0.242: icmp_seq=41 ttl=48 time=167 ms
+[1607862848.460259] 40 bytes from xwww.cypresscollege.edu (204.102.0.242): icmp_seq=42 ttl=48 time=168 ms
+[1607862853.632622] 40 bytes from www.cypresscollege.edu (204.102.0.242): icmp_seq=43 ttl=48 time=168 ms
+[1607862853.802592] 40 bytes from xwww.cypresscollege.edu (204.102.0.242): icmp_seq=44 ttl=48 time=168 ms
+[1607862854.803066] 40 bytes from xwww.cypresscollege.edu (204.102.0.242): icmp_seq=45 ttl=48 time=168 ms
+[1607862855.803737] 40 bytes from xwww.cypresscollege.edu (204.102.0.242): icmp_seq=46 ttl=48 time=168 ms
+[1607862856.804366] 40 bytes from www.cypresscollege.edu (204.102.0.242): icmp_seq=47 ttl=48 time=168 ms
+[1607862857.804837] 40 bytes from cypresscollege.edu (204.102.0.242): icmp_seq=48 ttl=48 time=168 ms
+[1607862858.805781] 40 bytes from cypresscollege.edu (204.102.0.242): icmp_seq=49 ttl=48 time=168 ms
+[1607862859.807112] 40 bytes from www.cypresscollege.edu (204.102.0.242): icmp_seq=50 ttl=48 time=168 ms
+
+--- cypresscollege.edu ping statistics ---
+50 packets transmitted, 50 received, 0% packet loss, time 170426ms
+rtt min/avg/max/mdev = 167.338/168.090/168.493/0.253 ms

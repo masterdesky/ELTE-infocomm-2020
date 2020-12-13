@@ -1,0 +1,55 @@
+PING williams.edu (104.22.25.168) 32(60) bytes of data.
+[1607862688.247565] 40 bytes from 104.22.25.168 (104.22.25.168): icmp_seq=1 ttl=52 time=2.09 ms
+[1607862689.235068] 40 bytes from 104.22.25.168 (104.22.25.168): icmp_seq=2 ttl=52 time=2.16 ms
+[1607862690.234422] 40 bytes from 104.22.25.168 (104.22.25.168): icmp_seq=3 ttl=52 time=2.14 ms
+[1607862691.235285] 40 bytes from 104.22.25.168 (104.22.25.168): icmp_seq=4 ttl=52 time=2.24 ms
+[1607862692.236115] 40 bytes from 104.22.25.168 (104.22.25.168): icmp_seq=5 ttl=52 time=1.64 ms
+[1607862698.239702] 40 bytes from 104.22.25.168 (104.22.25.168): icmp_seq=6 ttl=52 time=2.08 ms
+[1607862698.243787] 40 bytes from 104.22.25.168 (104.22.25.168): icmp_seq=7 ttl=52 time=1.39 ms
+[1607862709.250006] 40 bytes from 104.22.25.168: icmp_seq=8 ttl=52 time=1.91 ms
+[1607862714.255868] 40 bytes from 104.22.25.168 (104.22.25.168): icmp_seq=9 ttl=52 time=1.94 ms
+[1607862724.266057] 40 bytes from 104.22.25.168: icmp_seq=10 ttl=52 time=2.17 ms
+[1607862724.270623] 40 bytes from 104.22.25.168 (104.22.25.168): icmp_seq=11 ttl=52 time=2.22 ms
+[1607862725.269774] 40 bytes from 104.22.25.168 (104.22.25.168): icmp_seq=12 ttl=52 time=2.12 ms
+[1607862726.269928] 40 bytes from 104.22.25.168 (104.22.25.168): icmp_seq=13 ttl=52 time=2.18 ms
+[1607862727.269614] 40 bytes from 104.22.25.168 (104.22.25.168): icmp_seq=14 ttl=52 time=2.17 ms
+[1607862728.272243] 40 bytes from 104.22.25.168 (104.22.25.168): icmp_seq=15 ttl=52 time=2.25 ms
+[1607862734.276681] 40 bytes from 104.22.25.168 (104.22.25.168): icmp_seq=16 ttl=52 time=2.32 ms
+[1607862739.283842] 40 bytes from 104.22.25.168 (104.22.25.168): icmp_seq=17 ttl=52 time=2.27 ms
+[1607862749.294178] 40 bytes from 104.22.25.168: icmp_seq=18 ttl=52 time=1.99 ms
+[1607862749.298605] 40 bytes from 104.22.25.168 (104.22.25.168): icmp_seq=19 ttl=52 time=2.17 ms
+[1607862750.298774] 40 bytes from 104.22.25.168 (104.22.25.168): icmp_seq=20 ttl=52 time=2.18 ms
+[1607862751.297446] 40 bytes from 104.22.25.168 (104.22.25.168): icmp_seq=21 ttl=52 time=1.34 ms
+[1607862752.300208] 40 bytes from 104.22.25.168 (104.22.25.168): icmp_seq=22 ttl=52 time=2.19 ms
+[1607862753.301111] 40 bytes from 104.22.25.168 (104.22.25.168): icmp_seq=23 ttl=52 time=2.20 ms
+[1607862754.300867] 40 bytes from 104.22.25.168 (104.22.25.168): icmp_seq=24 ttl=52 time=2.34 ms
+[1607862765.306099] 40 bytes from 104.22.25.168: icmp_seq=25 ttl=52 time=2.11 ms
+[1607862770.315548] 40 bytes from 104.22.25.168 (104.22.25.168): icmp_seq=26 ttl=52 time=2.32 ms
+[1607862775.329520] 40 bytes from 104.22.25.168 (104.22.25.168): icmp_seq=27 ttl=52 time=7.53 ms
+[1607862775.333287] 40 bytes from 104.22.25.168 (104.22.25.168): icmp_seq=28 ttl=52 time=2.12 ms
+[1607862781.336009] 40 bytes from 104.22.25.168 (104.22.25.168): icmp_seq=29 ttl=52 time=2.27 ms
+[1607862786.343708] 40 bytes from 104.22.25.168 (104.22.25.168): icmp_seq=30 ttl=52 time=2.16 ms
+[1607862796.354024] 40 bytes from 104.22.25.168: icmp_seq=31 ttl=52 time=2.17 ms
+[1607862796.358511] 40 bytes from 104.22.25.168 (104.22.25.168): icmp_seq=32 ttl=52 time=2.15 ms
+[1607862807.364529] 40 bytes from 104.22.25.168: icmp_seq=33 ttl=52 time=1.71 ms
+[1607862807.369155] 40 bytes from 104.22.25.168 (104.22.25.168): icmp_seq=34 ttl=52 time=2.29 ms
+[1607862808.369203] 40 bytes from 104.22.25.168 (104.22.25.168): icmp_seq=35 ttl=52 time=2.17 ms
+[1607862809.368492] 40 bytes from 104.22.25.168 (104.22.25.168): icmp_seq=36 ttl=52 time=2.41 ms
+[1607862810.368993] 40 bytes from 104.22.25.168 (104.22.25.168): icmp_seq=37 ttl=52 time=2.27 ms
+[1607862811.368585] 40 bytes from 104.22.25.168 (104.22.25.168): icmp_seq=38 ttl=52 time=2.07 ms
+[1607862822.374033] 40 bytes from 104.22.25.168: icmp_seq=39 ttl=52 time=1.48 ms
+[1607862822.378267] 40 bytes from 104.22.25.168 (104.22.25.168): icmp_seq=40 ttl=52 time=2.45 ms
+[1607862823.378633] 40 bytes from 104.22.25.168 (104.22.25.168): icmp_seq=41 ttl=52 time=2.05 ms
+[1607862824.377489] 40 bytes from 104.22.25.168 (104.22.25.168): icmp_seq=42 ttl=52 time=2.00 ms
+[1607862825.378408] 40 bytes from 104.22.25.168 (104.22.25.168): icmp_seq=43 ttl=52 time=2.30 ms
+[1607862826.378803] 40 bytes from 104.22.25.168 (104.22.25.168): icmp_seq=44 ttl=52 time=2.35 ms
+[1607862827.379106] 40 bytes from 104.22.25.168 (104.22.25.168): icmp_seq=45 ttl=52 time=2.38 ms
+[1607862833.384059] 40 bytes from 104.22.25.168 (104.22.25.168): icmp_seq=46 ttl=52 time=2.23 ms
+[1607862843.394046] 40 bytes from 104.22.25.168: icmp_seq=47 ttl=52 time=2.23 ms
+[1607862848.400395] 40 bytes from 104.22.25.168 (104.22.25.168): icmp_seq=48 ttl=52 time=2.38 ms
+[1607862848.404036] 40 bytes from 104.22.25.168 (104.22.25.168): icmp_seq=49 ttl=52 time=2.08 ms
+[1607862850.401813] 40 bytes from 104.22.25.168: icmp_seq=50 ttl=52 time=2.30 ms
+
+--- williams.edu ping statistics ---
+50 packets transmitted, 50 received, 0% packet loss, time 161171ms
+rtt min/avg/max/mdev = 1.344/2.233/7.529/0.793 ms

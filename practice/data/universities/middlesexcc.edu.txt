@@ -1,0 +1,5 @@
+PING middlesexcc.edu (192.135.209.157) 32(60) bytes of data.
+
+--- middlesexcc.edu ping statistics ---
+50 packets transmitted, 0 received, 100% packet loss, time 49266ms
+

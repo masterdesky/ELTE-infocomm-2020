@@ -1,0 +1,55 @@
+PING oakwood.edu (104.238.111.182) 32(60) bytes of data.
+[1607862668.402461] 40 bytes from ip-104-238-111-182.ip.secureserver.net (104.238.111.182): icmp_seq=1 ttl=51 time=148 ms
+[1607862669.403315] 40 bytes from ip-104-238-111-182.ip.secureserver.net (104.238.111.182): icmp_seq=2 ttl=51 time=148 ms
+[1607862680.410027] 40 bytes from 104.238.111.182: icmp_seq=3 ttl=51 time=148 ms
+[1607862690.566024] 40 bytes from 104.238.111.182: icmp_seq=4 ttl=51 time=148 ms
+[1607862700.726884] 40 bytes from 104.238.111.182: icmp_seq=5 ttl=51 time=148 ms
+[1607862710.882025] 40 bytes from 104.238.111.182: icmp_seq=6 ttl=51 time=148 ms
+[1607862716.035834] 40 bytes from ip-104-238-111-182.ip.secureserver.net (104.238.111.182): icmp_seq=7 ttl=51 time=148 ms
+[1607862716.185689] 40 bytes from ip-104-238-111-182.ip.secureserver.net (104.238.111.182): icmp_seq=8 ttl=51 time=148 ms
+[1607862717.188686] 40 bytes from ip-104-238-111-182.ip.secureserver.net (104.238.111.182): icmp_seq=9 ttl=51 time=148 ms
+[1607862718.189516] 40 bytes from ip-104-238-111-182.ip.secureserver.net (104.238.111.182): icmp_seq=10 ttl=51 time=148 ms
+[1607862729.194002] 40 bytes from 104.238.111.182: icmp_seq=11 ttl=51 time=148 ms
+[1607862729.344710] 40 bytes from ip-104-238-111-182.ip.secureserver.net (104.238.111.182): icmp_seq=12 ttl=51 time=148 ms
+[1607862730.345271] 40 bytes from ip-104-238-111-182.ip.secureserver.net (104.238.111.182): icmp_seq=13 ttl=51 time=149 ms
+[1607862741.350028] 40 bytes from 104.238.111.182: icmp_seq=14 ttl=51 time=148 ms
+[1607862746.504330] 40 bytes from ip-104-238-111-182.ip.secureserver.net (104.238.111.182): icmp_seq=15 ttl=51 time=148 ms
+[1607862746.654638] 40 bytes from ip-104-238-111-182.ip.secureserver.net (104.238.111.182): icmp_seq=16 ttl=51 time=148 ms
+[1607862757.662054] 40 bytes from 104.238.111.182: icmp_seq=17 ttl=51 time=148 ms
+[1607862767.818188] 40 bytes from 104.238.111.182: icmp_seq=18 ttl=51 time=148 ms
+[1607862767.968643] 40 bytes from ip-104-238-111-182.ip.secureserver.net (104.238.111.182): icmp_seq=19 ttl=51 time=148 ms
+[1607862768.968512] 40 bytes from ip-104-238-111-182.ip.secureserver.net (104.238.111.182): icmp_seq=20 ttl=51 time=148 ms
+[1607862769.968258] 40 bytes from ip-104-238-111-182.ip.secureserver.net (104.238.111.182): icmp_seq=21 ttl=51 time=148 ms
+[1607862780.974076] 40 bytes from 104.238.111.182: icmp_seq=22 ttl=51 time=148 ms
+[1607862791.129993] 40 bytes from 104.238.111.182: icmp_seq=23 ttl=51 time=148 ms
+[1607862796.283987] 40 bytes from ip-104-238-111-182.ip.secureserver.net (104.238.111.182): icmp_seq=24 ttl=51 time=148 ms
+[1607862796.433578] 40 bytes from ip-104-238-111-182.ip.secureserver.net (104.238.111.182): icmp_seq=25 ttl=51 time=147 ms
+[1607862797.435901] 40 bytes from ip-104-238-111-182.ip.secureserver.net (104.238.111.182): icmp_seq=26 ttl=51 time=148 ms
+[1607862798.436712] 40 bytes from ip-104-238-111-182.ip.secureserver.net (104.238.111.182): icmp_seq=27 ttl=51 time=148 ms
+[1607862799.437152] 40 bytes from ip-104-238-111-182.ip.secureserver.net (104.238.111.182): icmp_seq=28 ttl=51 time=149 ms
+[1607862800.437135] 40 bytes from ip-104-238-111-182.ip.secureserver.net (104.238.111.182): icmp_seq=29 ttl=51 time=148 ms
+[1607862801.439089] 40 bytes from ip-104-238-111-182.ip.secureserver.net (104.238.111.182): icmp_seq=30 ttl=51 time=148 ms
+[1607862807.444095] 40 bytes from ip-104-238-111-182.ip.secureserver.net (104.238.111.182): icmp_seq=31 ttl=51 time=148 ms
+[1607862807.593863] 40 bytes from ip-104-238-111-182.ip.secureserver.net (104.238.111.182): icmp_seq=32 ttl=51 time=148 ms
+[1607862808.594393] 40 bytes from ip-104-238-111-182.ip.secureserver.net (104.238.111.182): icmp_seq=33 ttl=51 time=148 ms
+[1607862809.594244] 40 bytes from ip-104-238-111-182.ip.secureserver.net (104.238.111.182): icmp_seq=34 ttl=51 time=148 ms
+[1607862810.593870] 40 bytes from ip-104-238-111-182.ip.secureserver.net (104.238.111.182): icmp_seq=35 ttl=51 time=148 ms
+[1607862811.592146] 40 bytes from ip-104-238-111-182.ip.secureserver.net (104.238.111.182): icmp_seq=36 ttl=51 time=148 ms
+[1607862812.593401] 40 bytes from ip-104-238-111-182.ip.secureserver.net (104.238.111.182): icmp_seq=37 ttl=51 time=148 ms
+[1607862813.594970] 40 bytes from ip-104-238-111-182.ip.secureserver.net (104.238.111.182): icmp_seq=38 ttl=51 time=148 ms
+[1607862814.596453] 40 bytes from ip-104-238-111-182.ip.secureserver.net (104.238.111.182): icmp_seq=39 ttl=51 time=148 ms
+[1607862815.597603] 40 bytes from ip-104-238-111-182.ip.secureserver.net (104.238.111.182): icmp_seq=40 ttl=51 time=148 ms
+[1607862816.598034] 40 bytes from ip-104-238-111-182.ip.secureserver.net (104.238.111.182): icmp_seq=41 ttl=51 time=148 ms
+[1607862822.603972] 40 bytes from ip-104-238-111-182.ip.secureserver.net (104.238.111.182): icmp_seq=42 ttl=51 time=148 ms
+[1607862822.753543] 40 bytes from ip-104-238-111-182.ip.secureserver.net (104.238.111.182): icmp_seq=43 ttl=51 time=148 ms
+[1607862823.753295] 40 bytes from ip-104-238-111-182.ip.secureserver.net (104.238.111.182): icmp_seq=44 ttl=51 time=147 ms
+[1607862824.754426] 40 bytes from ip-104-238-111-182.ip.secureserver.net (104.238.111.182): icmp_seq=45 ttl=51 time=148 ms
+[1607862825.756900] 40 bytes from ip-104-238-111-182.ip.secureserver.net (104.238.111.182): icmp_seq=46 ttl=51 time=148 ms
+[1607862826.758477] 40 bytes from ip-104-238-111-182.ip.secureserver.net (104.238.111.182): icmp_seq=47 ttl=51 time=148 ms
+[1607862827.757799] 40 bytes from ip-104-238-111-182.ip.secureserver.net (104.238.111.182): icmp_seq=48 ttl=51 time=148 ms
+[1607862828.758970] 40 bytes from ip-104-238-111-182.ip.secureserver.net (104.238.111.182): icmp_seq=49 ttl=51 time=148 ms
+[1607862829.759483] 40 bytes from ip-104-238-111-182.ip.secureserver.net (104.238.111.182): icmp_seq=50 ttl=51 time=148 ms
+
+--- oakwood.edu ping statistics ---
+50 packets transmitted, 50 received, 0% packet loss, time 161358ms
+rtt min/avg/max/mdev = 147.386/148.095/148.546/0.301 ms

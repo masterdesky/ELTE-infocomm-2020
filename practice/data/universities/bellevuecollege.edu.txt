@@ -1,0 +1,55 @@
+PING bellevuecollege.edu (134.39.81.15) 32(60) bytes of data.
+[1607862719.074038] 40 bytes from 134.39.81.15: icmp_seq=1 ttl=235 time=172 ms
+[1607862729.254021] 40 bytes from 134.39.81.15: icmp_seq=2 ttl=235 time=172 ms
+[1607862739.434192] 40 bytes from 134.39.81.15: icmp_seq=3 ttl=235 time=172 ms
+[1607862749.614031] 40 bytes from 134.39.81.15: icmp_seq=4 ttl=235 time=172 ms
+[1607862759.794023] 40 bytes from 134.39.81.15: icmp_seq=5 ttl=235 time=172 ms
+[1607862760.484182] 40 bytes from websrv1 (134.39.81.15): icmp_seq=6 ttl=235 time=172 ms
+[1607862765.971721] 40 bytes from websrv1 (134.39.81.15): icmp_seq=7 ttl=235 time=171 ms
+[1607862766.146093] 40 bytes from websrv1 (134.39.81.15): icmp_seq=8 ttl=235 time=172 ms
+[1607862767.144780] 40 bytes from websrv1 (134.39.81.15): icmp_seq=9 ttl=235 time=171 ms
+[1607862768.147050] 40 bytes from websrv1 (134.39.81.15): icmp_seq=10 ttl=235 time=172 ms
+[1607862769.145732] 40 bytes from websrv1 (134.39.81.15): icmp_seq=11 ttl=235 time=171 ms
+[1607862770.145554] 40 bytes from websrv1 (134.39.81.15): icmp_seq=12 ttl=235 time=172 ms
+[1607862771.144953] 40 bytes from websrv1 (134.39.81.15): icmp_seq=13 ttl=235 time=172 ms
+[1607862772.145598] 40 bytes from websrv1 (134.39.81.15): icmp_seq=14 ttl=235 time=172 ms
+[1607862773.146122] 40 bytes from websrv1 (134.39.81.15): icmp_seq=15 ttl=235 time=172 ms
+[1607862774.146403] 40 bytes from websrv1 (134.39.81.15): icmp_seq=16 ttl=235 time=172 ms
+[1607862775.147056] 40 bytes from websrv1 (134.39.81.15): icmp_seq=17 ttl=235 time=172 ms
+[1607862786.154012] 40 bytes from 134.39.81.15: icmp_seq=18 ttl=235 time=172 ms
+[1607862796.334012] 40 bytes from 134.39.81.15: icmp_seq=19 ttl=235 time=172 ms
+[1607862801.511911] 40 bytes from websrv1 (134.39.81.15): icmp_seq=20 ttl=235 time=172 ms
+[1607862806.690296] 40 bytes from websrv1 (134.39.81.15): icmp_seq=21 ttl=235 time=172 ms
+[1607862811.868210] 40 bytes from websrv1 (134.39.81.15): icmp_seq=22 ttl=235 time=172 ms
+[1607862812.041617] 40 bytes from websrv1 (134.39.81.15): icmp_seq=23 ttl=235 time=171 ms
+[1607862818.043908] 40 bytes from websrv1 (134.39.81.15): icmp_seq=24 ttl=235 time=172 ms
+[1607862828.222024] 40 bytes from 134.39.81.15: icmp_seq=25 ttl=235 time=172 ms
+[1607862838.402053] 40 bytes from 134.39.81.15: icmp_seq=26 ttl=235 time=172 ms
+[1607862848.582054] 40 bytes from 134.39.81.15: icmp_seq=27 ttl=235 time=172 ms
+[1607862853.760252] 40 bytes from websrv1 (134.39.81.15): icmp_seq=28 ttl=235 time=172 ms
+[1607862853.933938] 40 bytes from websrv1 (134.39.81.15): icmp_seq=29 ttl=235 time=172 ms
+[1607862854.934055] 40 bytes from websrv1 (134.39.81.15): icmp_seq=30 ttl=235 time=172 ms
+[1607862855.935892] 40 bytes from websrv1 (134.39.81.15): icmp_seq=31 ttl=235 time=172 ms
+[1607862856.937502] 40 bytes from websrv1 (134.39.81.15): icmp_seq=32 ttl=235 time=172 ms
+[1607862857.938496] 40 bytes from websrv1 (134.39.81.15): icmp_seq=33 ttl=235 time=172 ms
+[1607862858.938056] 40 bytes from websrv1 (134.39.81.15): icmp_seq=34 ttl=235 time=172 ms
+[1607862859.939891] 40 bytes from websrv1 (134.39.81.15): icmp_seq=35 ttl=235 time=172 ms
+[1607862860.939591] 40 bytes from websrv1 (134.39.81.15): icmp_seq=36 ttl=235 time=172 ms
+[1607862861.941145] 40 bytes from websrv1 (134.39.81.15): icmp_seq=37 ttl=235 time=172 ms
+[1607862862.943324] 40 bytes from websrv1 (134.39.81.15): icmp_seq=38 ttl=235 time=172 ms
+[1607862863.943693] 40 bytes from websrv1 (134.39.81.15): icmp_seq=39 ttl=235 time=172 ms
+[1607862864.943173] 40 bytes from websrv1 (134.39.81.15): icmp_seq=40 ttl=235 time=172 ms
+[1607862865.945319] 40 bytes from websrv1 (134.39.81.15): icmp_seq=41 ttl=235 time=172 ms
+[1607862866.946351] 40 bytes from websrv1 (134.39.81.15): icmp_seq=42 ttl=235 time=172 ms
+[1607862867.947473] 40 bytes from websrv1 (134.39.81.15): icmp_seq=43 ttl=235 time=172 ms
+[1607862868.948218] 40 bytes from websrv1 (134.39.81.15): icmp_seq=44 ttl=235 time=172 ms
+[1607862874.948187] 40 bytes from websrv1 (134.39.81.15): icmp_seq=45 ttl=235 time=171 ms
+[1607862875.122347] 40 bytes from websrv1 (134.39.81.15): icmp_seq=46 ttl=235 time=172 ms
+[1607862881.123913] 40 bytes from websrv1 (134.39.81.15): icmp_seq=47 ttl=235 time=172 ms
+[1607862881.297681] 40 bytes from websrv1 (134.39.81.15): icmp_seq=48 ttl=235 time=172 ms
+[1607862882.297497] 40 bytes from websrv1 (134.39.81.15): icmp_seq=49 ttl=235 time=171 ms
+[1607862883.299333] 40 bytes from websrv1 (134.39.81.15): icmp_seq=50 ttl=235 time=172 ms
+
+--- bellevuecollege.edu ping statistics ---
+50 packets transmitted, 50 received, 0% packet loss, time 174235ms
+rtt min/avg/max/mdev = 171.346/171.881/172.245/0.248 ms

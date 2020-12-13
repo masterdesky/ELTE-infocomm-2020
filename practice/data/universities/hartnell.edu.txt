@@ -1,0 +1,54 @@
+PING hartnell.edu (198.189.134.200) 32(60) bytes of data.
+[1607862690.623351] 40 bytes from einstein.hartnell.cc.ca.us (198.189.134.200): icmp_seq=1 ttl=238 time=167 ms
+[1607862700.798045] 40 bytes from 198.189.134.200: icmp_seq=2 ttl=238 time=166 ms
+[1607862700.967172] 40 bytes from einstein.hartnell.cc.ca.us (198.189.134.200): icmp_seq=3 ttl=238 time=167 ms
+[1607862701.968293] 40 bytes from einstein.hartnell.cc.ca.us (198.189.134.200): icmp_seq=4 ttl=238 time=167 ms
+[1607862702.969389] 40 bytes from einstein.hartnell.cc.ca.us (198.189.134.200): icmp_seq=5 ttl=238 time=167 ms
+[1607862713.974173] 40 bytes from 198.189.134.200: icmp_seq=6 ttl=238 time=166 ms
+[1607862719.147620] 40 bytes from einstein.hartnell.cc.ca.us (198.189.134.200): icmp_seq=7 ttl=238 time=167 ms
+[1607862724.319982] 40 bytes from einstein.hartnell.cc.ca.us (198.189.134.200): icmp_seq=8 ttl=238 time=166 ms
+[1607862729.493787] 40 bytes from einstein.hartnell.cc.ca.us (198.189.134.200): icmp_seq=9 ttl=238 time=166 ms
+[1607862735.667979] 40 bytes from einstein.hartnell.cc.ca.us (198.189.134.200): icmp_seq=11 ttl=238 time=167 ms
+[1607862740.844286] 40 bytes from einstein.hartnell.cc.ca.us (198.189.134.200): icmp_seq=12 ttl=238 time=169 ms
+[1607862746.016108] 40 bytes from einstein.hartnell.cc.ca.us (198.189.134.200): icmp_seq=13 ttl=238 time=167 ms
+[1607862746.185418] 40 bytes from einstein.hartnell.cc.ca.us (198.189.134.200): icmp_seq=14 ttl=238 time=167 ms
+[1607862757.191228] 40 bytes from 198.189.134.200: icmp_seq=15 ttl=238 time=166 ms
+[1607862767.366005] 40 bytes from 198.189.134.200: icmp_seq=16 ttl=238 time=168 ms
+[1607862767.534893] 40 bytes from einstein.hartnell.cc.ca.us (198.189.134.200): icmp_seq=17 ttl=238 time=167 ms
+[1607862768.533808] 40 bytes from einstein.hartnell.cc.ca.us (198.189.134.200): icmp_seq=18 ttl=238 time=167 ms
+[1607862769.533341] 40 bytes from einstein.hartnell.cc.ca.us (198.189.134.200): icmp_seq=19 ttl=238 time=167 ms
+[1607862775.535921] 40 bytes from einstein.hartnell.cc.ca.us (198.189.134.200): icmp_seq=20 ttl=238 time=166 ms
+[1607862785.710025] 40 bytes from 198.189.134.200: icmp_seq=21 ttl=238 time=166 ms
+[1607862785.878186] 40 bytes from einstein.hartnell.cc.ca.us (198.189.134.200): icmp_seq=22 ttl=238 time=167 ms
+[1607862791.883900] 40 bytes from einstein.hartnell.cc.ca.us (198.189.134.200): icmp_seq=23 ttl=238 time=167 ms
+[1607862802.058021] 40 bytes from 198.189.134.200: icmp_seq=24 ttl=238 time=167 ms
+[1607862812.230079] 40 bytes from 198.189.134.200: icmp_seq=25 ttl=238 time=166 ms
+[1607862817.403904] 40 bytes from einstein.hartnell.cc.ca.us (198.189.134.200): icmp_seq=26 ttl=238 time=167 ms
+[1607862827.578050] 40 bytes from 198.189.134.200: icmp_seq=27 ttl=238 time=166 ms
+[1607862827.747449] 40 bytes from einstein.hartnell.cc.ca.us (198.189.134.200): icmp_seq=28 ttl=238 time=167 ms
+[1607862838.754361] 40 bytes from 198.189.134.200: icmp_seq=29 ttl=238 time=167 ms
+[1607862843.923879] 40 bytes from einstein.hartnell.cc.ca.us (198.189.134.200): icmp_seq=30 ttl=238 time=166 ms
+[1607862854.098013] 40 bytes from 198.189.134.200: icmp_seq=31 ttl=238 time=167 ms
+[1607862859.268135] 40 bytes from einstein.hartnell.cc.ca.us (198.189.134.200): icmp_seq=32 ttl=238 time=166 ms
+[1607862859.437505] 40 bytes from einstein.hartnell.cc.ca.us (198.189.134.200): icmp_seq=33 ttl=238 time=167 ms
+[1607862860.437529] 40 bytes from einstein.hartnell.cc.ca.us (198.189.134.200): icmp_seq=34 ttl=238 time=166 ms
+[1607862861.438717] 40 bytes from einstein.hartnell.cc.ca.us (198.189.134.200): icmp_seq=35 ttl=238 time=167 ms
+[1607862862.440419] 40 bytes from einstein.hartnell.cc.ca.us (198.189.134.200): icmp_seq=36 ttl=238 time=167 ms
+[1607862863.442162] 40 bytes from einstein.hartnell.cc.ca.us (198.189.134.200): icmp_seq=37 ttl=238 time=167 ms
+[1607862864.443646] 40 bytes from einstein.hartnell.cc.ca.us (198.189.134.200): icmp_seq=38 ttl=238 time=167 ms
+[1607862865.444274] 40 bytes from einstein.hartnell.cc.ca.us (198.189.134.200): icmp_seq=39 ttl=238 time=166 ms
+[1607862866.446165] 40 bytes from einstein.hartnell.cc.ca.us (198.189.134.200): icmp_seq=40 ttl=238 time=166 ms
+[1607862867.446725] 40 bytes from einstein.hartnell.cc.ca.us (198.189.134.200): icmp_seq=41 ttl=238 time=166 ms
+[1607862868.448563] 40 bytes from einstein.hartnell.cc.ca.us (198.189.134.200): icmp_seq=42 ttl=238 time=167 ms
+[1607862869.448969] 40 bytes from einstein.hartnell.cc.ca.us (198.189.134.200): icmp_seq=43 ttl=238 time=166 ms
+[1607862875.452166] 40 bytes from einstein.hartnell.cc.ca.us (198.189.134.200): icmp_seq=44 ttl=238 time=167 ms
+[1607862875.620728] 40 bytes from einstein.hartnell.cc.ca.us (198.189.134.200): icmp_seq=45 ttl=238 time=167 ms
+[1607862881.624108] 40 bytes from einstein.hartnell.cc.ca.us (198.189.134.200): icmp_seq=46 ttl=238 time=167 ms
+[1607862881.792629] 40 bytes from einstein.hartnell.cc.ca.us (198.189.134.200): icmp_seq=47 ttl=238 time=167 ms
+[1607862882.793708] 40 bytes from einstein.hartnell.cc.ca.us (198.189.134.200): icmp_seq=48 ttl=238 time=166 ms
+[1607862883.793338] 40 bytes from einstein.hartnell.cc.ca.us (198.189.134.200): icmp_seq=49 ttl=238 time=166 ms
+[1607862884.795656] 40 bytes from einstein.hartnell.cc.ca.us (198.189.134.200): icmp_seq=50 ttl=238 time=167 ms
+
+--- hartnell.edu ping statistics ---
+50 packets transmitted, 49 received, 2% packet loss, time 195065ms
+rtt min/avg/max/mdev = 165.621/166.565/168.528/0.480 ms

@@ -1,0 +1,55 @@
+PING uh.edu (129.7.97.54) 32(60) bytes of data.
+[1607862709.895587] 40 bytes from www.uh.edu (129.7.97.54): icmp_seq=1 ttl=236 time=142 ms
+[1607862715.043922] 40 bytes from uh.edu (129.7.97.54): icmp_seq=2 ttl=236 time=142 ms
+[1607862725.194005] 40 bytes from 129.7.97.54: icmp_seq=3 ttl=236 time=142 ms
+[1607862725.338338] 40 bytes from uh.edu (129.7.97.54): icmp_seq=4 ttl=236 time=142 ms
+[1607862736.344900] 40 bytes from 129.7.97.54: icmp_seq=5 ttl=236 time=142 ms
+[1607862746.495087] 40 bytes from 129.7.97.54: icmp_seq=6 ttl=236 time=143 ms
+[1607862746.639585] 40 bytes from www.uh.edu (129.7.97.54): icmp_seq=7 ttl=236 time=143 ms
+[1607862752.643645] 40 bytes from uh.edu (129.7.97.54): icmp_seq=8 ttl=236 time=142 ms
+[1607862752.787985] 40 bytes from www.uh.edu (129.7.97.54): icmp_seq=9 ttl=236 time=142 ms
+[1607862753.788493] 40 bytes from uh.edu (129.7.97.54): icmp_seq=10 ttl=236 time=142 ms
+[1607862759.793192] 40 bytes from www.uh.edu (129.7.97.54): icmp_seq=11 ttl=236 time=142 ms
+[1607862764.939505] 40 bytes from campusnet.uh.edu (129.7.97.54): icmp_seq=12 ttl=236 time=142 ms
+[1607862770.087770] 40 bytes from uh.edu (129.7.97.54): icmp_seq=13 ttl=236 time=142 ms
+[1607862770.236221] 40 bytes from campusnet.uh.edu (129.7.97.54): icmp_seq=14 ttl=236 time=146 ms
+[1607862781.238086] 40 bytes from 129.7.97.54: icmp_seq=15 ttl=236 time=142 ms
+[1607862786.383802] 40 bytes from uh.edu (129.7.97.54): icmp_seq=16 ttl=236 time=142 ms
+[1607862796.534105] 40 bytes from 129.7.97.54: icmp_seq=17 ttl=236 time=142 ms
+[1607862801.684086] 40 bytes from uh.edu (129.7.97.54): icmp_seq=18 ttl=236 time=143 ms
+[1607862811.834040] 40 bytes from 129.7.97.54: icmp_seq=19 ttl=236 time=142 ms
+[1607862811.978545] 40 bytes from uh.edu (129.7.97.54): icmp_seq=20 ttl=236 time=142 ms
+[1607862822.982008] 40 bytes from 129.7.97.54: icmp_seq=21 ttl=236 time=142 ms
+[1607862833.130161] 40 bytes from 129.7.97.54: icmp_seq=22 ttl=236 time=142 ms
+[1607862843.278085] 40 bytes from 129.7.97.54: icmp_seq=23 ttl=236 time=143 ms
+[1607862848.423837] 40 bytes from campusnet.uh.edu (129.7.97.54): icmp_seq=24 ttl=236 time=142 ms
+[1607862848.568210] 40 bytes from www.uh.edu (129.7.97.54): icmp_seq=25 ttl=236 time=142 ms
+[1607862859.574012] 40 bytes from 129.7.97.54: icmp_seq=26 ttl=236 time=142 ms
+[1607862869.722066] 40 bytes from 129.7.97.54: icmp_seq=27 ttl=236 time=142 ms
+[1607862869.866374] 40 bytes from uh.edu (129.7.97.54): icmp_seq=28 ttl=236 time=142 ms
+[1607862870.867441] 40 bytes from m.uh.edu (129.7.97.54): icmp_seq=29 ttl=236 time=142 ms
+[1607862871.869004] 40 bytes from campusnet.uh.edu (129.7.97.54): icmp_seq=30 ttl=236 time=142 ms
+[1607862872.870490] 40 bytes from uh.edu (129.7.97.54): icmp_seq=31 ttl=236 time=143 ms
+[1607862873.871884] 40 bytes from www.uh.edu (129.7.97.54): icmp_seq=32 ttl=236 time=142 ms
+[1607862874.873192] 40 bytes from campusnet.uh.edu (129.7.97.54): icmp_seq=33 ttl=236 time=142 ms
+[1607862875.874373] 40 bytes from www.uh.edu (129.7.97.54): icmp_seq=34 ttl=236 time=142 ms
+[1607862876.874764] 40 bytes from uh.edu (129.7.97.54): icmp_seq=35 ttl=236 time=142 ms
+[1607862877.877108] 40 bytes from www.uh.edu (129.7.97.54): icmp_seq=36 ttl=236 time=142 ms
+[1607862878.878604] 40 bytes from m.uh.edu (129.7.97.54): icmp_seq=37 ttl=236 time=143 ms
+[1607862879.880062] 40 bytes from www.uh.edu (129.7.97.54): icmp_seq=38 ttl=236 time=143 ms
+[1607862880.880882] 40 bytes from uh.edu (129.7.97.54): icmp_seq=39 ttl=236 time=142 ms
+[1607862881.881301] 40 bytes from campusnet.uh.edu (129.7.97.54): icmp_seq=40 ttl=236 time=141 ms
+[1607862882.883012] 40 bytes from campusnet.uh.edu (129.7.97.54): icmp_seq=41 ttl=236 time=142 ms
+[1607862883.884597] 40 bytes from m.uh.edu (129.7.97.54): icmp_seq=42 ttl=236 time=142 ms
+[1607862884.885396] 40 bytes from www.uh.edu (129.7.97.54): icmp_seq=43 ttl=236 time=142 ms
+[1607862885.886745] 40 bytes from www.uh.edu (129.7.97.54): icmp_seq=44 ttl=236 time=142 ms
+[1607862886.889092] 40 bytes from m.uh.edu (129.7.97.54): icmp_seq=45 ttl=236 time=143 ms
+[1607862887.889735] 40 bytes from www.uh.edu (129.7.97.54): icmp_seq=46 ttl=236 time=142 ms
+[1607862888.890588] 40 bytes from www.uh.edu (129.7.97.54): icmp_seq=47 ttl=236 time=142 ms
+[1607862889.892310] 40 bytes from campusnet.uh.edu (129.7.97.54): icmp_seq=48 ttl=236 time=143 ms
+[1607862890.894053] 40 bytes from campusnet.uh.edu (129.7.97.54): icmp_seq=49 ttl=236 time=143 ms
+[1607862891.895851] 40 bytes from www.uh.edu (129.7.97.54): icmp_seq=50 ttl=236 time=142 ms
+
+--- uh.edu ping statistics ---
+50 packets transmitted, 50 received, 0% packet loss, time 187004ms
+rtt min/avg/max/mdev = 141.498/142.351/145.886/0.570 ms

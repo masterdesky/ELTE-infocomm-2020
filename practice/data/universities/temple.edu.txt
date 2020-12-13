@@ -1,0 +1,55 @@
+PING temple.edu (155.247.166.60) 32(60) bytes of data.
+[1607862708.778584] 40 bytes from 155.247.166.60: icmp_seq=1 ttl=234 time=106 ms
+[1607862708.885664] 40 bytes from 155.247.166.60: icmp_seq=2 ttl=234 time=106 ms
+[1607862709.886487] 40 bytes from 155.247.166.60: icmp_seq=3 ttl=234 time=106 ms
+[1607862715.888628] 40 bytes from 155.247.166.60: icmp_seq=4 ttl=234 time=105 ms
+[1607862715.996468] 40 bytes from 155.247.166.60: icmp_seq=5 ttl=234 time=106 ms
+[1607862716.997906] 40 bytes from 155.247.166.60: icmp_seq=6 ttl=234 time=105 ms
+[1607862717.998707] 40 bytes from 155.247.166.60: icmp_seq=7 ttl=234 time=106 ms
+[1607862724.000112] 40 bytes from 155.247.166.60: icmp_seq=8 ttl=234 time=106 ms
+[1607862734.114044] 40 bytes from 155.247.166.60: icmp_seq=9 ttl=234 time=106 ms
+[1607862739.226666] 40 bytes from 155.247.166.60: icmp_seq=10 ttl=234 time=106 ms
+[1607862739.334722] 40 bytes from 155.247.166.60: icmp_seq=11 ttl=234 time=106 ms
+[1607862740.335428] 40 bytes from 155.247.166.60: icmp_seq=12 ttl=234 time=106 ms
+[1607862741.335678] 40 bytes from 155.247.166.60: icmp_seq=13 ttl=234 time=106 ms
+[1607862752.342023] 40 bytes from 155.247.166.60: icmp_seq=14 ttl=234 time=106 ms
+[1607862762.454052] 40 bytes from 155.247.166.60: icmp_seq=15 ttl=234 time=106 ms
+[1607862762.562370] 40 bytes from 155.247.166.60: icmp_seq=16 ttl=234 time=106 ms
+[1607862763.563096] 40 bytes from 155.247.166.60: icmp_seq=17 ttl=234 time=106 ms
+[1607862764.564653] 40 bytes from 155.247.166.60: icmp_seq=18 ttl=234 time=106 ms
+[1607862765.564889] 40 bytes from 155.247.166.60: icmp_seq=19 ttl=234 time=105 ms
+[1607862771.568115] 40 bytes from 155.247.166.60: icmp_seq=20 ttl=234 time=105 ms
+[1607862781.682012] 40 bytes from 155.247.166.60: icmp_seq=21 ttl=234 time=106 ms
+[1607862781.789742] 40 bytes from 155.247.166.60: icmp_seq=22 ttl=234 time=106 ms
+[1607862782.790777] 40 bytes from 155.247.166.60: icmp_seq=23 ttl=234 time=106 ms
+[1607862783.791165] 40 bytes from 155.247.166.60: icmp_seq=24 ttl=234 time=105 ms
+[1607862784.792860] 40 bytes from 155.247.166.60: icmp_seq=25 ttl=234 time=106 ms
+[1607862785.794267] 40 bytes from 155.247.166.60: icmp_seq=26 ttl=234 time=106 ms
+[1607862786.794275] 40 bytes from 155.247.166.60: icmp_seq=27 ttl=234 time=106 ms
+[1607862787.793651] 40 bytes from 155.247.166.60: icmp_seq=28 ttl=234 time=106 ms
+[1607862788.793513] 40 bytes from 155.247.166.60: icmp_seq=29 ttl=234 time=106 ms
+[1607862789.795429] 40 bytes from 155.247.166.60: icmp_seq=30 ttl=234 time=105 ms
+[1607862790.797580] 40 bytes from 155.247.166.60: icmp_seq=31 ttl=234 time=106 ms
+[1607862801.802023] 40 bytes from 155.247.166.60: icmp_seq=32 ttl=234 time=105 ms
+[1607862806.914324] 40 bytes from 155.247.166.60: icmp_seq=33 ttl=234 time=106 ms
+[1607862812.024484] 40 bytes from 155.247.166.60: icmp_seq=34 ttl=234 time=106 ms
+[1607862817.136468] 40 bytes from 155.247.166.60: icmp_seq=35 ttl=234 time=106 ms
+[1607862817.244591] 40 bytes from 155.247.166.60: icmp_seq=36 ttl=234 time=105 ms
+[1607862828.250071] 40 bytes from 155.247.166.60: icmp_seq=37 ttl=234 time=106 ms
+[1607862828.358464] 40 bytes from 155.247.166.60: icmp_seq=38 ttl=234 time=106 ms
+[1607862829.358963] 40 bytes from 155.247.166.60: icmp_seq=39 ttl=234 time=105 ms
+[1607862830.360628] 40 bytes from 155.247.166.60: icmp_seq=40 ttl=234 time=106 ms
+[1607862831.361225] 40 bytes from 155.247.166.60: icmp_seq=41 ttl=234 time=106 ms
+[1607862832.362280] 40 bytes from 155.247.166.60: icmp_seq=42 ttl=234 time=106 ms
+[1607862843.366423] 40 bytes from 155.247.166.60: icmp_seq=43 ttl=234 time=106 ms
+[1607862848.476140] 40 bytes from 155.247.166.60: icmp_seq=44 ttl=234 time=106 ms
+[1607862848.584527] 40 bytes from 155.247.166.60: icmp_seq=45 ttl=234 time=106 ms
+[1607862859.590017] 40 bytes from 155.247.166.60: icmp_seq=46 ttl=234 time=106 ms
+[1607862869.702067] 40 bytes from 155.247.166.60: icmp_seq=47 ttl=234 time=106 ms
+[1607862869.810630] 40 bytes from 155.247.166.60: icmp_seq=48 ttl=234 time=106 ms
+[1607862880.818026] 40 bytes from 155.247.166.60: icmp_seq=49 ttl=234 time=106 ms
+[1607862880.926254] 40 bytes from 155.247.166.60: icmp_seq=50 ttl=234 time=106 ms
+
+--- temple.edu ping statistics ---
+50 packets transmitted, 50 received, 0% packet loss, time 182154ms
+rtt min/avg/max/mdev = 104.942/105.682/106.189/0.244 ms

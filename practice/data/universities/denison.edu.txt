@@ -1,0 +1,54 @@
+PING denison.edu (23.185.0.1) 32(60) bytes of data.
+[1607862692.480001] 40 bytes from 23.185.0.1 (23.185.0.1): icmp_seq=1 ttl=54 time=28.3 ms
+[1607862698.483961] 40 bytes from 23.185.0.1 (23.185.0.1): icmp_seq=2 ttl=54 time=27.6 ms
+[1607862708.522577] 40 bytes from 23.185.0.1: icmp_seq=3 ttl=54 time=28.5 ms
+[1607862713.555454] 40 bytes from 23.185.0.1 (23.185.0.1): icmp_seq=4 ttl=54 time=28.3 ms
+[1607862723.590024] 40 bytes from 23.185.0.1: icmp_seq=5 ttl=54 time=28.3 ms
+[1607862723.621584] 40 bytes from 23.185.0.1 (23.185.0.1): icmp_seq=6 ttl=54 time=29.3 ms
+[1607862729.623475] 40 bytes from 23.185.0.1: icmp_seq=7 ttl=54 time=28.6 ms
+[1607862730.653836] 40 bytes from 23.185.0.1 (23.185.0.1): icmp_seq=9 ttl=54 time=28.6 ms
+[1607862731.653802] 40 bytes from 23.185.0.1 (23.185.0.1): icmp_seq=10 ttl=54 time=28.5 ms
+[1607862732.653231] 40 bytes from 23.185.0.1 (23.185.0.1): icmp_seq=11 ttl=54 time=28.2 ms
+[1607862733.652427] 40 bytes from 23.185.0.1 (23.185.0.1): icmp_seq=12 ttl=54 time=28.3 ms
+[1607862744.658042] 40 bytes from 23.185.0.1: icmp_seq=13 ttl=54 time=28.6 ms
+[1607862754.694536] 40 bytes from 23.185.0.1: icmp_seq=14 ttl=54 time=28.4 ms
+[1607862754.725017] 40 bytes from 23.185.0.1 (23.185.0.1): icmp_seq=15 ttl=54 time=28.3 ms
+[1607862755.727133] 40 bytes from 23.185.0.1 (23.185.0.1): icmp_seq=16 ttl=54 time=28.7 ms
+[1607862756.727114] 40 bytes from 23.185.0.1 (23.185.0.1): icmp_seq=17 ttl=54 time=28.4 ms
+[1607862757.727612] 40 bytes from 23.185.0.1 (23.185.0.1): icmp_seq=18 ttl=54 time=28.4 ms
+[1607862758.729024] 40 bytes from 23.185.0.1 (23.185.0.1): icmp_seq=19 ttl=54 time=28.4 ms
+[1607862759.728905] 40 bytes from 23.185.0.1 (23.185.0.1): icmp_seq=20 ttl=54 time=28.0 ms
+[1607862770.734064] 40 bytes from 23.185.0.1: icmp_seq=21 ttl=54 time=28.0 ms
+[1607862780.770099] 40 bytes from 23.185.0.1: icmp_seq=22 ttl=54 time=28.4 ms
+[1607862785.804209] 40 bytes from 23.185.0.1 (23.185.0.1): icmp_seq=23 ttl=54 time=28.6 ms
+[1607862785.834451] 40 bytes from 23.185.0.1 (23.185.0.1): icmp_seq=24 ttl=54 time=28.3 ms
+[1607862786.833518] 40 bytes from 23.185.0.1 (23.185.0.1): icmp_seq=25 ttl=54 time=27.8 ms
+[1607862787.833963] 40 bytes from 23.185.0.1 (23.185.0.1): icmp_seq=26 ttl=54 time=28.4 ms
+[1607862788.836247] 40 bytes from 23.185.0.1 (23.185.0.1): icmp_seq=27 ttl=54 time=28.4 ms
+[1607862789.835917] 40 bytes from 23.185.0.1 (23.185.0.1): icmp_seq=28 ttl=54 time=28.3 ms
+[1607862790.837895] 40 bytes from 23.185.0.1 (23.185.0.1): icmp_seq=29 ttl=54 time=28.5 ms
+[1607862801.846056] 40 bytes from 23.185.0.1: icmp_seq=30 ttl=54 time=28.4 ms
+[1607862811.881993] 40 bytes from 23.185.0.1: icmp_seq=31 ttl=54 time=28.5 ms
+[1607862811.912336] 40 bytes from 23.185.0.1 (23.185.0.1): icmp_seq=32 ttl=54 time=28.3 ms
+[1607862817.916245] 40 bytes from 23.185.0.1 (23.185.0.1): icmp_seq=33 ttl=54 time=27.8 ms
+[1607862827.950041] 40 bytes from 23.185.0.1: icmp_seq=34 ttl=54 time=28.4 ms
+[1607862837.986299] 40 bytes from 23.185.0.1: icmp_seq=35 ttl=54 time=28.7 ms
+[1607862838.015828] 40 bytes from 23.185.0.1 (23.185.0.1): icmp_seq=36 ttl=54 time=28.5 ms
+[1607862849.022031] 40 bytes from 23.185.0.1: icmp_seq=37 ttl=54 time=28.4 ms
+[1607862859.058022] 40 bytes from 23.185.0.1: icmp_seq=38 ttl=54 time=28.5 ms
+[1607862859.088524] 40 bytes from 23.185.0.1 (23.185.0.1): icmp_seq=39 ttl=54 time=28.6 ms
+[1607862870.094034] 40 bytes from 23.185.0.1: icmp_seq=40 ttl=54 time=28.5 ms
+[1607862875.127300] 40 bytes from 23.185.0.1 (23.185.0.1): icmp_seq=41 ttl=54 time=27.8 ms
+[1607862875.157435] 40 bytes from 23.185.0.1 (23.185.0.1): icmp_seq=42 ttl=54 time=28.1 ms
+[1607862881.160142] 40 bytes from 23.185.0.1 (23.185.0.1): icmp_seq=43 ttl=54 time=27.6 ms
+[1607862881.190683] 40 bytes from 23.185.0.1 (23.185.0.1): icmp_seq=44 ttl=54 time=28.5 ms
+[1607862882.191151] 40 bytes from 23.185.0.1 (23.185.0.1): icmp_seq=45 ttl=54 time=28.4 ms
+[1607862883.191817] 40 bytes from 23.185.0.1 (23.185.0.1): icmp_seq=46 ttl=54 time=28.0 ms
+[1607862884.192065] 40 bytes from 23.185.0.1 (23.185.0.1): icmp_seq=47 ttl=54 time=27.8 ms
+[1607862885.192850] 40 bytes from 23.185.0.1 (23.185.0.1): icmp_seq=48 ttl=54 time=28.3 ms
+[1607862886.193059] 40 bytes from 23.185.0.1 (23.185.0.1): icmp_seq=49 ttl=54 time=28.1 ms
+[1607862887.193924] 40 bytes from 23.185.0.1 (23.185.0.1): icmp_seq=50 ttl=54 time=28.3 ms
+
+--- denison.edu ping statistics ---
+50 packets transmitted, 49 received, 2% packet loss, time 194714ms
+rtt min/avg/max/mdev = 27.594/28.325/29.271/0.295 ms

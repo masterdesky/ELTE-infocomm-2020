@@ -1,0 +1,55 @@
+PING palmbeachstate.edu (216.114.95.98) 32(60) bytes of data.
+[1607862687.952462] 40 bytes from www.palmbeachstate.edu (216.114.95.98): icmp_seq=1 ttl=110 time=145 ms
+[1607862688.285666] 40 bytes from www.palmbeachstate.edu (216.114.95.98): icmp_seq=2 ttl=110 time=144 ms
+[1607862689.286802] 40 bytes from web1.palmbeachstate.edu (216.114.95.98): icmp_seq=3 ttl=110 time=145 ms
+[1607862690.286102] 40 bytes from www.palmbeachstate.edu (216.114.95.98): icmp_seq=4 ttl=110 time=145 ms
+[1607862691.285831] 40 bytes from web1.palmbeachstate.edu (216.114.95.98): icmp_seq=5 ttl=110 time=144 ms
+[1607862692.287772] 40 bytes from www.palmbeachstate.edu (216.114.95.98): icmp_seq=6 ttl=110 time=144 ms
+[1607862693.288502] 40 bytes from web1.palmbeachstate.edu (216.114.95.98): icmp_seq=7 ttl=110 time=144 ms
+[1607862694.293710] 40 bytes from web1.palmbeachstate.edu (216.114.95.98): icmp_seq=8 ttl=110 time=145 ms
+[1607862695.294271] 40 bytes from www.palmbeachstate.edu (216.114.95.98): icmp_seq=9 ttl=110 time=145 ms
+[1607862696.295377] 40 bytes from web1.palmbeachstate.edu (216.114.95.98): icmp_seq=10 ttl=110 time=145 ms
+[1607862697.294227] 40 bytes from palmbeachstate.edu (216.114.95.98): icmp_seq=11 ttl=110 time=144 ms
+[1607862698.297119] 40 bytes from palmbeachstate.edu (216.114.95.98): icmp_seq=12 ttl=110 time=145 ms
+[1607862699.298548] 40 bytes from web1.palmbeachstate.edu (216.114.95.98): icmp_seq=13 ttl=110 time=145 ms
+[1607862710.302002] 40 bytes from 216.114.95.98: icmp_seq=14 ttl=110 time=144 ms
+[1607862710.448457] 40 bytes from www.palmbeachstate.edu (216.114.95.98): icmp_seq=15 ttl=110 time=144 ms
+[1607862721.454097] 40 bytes from 216.114.95.98: icmp_seq=16 ttl=110 time=145 ms
+[1607862726.604320] 40 bytes from palmbeachstate.edu (216.114.95.98): icmp_seq=17 ttl=110 time=145 ms
+[1607862731.756526] 40 bytes from www.palmbeachstate.edu (216.114.95.98): icmp_seq=18 ttl=110 time=145 ms
+[1607862731.904249] 40 bytes from www.palmbeachstate.edu (216.114.95.98): icmp_seq=19 ttl=110 time=145 ms
+[1607862732.903438] 40 bytes from web1.palmbeachstate.edu (216.114.95.98): icmp_seq=20 ttl=110 time=145 ms
+[1607862733.902675] 40 bytes from www.palmbeachstate.edu (216.114.95.98): icmp_seq=21 ttl=110 time=145 ms
+[1607862744.906047] 40 bytes from 216.114.95.98: icmp_seq=22 ttl=110 time=145 ms
+[1607862755.058607] 40 bytes from 216.114.95.98: icmp_seq=23 ttl=110 time=145 ms
+[1607862755.204759] 40 bytes from palmbeachstate.edu (216.114.95.98): icmp_seq=24 ttl=110 time=144 ms
+[1607862756.206733] 40 bytes from web1.palmbeachstate.edu (216.114.95.98): icmp_seq=25 ttl=110 time=145 ms
+[1607862767.214010] 40 bytes from 216.114.95.98: icmp_seq=26 ttl=110 time=145 ms
+[1607862767.365077] 40 bytes from palmbeachstate.edu (216.114.95.98): icmp_seq=27 ttl=110 time=145 ms
+[1607862768.361752] 40 bytes from www.palmbeachstate.edu (216.114.95.98): icmp_seq=28 ttl=110 time=146 ms
+[1607862769.360730] 40 bytes from palmbeachstate.edu (216.114.95.98): icmp_seq=29 ttl=110 time=145 ms
+[1607862775.363966] 40 bytes from palmbeachstate.edu (216.114.95.98): icmp_seq=30 ttl=110 time=145 ms
+[1607862780.513258] 40 bytes from web1.palmbeachstate.edu (216.114.95.98): icmp_seq=31 ttl=110 time=145 ms
+[1607862780.659893] 40 bytes from palmbeachstate.edu (216.114.95.98): icmp_seq=32 ttl=110 time=144 ms
+[1607862786.664138] 40 bytes from www.palmbeachstate.edu (216.114.95.98): icmp_seq=33 ttl=110 time=145 ms
+[1607862786.810859] 40 bytes from palmbeachstate.edu (216.114.95.98): icmp_seq=34 ttl=110 time=145 ms
+[1607862787.809514] 40 bytes from palmbeachstate.edu (216.114.95.98): icmp_seq=35 ttl=110 time=144 ms
+[1607862788.811780] 40 bytes from www.palmbeachstate.edu (216.114.95.98): icmp_seq=36 ttl=110 time=145 ms
+[1607862789.812568] 40 bytes from www.palmbeachstate.edu (216.114.95.98): icmp_seq=37 ttl=110 time=145 ms
+[1607862790.813804] 40 bytes from palmbeachstate.edu (216.114.95.98): icmp_seq=38 ttl=110 time=145 ms
+[1607862791.813953] 40 bytes from www.palmbeachstate.edu (216.114.95.98): icmp_seq=39 ttl=110 time=144 ms
+[1607862792.814732] 40 bytes from web1.palmbeachstate.edu (216.114.95.98): icmp_seq=40 ttl=110 time=145 ms
+[1607862793.815784] 40 bytes from palmbeachstate.edu (216.114.95.98): icmp_seq=41 ttl=110 time=145 ms
+[1607862794.815209] 40 bytes from www.palmbeachstate.edu (216.114.95.98): icmp_seq=42 ttl=110 time=144 ms
+[1607862795.818070] 40 bytes from palmbeachstate.edu (216.114.95.98): icmp_seq=43 ttl=110 time=144 ms
+[1607862806.822011] 40 bytes from 216.114.95.98: icmp_seq=44 ttl=110 time=144 ms
+[1607862811.971528] 40 bytes from palmbeachstate.edu (216.114.95.98): icmp_seq=45 ttl=110 time=145 ms
+[1607862817.121672] 40 bytes from palmbeachstate.edu (216.114.95.98): icmp_seq=46 ttl=110 time=145 ms
+[1607862817.267493] 40 bytes from www.palmbeachstate.edu (216.114.95.98): icmp_seq=47 ttl=110 time=145 ms
+[1607862828.274117] 40 bytes from 216.114.95.98: icmp_seq=48 ttl=110 time=145 ms
+[1607862833.423702] 40 bytes from www.palmbeachstate.edu (216.114.95.98): icmp_seq=49 ttl=110 time=145 ms
+[1607862834.423778] 40 bytes from 216.114.95.98: icmp_seq=50 ttl=110 time=145 ms
+
+--- palmbeachstate.edu ping statistics ---
+50 packets transmitted, 50 received, 0% packet loss, time 146286ms
+rtt min/avg/max/mdev = 143.852/144.620/146.370/0.437 ms

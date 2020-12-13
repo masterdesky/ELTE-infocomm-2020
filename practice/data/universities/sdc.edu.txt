@@ -1,0 +1,55 @@
+PING sdc.edu (35.209.244.245) 32(60) bytes of data.
+[1607862694.454012] 40 bytes from 35.209.244.245: icmp_seq=1 ttl=101 time=124 ms
+[1607862694.958619] 40 bytes from 245.244.209.35.bc.googleusercontent.com (35.209.244.245): icmp_seq=2 ttl=101 time=124 ms
+[1607862705.585996] 40 bytes from 35.209.244.245: icmp_seq=3 ttl=101 time=124 ms
+[1607862715.718169] 40 bytes from 35.209.244.245: icmp_seq=4 ttl=101 time=124 ms
+[1607862715.844238] 40 bytes from 245.244.209.35.bc.googleusercontent.com (35.209.244.245): icmp_seq=5 ttl=101 time=124 ms
+[1607862716.844730] 40 bytes from 245.244.209.35.bc.googleusercontent.com (35.209.244.245): icmp_seq=6 ttl=101 time=124 ms
+[1607862717.844494] 40 bytes from 245.244.209.35.bc.googleusercontent.com (35.209.244.245): icmp_seq=7 ttl=101 time=124 ms
+[1607862718.843767] 40 bytes from 245.244.209.35.bc.googleusercontent.com (35.209.244.245): icmp_seq=8 ttl=101 time=124 ms
+[1607862729.850005] 40 bytes from 35.209.244.245: icmp_seq=9 ttl=101 time=124 ms
+[1607862739.982109] 40 bytes from 35.209.244.245: icmp_seq=10 ttl=101 time=124 ms
+[1607862750.114038] 40 bytes from 35.209.244.245: icmp_seq=11 ttl=101 time=124 ms
+[1607862755.243600] 40 bytes from 245.244.209.35.bc.googleusercontent.com (35.209.244.245): icmp_seq=12 ttl=101 time=124 ms
+[1607862755.369966] 40 bytes from 245.244.209.35.bc.googleusercontent.com (35.209.244.245): icmp_seq=13 ttl=101 time=124 ms
+[1607862756.370323] 40 bytes from 245.244.209.35.bc.googleusercontent.com (35.209.244.245): icmp_seq=14 ttl=101 time=124 ms
+[1607862757.371803] 40 bytes from 245.244.209.35.bc.googleusercontent.com (35.209.244.245): icmp_seq=15 ttl=101 time=126 ms
+[1607862758.371710] 40 bytes from 245.244.209.35.bc.googleusercontent.com (35.209.244.245): icmp_seq=16 ttl=101 time=124 ms
+[1607862759.372428] 40 bytes from 245.244.209.35.bc.googleusercontent.com (35.209.244.245): icmp_seq=17 ttl=101 time=123 ms
+[1607862760.373913] 40 bytes from 245.244.209.35.bc.googleusercontent.com (35.209.244.245): icmp_seq=18 ttl=101 time=124 ms
+[1607862761.374674] 40 bytes from 245.244.209.35.bc.googleusercontent.com (35.209.244.245): icmp_seq=19 ttl=101 time=124 ms
+[1607862762.373752] 40 bytes from 245.244.209.35.bc.googleusercontent.com (35.209.244.245): icmp_seq=20 ttl=101 time=124 ms
+[1607862763.373849] 40 bytes from 245.244.209.35.bc.googleusercontent.com (35.209.244.245): icmp_seq=21 ttl=101 time=124 ms
+[1607862764.375964] 40 bytes from 245.244.209.35.bc.googleusercontent.com (35.209.244.245): icmp_seq=22 ttl=101 time=124 ms
+[1607862765.377534] 40 bytes from 245.244.209.35.bc.googleusercontent.com (35.209.244.245): icmp_seq=23 ttl=101 time=124 ms
+[1607862766.378786] 40 bytes from 245.244.209.35.bc.googleusercontent.com (35.209.244.245): icmp_seq=24 ttl=101 time=124 ms
+[1607862772.383885] 40 bytes from 245.244.209.35.bc.googleusercontent.com (35.209.244.245): icmp_seq=25 ttl=101 time=124 ms
+[1607862782.514037] 40 bytes from 35.209.244.245: icmp_seq=26 ttl=101 time=124 ms
+[1607862782.639652] 40 bytes from 245.244.209.35.bc.googleusercontent.com (35.209.244.245): icmp_seq=27 ttl=101 time=124 ms
+[1607862783.641345] 40 bytes from 245.244.209.35.bc.googleusercontent.com (35.209.244.245): icmp_seq=28 ttl=101 time=124 ms
+[1607862784.643303] 40 bytes from 245.244.209.35.bc.googleusercontent.com (35.209.244.245): icmp_seq=29 ttl=101 time=124 ms
+[1607862785.644133] 40 bytes from 245.244.209.35.bc.googleusercontent.com (35.209.244.245): icmp_seq=30 ttl=101 time=124 ms
+[1607862796.649999] 40 bytes from 35.209.244.245: icmp_seq=31 ttl=101 time=124 ms
+[1607862806.782049] 40 bytes from 35.209.244.245: icmp_seq=32 ttl=101 time=124 ms
+[1607862811.911851] 40 bytes from 245.244.209.35.bc.googleusercontent.com (35.209.244.245): icmp_seq=33 ttl=101 time=124 ms
+[1607862812.038136] 40 bytes from 245.244.209.35.bc.googleusercontent.com (35.209.244.245): icmp_seq=34 ttl=101 time=124 ms
+[1607862823.042035] 40 bytes from 35.209.244.245: icmp_seq=35 ttl=101 time=124 ms
+[1607862833.174031] 40 bytes from 35.209.244.245: icmp_seq=36 ttl=101 time=124 ms
+[1607862838.303944] 40 bytes from 245.244.209.35.bc.googleusercontent.com (35.209.244.245): icmp_seq=37 ttl=101 time=124 ms
+[1607862843.434593] 40 bytes from 245.244.209.35.bc.googleusercontent.com (35.209.244.245): icmp_seq=38 ttl=101 time=124 ms
+[1607862848.565167] 40 bytes from 245.244.209.35.bc.googleusercontent.com (35.209.244.245): icmp_seq=39 ttl=101 time=124 ms
+[1607862853.695320] 40 bytes from 245.244.209.35.bc.googleusercontent.com (35.209.244.245): icmp_seq=40 ttl=101 time=124 ms
+[1607862853.821427] 40 bytes from 245.244.209.35.bc.googleusercontent.com (35.209.244.245): icmp_seq=41 ttl=101 time=124 ms
+[1607862859.824155] 40 bytes from 245.244.209.35.bc.googleusercontent.com (35.209.244.245): icmp_seq=42 ttl=101 time=124 ms
+[1607862859.950500] 40 bytes from 245.244.209.35.bc.googleusercontent.com (35.209.244.245): icmp_seq=43 ttl=101 time=124 ms
+[1607862860.951756] 40 bytes from 245.244.209.35.bc.googleusercontent.com (35.209.244.245): icmp_seq=44 ttl=101 time=124 ms
+[1607862861.952430] 40 bytes from 245.244.209.35.bc.googleusercontent.com (35.209.244.245): icmp_seq=45 ttl=101 time=124 ms
+[1607862862.953435] 40 bytes from 245.244.209.35.bc.googleusercontent.com (35.209.244.245): icmp_seq=46 ttl=101 time=124 ms
+[1607862863.954618] 40 bytes from 245.244.209.35.bc.googleusercontent.com (35.209.244.245): icmp_seq=47 ttl=101 time=124 ms
+[1607862864.954029] 40 bytes from 245.244.209.35.bc.googleusercontent.com (35.209.244.245): icmp_seq=48 ttl=101 time=124 ms
+[1607862865.955097] 40 bytes from 245.244.209.35.bc.googleusercontent.com (35.209.244.245): icmp_seq=49 ttl=101 time=124 ms
+[1607862866.955571] 40 bytes from 245.244.209.35.bc.googleusercontent.com (35.209.244.245): icmp_seq=50 ttl=101 time=124 ms
+
+--- sdc.edu ping statistics ---
+50 packets transmitted, 50 received, 0% packet loss, time 182506ms
+rtt min/avg/max/mdev = 123.395/124.126/125.900/0.339 ms

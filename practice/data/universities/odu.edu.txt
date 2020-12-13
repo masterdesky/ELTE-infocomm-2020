@@ -1,0 +1,54 @@
+PING odu.edu (128.82.112.29) 32(60) bytes of data.
+[1607862722.358099] 40 bytes from 128.82.112.29: icmp_seq=1 ttl=233 time=109 ms
+[1607862723.585737] 40 bytes from ww1.odu.edu (128.82.112.29): icmp_seq=2 ttl=233 time=109 ms
+[1607862723.696289] 40 bytes from odu.edu (128.82.112.29): icmp_seq=3 ttl=233 time=109 ms
+[1607862724.695378] 40 bytes from www.odu.edu (128.82.112.29): icmp_seq=4 ttl=233 time=109 ms
+[1607862725.695622] 40 bytes from www.odu.edu (128.82.112.29): icmp_seq=5 ttl=233 time=109 ms
+[1607862726.695473] 40 bytes from odu.edu (128.82.112.29): icmp_seq=6 ttl=233 time=108 ms
+[1607862727.697034] 40 bytes from odu.edu (128.82.112.29): icmp_seq=7 ttl=233 time=108 ms
+[1607862728.697231] 40 bytes from odu.edu (128.82.112.29): icmp_seq=8 ttl=233 time=109 ms
+[1607862740.702081] 40 bytes from 128.82.112.29: icmp_seq=10 ttl=233 time=109 ms
+[1607862750.818098] 40 bytes from 128.82.112.29: icmp_seq=11 ttl=233 time=109 ms
+[1607862760.934019] 40 bytes from 128.82.112.29: icmp_seq=12 ttl=233 time=109 ms
+[1607862771.050015] 40 bytes from 128.82.112.29: icmp_seq=13 ttl=233 time=109 ms
+[1607862781.166080] 40 bytes from 128.82.112.29: icmp_seq=14 ttl=233 time=108 ms
+[1607862791.282005] 40 bytes from 128.82.112.29: icmp_seq=15 ttl=233 time=108 ms
+[1607862796.396038] 40 bytes from odu.edu (128.82.112.29): icmp_seq=16 ttl=233 time=108 ms
+[1607862801.511030] 40 bytes from odu.edu (128.82.112.29): icmp_seq=17 ttl=233 time=109 ms
+[1607862806.624762] 40 bytes from odu.edu (128.82.112.29): icmp_seq=18 ttl=233 time=108 ms
+[1607862806.735666] 40 bytes from www.odu.edu (128.82.112.29): icmp_seq=19 ttl=233 time=109 ms
+[1607862817.742003] 40 bytes from 128.82.112.29: icmp_seq=20 ttl=233 time=109 ms
+[1607862827.858303] 40 bytes from 128.82.112.29: icmp_seq=21 ttl=233 time=109 ms
+[1607862837.974012] 40 bytes from 128.82.112.29: icmp_seq=22 ttl=233 time=109 ms
+[1607862838.084157] 40 bytes from odu.edu (128.82.112.29): icmp_seq=23 ttl=233 time=109 ms
+[1607862839.084912] 40 bytes from www.odu.edu (128.82.112.29): icmp_seq=24 ttl=233 time=109 ms
+[1607862840.085086] 40 bytes from www.odu.edu (128.82.112.29): icmp_seq=25 ttl=233 time=109 ms
+[1607862841.085055] 40 bytes from www.odu.edu (128.82.112.29): icmp_seq=26 ttl=233 time=109 ms
+[1607862842.084910] 40 bytes from www.odu.edu (128.82.112.29): icmp_seq=27 ttl=233 time=109 ms
+[1607862843.083620] 40 bytes from odu.edu (128.82.112.29): icmp_seq=28 ttl=233 time=108 ms
+[1607862854.090049] 40 bytes from 128.82.112.29: icmp_seq=29 ttl=233 time=109 ms
+[1607862859.204266] 40 bytes from www.odu.edu (128.82.112.29): icmp_seq=30 ttl=233 time=109 ms
+[1607862864.319712] 40 bytes from ww1.odu.edu (128.82.112.29): icmp_seq=31 ttl=233 time=109 ms
+[1607862864.430618] 40 bytes from ww1.odu.edu (128.82.112.29): icmp_seq=32 ttl=233 time=109 ms
+[1607862865.430936] 40 bytes from odu.edu (128.82.112.29): icmp_seq=33 ttl=233 time=109 ms
+[1607862866.431854] 40 bytes from ww1.odu.edu (128.82.112.29): icmp_seq=34 ttl=233 time=109 ms
+[1607862867.433233] 40 bytes from www.odu.edu (128.82.112.29): icmp_seq=35 ttl=233 time=109 ms
+[1607862868.432451] 40 bytes from ww1.odu.edu (128.82.112.29): icmp_seq=36 ttl=233 time=109 ms
+[1607862869.434511] 40 bytes from odu.edu (128.82.112.29): icmp_seq=37 ttl=233 time=109 ms
+[1607862870.434621] 40 bytes from www.odu.edu (128.82.112.29): icmp_seq=38 ttl=233 time=108 ms
+[1607862871.436720] 40 bytes from www.odu.edu (128.82.112.29): icmp_seq=39 ttl=233 time=109 ms
+[1607862872.436701] 40 bytes from odu.edu (128.82.112.29): icmp_seq=40 ttl=233 time=109 ms
+[1607862873.438242] 40 bytes from www.odu.edu (128.82.112.29): icmp_seq=41 ttl=233 time=109 ms
+[1607862874.440480] 40 bytes from ww1.odu.edu (128.82.112.29): icmp_seq=42 ttl=233 time=109 ms
+[1607862875.440688] 40 bytes from ww1.odu.edu (128.82.112.29): icmp_seq=43 ttl=233 time=109 ms
+[1607862881.443708] 40 bytes from www.odu.edu (128.82.112.29): icmp_seq=44 ttl=233 time=109 ms
+[1607862881.554428] 40 bytes from ww1.odu.edu (128.82.112.29): icmp_seq=45 ttl=233 time=109 ms
+[1607862882.554985] 40 bytes from ww1.odu.edu (128.82.112.29): icmp_seq=46 ttl=233 time=109 ms
+[1607862883.557352] 40 bytes from odu.edu (128.82.112.29): icmp_seq=47 ttl=233 time=109 ms
+[1607862884.557419] 40 bytes from www.odu.edu (128.82.112.29): icmp_seq=48 ttl=233 time=109 ms
+[1607862885.558654] 40 bytes from odu.edu (128.82.112.29): icmp_seq=49 ttl=233 time=109 ms
+[1607862886.560003] 40 bytes from odu.edu (128.82.112.29): icmp_seq=50 ttl=233 time=109 ms
+
+--- odu.edu ping statistics ---
+50 packets transmitted, 49 received, 2% packet loss, time 174205ms
+rtt min/avg/max/mdev = 108.161/108.821/109.386/0.303 ms

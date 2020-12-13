@@ -1,0 +1,55 @@
+PING frontrange.edu (65.38.169.105) 32(60) bytes of data.
+[1607862696.126133] 40 bytes from 65.38.169.105: icmp_seq=1 ttl=235 time=140 ms
+[1607862696.268213] 40 bytes from www.frontrange.edu (65.38.169.105): icmp_seq=2 ttl=235 time=139 ms
+[1607862707.274121] 40 bytes from 65.38.169.105: icmp_seq=3 ttl=235 time=140 ms
+[1607862707.416510] 40 bytes from www.frontrange.edu (65.38.169.105): icmp_seq=4 ttl=235 time=140 ms
+[1607862713.419924] 40 bytes from www.frontrange.edu (65.38.169.105): icmp_seq=5 ttl=235 time=140 ms
+[1607862723.569993] 40 bytes from 65.38.169.105: icmp_seq=6 ttl=235 time=140 ms
+[1607862728.717172] 40 bytes from www.frontrange.edu (65.38.169.105): icmp_seq=7 ttl=235 time=140 ms
+[1607862733.863875] 40 bytes from www.frontrange.edu (65.38.169.105): icmp_seq=8 ttl=235 time=140 ms
+[1607862734.006072] 40 bytes from www.frontrange.edu (65.38.169.105): icmp_seq=9 ttl=235 time=140 ms
+[1607862735.004488] 40 bytes from www.frontrange.edu (65.38.169.105): icmp_seq=10 ttl=235 time=139 ms
+[1607862736.004874] 40 bytes from www.frontrange.edu (65.38.169.105): icmp_seq=11 ttl=235 time=140 ms
+[1607862737.004633] 40 bytes from www.frontrange.edu (65.38.169.105): icmp_seq=12 ttl=235 time=140 ms
+[1607862738.004138] 40 bytes from www.frontrange.edu (65.38.169.105): icmp_seq=13 ttl=235 time=140 ms
+[1607862739.003926] 40 bytes from www.frontrange.edu (65.38.169.105): icmp_seq=14 ttl=235 time=140 ms
+[1607862740.003746] 40 bytes from www.frontrange.edu (65.38.169.105): icmp_seq=15 ttl=235 time=140 ms
+[1607862741.005395] 40 bytes from www.frontrange.edu (65.38.169.105): icmp_seq=16 ttl=235 time=140 ms
+[1607862742.004194] 40 bytes from www.frontrange.edu (65.38.169.105): icmp_seq=17 ttl=235 time=140 ms
+[1607862743.004135] 40 bytes from www.frontrange.edu (65.38.169.105): icmp_seq=18 ttl=235 time=140 ms
+[1607862744.003515] 40 bytes from www.frontrange.edu (65.38.169.105): icmp_seq=19 ttl=235 time=140 ms
+[1607862745.003752] 40 bytes from www.frontrange.edu (65.38.169.105): icmp_seq=20 ttl=235 time=140 ms
+[1607862746.004078] 40 bytes from www.frontrange.edu (65.38.169.105): icmp_seq=21 ttl=235 time=140 ms
+[1607862757.010544] 40 bytes from 65.38.169.105: icmp_seq=22 ttl=235 time=140 ms
+[1607862762.155148] 40 bytes from www.frontrange.edu (65.38.169.105): icmp_seq=23 ttl=235 time=140 ms
+[1607862762.296426] 40 bytes from www.frontrange.edu (65.38.169.105): icmp_seq=24 ttl=235 time=139 ms
+[1607862763.298079] 40 bytes from www.frontrange.edu (65.38.169.105): icmp_seq=25 ttl=235 time=140 ms
+[1607862764.299255] 40 bytes from www.frontrange.edu (65.38.169.105): icmp_seq=26 ttl=235 time=140 ms
+[1607862775.306011] 40 bytes from 65.38.169.105: icmp_seq=27 ttl=235 time=140 ms
+[1607862775.447934] 40 bytes from www.frontrange.edu (65.38.169.105): icmp_seq=28 ttl=235 time=140 ms
+[1607862776.447498] 40 bytes from www.frontrange.edu (65.38.169.105): icmp_seq=29 ttl=235 time=140 ms
+[1607862777.447253] 40 bytes from www.frontrange.edu (65.38.169.105): icmp_seq=30 ttl=235 time=140 ms
+[1607862778.446632] 40 bytes from www.frontrange.edu (65.38.169.105): icmp_seq=31 ttl=235 time=140 ms
+[1607862779.446085] 40 bytes from www.frontrange.edu (65.38.169.105): icmp_seq=32 ttl=235 time=140 ms
+[1607862780.445635] 40 bytes from www.frontrange.edu (65.38.169.105): icmp_seq=33 ttl=235 time=140 ms
+[1607862781.446099] 40 bytes from www.frontrange.edu (65.38.169.105): icmp_seq=34 ttl=235 time=140 ms
+[1607862782.444857] 40 bytes from www.frontrange.edu (65.38.169.105): icmp_seq=35 ttl=235 time=139 ms
+[1607862783.445423] 40 bytes from www.frontrange.edu (65.38.169.105): icmp_seq=36 ttl=235 time=140 ms
+[1607862784.446166] 40 bytes from www.frontrange.edu (65.38.169.105): icmp_seq=37 ttl=235 time=140 ms
+[1607862785.448547] 40 bytes from www.frontrange.edu (65.38.169.105): icmp_seq=38 ttl=235 time=140 ms
+[1607862796.453997] 40 bytes from 65.38.169.105: icmp_seq=39 ttl=235 time=140 ms
+[1607862796.595563] 40 bytes from www.frontrange.edu (65.38.169.105): icmp_seq=40 ttl=235 time=139 ms
+[1607862797.596161] 40 bytes from www.frontrange.edu (65.38.169.105): icmp_seq=41 ttl=235 time=140 ms
+[1607862798.597538] 40 bytes from www.frontrange.edu (65.38.169.105): icmp_seq=42 ttl=235 time=140 ms
+[1607862799.597546] 40 bytes from www.frontrange.edu (65.38.169.105): icmp_seq=43 ttl=235 time=139 ms
+[1607862800.599388] 40 bytes from www.frontrange.edu (65.38.169.105): icmp_seq=44 ttl=235 time=140 ms
+[1607862806.603963] 40 bytes from www.frontrange.edu (65.38.169.105): icmp_seq=45 ttl=235 time=139 ms
+[1607862806.745956] 40 bytes from www.frontrange.edu (65.38.169.105): icmp_seq=46 ttl=235 time=140 ms
+[1607862817.750019] 40 bytes from 65.38.169.105: icmp_seq=47 ttl=235 time=140 ms
+[1607862827.898028] 40 bytes from 65.38.169.105: icmp_seq=48 ttl=235 time=140 ms
+[1607862833.043780] 40 bytes from www.frontrange.edu (65.38.169.105): icmp_seq=49 ttl=235 time=140 ms
+[1607862834.043900] 40 bytes from 65.38.169.105: icmp_seq=50 ttl=235 time=140 ms
+
+--- frontrange.edu ping statistics ---
+50 packets transmitted, 50 received, 0% packet loss, time 147066ms
+rtt min/avg/max/mdev = 139.070/139.811/140.297/0.263 ms

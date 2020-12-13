@@ -1,0 +1,55 @@
+PING jtsa.edu (148.62.1.183) 32(60) bytes of data.
+[1607862705.062020] 40 bytes from 148.62.1.183: icmp_seq=1 ttl=49 time=135 ms
+[1607862705.318022] 40 bytes from 148.62.1.183 (148.62.1.183): icmp_seq=2 ttl=49 time=135 ms
+[1607862716.206091] 40 bytes from 148.62.1.183: icmp_seq=3 ttl=49 time=135 ms
+[1607862716.343488] 40 bytes from 148.62.1.183 (148.62.1.183): icmp_seq=4 ttl=49 time=135 ms
+[1607862717.343683] 40 bytes from 148.62.1.183 (148.62.1.183): icmp_seq=5 ttl=49 time=135 ms
+[1607862718.344560] 40 bytes from 148.62.1.183 (148.62.1.183): icmp_seq=6 ttl=49 time=135 ms
+[1607862729.350002] 40 bytes from 148.62.1.183: icmp_seq=7 ttl=49 time=135 ms
+[1607862729.487027] 40 bytes from 148.62.1.183 (148.62.1.183): icmp_seq=8 ttl=49 time=135 ms
+[1607862735.494348] 40 bytes from 148.62.1.183 (148.62.1.183): icmp_seq=9 ttl=49 time=135 ms
+[1607862735.631280] 40 bytes from 148.62.1.183 (148.62.1.183): icmp_seq=10 ttl=49 time=135 ms
+[1607862746.638002] 40 bytes from 148.62.1.183: icmp_seq=11 ttl=49 time=135 ms
+[1607862746.775219] 40 bytes from 148.62.1.183 (148.62.1.183): icmp_seq=12 ttl=49 time=135 ms
+[1607862747.775056] 40 bytes from 148.62.1.183 (148.62.1.183): icmp_seq=13 ttl=49 time=135 ms
+[1607862748.773772] 40 bytes from 148.62.1.183 (148.62.1.183): icmp_seq=14 ttl=49 time=134 ms
+[1607862749.773615] 40 bytes from 148.62.1.183 (148.62.1.183): icmp_seq=15 ttl=49 time=135 ms
+[1607862750.774284] 40 bytes from 148.62.1.183 (148.62.1.183): icmp_seq=16 ttl=49 time=135 ms
+[1607862751.773817] 40 bytes from 148.62.1.183 (148.62.1.183): icmp_seq=17 ttl=49 time=135 ms
+[1607862752.775663] 40 bytes from 148.62.1.183 (148.62.1.183): icmp_seq=18 ttl=49 time=135 ms
+[1607862753.777098] 40 bytes from 148.62.1.183 (148.62.1.183): icmp_seq=19 ttl=49 time=135 ms
+[1607862759.779284] 40 bytes from 148.62.1.183 (148.62.1.183): icmp_seq=20 ttl=49 time=135 ms
+[1607862759.915903] 40 bytes from 148.62.1.183 (148.62.1.183): icmp_seq=21 ttl=49 time=135 ms
+[1607862760.915200] 40 bytes from 148.62.1.183 (148.62.1.183): icmp_seq=22 ttl=49 time=134 ms
+[1607862771.922025] 40 bytes from 148.62.1.183: icmp_seq=23 ttl=49 time=135 ms
+[1607862772.058781] 40 bytes from 148.62.1.183 (148.62.1.183): icmp_seq=24 ttl=49 time=134 ms
+[1607862773.059595] 40 bytes from 148.62.1.183 (148.62.1.183): icmp_seq=25 ttl=49 time=135 ms
+[1607862774.059033] 40 bytes from 148.62.1.183 (148.62.1.183): icmp_seq=26 ttl=49 time=135 ms
+[1607862775.058440] 40 bytes from 148.62.1.183 (148.62.1.183): icmp_seq=27 ttl=49 time=135 ms
+[1607862786.066041] 40 bytes from 148.62.1.183: icmp_seq=28 ttl=49 time=135 ms
+[1607862786.203508] 40 bytes from 148.62.1.183 (148.62.1.183): icmp_seq=29 ttl=49 time=135 ms
+[1607862787.205109] 40 bytes from 148.62.1.183 (148.62.1.183): icmp_seq=30 ttl=49 time=135 ms
+[1607862788.204698] 40 bytes from 148.62.1.183 (148.62.1.183): icmp_seq=31 ttl=49 time=135 ms
+[1607862789.206930] 40 bytes from 148.62.1.183 (148.62.1.183): icmp_seq=32 ttl=49 time=135 ms
+[1607862790.206344] 40 bytes from 148.62.1.183 (148.62.1.183): icmp_seq=33 ttl=49 time=135 ms
+[1607862796.211669] 40 bytes from 148.62.1.183 (148.62.1.183): icmp_seq=34 ttl=49 time=134 ms
+[1607862796.348249] 40 bytes from 148.62.1.183 (148.62.1.183): icmp_seq=35 ttl=49 time=134 ms
+[1607862807.354044] 40 bytes from 148.62.1.183: icmp_seq=36 ttl=49 time=135 ms
+[1607862817.498054] 40 bytes from 148.62.1.183: icmp_seq=37 ttl=49 time=135 ms
+[1607862827.642016] 40 bytes from 148.62.1.183: icmp_seq=38 ttl=49 time=135 ms
+[1607862832.783236] 40 bytes from 148.62.1.183 (148.62.1.183): icmp_seq=39 ttl=49 time=135 ms
+[1607862832.919619] 40 bytes from 148.62.1.183 (148.62.1.183): icmp_seq=40 ttl=49 time=135 ms
+[1607862843.926023] 40 bytes from 148.62.1.183: icmp_seq=41 ttl=49 time=135 ms
+[1607862844.063307] 40 bytes from 148.62.1.183 (148.62.1.183): icmp_seq=42 ttl=49 time=135 ms
+[1607862845.063161] 40 bytes from 148.62.1.183 (148.62.1.183): icmp_seq=43 ttl=49 time=135 ms
+[1607862846.063240] 40 bytes from 148.62.1.183 (148.62.1.183): icmp_seq=44 ttl=49 time=135 ms
+[1607862847.062262] 40 bytes from 148.62.1.183 (148.62.1.183): icmp_seq=45 ttl=49 time=135 ms
+[1607862848.061925] 40 bytes from 148.62.1.183 (148.62.1.183): icmp_seq=46 ttl=49 time=135 ms
+[1607862854.064181] 40 bytes from 148.62.1.183 (148.62.1.183): icmp_seq=47 ttl=49 time=134 ms
+[1607862859.204334] 40 bytes from 148.62.1.183 (148.62.1.183): icmp_seq=48 ttl=49 time=135 ms
+[1607862864.344279] 40 bytes from 148.62.1.183 (148.62.1.183): icmp_seq=49 ttl=49 time=135 ms
+[1607862864.480139] 40 bytes from 148.62.1.183 (148.62.1.183): icmp_seq=50 ttl=49 time=134 ms
+
+--- jtsa.edu ping statistics ---
+50 packets transmitted, 50 received, 0% packet loss, time 169425ms
+rtt min/avg/max/mdev = 134.082/134.894/135.312/0.301 ms

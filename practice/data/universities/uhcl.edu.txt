@@ -1,0 +1,55 @@
+PING uhcl.edu (129.7.80.131) 32(60) bytes of data.
+[1607862734.938259] 40 bytes from 129.7.80.131: icmp_seq=1 ttl=44 time=147 ms
+[1607862735.086377] 40 bytes from uhcl.edu (129.7.80.131): icmp_seq=2 ttl=44 time=147 ms
+[1607862736.086722] 40 bytes from www.uhcl.edu (129.7.80.131): icmp_seq=3 ttl=44 time=147 ms
+[1607862737.087316] 40 bytes from cee.uhcl.edu (129.7.80.131): icmp_seq=4 ttl=44 time=146 ms
+[1607862738.087242] 40 bytes from cep.uhcl.edu (129.7.80.131): icmp_seq=5 ttl=44 time=147 ms
+[1607862739.085523] 40 bytes from cee.uhcl.edu (129.7.80.131): icmp_seq=6 ttl=44 time=146 ms
+[1607862740.087031] 40 bytes from cep.uhcl.edu (129.7.80.131): icmp_seq=7 ttl=44 time=147 ms
+[1607862741.085797] 40 bytes from courseeval.uhcl.edu (129.7.80.131): icmp_seq=8 ttl=44 time=147 ms
+[1607862752.090047] 40 bytes from 129.7.80.131: icmp_seq=9 ttl=44 time=146 ms
+[1607862757.243720] 40 bytes from prtl.uhcl.edu (129.7.80.131): icmp_seq=10 ttl=44 time=147 ms
+[1607862767.398021] 40 bytes from 129.7.80.131: icmp_seq=11 ttl=44 time=146 ms
+[1607862767.547053] 40 bytes from www.uhcl.edu (129.7.80.131): icmp_seq=12 ttl=44 time=146 ms
+[1607862768.545796] 40 bytes from courseeval.uhcl.edu (129.7.80.131): icmp_seq=13 ttl=44 time=147 ms
+[1607862769.546213] 40 bytes from prtl.uhcl.edu (129.7.80.131): icmp_seq=14 ttl=44 time=147 ms
+[1607862770.546610] 40 bytes from pdmail.uhcl.edu (129.7.80.131): icmp_seq=15 ttl=44 time=147 ms
+[1607862771.546730] 40 bytes from uhcl.edu (129.7.80.131): icmp_seq=16 ttl=44 time=147 ms
+[1607862782.554073] 40 bytes from 129.7.80.131: icmp_seq=17 ttl=44 time=146 ms
+[1607862782.703173] 40 bytes from uhcl.edu (129.7.80.131): icmp_seq=18 ttl=44 time=147 ms
+[1607862783.703008] 40 bytes from cee.uhcl.edu (129.7.80.131): icmp_seq=19 ttl=44 time=147 ms
+[1607862784.704103] 40 bytes from courseeval.uhcl.edu (129.7.80.131): icmp_seq=20 ttl=44 time=146 ms
+[1607862785.705777] 40 bytes from www.uhcl.edu (129.7.80.131): icmp_seq=21 ttl=44 time=147 ms
+[1607862796.713996] 40 bytes from 129.7.80.131: icmp_seq=22 ttl=44 time=147 ms
+[1607862801.863794] 40 bytes from pdmail.uhcl.edu (129.7.80.131): icmp_seq=23 ttl=44 time=147 ms
+[1607862812.018579] 40 bytes from 129.7.80.131: icmp_seq=24 ttl=44 time=146 ms
+[1607862817.172569] 40 bytes from pdmail.uhcl.edu (129.7.80.131): icmp_seq=25 ttl=44 time=147 ms
+[1607862822.324150] 40 bytes from prtl.uhcl.edu (129.7.80.131): icmp_seq=26 ttl=44 time=147 ms
+[1607862822.472436] 40 bytes from cep.uhcl.edu (129.7.80.131): icmp_seq=27 ttl=44 time=146 ms
+[1607862828.475849] 40 bytes from uhcl.edu (129.7.80.131): icmp_seq=28 ttl=44 time=147 ms
+[1607862838.630046] 40 bytes from 129.7.80.131: icmp_seq=29 ttl=44 time=147 ms
+[1607862848.786999] 40 bytes from 129.7.80.131: icmp_seq=30 ttl=44 time=147 ms
+[1607862858.942058] 40 bytes from 129.7.80.131: icmp_seq=31 ttl=44 time=147 ms
+[1607862859.090896] 40 bytes from prtl.uhcl.edu (129.7.80.131): icmp_seq=32 ttl=44 time=147 ms
+[1607862865.096141] 40 bytes from kidsu.uhcl.edu (129.7.80.131): icmp_seq=33 ttl=44 time=147 ms
+[1607862865.245146] 40 bytes from cep.uhcl.edu (129.7.80.131): icmp_seq=34 ttl=44 time=147 ms
+[1607862866.246331] 40 bytes from courseeval.uhcl.edu (129.7.80.131): icmp_seq=35 ttl=44 time=147 ms
+[1607862867.247787] 40 bytes from pdmail.uhcl.edu (129.7.80.131): icmp_seq=36 ttl=44 time=147 ms
+[1607862868.248777] 40 bytes from cee.uhcl.edu (129.7.80.131): icmp_seq=37 ttl=44 time=146 ms
+[1607862869.251010] 40 bytes from prtl.uhcl.edu (129.7.80.131): icmp_seq=38 ttl=44 time=147 ms
+[1607862870.251512] 40 bytes from uhcl.edu (129.7.80.131): icmp_seq=39 ttl=44 time=147 ms
+[1607862871.251959] 40 bytes from www.uhcl.edu (129.7.80.131): icmp_seq=40 ttl=44 time=147 ms
+[1607862872.253474] 40 bytes from kidsu.uhcl.edu (129.7.80.131): icmp_seq=41 ttl=44 time=147 ms
+[1607862873.255184] 40 bytes from cee.uhcl.edu (129.7.80.131): icmp_seq=42 ttl=44 time=147 ms
+[1607862874.255638] 40 bytes from cep.uhcl.edu (129.7.80.131): icmp_seq=43 ttl=44 time=147 ms
+[1607862875.256284] 40 bytes from prtl.uhcl.edu (129.7.80.131): icmp_seq=44 ttl=44 time=147 ms
+[1607862876.257221] 40 bytes from pdmail.uhcl.edu (129.7.80.131): icmp_seq=45 ttl=44 time=146 ms
+[1607862877.258211] 40 bytes from prtl.uhcl.edu (129.7.80.131): icmp_seq=46 ttl=44 time=146 ms
+[1607862878.258483] 40 bytes from www.uhcl.edu (129.7.80.131): icmp_seq=47 ttl=44 time=146 ms
+[1607862879.260376] 40 bytes from cee.uhcl.edu (129.7.80.131): icmp_seq=48 ttl=44 time=147 ms
+[1607862880.261035] 40 bytes from kidsu.uhcl.edu (129.7.80.131): icmp_seq=49 ttl=44 time=147 ms
+[1607862881.262227] 40 bytes from pdmail.uhcl.edu (129.7.80.131): icmp_seq=50 ttl=44 time=147 ms
+
+--- uhcl.edu ping statistics ---
+50 packets transmitted, 50 received, 0% packet loss, time 156331ms
+rtt min/avg/max/mdev = 146.079/146.668/147.161/0.280 ms

@@ -1,0 +1,54 @@
+PING iun.edu (129.79.123.148) 32(60) bytes of data.
+[1607862685.546795] 40 bytes from pubweb-01-bl-prod.webtech.uits.iu.edu (129.79.123.148): icmp_seq=1 ttl=45 time=121 ms
+[1607862686.547931] 40 bytes from pubweb-01-bl-prod.webtech.uits.iu.edu (129.79.123.148): icmp_seq=2 ttl=45 time=121 ms
+[1607862697.554495] 40 bytes from 129.79.123.148: icmp_seq=3 ttl=45 time=121 ms
+[1607862708.686050] 40 bytes from 129.79.123.148: icmp_seq=5 ttl=45 time=121 ms
+[1607862718.814342] 40 bytes from 129.79.123.148: icmp_seq=6 ttl=45 time=120 ms
+[1607862718.937300] 40 bytes from pubweb-01-bl-prod.webtech.uits.iu.edu (129.79.123.148): icmp_seq=7 ttl=45 time=121 ms
+[1607862729.942018] 40 bytes from 129.79.123.148: icmp_seq=8 ttl=45 time=121 ms
+[1607862730.065439] 40 bytes from pubweb-01-bl-prod.webtech.uits.iu.edu (129.79.123.148): icmp_seq=9 ttl=45 time=121 ms
+[1607862731.065462] 40 bytes from pubweb-01-bl-prod.webtech.uits.iu.edu (129.79.123.148): icmp_seq=10 ttl=45 time=121 ms
+[1607862732.064787] 40 bytes from pubweb-01-bl-prod.webtech.uits.iu.edu (129.79.123.148): icmp_seq=11 ttl=45 time=121 ms
+[1607862733.063697] 40 bytes from pubweb-01-bl-prod.webtech.uits.iu.edu (129.79.123.148): icmp_seq=12 ttl=45 time=120 ms
+[1607862734.064265] 40 bytes from pubweb-01-bl-prod.webtech.uits.iu.edu (129.79.123.148): icmp_seq=13 ttl=45 time=121 ms
+[1607862745.070036] 40 bytes from 129.79.123.148: icmp_seq=14 ttl=45 time=121 ms
+[1607862745.193103] 40 bytes from pubweb-01-bl-prod.webtech.uits.iu.edu (129.79.123.148): icmp_seq=15 ttl=45 time=121 ms
+[1607862751.196727] 40 bytes from pubweb-01-bl-prod.webtech.uits.iu.edu (129.79.123.148): icmp_seq=16 ttl=45 time=120 ms
+[1607862751.319466] 40 bytes from pubweb-01-bl-prod.webtech.uits.iu.edu (129.79.123.148): icmp_seq=17 ttl=45 time=121 ms
+[1607862762.326024] 40 bytes from 129.79.123.148: icmp_seq=18 ttl=45 time=121 ms
+[1607862772.454005] 40 bytes from 129.79.123.148: icmp_seq=19 ttl=45 time=121 ms
+[1607862772.577013] 40 bytes from pubweb-01-bl-prod.webtech.uits.iu.edu (129.79.123.148): icmp_seq=20 ttl=45 time=121 ms
+[1607862773.577326] 40 bytes from pubweb-01-bl-prod.webtech.uits.iu.edu (129.79.123.148): icmp_seq=21 ttl=45 time=121 ms
+[1607862774.576833] 40 bytes from pubweb-01-bl-prod.webtech.uits.iu.edu (129.79.123.148): icmp_seq=22 ttl=45 time=121 ms
+[1607862775.576611] 40 bytes from pubweb-01-bl-prod.webtech.uits.iu.edu (129.79.123.148): icmp_seq=23 ttl=45 time=121 ms
+[1607862776.576485] 40 bytes from pubweb-01-bl-prod.webtech.uits.iu.edu (129.79.123.148): icmp_seq=24 ttl=45 time=121 ms
+[1607862777.575666] 40 bytes from pubweb-01-bl-prod.webtech.uits.iu.edu (129.79.123.148): icmp_seq=25 ttl=45 time=121 ms
+[1607862778.575985] 40 bytes from pubweb-01-bl-prod.webtech.uits.iu.edu (129.79.123.148): icmp_seq=26 ttl=45 time=121 ms
+[1607862779.574897] 40 bytes from pubweb-01-bl-prod.webtech.uits.iu.edu (129.79.123.148): icmp_seq=27 ttl=45 time=121 ms
+[1607862780.574354] 40 bytes from pubweb-01-bl-prod.webtech.uits.iu.edu (129.79.123.148): icmp_seq=28 ttl=45 time=120 ms
+[1607862781.574349] 40 bytes from pubweb-01-bl-prod.webtech.uits.iu.edu (129.79.123.148): icmp_seq=29 ttl=45 time=121 ms
+[1607862782.573631] 40 bytes from pubweb-01-bl-prod.webtech.uits.iu.edu (129.79.123.148): icmp_seq=30 ttl=45 time=121 ms
+[1607862783.574726] 40 bytes from pubweb-01-bl-prod.webtech.uits.iu.edu (129.79.123.148): icmp_seq=31 ttl=45 time=121 ms
+[1607862784.575956] 40 bytes from pubweb-01-bl-prod.webtech.uits.iu.edu (129.79.123.148): icmp_seq=32 ttl=45 time=121 ms
+[1607862785.577130] 40 bytes from pubweb-01-bl-prod.webtech.uits.iu.edu (129.79.123.148): icmp_seq=33 ttl=45 time=121 ms
+[1607862786.575969] 40 bytes from pubweb-01-bl-prod.webtech.uits.iu.edu (129.79.123.148): icmp_seq=34 ttl=45 time=121 ms
+[1607862797.581999] 40 bytes from 129.79.123.148: icmp_seq=35 ttl=45 time=121 ms
+[1607862802.707990] 40 bytes from pubweb-01-bl-prod.webtech.uits.iu.edu (129.79.123.148): icmp_seq=36 ttl=45 time=121 ms
+[1607862812.838048] 40 bytes from 129.79.123.148: icmp_seq=37 ttl=45 time=121 ms
+[1607862817.963916] 40 bytes from pubweb-01-bl-prod.webtech.uits.iu.edu (129.79.123.148): icmp_seq=38 ttl=45 time=121 ms
+[1607862818.086870] 40 bytes from pubweb-01-bl-prod.webtech.uits.iu.edu (129.79.123.148): icmp_seq=39 ttl=45 time=121 ms
+[1607862819.087174] 40 bytes from pubweb-01-bl-prod.webtech.uits.iu.edu (129.79.123.148): icmp_seq=40 ttl=45 time=121 ms
+[1607862820.087556] 40 bytes from pubweb-01-bl-prod.webtech.uits.iu.edu (129.79.123.148): icmp_seq=41 ttl=45 time=121 ms
+[1607862821.087112] 40 bytes from pubweb-01-bl-prod.webtech.uits.iu.edu (129.79.123.148): icmp_seq=42 ttl=45 time=121 ms
+[1607862822.086824] 40 bytes from pubweb-01-bl-prod.webtech.uits.iu.edu (129.79.123.148): icmp_seq=43 ttl=45 time=121 ms
+[1607862833.090034] 40 bytes from 129.79.123.148: icmp_seq=44 ttl=45 time=121 ms
+[1607862843.218036] 40 bytes from 129.79.123.148: icmp_seq=45 ttl=45 time=121 ms
+[1607862843.340683] 40 bytes from pubweb-01-bl-prod.webtech.uits.iu.edu (129.79.123.148): icmp_seq=46 ttl=45 time=121 ms
+[1607862854.346087] 40 bytes from 129.79.123.148: icmp_seq=47 ttl=45 time=121 ms
+[1607862864.474036] 40 bytes from 129.79.123.148: icmp_seq=48 ttl=45 time=121 ms
+[1607862869.600057] 40 bytes from pubweb-01-bl-prod.webtech.uits.iu.edu (129.79.123.148): icmp_seq=49 ttl=45 time=121 ms
+[1607862869.723087] 40 bytes from pubweb-01-bl-prod.webtech.uits.iu.edu (129.79.123.148): icmp_seq=50 ttl=45 time=121 ms
+
+--- iun.edu ping statistics ---
+50 packets transmitted, 49 received, 2% packet loss, time 184176ms
+rtt min/avg/max/mdev = 120.083/120.866/121.426/0.253 ms

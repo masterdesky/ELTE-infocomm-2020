@@ -1,0 +1,5 @@
+PING nfcc.edu (34.226.231.199) 32(60) bytes of data.
+
+--- nfcc.edu ping statistics ---
+50 packets transmitted, 0 received, 100% packet loss, time 49372ms
+

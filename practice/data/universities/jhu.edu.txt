@@ -1,0 +1,54 @@
+PING jhu.edu (128.220.192.230) 32(60) bytes of data.
+[1607862689.126043] 40 bytes from 128.220.192.230: icmp_seq=1 ttl=237 time=105 ms
+[1607862699.242142] 40 bytes from 128.220.192.230: icmp_seq=2 ttl=237 time=105 ms
+[1607862699.349241] 40 bytes from collaborate.johnshopkins.edu (128.220.192.230): icmp_seq=3 ttl=237 time=105 ms
+[1607862705.352038] 40 bytes from collaborate.johnshopkins.edu (128.220.192.230): icmp_seq=4 ttl=237 time=105 ms
+[1607862710.464243] 40 bytes from collaborate.johnshopkins.edu (128.220.192.230): icmp_seq=5 ttl=237 time=105 ms
+[1607862710.571604] 40 bytes from collaborate.johnshopkins.edu (128.220.192.230): icmp_seq=6 ttl=237 time=105 ms
+[1607862721.578542] 40 bytes from 128.220.192.230: icmp_seq=7 ttl=237 time=105 ms
+[1607862721.688848] 40 bytes from collaborate.johnshopkins.edu (128.220.192.230): icmp_seq=8 ttl=237 time=106 ms
+[1607862722.686750] 40 bytes from collaborate.johnshopkins.edu (128.220.192.230): icmp_seq=9 ttl=237 time=105 ms
+[1607862723.686829] 40 bytes from collaborate.johnshopkins.edu (128.220.192.230): icmp_seq=10 ttl=237 time=105 ms
+[1607862724.685467] 40 bytes from collaborate.johnshopkins.edu (128.220.192.230): icmp_seq=11 ttl=237 time=104 ms
+[1607862725.686072] 40 bytes from collaborate.johnshopkins.edu (128.220.192.230): icmp_seq=12 ttl=237 time=105 ms
+[1607862726.686810] 40 bytes from collaborate.johnshopkins.edu (128.220.192.230): icmp_seq=13 ttl=237 time=105 ms
+[1607862727.688450] 40 bytes from collaborate.johnshopkins.edu (128.220.192.230): icmp_seq=14 ttl=237 time=105 ms
+[1607862728.687108] 40 bytes from collaborate.johnshopkins.edu (128.220.192.230): icmp_seq=15 ttl=237 time=105 ms
+[1607862735.687849] 40 bytes from collaborate.johnshopkins.edu (128.220.192.230): icmp_seq=17 ttl=237 time=104 ms
+[1607862735.795932] 40 bytes from collaborate.johnshopkins.edu (128.220.192.230): icmp_seq=18 ttl=237 time=105 ms
+[1607862736.794651] 40 bytes from collaborate.johnshopkins.edu (128.220.192.230): icmp_seq=19 ttl=237 time=104 ms
+[1607862737.794690] 40 bytes from collaborate.johnshopkins.edu (128.220.192.230): icmp_seq=20 ttl=237 time=105 ms
+[1607862738.794958] 40 bytes from collaborate.johnshopkins.edu (128.220.192.230): icmp_seq=21 ttl=237 time=105 ms
+[1607862739.794429] 40 bytes from collaborate.johnshopkins.edu (128.220.192.230): icmp_seq=22 ttl=237 time=105 ms
+[1607862750.802098] 40 bytes from 128.220.192.230: icmp_seq=23 ttl=237 time=105 ms
+[1607862760.914057] 40 bytes from 128.220.192.230: icmp_seq=24 ttl=237 time=105 ms
+[1607862766.024006] 40 bytes from collaborate.johnshopkins.edu (128.220.192.230): icmp_seq=25 ttl=237 time=105 ms
+[1607862776.138040] 40 bytes from 128.220.192.230: icmp_seq=26 ttl=237 time=105 ms
+[1607862776.245521] 40 bytes from collaborate.johnshopkins.edu (128.220.192.230): icmp_seq=27 ttl=237 time=105 ms
+[1607862777.244985] 40 bytes from collaborate.johnshopkins.edu (128.220.192.230): icmp_seq=28 ttl=237 time=105 ms
+[1607862778.246170] 40 bytes from collaborate.johnshopkins.edu (128.220.192.230): icmp_seq=29 ttl=237 time=105 ms
+[1607862779.247236] 40 bytes from collaborate.johnshopkins.edu (128.220.192.230): icmp_seq=30 ttl=237 time=105 ms
+[1607862780.247682] 40 bytes from collaborate.johnshopkins.edu (128.220.192.230): icmp_seq=31 ttl=237 time=105 ms
+[1607862781.249225] 40 bytes from collaborate.johnshopkins.edu (128.220.192.230): icmp_seq=32 ttl=237 time=105 ms
+[1607862782.248901] 40 bytes from collaborate.johnshopkins.edu (128.220.192.230): icmp_seq=33 ttl=237 time=105 ms
+[1607862783.249140] 40 bytes from collaborate.johnshopkins.edu (128.220.192.230): icmp_seq=34 ttl=237 time=105 ms
+[1607862784.250197] 40 bytes from collaborate.johnshopkins.edu (128.220.192.230): icmp_seq=35 ttl=237 time=105 ms
+[1607862785.250690] 40 bytes from collaborate.johnshopkins.edu (128.220.192.230): icmp_seq=36 ttl=237 time=105 ms
+[1607862791.255873] 40 bytes from collaborate.johnshopkins.edu (128.220.192.230): icmp_seq=37 ttl=237 time=105 ms
+[1607862796.367850] 40 bytes from collaborate.johnshopkins.edu (128.220.192.230): icmp_seq=38 ttl=237 time=105 ms
+[1607862801.480099] 40 bytes from collaborate.johnshopkins.edu (128.220.192.230): icmp_seq=39 ttl=237 time=105 ms
+[1607862806.592056] 40 bytes from collaborate.johnshopkins.edu (128.220.192.230): icmp_seq=40 ttl=237 time=105 ms
+[1607862806.698226] 40 bytes from collaborate.johnshopkins.edu (128.220.192.230): icmp_seq=41 ttl=237 time=104 ms
+[1607862812.703940] 40 bytes from collaborate.johnshopkins.edu (128.220.192.230): icmp_seq=42 ttl=237 time=105 ms
+[1607862812.811291] 40 bytes from collaborate.johnshopkins.edu (128.220.192.230): icmp_seq=43 ttl=237 time=105 ms
+[1607862813.812761] 40 bytes from collaborate.johnshopkins.edu (128.220.192.230): icmp_seq=44 ttl=237 time=106 ms
+[1607862814.813359] 40 bytes from collaborate.johnshopkins.edu (128.220.192.230): icmp_seq=45 ttl=237 time=105 ms
+[1607862815.823527] 40 bytes from collaborate.johnshopkins.edu (128.220.192.230): icmp_seq=46 ttl=237 time=106 ms
+[1607862816.815507] 40 bytes from collaborate.johnshopkins.edu (128.220.192.230): icmp_seq=47 ttl=237 time=105 ms
+[1607862817.814340] 40 bytes from collaborate.johnshopkins.edu (128.220.192.230): icmp_seq=48 ttl=237 time=105 ms
+[1607862818.813993] 40 bytes from collaborate.johnshopkins.edu (128.220.192.230): icmp_seq=49 ttl=237 time=105 ms
+[1607862819.813726] 40 bytes from collaborate.johnshopkins.edu (128.220.192.230): icmp_seq=50 ttl=237 time=105 ms
+
+--- jhu.edu ping statistics ---
+50 packets transmitted, 49 received, 2% packet loss, time 140696ms
+rtt min/avg/max/mdev = 104.327/105.074/105.887/0.336 ms

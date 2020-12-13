@@ -1,0 +1,55 @@
+PING cwu.edu (72.233.192.40) 32(60) bytes of data.
+[1607862719.300773] 40 bytes from www.cwu.edu (72.233.192.40): icmp_seq=1 ttl=234 time=174 ms
+[1607862719.876524] 40 bytes from www.cwu.edu (72.233.192.40): icmp_seq=2 ttl=234 time=173 ms
+[1607862720.876377] 40 bytes from www.cwu.edu (72.233.192.40): icmp_seq=3 ttl=234 time=173 ms
+[1607862721.877438] 40 bytes from www.cwu.edu (72.233.192.40): icmp_seq=4 ttl=234 time=173 ms
+[1607862722.877986] 40 bytes from www.cwu.edu (72.233.192.40): icmp_seq=5 ttl=234 time=173 ms
+[1607862723.876290] 40 bytes from www.cwu.edu (72.233.192.40): icmp_seq=6 ttl=234 time=173 ms
+[1607862734.882033] 40 bytes from 72.233.192.40: icmp_seq=7 ttl=234 time=173 ms
+[1607862735.057533] 40 bytes from www.cwu.edu (72.233.192.40): icmp_seq=8 ttl=234 time=173 ms
+[1607862736.057102] 40 bytes from www.cwu.edu (72.233.192.40): icmp_seq=9 ttl=234 time=172 ms
+[1607862737.058235] 40 bytes from www.cwu.edu (72.233.192.40): icmp_seq=10 ttl=234 time=173 ms
+[1607862738.057564] 40 bytes from www.cwu.edu (72.233.192.40): icmp_seq=11 ttl=234 time=173 ms
+[1607862739.057148] 40 bytes from www.cwu.edu (72.233.192.40): icmp_seq=12 ttl=234 time=173 ms
+[1607862750.062211] 40 bytes from 72.233.192.40: icmp_seq=13 ttl=234 time=173 ms
+[1607862760.242194] 40 bytes from 72.233.192.40: icmp_seq=14 ttl=234 time=174 ms
+[1607862760.417336] 40 bytes from www.cwu.edu (72.233.192.40): icmp_seq=15 ttl=234 time=174 ms
+[1607862761.418297] 40 bytes from www.cwu.edu (72.233.192.40): icmp_seq=16 ttl=234 time=173 ms
+[1607862762.418937] 40 bytes from www.cwu.edu (72.233.192.40): icmp_seq=17 ttl=234 time=173 ms
+[1607862763.417860] 40 bytes from www.cwu.edu (72.233.192.40): icmp_seq=18 ttl=234 time=173 ms
+[1607862764.419054] 40 bytes from www.cwu.edu (72.233.192.40): icmp_seq=19 ttl=234 time=173 ms
+[1607862770.424263] 40 bytes from www.cwu.edu (72.233.192.40): icmp_seq=20 ttl=234 time=173 ms
+[1607862780.606450] 40 bytes from 72.233.192.40: icmp_seq=21 ttl=234 time=173 ms
+[1607862785.783949] 40 bytes from www.cwu.edu (72.233.192.40): icmp_seq=22 ttl=234 time=174 ms
+[1607862785.958355] 40 bytes from www.cwu.edu (72.233.192.40): icmp_seq=23 ttl=234 time=173 ms
+[1607862791.963934] 40 bytes from www.cwu.edu (72.233.192.40): icmp_seq=24 ttl=234 time=173 ms
+[1607862797.143841] 40 bytes from www.cwu.edu (72.233.192.40): icmp_seq=25 ttl=234 time=173 ms
+[1607862797.319514] 40 bytes from www.cwu.edu (72.233.192.40): icmp_seq=26 ttl=234 time=174 ms
+[1607862798.319620] 40 bytes from www.cwu.edu (72.233.192.40): icmp_seq=27 ttl=234 time=173 ms
+[1607862799.320665] 40 bytes from www.cwu.edu (72.233.192.40): icmp_seq=28 ttl=234 time=173 ms
+[1607862800.321095] 40 bytes from www.cwu.edu (72.233.192.40): icmp_seq=29 ttl=234 time=173 ms
+[1607862801.323031] 40 bytes from www.cwu.edu (72.233.192.40): icmp_seq=30 ttl=234 time=174 ms
+[1607862812.330050] 40 bytes from 72.233.192.40: icmp_seq=31 ttl=234 time=173 ms
+[1607862822.510108] 40 bytes from 72.233.192.40: icmp_seq=32 ttl=234 time=173 ms
+[1607862827.687703] 40 bytes from www.cwu.edu (72.233.192.40): icmp_seq=33 ttl=234 time=174 ms
+[1607862832.863701] 40 bytes from www.cwu.edu (72.233.192.40): icmp_seq=34 ttl=234 time=173 ms
+[1607862838.043842] 40 bytes from www.cwu.edu (72.233.192.40): icmp_seq=35 ttl=234 time=173 ms
+[1607862843.222163] 40 bytes from www.cwu.edu (72.233.192.40): icmp_seq=36 ttl=234 time=173 ms
+[1607862848.400088] 40 bytes from www.cwu.edu (72.233.192.40): icmp_seq=37 ttl=234 time=174 ms
+[1607862848.575258] 40 bytes from www.cwu.edu (72.233.192.40): icmp_seq=38 ttl=234 time=173 ms
+[1607862849.574957] 40 bytes from www.cwu.edu (72.233.192.40): icmp_seq=39 ttl=234 time=173 ms
+[1607862850.574743] 40 bytes from www.cwu.edu (72.233.192.40): icmp_seq=40 ttl=234 time=173 ms
+[1607862851.577085] 40 bytes from www.cwu.edu (72.233.192.40): icmp_seq=41 ttl=234 time=173 ms
+[1607862852.577488] 40 bytes from www.cwu.edu (72.233.192.40): icmp_seq=42 ttl=234 time=173 ms
+[1607862853.577907] 40 bytes from www.cwu.edu (72.233.192.40): icmp_seq=43 ttl=234 time=173 ms
+[1607862859.584181] 40 bytes from www.cwu.edu (72.233.192.40): icmp_seq=44 ttl=234 time=173 ms
+[1607862864.763975] 40 bytes from www.cwu.edu (72.233.192.40): icmp_seq=45 ttl=234 time=174 ms
+[1607862869.944125] 40 bytes from www.cwu.edu (72.233.192.40): icmp_seq=46 ttl=234 time=173 ms
+[1607862875.123789] 40 bytes from www.cwu.edu (72.233.192.40): icmp_seq=47 ttl=234 time=173 ms
+[1607862875.299543] 40 bytes from www.cwu.edu (72.233.192.40): icmp_seq=48 ttl=234 time=174 ms
+[1607862876.300748] 40 bytes from www.cwu.edu (72.233.192.40): icmp_seq=49 ttl=234 time=173 ms
+[1607862877.300993] 40 bytes from www.cwu.edu (72.233.192.40): icmp_seq=50 ttl=234 time=173 ms
+
+--- cwu.edu ping statistics ---
+50 packets transmitted, 50 received, 0% packet loss, time 158425ms
+rtt min/avg/max/mdev = 172.450/173.241/173.863/0.311 ms

@@ -1,0 +1,55 @@
+PING roanoke.edu (216.176.183.92) 32(60) bytes of data.
+[1607862729.020480] 40 bytes from 92.216-176-183-rdns.ingeniuxondemand.com (216.176.183.92): icmp_seq=1 ttl=50 time=166 ms
+[1607862739.194129] 40 bytes from 216.176.183.92: icmp_seq=2 ttl=50 time=165 ms
+[1607862749.366035] 40 bytes from 216.176.183.92: icmp_seq=3 ttl=50 time=166 ms
+[1607862749.533871] 40 bytes from 92.216-176-183-rdns.ingeniuxondemand.com (216.176.183.92): icmp_seq=4 ttl=50 time=166 ms
+[1607862750.535581] 40 bytes from 92.216-176-183-rdns.ingeniuxondemand.com (216.176.183.92): icmp_seq=5 ttl=50 time=166 ms
+[1607862751.534815] 40 bytes from 92.216-176-183-rdns.ingeniuxondemand.com (216.176.183.92): icmp_seq=6 ttl=50 time=166 ms
+[1607862752.536065] 40 bytes from 92.216-176-183-rdns.ingeniuxondemand.com (216.176.183.92): icmp_seq=7 ttl=50 time=166 ms
+[1607862753.537427] 40 bytes from 92.216-176-183-rdns.ingeniuxondemand.com (216.176.183.92): icmp_seq=8 ttl=50 time=166 ms
+[1607862754.537816] 40 bytes from 92.216-176-183-rdns.ingeniuxondemand.com (216.176.183.92): icmp_seq=9 ttl=50 time=166 ms
+[1607862755.544756] 40 bytes from 92.216-176-183-rdns.ingeniuxondemand.com (216.176.183.92): icmp_seq=10 ttl=50 time=172 ms
+[1607862761.543998] 40 bytes from 92.216-176-183-rdns.ingeniuxondemand.com (216.176.183.92): icmp_seq=11 ttl=50 time=166 ms
+[1607862766.715745] 40 bytes from 92.216-176-183-rdns.ingeniuxondemand.com (216.176.183.92): icmp_seq=12 ttl=50 time=166 ms
+[1607862776.890505] 40 bytes from 216.176.183.92: icmp_seq=13 ttl=50 time=166 ms
+[1607862777.057842] 40 bytes from 92.216-176-183-rdns.ingeniuxondemand.com (216.176.183.92): icmp_seq=14 ttl=50 time=166 ms
+[1607862778.060429] 40 bytes from 92.216-176-183-rdns.ingeniuxondemand.com (216.176.183.92): icmp_seq=15 ttl=50 time=169 ms
+[1607862779.057446] 40 bytes from 92.216-176-183-rdns.ingeniuxondemand.com (216.176.183.92): icmp_seq=16 ttl=50 time=165 ms
+[1607862780.058003] 40 bytes from 92.216-176-183-rdns.ingeniuxondemand.com (216.176.183.92): icmp_seq=17 ttl=50 time=166 ms
+[1607862791.063964] 40 bytes from 216.176.183.92: icmp_seq=18 ttl=50 time=166 ms
+[1607862796.236511] 40 bytes from 92.216-176-183-rdns.ingeniuxondemand.com (216.176.183.92): icmp_seq=19 ttl=50 time=166 ms
+[1607862801.408513] 40 bytes from 92.216-176-183-rdns.ingeniuxondemand.com (216.176.183.92): icmp_seq=20 ttl=50 time=166 ms
+[1607862801.575961] 40 bytes from 92.216-176-183-rdns.ingeniuxondemand.com (216.176.183.92): icmp_seq=21 ttl=50 time=166 ms
+[1607862802.578112] 40 bytes from 92.216-176-183-rdns.ingeniuxondemand.com (216.176.183.92): icmp_seq=22 ttl=50 time=166 ms
+[1607862803.578479] 40 bytes from 92.216-176-183-rdns.ingeniuxondemand.com (216.176.183.92): icmp_seq=23 ttl=50 time=166 ms
+[1607862804.579644] 40 bytes from 92.216-176-183-rdns.ingeniuxondemand.com (216.176.183.92): icmp_seq=24 ttl=50 time=165 ms
+[1607862805.580602] 40 bytes from 92.216-176-183-rdns.ingeniuxondemand.com (216.176.183.92): icmp_seq=25 ttl=50 time=165 ms
+[1607862806.582121] 40 bytes from 92.216-176-183-rdns.ingeniuxondemand.com (216.176.183.92): icmp_seq=26 ttl=50 time=166 ms
+[1607862812.584088] 40 bytes from 92.216-176-183-rdns.ingeniuxondemand.com (216.176.183.92): icmp_seq=27 ttl=50 time=166 ms
+[1607862822.758010] 40 bytes from 216.176.183.92: icmp_seq=28 ttl=50 time=166 ms
+[1607862832.930027] 40 bytes from 216.176.183.92: icmp_seq=29 ttl=50 time=167 ms
+[1607862838.099620] 40 bytes from 92.216-176-183-rdns.ingeniuxondemand.com (216.176.183.92): icmp_seq=30 ttl=50 time=166 ms
+[1607862843.272149] 40 bytes from 92.216-176-183-rdns.ingeniuxondemand.com (216.176.183.92): icmp_seq=31 ttl=50 time=166 ms
+[1607862848.443996] 40 bytes from 92.216-176-183-rdns.ingeniuxondemand.com (216.176.183.92): icmp_seq=32 ttl=50 time=166 ms
+[1607862853.616107] 40 bytes from 92.216-176-183-rdns.ingeniuxondemand.com (216.176.183.92): icmp_seq=33 ttl=50 time=166 ms
+[1607862853.783682] 40 bytes from 92.216-176-183-rdns.ingeniuxondemand.com (216.176.183.92): icmp_seq=34 ttl=50 time=166 ms
+[1607862864.790065] 40 bytes from 216.176.183.92: icmp_seq=35 ttl=50 time=166 ms
+[1607862874.962015] 40 bytes from 216.176.183.92: icmp_seq=36 ttl=50 time=166 ms
+[1607862875.129593] 40 bytes from 92.216-176-183-rdns.ingeniuxondemand.com (216.176.183.92): icmp_seq=37 ttl=50 time=166 ms
+[1607862881.132025] 40 bytes from 92.216-176-183-rdns.ingeniuxondemand.com (216.176.183.92): icmp_seq=38 ttl=50 time=166 ms
+[1607862881.299863] 40 bytes from 92.216-176-183-rdns.ingeniuxondemand.com (216.176.183.92): icmp_seq=39 ttl=50 time=166 ms
+[1607862882.300227] 40 bytes from 92.216-176-183-rdns.ingeniuxondemand.com (216.176.183.92): icmp_seq=40 ttl=50 time=166 ms
+[1607862883.300953] 40 bytes from 92.216-176-183-rdns.ingeniuxondemand.com (216.176.183.92): icmp_seq=41 ttl=50 time=165 ms
+[1607862884.301491] 40 bytes from 92.216-176-183-rdns.ingeniuxondemand.com (216.176.183.92): icmp_seq=42 ttl=50 time=166 ms
+[1607862885.301868] 40 bytes from 92.216-176-183-rdns.ingeniuxondemand.com (216.176.183.92): icmp_seq=43 ttl=50 time=166 ms
+[1607862886.303001] 40 bytes from 92.216-176-183-rdns.ingeniuxondemand.com (216.176.183.92): icmp_seq=44 ttl=50 time=166 ms
+[1607862887.303144] 40 bytes from 92.216-176-183-rdns.ingeniuxondemand.com (216.176.183.92): icmp_seq=45 ttl=50 time=166 ms
+[1607862888.305349] 40 bytes from 92.216-176-183-rdns.ingeniuxondemand.com (216.176.183.92): icmp_seq=46 ttl=50 time=166 ms
+[1607862889.305826] 40 bytes from 92.216-176-183-rdns.ingeniuxondemand.com (216.176.183.92): icmp_seq=47 ttl=50 time=166 ms
+[1607862890.306857] 40 bytes from 92.216-176-183-rdns.ingeniuxondemand.com (216.176.183.92): icmp_seq=48 ttl=50 time=166 ms
+[1607862891.309023] 40 bytes from 92.216-176-183-rdns.ingeniuxondemand.com (216.176.183.92): icmp_seq=49 ttl=50 time=166 ms
+[1607862892.309295] 40 bytes from 92.216-176-183-rdns.ingeniuxondemand.com (216.176.183.92): icmp_seq=50 ttl=50 time=166 ms
+
+--- roanoke.edu ping statistics ---
+50 packets transmitted, 50 received, 0% packet loss, time 170078ms
+rtt min/avg/max/mdev = 164.915/166.006/172.343/1.030 ms

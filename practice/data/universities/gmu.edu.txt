@@ -1,0 +1,54 @@
+PING gmu.edu (129.174.134.28) 32(60) bytes of data.
+[1607862727.704490] 40 bytes from jiju3.gmu.edu (129.174.134.28): icmp_seq=1 ttl=235 time=110 ms
+[1607862727.815747] 40 bytes from jiju3.gmu.edu (129.174.134.28): icmp_seq=2 ttl=235 time=110 ms
+[1607862728.816049] 40 bytes from jiju3.gmu.edu (129.174.134.28): icmp_seq=3 ttl=235 time=110 ms
+[1607862730.814908] 40 bytes from jiju3.gmu.edu (129.174.134.28): icmp_seq=5 ttl=235 time=110 ms
+[1607862741.818072] 40 bytes from 129.174.134.28: icmp_seq=6 ttl=235 time=109 ms
+[1607862751.934006] 40 bytes from 129.174.134.28: icmp_seq=7 ttl=235 time=110 ms
+[1607862752.045049] 40 bytes from jiju3.gmu.edu (129.174.134.28): icmp_seq=8 ttl=235 time=109 ms
+[1607862753.044979] 40 bytes from jiju3.gmu.edu (129.174.134.28): icmp_seq=9 ttl=235 time=109 ms
+[1607862754.044726] 40 bytes from jiju3.gmu.edu (129.174.134.28): icmp_seq=10 ttl=235 time=110 ms
+[1607862765.050048] 40 bytes from 129.174.134.28: icmp_seq=11 ttl=235 time=109 ms
+[1607862770.164063] 40 bytes from jiju3.gmu.edu (129.174.134.28): icmp_seq=12 ttl=235 time=109 ms
+[1607862775.280814] 40 bytes from jiju3.gmu.edu (129.174.134.28): icmp_seq=13 ttl=235 time=110 ms
+[1607862775.391640] 40 bytes from jiju3.gmu.edu (129.174.134.28): icmp_seq=14 ttl=235 time=109 ms
+[1607862781.395775] 40 bytes from jiju3.gmu.edu (129.174.134.28): icmp_seq=15 ttl=235 time=110 ms
+[1607862791.514008] 40 bytes from 129.174.134.28: icmp_seq=16 ttl=235 time=109 ms
+[1607862791.625492] 40 bytes from jiju3.gmu.edu (129.174.134.28): icmp_seq=17 ttl=235 time=110 ms
+[1607862797.628054] 40 bytes from jiju3.gmu.edu (129.174.134.28): icmp_seq=18 ttl=235 time=110 ms
+[1607862802.743782] 40 bytes from jiju3.gmu.edu (129.174.134.28): icmp_seq=19 ttl=235 time=110 ms
+[1607862802.855018] 40 bytes from jiju3.gmu.edu (129.174.134.28): icmp_seq=20 ttl=235 time=109 ms
+[1607862803.855452] 40 bytes from jiju3.gmu.edu (129.174.134.28): icmp_seq=21 ttl=235 time=110 ms
+[1607862804.855335] 40 bytes from jiju3.gmu.edu (129.174.134.28): icmp_seq=22 ttl=235 time=110 ms
+[1607862805.854621] 40 bytes from jiju3.gmu.edu (129.174.134.28): icmp_seq=23 ttl=235 time=109 ms
+[1607862811.860211] 40 bytes from jiju3.gmu.edu (129.174.134.28): icmp_seq=24 ttl=235 time=110 ms
+[1607862811.971378] 40 bytes from jiju3.gmu.edu (129.174.134.28): icmp_seq=25 ttl=235 time=109 ms
+[1607862822.978328] 40 bytes from 129.174.134.28: icmp_seq=26 ttl=235 time=110 ms
+[1607862833.094094] 40 bytes from 129.174.134.28: icmp_seq=27 ttl=235 time=110 ms
+[1607862843.210065] 40 bytes from 129.174.134.28: icmp_seq=28 ttl=235 time=110 ms
+[1607862843.321095] 40 bytes from jiju3.gmu.edu (129.174.134.28): icmp_seq=29 ttl=235 time=110 ms
+[1607862849.323814] 40 bytes from jiju3.gmu.edu (129.174.134.28): icmp_seq=30 ttl=235 time=110 ms
+[1607862859.442083] 40 bytes from 129.174.134.28: icmp_seq=31 ttl=235 time=109 ms
+[1607862859.552967] 40 bytes from jiju3.gmu.edu (129.174.134.28): icmp_seq=32 ttl=235 time=109 ms
+[1607862860.555768] 40 bytes from jiju3.gmu.edu (129.174.134.28): icmp_seq=33 ttl=235 time=110 ms
+[1607862861.557629] 40 bytes from jiju3.gmu.edu (129.174.134.28): icmp_seq=34 ttl=235 time=110 ms
+[1607862862.559265] 40 bytes from jiju3.gmu.edu (129.174.134.28): icmp_seq=35 ttl=235 time=110 ms
+[1607862863.560671] 40 bytes from jiju3.gmu.edu (129.174.134.28): icmp_seq=36 ttl=235 time=110 ms
+[1607862869.563854] 40 bytes from jiju3.gmu.edu (129.174.134.28): icmp_seq=37 ttl=235 time=110 ms
+[1607862869.675408] 40 bytes from jiju3.gmu.edu (129.174.134.28): icmp_seq=38 ttl=235 time=109 ms
+[1607862870.676653] 40 bytes from jiju3.gmu.edu (129.174.134.28): icmp_seq=39 ttl=235 time=110 ms
+[1607862871.676950] 40 bytes from jiju3.gmu.edu (129.174.134.28): icmp_seq=40 ttl=235 time=109 ms
+[1607862872.678553] 40 bytes from jiju3.gmu.edu (129.174.134.28): icmp_seq=41 ttl=235 time=109 ms
+[1607862873.679896] 40 bytes from jiju3.gmu.edu (129.174.134.28): icmp_seq=42 ttl=235 time=109 ms
+[1607862874.680836] 40 bytes from jiju3.gmu.edu (129.174.134.28): icmp_seq=43 ttl=235 time=109 ms
+[1607862875.683403] 40 bytes from jiju3.gmu.edu (129.174.134.28): icmp_seq=44 ttl=235 time=110 ms
+[1607862876.685142] 40 bytes from jiju3.gmu.edu (129.174.134.28): icmp_seq=45 ttl=235 time=110 ms
+[1607862877.686636] 40 bytes from jiju3.gmu.edu (129.174.134.28): icmp_seq=46 ttl=235 time=110 ms
+[1607862878.686469] 40 bytes from jiju3.gmu.edu (129.174.134.28): icmp_seq=47 ttl=235 time=109 ms
+[1607862879.689318] 40 bytes from jiju3.gmu.edu (129.174.134.28): icmp_seq=48 ttl=235 time=110 ms
+[1607862880.690815] 40 bytes from jiju3.gmu.edu (129.174.134.28): icmp_seq=49 ttl=235 time=110 ms
+[1607862881.692696] 40 bytes from jiju3.gmu.edu (129.174.134.28): icmp_seq=50 ttl=235 time=110 ms
+
+--- gmu.edu ping statistics ---
+50 packets transmitted, 49 received, 2% packet loss, time 155219ms
+rtt min/avg/max/mdev = 108.729/109.488/109.884/0.332 ms

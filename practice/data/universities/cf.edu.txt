@@ -1,0 +1,55 @@
+PING cf.edu (162.248.69.68) 32(60) bytes of data.
+[1607862672.493798] 40 bytes from 162.248.69.68: icmp_seq=1 ttl=109 time=144 ms
+[1607862673.015150] 40 bytes from 162.248.69.68: icmp_seq=2 ttl=109 time=143 ms
+[1607862674.015542] 40 bytes from 162.248.69.68: icmp_seq=3 ttl=109 time=143 ms
+[1607862675.014857] 40 bytes from 162.248.69.68: icmp_seq=4 ttl=109 time=143 ms
+[1607862676.015272] 40 bytes from 162.248.69.68: icmp_seq=5 ttl=109 time=143 ms
+[1607862677.015909] 40 bytes from 162.248.69.68: icmp_seq=6 ttl=109 time=144 ms
+[1607862678.015095] 40 bytes from 162.248.69.68: icmp_seq=7 ttl=109 time=142 ms
+[1607862679.021051] 40 bytes from 162.248.69.68: icmp_seq=8 ttl=109 time=143 ms
+[1607862680.014947] 40 bytes from 162.248.69.68: icmp_seq=9 ttl=109 time=143 ms
+[1607862681.014761] 40 bytes from 162.248.69.68: icmp_seq=10 ttl=109 time=143 ms
+[1607862682.014799] 40 bytes from 162.248.69.68: icmp_seq=11 ttl=109 time=143 ms
+[1607862693.022100] 40 bytes from 162.248.69.68: icmp_seq=12 ttl=109 time=144 ms
+[1607862693.167398] 40 bytes from 162.248.69.68: icmp_seq=13 ttl=109 time=143 ms
+[1607862699.177876] 40 bytes from 162.248.69.68: icmp_seq=14 ttl=109 time=143 ms
+[1607862709.330063] 40 bytes from 162.248.69.68: icmp_seq=15 ttl=109 time=143 ms
+[1607862709.475726] 40 bytes from 162.248.69.68: icmp_seq=16 ttl=109 time=143 ms
+[1607862720.482029] 40 bytes from 162.248.69.68: icmp_seq=17 ttl=109 time=145 ms
+[1607862720.628551] 40 bytes from 162.248.69.68: icmp_seq=18 ttl=109 time=143 ms
+[1607862731.634030] 40 bytes from 162.248.69.68: icmp_seq=19 ttl=109 time=143 ms
+[1607862731.779759] 40 bytes from 162.248.69.68: icmp_seq=20 ttl=109 time=143 ms
+[1607862732.779273] 40 bytes from 162.248.69.68: icmp_seq=21 ttl=109 time=143 ms
+[1607862733.779564] 40 bytes from 162.248.69.68: icmp_seq=22 ttl=109 time=143 ms
+[1607862734.779470] 40 bytes from 162.248.69.68: icmp_seq=23 ttl=109 time=144 ms
+[1607862745.786086] 40 bytes from 162.248.69.68: icmp_seq=24 ttl=109 time=144 ms
+[1607862750.936305] 40 bytes from 162.248.69.68: icmp_seq=25 ttl=109 time=143 ms
+[1607862756.087203] 40 bytes from 162.248.69.68: icmp_seq=26 ttl=109 time=144 ms
+[1607862761.235450] 40 bytes from 162.248.69.68: icmp_seq=27 ttl=109 time=143 ms
+[1607862766.384152] 40 bytes from 162.248.69.68: icmp_seq=28 ttl=109 time=143 ms
+[1607862771.532466] 40 bytes from 162.248.69.68: icmp_seq=29 ttl=109 time=143 ms
+[1607862781.682095] 40 bytes from 162.248.69.68: icmp_seq=30 ttl=109 time=143 ms
+[1607862791.834683] 40 bytes from 162.248.69.68: icmp_seq=31 ttl=109 time=143 ms
+[1607862791.980079] 40 bytes from 162.248.69.68: icmp_seq=32 ttl=109 time=143 ms
+[1607862792.980953] 40 bytes from 162.248.69.68: icmp_seq=33 ttl=109 time=143 ms
+[1607862793.982457] 40 bytes from 162.248.69.68: icmp_seq=34 ttl=109 time=144 ms
+[1607862794.982907] 40 bytes from 162.248.69.68: icmp_seq=35 ttl=109 time=143 ms
+[1607862795.984070] 40 bytes from 162.248.69.68: icmp_seq=36 ttl=109 time=143 ms
+[1607862796.983792] 40 bytes from 162.248.69.68: icmp_seq=37 ttl=109 time=143 ms
+[1607862797.982727] 40 bytes from 162.248.69.68: icmp_seq=38 ttl=109 time=144 ms
+[1607862798.983544] 40 bytes from 162.248.69.68: icmp_seq=39 ttl=109 time=143 ms
+[1607862799.983075] 40 bytes from 162.248.69.68: icmp_seq=40 ttl=109 time=144 ms
+[1607862800.982162] 40 bytes from 162.248.69.68: icmp_seq=41 ttl=109 time=143 ms
+[1607862806.984047] 40 bytes from 162.248.69.68: icmp_seq=42 ttl=109 time=143 ms
+[1607862812.135259] 40 bytes from 162.248.69.68: icmp_seq=43 ttl=109 time=143 ms
+[1607862817.283914] 40 bytes from 162.248.69.68: icmp_seq=44 ttl=109 time=143 ms
+[1607862822.432581] 40 bytes from 162.248.69.68: icmp_seq=45 ttl=109 time=143 ms
+[1607862827.580143] 40 bytes from 162.248.69.68: icmp_seq=46 ttl=109 time=143 ms
+[1607862827.728230] 40 bytes from 162.248.69.68: icmp_seq=47 ttl=109 time=143 ms
+[1607862838.734140] 40 bytes from 162.248.69.68: icmp_seq=48 ttl=109 time=143 ms
+[1607862843.883597] 40 bytes from 162.248.69.68: icmp_seq=49 ttl=109 time=143 ms
+[1607862844.883688] 40 bytes from 162.248.69.68: icmp_seq=50 ttl=109 time=143 ms
+
+--- cf.edu ping statistics ---
+50 packets transmitted, 50 received, 0% packet loss, time 172013ms
+rtt min/avg/max/mdev = 142.444/143.242/144.624/0.374 ms

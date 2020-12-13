@@ -1,0 +1,55 @@
+PING dowling.edu (66.39.23.172) 32(60) bytes of data.
+[1607862714.214019] 40 bytes from 66.39.23.172: icmp_seq=1 ttl=52 time=112 ms
+[1607862714.590563] 40 bytes from skypoint.cc (66.39.23.172): icmp_seq=2 ttl=52 time=112 ms
+[1607862720.331812] 40 bytes from skypoint.cc (66.39.23.172): icmp_seq=3 ttl=52 time=112 ms
+[1607862725.447743] 40 bytes from skypoint.cc (66.39.23.172): icmp_seq=4 ttl=52 time=112 ms
+[1607862730.564628] 40 bytes from skypoint.cc (66.39.23.172): icmp_seq=5 ttl=52 time=112 ms
+[1607862740.686011] 40 bytes from 66.39.23.172: icmp_seq=6 ttl=52 time=112 ms
+[1607862745.804992] 40 bytes from skypoint.cc (66.39.23.172): icmp_seq=7 ttl=52 time=113 ms
+[1607862750.923759] 40 bytes from skypoint.cc (66.39.23.172): icmp_seq=8 ttl=52 time=112 ms
+[1607862761.046032] 40 bytes from 66.39.23.172: icmp_seq=9 ttl=52 time=112 ms
+[1607862766.163852] 40 bytes from skypoint.cc (66.39.23.172): icmp_seq=10 ttl=52 time=112 ms
+[1607862771.279986] 40 bytes from skypoint.cc (66.39.23.172): icmp_seq=11 ttl=52 time=112 ms
+[1607862771.394067] 40 bytes from skypoint.cc (66.39.23.172): icmp_seq=12 ttl=52 time=112 ms
+[1607862772.395577] 40 bytes from skypoint.cc (66.39.23.172): icmp_seq=13 ttl=52 time=112 ms
+[1607862773.394646] 40 bytes from skypoint.cc (66.39.23.172): icmp_seq=14 ttl=52 time=112 ms
+[1607862774.394758] 40 bytes from skypoint.cc (66.39.23.172): icmp_seq=15 ttl=52 time=112 ms
+[1607862775.393193] 40 bytes from skypoint.cc (66.39.23.172): icmp_seq=16 ttl=52 time=111 ms
+[1607862786.402082] 40 bytes from 66.39.23.172: icmp_seq=17 ttl=52 time=112 ms
+[1607862786.516695] 40 bytes from skypoint.cc (66.39.23.172): icmp_seq=18 ttl=52 time=112 ms
+[1607862792.519378] 40 bytes from skypoint.cc (66.39.23.172): icmp_seq=19 ttl=52 time=112 ms
+[1607862802.638023] 40 bytes from 66.39.23.172: icmp_seq=20 ttl=52 time=112 ms
+[1607862807.756001] 40 bytes from skypoint.cc (66.39.23.172): icmp_seq=21 ttl=52 time=112 ms
+[1607862812.873293] 40 bytes from skypoint.cc (66.39.23.172): icmp_seq=22 ttl=52 time=112 ms
+[1607862822.994025] 40 bytes from 66.39.23.172: icmp_seq=23 ttl=52 time=112 ms
+[1607862833.114024] 40 bytes from 66.39.23.172: icmp_seq=24 ttl=52 time=113 ms
+[1607862843.234040] 40 bytes from 66.39.23.172: icmp_seq=25 ttl=52 time=112 ms
+[1607862843.347862] 40 bytes from skypoint.cc (66.39.23.172): icmp_seq=26 ttl=52 time=112 ms
+[1607862854.354000] 40 bytes from 66.39.23.172: icmp_seq=27 ttl=52 time=112 ms
+[1607862854.468621] 40 bytes from skypoint.cc (66.39.23.172): icmp_seq=28 ttl=52 time=112 ms
+[1607862855.468696] 40 bytes from skypoint.cc (66.39.23.172): icmp_seq=29 ttl=52 time=112 ms
+[1607862856.469309] 40 bytes from skypoint.cc (66.39.23.172): icmp_seq=30 ttl=52 time=112 ms
+[1607862857.471446] 40 bytes from skypoint.cc (66.39.23.172): icmp_seq=31 ttl=52 time=112 ms
+[1607862858.472402] 40 bytes from skypoint.cc (66.39.23.172): icmp_seq=32 ttl=52 time=113 ms
+[1607862859.473922] 40 bytes from skypoint.cc (66.39.23.172): icmp_seq=33 ttl=52 time=113 ms
+[1607862860.474881] 40 bytes from skypoint.cc (66.39.23.172): icmp_seq=34 ttl=52 time=112 ms
+[1607862861.476298] 40 bytes from skypoint.cc (66.39.23.172): icmp_seq=35 ttl=52 time=112 ms
+[1607862862.478456] 40 bytes from skypoint.cc (66.39.23.172): icmp_seq=36 ttl=52 time=113 ms
+[1607862863.478484] 40 bytes from skypoint.cc (66.39.23.172): icmp_seq=37 ttl=52 time=112 ms
+[1607862864.479877] 40 bytes from skypoint.cc (66.39.23.172): icmp_seq=38 ttl=52 time=112 ms
+[1607862875.486844] 40 bytes from 66.39.23.172: icmp_seq=39 ttl=52 time=112 ms
+[1607862875.601908] 40 bytes from skypoint.cc (66.39.23.172): icmp_seq=40 ttl=52 time=112 ms
+[1607862876.600924] 40 bytes from skypoint.cc (66.39.23.172): icmp_seq=41 ttl=52 time=112 ms
+[1607862877.603372] 40 bytes from skypoint.cc (66.39.23.172): icmp_seq=42 ttl=52 time=112 ms
+[1607862878.604439] 40 bytes from skypoint.cc (66.39.23.172): icmp_seq=43 ttl=52 time=112 ms
+[1607862879.605838] 40 bytes from skypoint.cc (66.39.23.172): icmp_seq=44 ttl=52 time=112 ms
+[1607862880.607397] 40 bytes from skypoint.cc (66.39.23.172): icmp_seq=45 ttl=52 time=112 ms
+[1607862881.607264] 40 bytes from skypoint.cc (66.39.23.172): icmp_seq=46 ttl=52 time=112 ms
+[1607862882.607115] 40 bytes from skypoint.cc (66.39.23.172): icmp_seq=47 ttl=52 time=112 ms
+[1607862883.609584] 40 bytes from skypoint.cc (66.39.23.172): icmp_seq=48 ttl=52 time=112 ms
+[1607862884.610662] 40 bytes from skypoint.cc (66.39.23.172): icmp_seq=49 ttl=52 time=112 ms
+[1607862885.611577] 40 bytes from skypoint.cc (66.39.23.172): icmp_seq=50 ttl=52 time=112 ms
+
+--- dowling.edu ping statistics ---
+50 packets transmitted, 50 received, 0% packet loss, time 181403ms
+rtt min/avg/max/mdev = 111.457/112.289/113.265/0.352 ms

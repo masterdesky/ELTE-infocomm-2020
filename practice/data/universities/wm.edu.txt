@@ -1,0 +1,55 @@
+PING wm.edu (128.239.29.10) 32(60) bytes of data.
+[1607862718.470033] 40 bytes from 128.239.29.10: icmp_seq=1 ttl=233 time=120 ms
+[1607862723.980512] 40 bytes from www.wm.edu (128.239.29.10): icmp_seq=2 ttl=233 time=120 ms
+[1607862734.110028] 40 bytes from 128.239.29.10: icmp_seq=3 ttl=233 time=121 ms
+[1607862739.235218] 40 bytes from www.wm.edu (128.239.29.10): icmp_seq=4 ttl=233 time=120 ms
+[1607862739.357007] 40 bytes from www.wm.edu (128.239.29.10): icmp_seq=5 ttl=233 time=120 ms
+[1607862740.357311] 40 bytes from www.wm.edu (128.239.29.10): icmp_seq=6 ttl=233 time=120 ms
+[1607862741.358048] 40 bytes from www.wm.edu (128.239.29.10): icmp_seq=7 ttl=233 time=121 ms
+[1607862742.359814] 40 bytes from www.wm.edu (128.239.29.10): icmp_seq=8 ttl=233 time=121 ms
+[1607862743.360151] 40 bytes from www.wm.edu (128.239.29.10): icmp_seq=9 ttl=233 time=120 ms
+[1607862744.361719] 40 bytes from www.wm.edu (128.239.29.10): icmp_seq=10 ttl=233 time=120 ms
+[1607862745.363233] 40 bytes from www.wm.edu (128.239.29.10): icmp_seq=11 ttl=233 time=121 ms
+[1607862756.372664] 40 bytes from 128.239.29.10: icmp_seq=12 ttl=233 time=121 ms
+[1607862756.495681] 40 bytes from www.wm.edu (128.239.29.10): icmp_seq=13 ttl=233 time=121 ms
+[1607862757.495479] 40 bytes from www.wm.edu (128.239.29.10): icmp_seq=14 ttl=233 time=121 ms
+[1607862758.496255] 40 bytes from www.wm.edu (128.239.29.10): icmp_seq=15 ttl=233 time=120 ms
+[1607862759.496736] 40 bytes from www.wm.edu (128.239.29.10): icmp_seq=16 ttl=233 time=121 ms
+[1607862760.497272] 40 bytes from www.wm.edu (128.239.29.10): icmp_seq=17 ttl=233 time=121 ms
+[1607862761.498871] 40 bytes from www.wm.edu (128.239.29.10): icmp_seq=18 ttl=233 time=121 ms
+[1607862762.497940] 40 bytes from www.wm.edu (128.239.29.10): icmp_seq=19 ttl=233 time=120 ms
+[1607862763.499566] 40 bytes from www.wm.edu (128.239.29.10): icmp_seq=20 ttl=233 time=120 ms
+[1607862764.501401] 40 bytes from www.wm.edu (128.239.29.10): icmp_seq=21 ttl=233 time=121 ms
+[1607862775.506014] 40 bytes from 128.239.29.10: icmp_seq=22 ttl=233 time=120 ms
+[1607862780.633956] 40 bytes from www.wm.edu (128.239.29.10): icmp_seq=23 ttl=233 time=121 ms
+[1607862785.761778] 40 bytes from www.wm.edu (128.239.29.10): icmp_seq=24 ttl=233 time=121 ms
+[1607862785.885607] 40 bytes from www.wm.edu (128.239.29.10): icmp_seq=25 ttl=233 time=120 ms
+[1607862786.883778] 40 bytes from www.wm.edu (128.239.29.10): icmp_seq=26 ttl=233 time=121 ms
+[1607862792.883939] 40 bytes from www.wm.edu (128.239.29.10): icmp_seq=27 ttl=233 time=120 ms
+[1607862793.006878] 40 bytes from www.wm.edu (128.239.29.10): icmp_seq=28 ttl=233 time=121 ms
+[1607862794.007423] 40 bytes from www.wm.edu (128.239.29.10): icmp_seq=29 ttl=233 time=121 ms
+[1607862795.007118] 40 bytes from www.wm.edu (128.239.29.10): icmp_seq=30 ttl=233 time=120 ms
+[1607862796.007879] 40 bytes from www.wm.edu (128.239.29.10): icmp_seq=31 ttl=233 time=121 ms
+[1607862807.014038] 40 bytes from 128.239.29.10: icmp_seq=32 ttl=233 time=120 ms
+[1607862807.136534] 40 bytes from www.wm.edu (128.239.29.10): icmp_seq=33 ttl=233 time=121 ms
+[1607862808.137337] 40 bytes from www.wm.edu (128.239.29.10): icmp_seq=34 ttl=233 time=120 ms
+[1607862809.138959] 40 bytes from www.wm.edu (128.239.29.10): icmp_seq=35 ttl=233 time=121 ms
+[1607862810.139911] 40 bytes from www.wm.edu (128.239.29.10): icmp_seq=36 ttl=233 time=121 ms
+[1607862811.141229] 40 bytes from www.wm.edu (128.239.29.10): icmp_seq=37 ttl=233 time=121 ms
+[1607862817.144136] 40 bytes from www.wm.edu (128.239.29.10): icmp_seq=38 ttl=233 time=120 ms
+[1607862817.266527] 40 bytes from www.wm.edu (128.239.29.10): icmp_seq=39 ttl=233 time=121 ms
+[1607862828.274036] 40 bytes from 128.239.29.10: icmp_seq=40 ttl=233 time=120 ms
+[1607862838.402028] 40 bytes from 128.239.29.10: icmp_seq=41 ttl=233 time=120 ms
+[1607862838.524373] 40 bytes from www.wm.edu (128.239.29.10): icmp_seq=42 ttl=233 time=121 ms
+[1607862839.525673] 40 bytes from www.wm.edu (128.239.29.10): icmp_seq=43 ttl=233 time=121 ms
+[1607862840.526867] 40 bytes from www.wm.edu (128.239.29.10): icmp_seq=44 ttl=233 time=121 ms
+[1607862841.527573] 40 bytes from www.wm.edu (128.239.29.10): icmp_seq=45 ttl=233 time=121 ms
+[1607862842.528000] 40 bytes from www.wm.edu (128.239.29.10): icmp_seq=46 ttl=233 time=120 ms
+[1607862848.531764] 40 bytes from www.wm.edu (128.239.29.10): icmp_seq=47 ttl=233 time=120 ms
+[1607862848.653576] 40 bytes from www.wm.edu (128.239.29.10): icmp_seq=48 ttl=233 time=120 ms
+[1607862849.653014] 40 bytes from www.wm.edu (128.239.29.10): icmp_seq=49 ttl=233 time=120 ms
+[1607862850.655689] 40 bytes from www.wm.edu (128.239.29.10): icmp_seq=50 ttl=233 time=121 ms
+
+--- wm.edu ping statistics ---
+50 packets transmitted, 50 received, 0% packet loss, time 142190ms
+rtt min/avg/max/mdev = 119.666/120.459/120.932/0.321 ms

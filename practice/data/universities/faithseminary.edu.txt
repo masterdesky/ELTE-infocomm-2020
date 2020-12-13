@@ -1,0 +1,54 @@
+PING faithseminary.edu (160.153.66.225) 32(60) bytes of data.
+[1607862729.016185] 40 bytes from ip-160-153-66-225.ip.secureserver.net (160.153.66.225): icmp_seq=1 ttl=51 time=148 ms
+[1607862740.910022] 40 bytes from 160.153.66.225: icmp_seq=3 ttl=51 time=148 ms
+[1607862751.066008] 40 bytes from 160.153.66.225: icmp_seq=4 ttl=51 time=148 ms
+[1607862761.222050] 40 bytes from 160.153.66.225: icmp_seq=5 ttl=51 time=148 ms
+[1607862761.372605] 40 bytes from ip-160-153-66-225.ip.secureserver.net (160.153.66.225): icmp_seq=6 ttl=51 time=149 ms
+[1607862772.378157] 40 bytes from 160.153.66.225: icmp_seq=7 ttl=51 time=148 ms
+[1607862772.528300] 40 bytes from ip-160-153-66-225.ip.secureserver.net (160.153.66.225): icmp_seq=8 ttl=51 time=148 ms
+[1607862773.527738] 40 bytes from ip-160-153-66-225.ip.secureserver.net (160.153.66.225): icmp_seq=9 ttl=51 time=147 ms
+[1607862774.528097] 40 bytes from ip-160-153-66-225.ip.secureserver.net (160.153.66.225): icmp_seq=10 ttl=51 time=148 ms
+[1607862775.527460] 40 bytes from ip-160-153-66-225.ip.secureserver.net (160.153.66.225): icmp_seq=11 ttl=51 time=148 ms
+[1607862776.527985] 40 bytes from ip-160-153-66-225.ip.secureserver.net (160.153.66.225): icmp_seq=12 ttl=51 time=148 ms
+[1607862782.535669] 40 bytes from ip-160-153-66-225.ip.secureserver.net (160.153.66.225): icmp_seq=13 ttl=51 time=152 ms
+[1607862782.685762] 40 bytes from ip-160-153-66-225.ip.secureserver.net (160.153.66.225): icmp_seq=14 ttl=51 time=148 ms
+[1607862783.685250] 40 bytes from ip-160-153-66-225.ip.secureserver.net (160.153.66.225): icmp_seq=15 ttl=51 time=148 ms
+[1607862784.686530] 40 bytes from ip-160-153-66-225.ip.secureserver.net (160.153.66.225): icmp_seq=16 ttl=51 time=147 ms
+[1607862785.688125] 40 bytes from ip-160-153-66-225.ip.secureserver.net (160.153.66.225): icmp_seq=17 ttl=51 time=148 ms
+[1607862786.688132] 40 bytes from ip-160-153-66-225.ip.secureserver.net (160.153.66.225): icmp_seq=18 ttl=51 time=148 ms
+[1607862787.688516] 40 bytes from ip-160-153-66-225.ip.secureserver.net (160.153.66.225): icmp_seq=19 ttl=51 time=148 ms
+[1607862788.688862] 40 bytes from ip-160-153-66-225.ip.secureserver.net (160.153.66.225): icmp_seq=20 ttl=51 time=147 ms
+[1607862789.690950] 40 bytes from ip-160-153-66-225.ip.secureserver.net (160.153.66.225): icmp_seq=21 ttl=51 time=148 ms
+[1607862790.691000] 40 bytes from ip-160-153-66-225.ip.secureserver.net (160.153.66.225): icmp_seq=22 ttl=51 time=148 ms
+[1607862801.698898] 40 bytes from 160.153.66.225: icmp_seq=23 ttl=51 time=148 ms
+[1607862811.854098] 40 bytes from 160.153.66.225: icmp_seq=24 ttl=51 time=148 ms
+[1607862812.004437] 40 bytes from ip-160-153-66-225.ip.secureserver.net (160.153.66.225): icmp_seq=25 ttl=51 time=148 ms
+[1607862813.004929] 40 bytes from ip-160-153-66-225.ip.secureserver.net (160.153.66.225): icmp_seq=26 ttl=51 time=148 ms
+[1607862814.004283] 40 bytes from ip-160-153-66-225.ip.secureserver.net (160.153.66.225): icmp_seq=27 ttl=51 time=148 ms
+[1607862815.004393] 40 bytes from ip-160-153-66-225.ip.secureserver.net (160.153.66.225): icmp_seq=28 ttl=51 time=147 ms
+[1607862816.005377] 40 bytes from ip-160-153-66-225.ip.secureserver.net (160.153.66.225): icmp_seq=29 ttl=51 time=148 ms
+[1607862817.005058] 40 bytes from ip-160-153-66-225.ip.secureserver.net (160.153.66.225): icmp_seq=30 ttl=51 time=148 ms
+[1607862818.004425] 40 bytes from ip-160-153-66-225.ip.secureserver.net (160.153.66.225): icmp_seq=31 ttl=51 time=147 ms
+[1607862819.005557] 40 bytes from ip-160-153-66-225.ip.secureserver.net (160.153.66.225): icmp_seq=32 ttl=51 time=148 ms
+[1607862820.006476] 40 bytes from ip-160-153-66-225.ip.secureserver.net (160.153.66.225): icmp_seq=33 ttl=51 time=148 ms
+[1607862821.006429] 40 bytes from ip-160-153-66-225.ip.secureserver.net (160.153.66.225): icmp_seq=34 ttl=51 time=148 ms
+[1607862822.006797] 40 bytes from ip-160-153-66-225.ip.secureserver.net (160.153.66.225): icmp_seq=35 ttl=51 time=148 ms
+[1607862833.014051] 40 bytes from 160.153.66.225: icmp_seq=36 ttl=51 time=148 ms
+[1607862833.163466] 40 bytes from ip-160-153-66-225.ip.secureserver.net (160.153.66.225): icmp_seq=37 ttl=51 time=147 ms
+[1607862834.164876] 40 bytes from ip-160-153-66-225.ip.secureserver.net (160.153.66.225): icmp_seq=38 ttl=51 time=148 ms
+[1607862835.166162] 40 bytes from ip-160-153-66-225.ip.secureserver.net (160.153.66.225): icmp_seq=39 ttl=51 time=148 ms
+[1607862836.166552] 40 bytes from ip-160-153-66-225.ip.secureserver.net (160.153.66.225): icmp_seq=40 ttl=51 time=148 ms
+[1607862837.167612] 40 bytes from ip-160-153-66-225.ip.secureserver.net (160.153.66.225): icmp_seq=41 ttl=51 time=148 ms
+[1607862843.171891] 40 bytes from ip-160-153-66-225.ip.secureserver.net (160.153.66.225): icmp_seq=42 ttl=51 time=148 ms
+[1607862843.320820] 40 bytes from ip-160-153-66-225.ip.secureserver.net (160.153.66.225): icmp_seq=43 ttl=51 time=148 ms
+[1607862854.326028] 40 bytes from 160.153.66.225: icmp_seq=44 ttl=51 time=148 ms
+[1607862854.476213] 40 bytes from ip-160-153-66-225.ip.secureserver.net (160.153.66.225): icmp_seq=45 ttl=51 time=148 ms
+[1607862855.477472] 40 bytes from ip-160-153-66-225.ip.secureserver.net (160.153.66.225): icmp_seq=46 ttl=51 time=148 ms
+[1607862856.478778] 40 bytes from ip-160-153-66-225.ip.secureserver.net (160.153.66.225): icmp_seq=47 ttl=51 time=148 ms
+[1607862857.479169] 40 bytes from ip-160-153-66-225.ip.secureserver.net (160.153.66.225): icmp_seq=48 ttl=51 time=148 ms
+[1607862858.481452] 40 bytes from ip-160-153-66-225.ip.secureserver.net (160.153.66.225): icmp_seq=49 ttl=51 time=148 ms
+[1607862860.332402] 40 bytes from 160.153.66.225: icmp_seq=50 ttl=51 time=148 ms
+
+--- faithseminary.edu ping statistics ---
+50 packets transmitted, 49 received, 2% packet loss, time 130574ms
+rtt min/avg/max/mdev = 147.344/148.121/152.135/0.654 ms

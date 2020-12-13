@@ -1,0 +1,54 @@
+PING ursuline.edu (67.225.224.60) 32(60) bytes of data.
+[1607862694.218600] 40 bytes from host.ursuline.edu (67.225.224.60): icmp_seq=1 ttl=50 time=124 ms
+[1607862695.219454] 40 bytes from host.ursuline.edu (67.225.224.60): icmp_seq=2 ttl=50 time=124 ms
+[1607862706.226652] 40 bytes from 67.225.224.60: icmp_seq=3 ttl=50 time=124 ms
+[1607862716.358071] 40 bytes from 67.225.224.60: icmp_seq=4 ttl=50 time=124 ms
+[1607862716.484658] 40 bytes from host.ursuline.edu (67.225.224.60): icmp_seq=5 ttl=50 time=124 ms
+[1607862717.483530] 40 bytes from host.ursuline.edu (67.225.224.60): icmp_seq=6 ttl=50 time=124 ms
+[1607862718.483606] 40 bytes from host.ursuline.edu (67.225.224.60): icmp_seq=7 ttl=50 time=124 ms
+[1607862729.486372] 40 bytes from 67.225.224.60: icmp_seq=8 ttl=50 time=123 ms
+[1607862735.615887] 40 bytes from host.ursuline.edu (67.225.224.60): icmp_seq=10 ttl=50 time=123 ms
+[1607862735.741696] 40 bytes from host.ursuline.edu (67.225.224.60): icmp_seq=11 ttl=50 time=123 ms
+[1607862741.743813] 40 bytes from host.ursuline.edu (67.225.224.60): icmp_seq=12 ttl=50 time=124 ms
+[1607862751.874800] 40 bytes from 67.225.224.60: icmp_seq=13 ttl=50 time=124 ms
+[1607862757.003840] 40 bytes from host.ursuline.edu (67.225.224.60): icmp_seq=14 ttl=50 time=123 ms
+[1607862762.136197] 40 bytes from host.ursuline.edu (67.225.224.60): icmp_seq=15 ttl=50 time=125 ms
+[1607862772.266020] 40 bytes from 67.225.224.60: icmp_seq=16 ttl=50 time=124 ms
+[1607862782.398027] 40 bytes from 67.225.224.60: icmp_seq=17 ttl=50 time=124 ms
+[1607862782.524250] 40 bytes from host.ursuline.edu (67.225.224.60): icmp_seq=18 ttl=50 time=124 ms
+[1607862783.523870] 40 bytes from host.ursuline.edu (67.225.224.60): icmp_seq=19 ttl=50 time=123 ms
+[1607862784.525859] 40 bytes from host.ursuline.edu (67.225.224.60): icmp_seq=20 ttl=50 time=124 ms
+[1607862785.528044] 40 bytes from host.ursuline.edu (67.225.224.60): icmp_seq=21 ttl=50 time=124 ms
+[1607862796.534053] 40 bytes from 67.225.224.60: icmp_seq=22 ttl=50 time=124 ms
+[1607862806.667302] 40 bytes from 67.225.224.60: icmp_seq=23 ttl=50 time=124 ms
+[1607862811.795701] 40 bytes from host.ursuline.edu (67.225.224.60): icmp_seq=24 ttl=50 time=124 ms
+[1607862811.921874] 40 bytes from host.ursuline.edu (67.225.224.60): icmp_seq=25 ttl=50 time=124 ms
+[1607862817.923923] 40 bytes from host.ursuline.edu (67.225.224.60): icmp_seq=26 ttl=50 time=124 ms
+[1607862828.055077] 40 bytes from 67.225.224.60: icmp_seq=27 ttl=50 time=124 ms
+[1607862833.183996] 40 bytes from host.ursuline.edu (67.225.224.60): icmp_seq=28 ttl=50 time=124 ms
+[1607862843.318012] 40 bytes from 67.225.224.60: icmp_seq=29 ttl=50 time=124 ms
+[1607862848.448011] 40 bytes from host.ursuline.edu (67.225.224.60): icmp_seq=30 ttl=50 time=124 ms
+[1607862848.573685] 40 bytes from host.ursuline.edu (67.225.224.60): icmp_seq=31 ttl=50 time=124 ms
+[1607862854.575731] 40 bytes from host.ursuline.edu (67.225.224.60): icmp_seq=32 ttl=50 time=124 ms
+[1607862854.702100] 40 bytes from host.ursuline.edu (67.225.224.60): icmp_seq=33 ttl=50 time=124 ms
+[1607862855.703415] 40 bytes from host.ursuline.edu (67.225.224.60): icmp_seq=34 ttl=50 time=124 ms
+[1607862856.704395] 40 bytes from host.ursuline.edu (67.225.224.60): icmp_seq=35 ttl=50 time=124 ms
+[1607862857.705145] 40 bytes from host.ursuline.edu (67.225.224.60): icmp_seq=36 ttl=50 time=124 ms
+[1607862858.707312] 40 bytes from host.ursuline.edu (67.225.224.60): icmp_seq=37 ttl=50 time=124 ms
+[1607862869.714022] 40 bytes from 67.225.224.60: icmp_seq=38 ttl=50 time=124 ms
+[1607862869.840657] 40 bytes from host.ursuline.edu (67.225.224.60): icmp_seq=39 ttl=50 time=124 ms
+[1607862875.843458] 40 bytes from host.ursuline.edu (67.225.224.60): icmp_seq=40 ttl=50 time=124 ms
+[1607862875.968984] 40 bytes from host.ursuline.edu (67.225.224.60): icmp_seq=41 ttl=50 time=124 ms
+[1607862876.970958] 40 bytes from host.ursuline.edu (67.225.224.60): icmp_seq=42 ttl=50 time=124 ms
+[1607862877.972658] 40 bytes from host.ursuline.edu (67.225.224.60): icmp_seq=43 ttl=50 time=124 ms
+[1607862878.974145] 40 bytes from host.ursuline.edu (67.225.224.60): icmp_seq=44 ttl=50 time=124 ms
+[1607862879.973918] 40 bytes from host.ursuline.edu (67.225.224.60): icmp_seq=45 ttl=50 time=123 ms
+[1607862880.976235] 40 bytes from host.ursuline.edu (67.225.224.60): icmp_seq=46 ttl=50 time=124 ms
+[1607862881.977312] 40 bytes from host.ursuline.edu (67.225.224.60): icmp_seq=47 ttl=50 time=124 ms
+[1607862887.979795] 40 bytes from host.ursuline.edu (67.225.224.60): icmp_seq=48 ttl=50 time=124 ms
+[1607862888.106177] 40 bytes from host.ursuline.edu (67.225.224.60): icmp_seq=49 ttl=50 time=124 ms
+[1607862889.106116] 40 bytes from host.ursuline.edu (67.225.224.60): icmp_seq=50 ttl=50 time=124 ms
+
+--- ursuline.edu ping statistics ---
+50 packets transmitted, 49 received, 2% packet loss, time 194888ms
+rtt min/avg/max/mdev = 123.351/124.022/124.713/0.338 ms

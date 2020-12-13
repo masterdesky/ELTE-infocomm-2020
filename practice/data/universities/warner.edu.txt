@@ -1,0 +1,55 @@
+PING warner.edu (173.255.235.238) 32(60) bytes of data.
+[1607862702.590002] 40 bytes from 173.255.235.238: icmp_seq=1 ttl=50 time=107 ms
+[1607862702.697191] 40 bytes from vh2.trinsik.io (173.255.235.238): icmp_seq=2 ttl=50 time=105 ms
+[1607862713.706308] 40 bytes from 173.255.235.238: icmp_seq=3 ttl=50 time=106 ms
+[1607862713.813891] 40 bytes from vh2.trinsik.io (173.255.235.238): icmp_seq=4 ttl=50 time=105 ms
+[1607862719.819490] 40 bytes from vh2.trinsik.io (173.255.235.238): icmp_seq=5 ttl=50 time=106 ms
+[1607862729.934907] 40 bytes from 173.255.235.238: icmp_seq=6 ttl=50 time=106 ms
+[1607862730.045030] 40 bytes from vh2.trinsik.io (173.255.235.238): icmp_seq=7 ttl=50 time=107 ms
+[1607862741.046036] 40 bytes from 173.255.235.238: icmp_seq=8 ttl=50 time=106 ms
+[1607862746.155824] 40 bytes from vh2.trinsik.io (173.255.235.238): icmp_seq=9 ttl=50 time=105 ms
+[1607862746.264144] 40 bytes from vh2.trinsik.io (173.255.235.238): icmp_seq=10 ttl=50 time=106 ms
+[1607862747.265185] 40 bytes from vh2.trinsik.io (173.255.235.238): icmp_seq=11 ttl=50 time=106 ms
+[1607862748.264525] 40 bytes from vh2.trinsik.io (173.255.235.238): icmp_seq=12 ttl=50 time=106 ms
+[1607862749.265643] 40 bytes from vh2.trinsik.io (173.255.235.238): icmp_seq=13 ttl=50 time=105 ms
+[1607862760.270028] 40 bytes from 173.255.235.238: icmp_seq=14 ttl=50 time=106 ms
+[1607862770.382729] 40 bytes from 173.255.235.238: icmp_seq=15 ttl=50 time=106 ms
+[1607862780.494043] 40 bytes from 173.255.235.238: icmp_seq=16 ttl=50 time=105 ms
+[1607862780.602666] 40 bytes from vh2.trinsik.io (173.255.235.238): icmp_seq=17 ttl=50 time=107 ms
+[1607862791.606515] 40 bytes from 173.255.235.238: icmp_seq=18 ttl=50 time=106 ms
+[1607862801.719199] 40 bytes from 173.255.235.238: icmp_seq=19 ttl=50 time=105 ms
+[1607862811.834111] 40 bytes from 173.255.235.238: icmp_seq=20 ttl=50 time=107 ms
+[1607862811.943008] 40 bytes from vh2.trinsik.io (173.255.235.238): icmp_seq=21 ttl=50 time=107 ms
+[1607862817.943939] 40 bytes from vh2.trinsik.io (173.255.235.238): icmp_seq=22 ttl=50 time=106 ms
+[1607862823.056196] 40 bytes from vh2.trinsik.io (173.255.235.238): icmp_seq=23 ttl=50 time=105 ms
+[1607862833.170056] 40 bytes from 173.255.235.238: icmp_seq=24 ttl=50 time=106 ms
+[1607862843.282045] 40 bytes from 173.255.235.238: icmp_seq=25 ttl=50 time=106 ms
+[1607862848.395906] 40 bytes from vh2.trinsik.io (173.255.235.238): icmp_seq=26 ttl=50 time=108 ms
+[1607862848.503905] 40 bytes from vh2.trinsik.io (173.255.235.238): icmp_seq=27 ttl=50 time=106 ms
+[1607862849.504118] 40 bytes from vh2.trinsik.io (173.255.235.238): icmp_seq=28 ttl=50 time=106 ms
+[1607862850.504646] 40 bytes from vh2.trinsik.io (173.255.235.238): icmp_seq=29 ttl=50 time=105 ms
+[1607862851.505693] 40 bytes from vh2.trinsik.io (173.255.235.238): icmp_seq=30 ttl=50 time=105 ms
+[1607862852.506763] 40 bytes from vh2.trinsik.io (173.255.235.238): icmp_seq=31 ttl=50 time=105 ms
+[1607862853.508605] 40 bytes from vh2.trinsik.io (173.255.235.238): icmp_seq=32 ttl=50 time=106 ms
+[1607862864.514033] 40 bytes from 173.255.235.238: icmp_seq=33 ttl=50 time=106 ms
+[1607862869.624038] 40 bytes from vh2.trinsik.io (173.255.235.238): icmp_seq=34 ttl=50 time=106 ms
+[1607862869.730928] 40 bytes from vh2.trinsik.io (173.255.235.238): icmp_seq=35 ttl=50 time=105 ms
+[1607862870.733192] 40 bytes from vh2.trinsik.io (173.255.235.238): icmp_seq=36 ttl=50 time=106 ms
+[1607862871.735129] 40 bytes from vh2.trinsik.io (173.255.235.238): icmp_seq=37 ttl=50 time=107 ms
+[1607862872.734858] 40 bytes from vh2.trinsik.io (173.255.235.238): icmp_seq=38 ttl=50 time=106 ms
+[1607862873.735968] 40 bytes from vh2.trinsik.io (173.255.235.238): icmp_seq=39 ttl=50 time=105 ms
+[1607862874.737188] 40 bytes from vh2.trinsik.io (173.255.235.238): icmp_seq=40 ttl=50 time=106 ms
+[1607862875.738402] 40 bytes from vh2.trinsik.io (173.255.235.238): icmp_seq=41 ttl=50 time=106 ms
+[1607862876.739086] 40 bytes from vh2.trinsik.io (173.255.235.238): icmp_seq=42 ttl=50 time=106 ms
+[1607862877.740926] 40 bytes from vh2.trinsik.io (173.255.235.238): icmp_seq=43 ttl=50 time=106 ms
+[1607862878.743186] 40 bytes from vh2.trinsik.io (173.255.235.238): icmp_seq=44 ttl=50 time=107 ms
+[1607862879.744857] 40 bytes from vh2.trinsik.io (173.255.235.238): icmp_seq=45 ttl=50 time=108 ms
+[1607862880.744684] 40 bytes from vh2.trinsik.io (173.255.235.238): icmp_seq=46 ttl=50 time=106 ms
+[1607862881.745360] 40 bytes from vh2.trinsik.io (173.255.235.238): icmp_seq=47 ttl=50 time=106 ms
+[1607862882.746664] 40 bytes from vh2.trinsik.io (173.255.235.238): icmp_seq=48 ttl=50 time=105 ms
+[1607862883.748116] 40 bytes from vh2.trinsik.io (173.255.235.238): icmp_seq=49 ttl=50 time=106 ms
+[1607862884.748743] 40 bytes from vh2.trinsik.io (173.255.235.238): icmp_seq=50 ttl=50 time=106 ms
+
+--- warner.edu ping statistics ---
+50 packets transmitted, 50 received, 0% packet loss, time 192167ms
+rtt min/avg/max/mdev = 104.883/105.921/108.317/0.697 ms

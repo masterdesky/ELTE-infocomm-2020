@@ -1,0 +1,5 @@
+PING troy.edu (69.63.130.234) 32(60) bytes of data.
+
+--- troy.edu ping statistics ---
+50 packets transmitted, 0 received, 100% packet loss, time 49657ms
+

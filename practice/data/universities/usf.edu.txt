@@ -1,0 +1,55 @@
+PING usf.edu (131.247.1.40) 32(60) bytes of data.
+[1607862682.526084] 40 bytes from 131.247.1.40: icmp_seq=1 ttl=50 time=135 ms
+[1607862687.664064] 40 bytes from ziggy.usf.edu (131.247.1.40): icmp_seq=2 ttl=50 time=135 ms
+[1607862687.800037] 40 bytes from ziggy.usf.edu (131.247.1.40): icmp_seq=3 ttl=50 time=134 ms
+[1607862688.803080] 40 bytes from ziggy.usf.edu (131.247.1.40): icmp_seq=4 ttl=50 time=135 ms
+[1607862699.810018] 40 bytes from 131.247.1.40: icmp_seq=5 ttl=50 time=134 ms
+[1607862704.947909] 40 bytes from ziggy.usf.edu (131.247.1.40): icmp_seq=6 ttl=50 time=134 ms
+[1607862705.087876] 40 bytes from ziggy.usf.edu (131.247.1.40): icmp_seq=7 ttl=50 time=135 ms
+[1607862716.090000] 40 bytes from 131.247.1.40: icmp_seq=8 ttl=50 time=135 ms
+[1607862716.228308] 40 bytes from ziggy.usf.edu (131.247.1.40): icmp_seq=9 ttl=50 time=136 ms
+[1607862717.226941] 40 bytes from ziggy.usf.edu (131.247.1.40): icmp_seq=10 ttl=50 time=134 ms
+[1607862718.228675] 40 bytes from ziggy.usf.edu (131.247.1.40): icmp_seq=11 ttl=50 time=134 ms
+[1607862719.228125] 40 bytes from ziggy.usf.edu (131.247.1.40): icmp_seq=12 ttl=50 time=134 ms
+[1607862720.228941] 40 bytes from ziggy.usf.edu (131.247.1.40): icmp_seq=13 ttl=50 time=134 ms
+[1607862731.234378] 40 bytes from 131.247.1.40: icmp_seq=14 ttl=50 time=134 ms
+[1607862736.375758] 40 bytes from ziggy.usf.edu (131.247.1.40): icmp_seq=15 ttl=50 time=135 ms
+[1607862746.518058] 40 bytes from 131.247.1.40: icmp_seq=16 ttl=50 time=135 ms
+[1607862751.660149] 40 bytes from ziggy.usf.edu (131.247.1.40): icmp_seq=17 ttl=50 time=134 ms
+[1607862751.796683] 40 bytes from ziggy.usf.edu (131.247.1.40): icmp_seq=18 ttl=50 time=134 ms
+[1607862752.797038] 40 bytes from ziggy.usf.edu (131.247.1.40): icmp_seq=19 ttl=50 time=134 ms
+[1607862753.798683] 40 bytes from ziggy.usf.edu (131.247.1.40): icmp_seq=20 ttl=50 time=134 ms
+[1607862754.797356] 40 bytes from ziggy.usf.edu (131.247.1.40): icmp_seq=21 ttl=50 time=134 ms
+[1607862755.799987] 40 bytes from ziggy.usf.edu (131.247.1.40): icmp_seq=22 ttl=50 time=134 ms
+[1607862766.806074] 40 bytes from 131.247.1.40: icmp_seq=23 ttl=50 time=135 ms
+[1607862771.946961] 40 bytes from ziggy.usf.edu (131.247.1.40): icmp_seq=24 ttl=50 time=134 ms
+[1607862772.083817] 40 bytes from ziggy.usf.edu (131.247.1.40): icmp_seq=25 ttl=50 time=134 ms
+[1607862773.084176] 40 bytes from ziggy.usf.edu (131.247.1.40): icmp_seq=26 ttl=50 time=135 ms
+[1607862774.083545] 40 bytes from ziggy.usf.edu (131.247.1.40): icmp_seq=27 ttl=50 time=134 ms
+[1607862775.083840] 40 bytes from ziggy.usf.edu (131.247.1.40): icmp_seq=28 ttl=50 time=135 ms
+[1607862776.084201] 40 bytes from ziggy.usf.edu (131.247.1.40): icmp_seq=29 ttl=50 time=135 ms
+[1607862787.090030] 40 bytes from 131.247.1.40: icmp_seq=30 ttl=50 time=134 ms
+[1607862787.226570] 40 bytes from ziggy.usf.edu (131.247.1.40): icmp_seq=31 ttl=50 time=135 ms
+[1607862788.227254] 40 bytes from ziggy.usf.edu (131.247.1.40): icmp_seq=32 ttl=50 time=134 ms
+[1607862789.228740] 40 bytes from ziggy.usf.edu (131.247.1.40): icmp_seq=33 ttl=50 time=134 ms
+[1607862790.228990] 40 bytes from ziggy.usf.edu (131.247.1.40): icmp_seq=34 ttl=50 time=134 ms
+[1607862796.236080] 40 bytes from ziggy.usf.edu (131.247.1.40): icmp_seq=35 ttl=50 time=134 ms
+[1607862796.373004] 40 bytes from ziggy.usf.edu (131.247.1.40): icmp_seq=36 ttl=50 time=135 ms
+[1607862807.378158] 40 bytes from 131.247.1.40: icmp_seq=37 ttl=50 time=134 ms
+[1607862817.518796] 40 bytes from 131.247.1.40: icmp_seq=38 ttl=50 time=134 ms
+[1607862817.654718] 40 bytes from ziggy.usf.edu (131.247.1.40): icmp_seq=39 ttl=50 time=134 ms
+[1607862818.654553] 40 bytes from ziggy.usf.edu (131.247.1.40): icmp_seq=40 ttl=50 time=134 ms
+[1607862819.654891] 40 bytes from ziggy.usf.edu (131.247.1.40): icmp_seq=41 ttl=50 time=135 ms
+[1607862820.654656] 40 bytes from ziggy.usf.edu (131.247.1.40): icmp_seq=42 ttl=50 time=135 ms
+[1607862821.654280] 40 bytes from ziggy.usf.edu (131.247.1.40): icmp_seq=43 ttl=50 time=134 ms
+[1607862822.653362] 40 bytes from ziggy.usf.edu (131.247.1.40): icmp_seq=44 ttl=50 time=134 ms
+[1607862823.653912] 40 bytes from ziggy.usf.edu (131.247.1.40): icmp_seq=45 ttl=50 time=135 ms
+[1607862824.653711] 40 bytes from ziggy.usf.edu (131.247.1.40): icmp_seq=46 ttl=50 time=135 ms
+[1607862825.654088] 40 bytes from ziggy.usf.edu (131.247.1.40): icmp_seq=47 ttl=50 time=135 ms
+[1607862826.655351] 40 bytes from ziggy.usf.edu (131.247.1.40): icmp_seq=48 ttl=50 time=135 ms
+[1607862827.655417] 40 bytes from ziggy.usf.edu (131.247.1.40): icmp_seq=49 ttl=50 time=134 ms
+[1607862828.656413] 40 bytes from ziggy.usf.edu (131.247.1.40): icmp_seq=50 ttl=50 time=134 ms
+
+--- usf.edu ping statistics ---
+50 packets transmitted, 50 received, 0% packet loss, time 156135ms
+rtt min/avg/max/mdev = 133.641/134.371/135.711/0.359 ms

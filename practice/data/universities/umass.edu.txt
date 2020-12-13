@@ -1,0 +1,55 @@
+PING umass.edu (128.119.8.148) 32(60) bytes of data.
+[1607862685.178546] 40 bytes from origin-www.umass.edu (128.119.8.148): icmp_seq=1 ttl=238 time=105 ms
+[1607862685.284922] 40 bytes from origin-www.umass.edu (128.119.8.148): icmp_seq=2 ttl=238 time=105 ms
+[1607862686.284932] 40 bytes from origin-www.umass.edu (128.119.8.148): icmp_seq=3 ttl=238 time=104 ms
+[1607862697.294339] 40 bytes from 128.119.8.148: icmp_seq=4 ttl=238 time=105 ms
+[1607862707.406056] 40 bytes from 128.119.8.148: icmp_seq=5 ttl=238 time=104 ms
+[1607862717.518030] 40 bytes from 128.119.8.148: icmp_seq=6 ttl=238 time=104 ms
+[1607862722.628138] 40 bytes from origin-www.umass.edu (128.119.8.148): icmp_seq=7 ttl=238 time=104 ms
+[1607862722.734171] 40 bytes from origin-www.umass.edu (128.119.8.148): icmp_seq=8 ttl=238 time=104 ms
+[1607862728.737083] 40 bytes from origin-www.umass.edu (128.119.8.148): icmp_seq=9 ttl=238 time=104 ms
+[1607862733.847874] 40 bytes from origin-www.umass.edu (128.119.8.148): icmp_seq=10 ttl=238 time=104 ms
+[1607862733.954805] 40 bytes from origin-www.umass.edu (128.119.8.148): icmp_seq=11 ttl=238 time=104 ms
+[1607862739.958434] 40 bytes from origin-www.umass.edu (128.119.8.148): icmp_seq=12 ttl=238 time=104 ms
+[1607862740.064610] 40 bytes from origin-www.umass.edu (128.119.8.148): icmp_seq=13 ttl=238 time=104 ms
+[1607862746.068069] 40 bytes from origin-www.umass.edu (128.119.8.148): icmp_seq=14 ttl=238 time=104 ms
+[1607862746.174546] 40 bytes from origin-www.umass.edu (128.119.8.148): icmp_seq=15 ttl=238 time=105 ms
+[1607862747.175630] 40 bytes from origin-www.umass.edu (128.119.8.148): icmp_seq=16 ttl=238 time=104 ms
+[1607862748.176847] 40 bytes from origin-www.umass.edu (128.119.8.148): icmp_seq=17 ttl=238 time=104 ms
+[1607862749.176994] 40 bytes from origin-www.umass.edu (128.119.8.148): icmp_seq=18 ttl=238 time=104 ms
+[1607862750.178079] 40 bytes from origin-www.umass.edu (128.119.8.148): icmp_seq=19 ttl=238 time=105 ms
+[1607862751.177714] 40 bytes from origin-www.umass.edu (128.119.8.148): icmp_seq=20 ttl=238 time=104 ms
+[1607862752.178783] 40 bytes from origin-www.umass.edu (128.119.8.148): icmp_seq=21 ttl=238 time=104 ms
+[1607862753.179430] 40 bytes from origin-www.umass.edu (128.119.8.148): icmp_seq=22 ttl=238 time=105 ms
+[1607862754.180555] 40 bytes from origin-www.umass.edu (128.119.8.148): icmp_seq=23 ttl=238 time=105 ms
+[1607862760.184177] 40 bytes from origin-www.umass.edu (128.119.8.148): icmp_seq=24 ttl=238 time=104 ms
+[1607862765.296057] 40 bytes from origin-www.umass.edu (128.119.8.148): icmp_seq=25 ttl=238 time=105 ms
+[1607862770.406949] 40 bytes from origin-www.umass.edu (128.119.8.148): icmp_seq=26 ttl=238 time=105 ms
+[1607862775.515482] 40 bytes from origin-www.umass.edu (128.119.8.148): icmp_seq=27 ttl=238 time=104 ms
+[1607862780.623712] 40 bytes from origin-www.umass.edu (128.119.8.148): icmp_seq=28 ttl=238 time=104 ms
+[1607862785.732668] 40 bytes from origin-www.umass.edu (128.119.8.148): icmp_seq=29 ttl=238 time=104 ms
+[1607862785.839335] 40 bytes from origin-www.umass.edu (128.119.8.148): icmp_seq=30 ttl=238 time=104 ms
+[1607862796.842029] 40 bytes from 128.119.8.148: icmp_seq=31 ttl=238 time=104 ms
+[1607862806.954027] 40 bytes from 128.119.8.148: icmp_seq=32 ttl=238 time=104 ms
+[1607862812.063758] 40 bytes from origin-www.umass.edu (128.119.8.148): icmp_seq=33 ttl=238 time=104 ms
+[1607862817.174040] 40 bytes from origin-www.umass.edu (128.119.8.148): icmp_seq=34 ttl=238 time=104 ms
+[1607862817.280781] 40 bytes from origin-www.umass.edu (128.119.8.148): icmp_seq=35 ttl=238 time=105 ms
+[1607862828.286021] 40 bytes from 128.119.8.148: icmp_seq=36 ttl=238 time=104 ms
+[1607862833.396110] 40 bytes from origin-www.umass.edu (128.119.8.148): icmp_seq=37 ttl=238 time=104 ms
+[1607862843.506195] 40 bytes from 128.119.8.148: icmp_seq=38 ttl=238 time=104 ms
+[1607862848.615658] 40 bytes from origin-www.umass.edu (128.119.8.148): icmp_seq=39 ttl=238 time=104 ms
+[1607862853.723366] 40 bytes from origin-www.umass.edu (128.119.8.148): icmp_seq=40 ttl=238 time=104 ms
+[1607862853.829266] 40 bytes from origin-www.umass.edu (128.119.8.148): icmp_seq=41 ttl=238 time=104 ms
+[1607862854.829204] 40 bytes from origin-www.umass.edu (128.119.8.148): icmp_seq=42 ttl=238 time=104 ms
+[1607862855.830667] 40 bytes from origin-www.umass.edu (128.119.8.148): icmp_seq=43 ttl=238 time=104 ms
+[1607862856.832170] 40 bytes from origin-www.umass.edu (128.119.8.148): icmp_seq=44 ttl=238 time=104 ms
+[1607862857.833110] 40 bytes from origin-www.umass.edu (128.119.8.148): icmp_seq=45 ttl=238 time=104 ms
+[1607862858.833849] 40 bytes from origin-www.umass.edu (128.119.8.148): icmp_seq=46 ttl=238 time=104 ms
+[1607862859.836345] 40 bytes from origin-www.umass.edu (128.119.8.148): icmp_seq=47 ttl=238 time=105 ms
+[1607862860.838116] 40 bytes from origin-www.umass.edu (128.119.8.148): icmp_seq=48 ttl=238 time=105 ms
+[1607862861.839773] 40 bytes from origin-www.umass.edu (128.119.8.148): icmp_seq=49 ttl=238 time=104 ms
+[1607862862.840618] 40 bytes from origin-www.umass.edu (128.119.8.148): icmp_seq=50 ttl=238 time=105 ms
+
+--- umass.edu ping statistics ---
+50 packets transmitted, 50 received, 0% packet loss, time 179316ms
+rtt min/avg/max/mdev = 103.559/104.254/104.814/0.348 ms

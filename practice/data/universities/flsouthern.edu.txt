@@ -1,0 +1,54 @@
+PING flsouthern.edu (67.78.137.62) 32(60) bytes of data.
+[1607862697.050278] 40 bytes from 67.78.137.62: icmp_seq=1 ttl=237 time=136 ms
+[1607862697.188588] 40 bytes from flsouthern.edu (67.78.137.62): icmp_seq=2 ttl=237 time=136 ms
+[1607862698.188870] 40 bytes from flsouthern.edu (67.78.137.62): icmp_seq=3 ttl=237 time=136 ms
+[1607862709.198041] 40 bytes from 67.78.137.62: icmp_seq=4 ttl=237 time=136 ms
+[1607862719.342021] 40 bytes from 67.78.137.62: icmp_seq=5 ttl=237 time=137 ms
+[1607862724.483959] 40 bytes from flsouthern.edu (67.78.137.62): icmp_seq=6 ttl=237 time=136 ms
+[1607862729.624384] 40 bytes from 67.78.137.62: icmp_seq=7 ttl=237 time=135 ms
+[1607862730.762075] 40 bytes from flsouthern.edu (67.78.137.62): icmp_seq=9 ttl=237 time=136 ms
+[1607862736.766830] 40 bytes from flsouthern.edu (67.78.137.62): icmp_seq=10 ttl=237 time=136 ms
+[1607862736.904819] 40 bytes from flsouthern.edu (67.78.137.62): icmp_seq=11 ttl=237 time=136 ms
+[1607862737.905476] 40 bytes from flsouthern.edu (67.78.137.62): icmp_seq=12 ttl=237 time=136 ms
+[1607862738.904070] 40 bytes from flsouthern.edu (67.78.137.62): icmp_seq=13 ttl=237 time=136 ms
+[1607862744.907720] 40 bytes from flsouthern.edu (67.78.137.62): icmp_seq=14 ttl=237 time=136 ms
+[1607862750.048163] 40 bytes from flsouthern.edu (67.78.137.62): icmp_seq=15 ttl=237 time=136 ms
+[1607862750.185723] 40 bytes from flsouthern.edu (67.78.137.62): icmp_seq=16 ttl=237 time=136 ms
+[1607862751.187145] 40 bytes from flsouthern.edu (67.78.137.62): icmp_seq=17 ttl=237 time=136 ms
+[1607862762.194026] 40 bytes from 67.78.137.62: icmp_seq=18 ttl=237 time=136 ms
+[1607862762.332565] 40 bytes from flsouthern.edu (67.78.137.62): icmp_seq=19 ttl=237 time=136 ms
+[1607862763.332179] 40 bytes from flsouthern.edu (67.78.137.62): icmp_seq=20 ttl=237 time=136 ms
+[1607862764.333878] 40 bytes from flsouthern.edu (67.78.137.62): icmp_seq=21 ttl=237 time=136 ms
+[1607862775.342048] 40 bytes from 67.78.137.62: icmp_seq=22 ttl=237 time=136 ms
+[1607862780.483909] 40 bytes from flsouthern.edu (67.78.137.62): icmp_seq=23 ttl=237 time=136 ms
+[1607862780.621748] 40 bytes from flsouthern.edu (67.78.137.62): icmp_seq=24 ttl=237 time=136 ms
+[1607862791.626460] 40 bytes from 67.78.137.62: icmp_seq=25 ttl=237 time=136 ms
+[1607862801.774013] 40 bytes from 67.78.137.62: icmp_seq=26 ttl=237 time=136 ms
+[1607862811.918136] 40 bytes from 67.78.137.62: icmp_seq=27 ttl=237 time=136 ms
+[1607862817.059940] 40 bytes from flsouthern.edu (67.78.137.62): icmp_seq=28 ttl=237 time=136 ms
+[1607862817.197714] 40 bytes from flsouthern.edu (67.78.137.62): icmp_seq=29 ttl=237 time=136 ms
+[1607862828.202007] 40 bytes from 67.78.137.62: icmp_seq=30 ttl=237 time=136 ms
+[1607862838.346036] 40 bytes from 67.78.137.62: icmp_seq=31 ttl=237 time=136 ms
+[1607862838.484407] 40 bytes from flsouthern.edu (67.78.137.62): icmp_seq=32 ttl=237 time=136 ms
+[1607862839.484827] 40 bytes from flsouthern.edu (67.78.137.62): icmp_seq=33 ttl=237 time=136 ms
+[1607862840.486434] 40 bytes from flsouthern.edu (67.78.137.62): icmp_seq=34 ttl=237 time=135 ms
+[1607862841.488099] 40 bytes from flsouthern.edu (67.78.137.62): icmp_seq=35 ttl=237 time=136 ms
+[1607862842.489110] 40 bytes from flsouthern.edu (67.78.137.62): icmp_seq=36 ttl=237 time=136 ms
+[1607862848.492805] 40 bytes from flsouthern.edu (67.78.137.62): icmp_seq=37 ttl=237 time=136 ms
+[1607862853.635981] 40 bytes from flsouthern.edu (67.78.137.62): icmp_seq=38 ttl=237 time=136 ms
+[1607862853.773722] 40 bytes from flsouthern.edu (67.78.137.62): icmp_seq=39 ttl=237 time=136 ms
+[1607862859.775983] 40 bytes from flsouthern.edu (67.78.137.62): icmp_seq=40 ttl=237 time=136 ms
+[1607862859.914131] 40 bytes from flsouthern.edu (67.78.137.62): icmp_seq=41 ttl=237 time=136 ms
+[1607862860.914976] 40 bytes from flsouthern.edu (67.78.137.62): icmp_seq=42 ttl=237 time=136 ms
+[1607862861.916859] 40 bytes from flsouthern.edu (67.78.137.62): icmp_seq=43 ttl=237 time=136 ms
+[1607862862.918675] 40 bytes from flsouthern.edu (67.78.137.62): icmp_seq=44 ttl=237 time=136 ms
+[1607862863.919930] 40 bytes from flsouthern.edu (67.78.137.62): icmp_seq=45 ttl=237 time=135 ms
+[1607862869.924009] 40 bytes from flsouthern.edu (67.78.137.62): icmp_seq=46 ttl=237 time=135 ms
+[1607862875.066473] 40 bytes from flsouthern.edu (67.78.137.62): icmp_seq=47 ttl=237 time=136 ms
+[1607862875.204401] 40 bytes from flsouthern.edu (67.78.137.62): icmp_seq=48 ttl=237 time=136 ms
+[1607862876.206504] 40 bytes from flsouthern.edu (67.78.137.62): icmp_seq=49 ttl=237 time=136 ms
+[1607862877.207377] 40 bytes from flsouthern.edu (67.78.137.62): icmp_seq=50 ttl=237 time=136 ms
+
+--- flsouthern.edu ping statistics ---
+50 packets transmitted, 49 received, 2% packet loss, time 190165ms
+rtt min/avg/max/mdev = 135.424/136.005/136.652/0.276 ms

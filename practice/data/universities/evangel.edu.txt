@@ -1,0 +1,55 @@
+PING evangel.edu (35.196.213.99) 32(60) bytes of data.
+[1607862696.821996] 40 bytes from 35.196.213.99: icmp_seq=1 ttl=56 time=113 ms
+[1607862706.942008] 40 bytes from 35.196.213.99: icmp_seq=2 ttl=56 time=114 ms
+[1607862707.058380] 40 bytes from 99.213.196.35.bc.googleusercontent.com (35.196.213.99): icmp_seq=3 ttl=56 time=114 ms
+[1607862713.059832] 40 bytes from 99.213.196.35.bc.googleusercontent.com (35.196.213.99): icmp_seq=4 ttl=56 time=114 ms
+[1607862713.174669] 40 bytes from 99.213.196.35.bc.googleusercontent.com (35.196.213.99): icmp_seq=5 ttl=56 time=113 ms
+[1607862714.175721] 40 bytes from 99.213.196.35.bc.googleusercontent.com (35.196.213.99): icmp_seq=6 ttl=56 time=114 ms
+[1607862715.176976] 40 bytes from 99.213.196.35.bc.googleusercontent.com (35.196.213.99): icmp_seq=7 ttl=56 time=114 ms
+[1607862721.180751] 40 bytes from 99.213.196.35.bc.googleusercontent.com (35.196.213.99): icmp_seq=8 ttl=56 time=113 ms
+[1607862721.296313] 40 bytes from 99.213.196.35.bc.googleusercontent.com (35.196.213.99): icmp_seq=9 ttl=56 time=113 ms
+[1607862732.303375] 40 bytes from 35.196.213.99: icmp_seq=10 ttl=56 time=114 ms
+[1607862732.419107] 40 bytes from 99.213.196.35.bc.googleusercontent.com (35.196.213.99): icmp_seq=11 ttl=56 time=113 ms
+[1607862733.420795] 40 bytes from 99.213.196.35.bc.googleusercontent.com (35.196.213.99): icmp_seq=12 ttl=56 time=113 ms
+[1607862739.423741] 40 bytes from 99.213.196.35.bc.googleusercontent.com (35.196.213.99): icmp_seq=13 ttl=56 time=113 ms
+[1607862744.544190] 40 bytes from 99.213.196.35.bc.googleusercontent.com (35.196.213.99): icmp_seq=14 ttl=56 time=114 ms
+[1607862754.666008] 40 bytes from 35.196.213.99: icmp_seq=15 ttl=56 time=114 ms
+[1607862759.782966] 40 bytes from 99.213.196.35.bc.googleusercontent.com (35.196.213.99): icmp_seq=16 ttl=56 time=114 ms
+[1607862764.899577] 40 bytes from 99.213.196.35.bc.googleusercontent.com (35.196.213.99): icmp_seq=17 ttl=56 time=113 ms
+[1607862770.020110] 40 bytes from 99.213.196.35.bc.googleusercontent.com (35.196.213.99): icmp_seq=18 ttl=56 time=114 ms
+[1607862770.135932] 40 bytes from 99.213.196.35.bc.googleusercontent.com (35.196.213.99): icmp_seq=19 ttl=56 time=114 ms
+[1607862781.142153] 40 bytes from 35.196.213.99: icmp_seq=20 ttl=56 time=114 ms
+[1607862791.262373] 40 bytes from 35.196.213.99: icmp_seq=21 ttl=56 time=114 ms
+[1607862801.382012] 40 bytes from 35.196.213.99: icmp_seq=22 ttl=56 time=113 ms
+[1607862801.497573] 40 bytes from 99.213.196.35.bc.googleusercontent.com (35.196.213.99): icmp_seq=23 ttl=56 time=113 ms
+[1607862812.506364] 40 bytes from 35.196.213.99: icmp_seq=24 ttl=56 time=114 ms
+[1607862822.626280] 40 bytes from 35.196.213.99: icmp_seq=25 ttl=56 time=114 ms
+[1607862827.744194] 40 bytes from 99.213.196.35.bc.googleusercontent.com (35.196.213.99): icmp_seq=26 ttl=56 time=114 ms
+[1607862832.865941] 40 bytes from 99.213.196.35.bc.googleusercontent.com (35.196.213.99): icmp_seq=27 ttl=56 time=115 ms
+[1607862837.983998] 40 bytes from 99.213.196.35.bc.googleusercontent.com (35.196.213.99): icmp_seq=28 ttl=56 time=114 ms
+[1607862838.099534] 40 bytes from 99.213.196.35.bc.googleusercontent.com (35.196.213.99): icmp_seq=29 ttl=56 time=113 ms
+[1607862849.106138] 40 bytes from 35.196.213.99: icmp_seq=30 ttl=56 time=114 ms
+[1607862859.226042] 40 bytes from 35.196.213.99: icmp_seq=31 ttl=56 time=114 ms
+[1607862864.344010] 40 bytes from 99.213.196.35.bc.googleusercontent.com (35.196.213.99): icmp_seq=32 ttl=56 time=114 ms
+[1607862864.458743] 40 bytes from 99.213.196.35.bc.googleusercontent.com (35.196.213.99): icmp_seq=33 ttl=56 time=113 ms
+[1607862875.466015] 40 bytes from 35.196.213.99: icmp_seq=34 ttl=56 time=114 ms
+[1607862875.581166] 40 bytes from 99.213.196.35.bc.googleusercontent.com (35.196.213.99): icmp_seq=35 ttl=56 time=113 ms
+[1607862876.582746] 40 bytes from 99.213.196.35.bc.googleusercontent.com (35.196.213.99): icmp_seq=36 ttl=56 time=114 ms
+[1607862877.584226] 40 bytes from 99.213.196.35.bc.googleusercontent.com (35.196.213.99): icmp_seq=37 ttl=56 time=114 ms
+[1607862878.585819] 40 bytes from 99.213.196.35.bc.googleusercontent.com (35.196.213.99): icmp_seq=38 ttl=56 time=114 ms
+[1607862879.587536] 40 bytes from 99.213.196.35.bc.googleusercontent.com (35.196.213.99): icmp_seq=39 ttl=56 time=114 ms
+[1607862880.588593] 40 bytes from 99.213.196.35.bc.googleusercontent.com (35.196.213.99): icmp_seq=40 ttl=56 time=113 ms
+[1607862881.590314] 40 bytes from 99.213.196.35.bc.googleusercontent.com (35.196.213.99): icmp_seq=41 ttl=56 time=114 ms
+[1607862882.591368] 40 bytes from 99.213.196.35.bc.googleusercontent.com (35.196.213.99): icmp_seq=42 ttl=56 time=114 ms
+[1607862883.592780] 40 bytes from 99.213.196.35.bc.googleusercontent.com (35.196.213.99): icmp_seq=43 ttl=56 time=114 ms
+[1607862884.593552] 40 bytes from 99.213.196.35.bc.googleusercontent.com (35.196.213.99): icmp_seq=44 ttl=56 time=114 ms
+[1607862885.594164] 40 bytes from 99.213.196.35.bc.googleusercontent.com (35.196.213.99): icmp_seq=45 ttl=56 time=113 ms
+[1607862886.595673] 40 bytes from 99.213.196.35.bc.googleusercontent.com (35.196.213.99): icmp_seq=46 ttl=56 time=114 ms
+[1607862887.597197] 40 bytes from 99.213.196.35.bc.googleusercontent.com (35.196.213.99): icmp_seq=47 ttl=56 time=114 ms
+[1607862888.598051] 40 bytes from 99.213.196.35.bc.googleusercontent.com (35.196.213.99): icmp_seq=48 ttl=56 time=114 ms
+[1607862889.599381] 40 bytes from 99.213.196.35.bc.googleusercontent.com (35.196.213.99): icmp_seq=49 ttl=56 time=114 ms
+[1607862890.600885] 40 bytes from 99.213.196.35.bc.googleusercontent.com (35.196.213.99): icmp_seq=50 ttl=56 time=114 ms
+
+--- evangel.edu ping statistics ---
+50 packets transmitted, 50 received, 0% packet loss, time 203782ms
+rtt min/avg/max/mdev = 112.736/113.544/114.941/0.336 ms

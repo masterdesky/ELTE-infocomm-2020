@@ -1,0 +1,5 @@
+PING oak.edu (34.238.11.122) 32(60) bytes of data.
+
+--- oak.edu ping statistics ---
+50 packets transmitted, 0 received, 100% packet loss, time 49252ms
+

@@ -1,0 +1,55 @@
+PING nvcc.edu (164.106.130.6) 32(60) bytes of data.
+[1607862727.287001] 40 bytes from nvcc.edu (164.106.130.6): icmp_seq=1 ttl=240 time=104 ms
+[1607862727.803588] 40 bytes from mobile.nvcc.edu (164.106.130.6): icmp_seq=2 ttl=240 time=103 ms
+[1607862733.807981] 40 bytes from www.nvcc.edu (164.106.130.6): icmp_seq=3 ttl=240 time=103 ms
+[1607862733.914443] 40 bytes from parking.nvcc.edu.nvcc.edu (164.106.130.6): icmp_seq=4 ttl=240 time=104 ms
+[1607862744.918006] 40 bytes from 164.106.130.6: icmp_seq=5 ttl=240 time=103 ms
+[1607862750.027007] 40 bytes from parking.nvcc.edu.nvcc.edu (164.106.130.6): icmp_seq=6 ttl=240 time=103 ms
+[1607862755.135660] 40 bytes from www.nvcc.edu (164.106.130.6): icmp_seq=7 ttl=240 time=103 ms
+[1607862760.244182] 40 bytes from mobile.nvcc.edu (164.106.130.6): icmp_seq=8 ttl=240 time=104 ms
+[1607862770.354009] 40 bytes from 164.106.130.6: icmp_seq=9 ttl=240 time=103 ms
+[1607862775.464081] 40 bytes from parking.nvcc.edu.nvcc.edu (164.106.130.6): icmp_seq=10 ttl=240 time=104 ms
+[1607862780.572000] 40 bytes from mobile.nvcc.edu (164.106.130.6): icmp_seq=11 ttl=240 time=103 ms
+[1607862785.682091] 40 bytes from mobile.nvcc.edu (164.106.130.6): icmp_seq=12 ttl=240 time=103 ms
+[1607862785.786466] 40 bytes from mobile.nvcc.edu (164.106.130.6): icmp_seq=13 ttl=240 time=103 ms
+[1607862786.787735] 40 bytes from mobile.nvcc.edu (164.106.130.6): icmp_seq=14 ttl=240 time=103 ms
+[1607862787.787223] 40 bytes from parking.nvcc.edu.nvcc.edu (164.106.130.6): icmp_seq=15 ttl=240 time=103 ms
+[1607862788.788719] 40 bytes from nvcc.edu (164.106.130.6): icmp_seq=16 ttl=240 time=103 ms
+[1607862789.790078] 40 bytes from nvcc.edu (164.106.130.6): icmp_seq=17 ttl=240 time=103 ms
+[1607862790.791908] 40 bytes from parking.nvcc.edu.nvcc.edu (164.106.130.6): icmp_seq=18 ttl=240 time=103 ms
+[1607862796.795912] 40 bytes from parking.nvcc.edu.nvcc.edu (164.106.130.6): icmp_seq=19 ttl=240 time=103 ms
+[1607862806.906026] 40 bytes from 164.106.130.6: icmp_seq=20 ttl=240 time=103 ms
+[1607862812.015841] 40 bytes from mobile.nvcc.edu (164.106.130.6): icmp_seq=21 ttl=240 time=104 ms
+[1607862817.124088] 40 bytes from mobile.nvcc.edu (164.106.130.6): icmp_seq=22 ttl=240 time=103 ms
+[1607862817.228470] 40 bytes from www.nvcc.edu (164.106.130.6): icmp_seq=23 ttl=240 time=103 ms
+[1607862828.234027] 40 bytes from 164.106.130.6: icmp_seq=24 ttl=240 time=104 ms
+[1607862833.343678] 40 bytes from parking.nvcc.edu.nvcc.edu (164.106.130.6): icmp_seq=25 ttl=240 time=103 ms
+[1607862843.454481] 40 bytes from 164.106.130.6: icmp_seq=26 ttl=240 time=104 ms
+[1607862848.563659] 40 bytes from parking.nvcc.edu.nvcc.edu (164.106.130.6): icmp_seq=27 ttl=240 time=103 ms
+[1607862853.673330] 40 bytes from nvcc.edu (164.106.130.6): icmp_seq=28 ttl=240 time=103 ms
+[1607862853.779266] 40 bytes from mobile.nvcc.edu (164.106.130.6): icmp_seq=29 ttl=240 time=104 ms
+[1607862859.783479] 40 bytes from nvcc.edu (164.106.130.6): icmp_seq=30 ttl=240 time=103 ms
+[1607862859.888070] 40 bytes from nvcc.edu (164.106.130.6): icmp_seq=31 ttl=240 time=103 ms
+[1607862860.890725] 40 bytes from nvcc.edu (164.106.130.6): icmp_seq=32 ttl=240 time=103 ms
+[1607862861.891692] 40 bytes from nvcc.edu (164.106.130.6): icmp_seq=33 ttl=240 time=104 ms
+[1607862862.893012] 40 bytes from nvcc.edu (164.106.130.6): icmp_seq=34 ttl=240 time=103 ms
+[1607862863.894365] 40 bytes from nvcc.edu (164.106.130.6): icmp_seq=35 ttl=240 time=104 ms
+[1607862869.896155] 40 bytes from mobile.nvcc.edu (164.106.130.6): icmp_seq=36 ttl=240 time=103 ms
+[1607862875.005469] 40 bytes from nvcc.edu (164.106.130.6): icmp_seq=37 ttl=240 time=104 ms
+[1607862875.110420] 40 bytes from www.nvcc.edu (164.106.130.6): icmp_seq=38 ttl=240 time=103 ms
+[1607862876.112312] 40 bytes from www.nvcc.edu (164.106.130.6): icmp_seq=39 ttl=240 time=103 ms
+[1607862877.115276] 40 bytes from www.nvcc.edu (164.106.130.6): icmp_seq=40 ttl=240 time=103 ms
+[1607862878.115210] 40 bytes from mobile.nvcc.edu (164.106.130.6): icmp_seq=41 ttl=240 time=103 ms
+[1607862879.115018] 40 bytes from nvcc.edu (164.106.130.6): icmp_seq=42 ttl=240 time=103 ms
+[1607862880.117226] 40 bytes from parking.nvcc.edu.nvcc.edu (164.106.130.6): icmp_seq=43 ttl=240 time=104 ms
+[1607862881.118185] 40 bytes from parking.nvcc.edu.nvcc.edu (164.106.130.6): icmp_seq=44 ttl=240 time=103 ms
+[1607862882.118681] 40 bytes from parking.nvcc.edu.nvcc.edu (164.106.130.6): icmp_seq=45 ttl=240 time=103 ms
+[1607862883.118556] 40 bytes from nvcc.edu (164.106.130.6): icmp_seq=46 ttl=240 time=103 ms
+[1607862884.119156] 40 bytes from mobile.nvcc.edu (164.106.130.6): icmp_seq=47 ttl=240 time=103 ms
+[1607862885.119912] 40 bytes from mobile.nvcc.edu (164.106.130.6): icmp_seq=48 ttl=240 time=103 ms
+[1607862886.120814] 40 bytes from nvcc.edu (164.106.130.6): icmp_seq=49 ttl=240 time=103 ms
+[1607862887.120679] 40 bytes from parking.nvcc.edu.nvcc.edu (164.106.130.6): icmp_seq=50 ttl=240 time=103 ms
+
+--- nvcc.edu ping statistics ---
+50 packets transmitted, 50 received, 0% packet loss, time 160317ms
+rtt min/avg/max/mdev = 102.546/103.332/104.472/0.416 ms

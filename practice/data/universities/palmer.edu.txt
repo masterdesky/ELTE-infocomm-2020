@@ -1,0 +1,5 @@
+PING palmer.edu (96.45.83.88) 32(60) bytes of data.
+
+--- palmer.edu ping statistics ---
+50 packets transmitted, 0 received, 100% packet loss, time 49168ms
+

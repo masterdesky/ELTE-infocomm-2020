@@ -1,0 +1,55 @@
+PING etown.edu (173.240.224.38) 32(60) bytes of data.
+[1607862712.344438] 40 bytes from www.etown.edu (173.240.224.38): icmp_seq=1 ttl=111 time=122 ms
+[1607862712.569032] 40 bytes from www.etown.edu (173.240.224.38): icmp_seq=2 ttl=111 time=121 ms
+[1607862713.569819] 40 bytes from www.etown.edu (173.240.224.38): icmp_seq=3 ttl=111 time=121 ms
+[1607862724.574055] 40 bytes from 173.240.224.38: icmp_seq=4 ttl=111 time=122 ms
+[1607862734.702003] 40 bytes from 173.240.224.38: icmp_seq=5 ttl=111 time=121 ms
+[1607862734.825359] 40 bytes from www.etown.edu (173.240.224.38): icmp_seq=6 ttl=111 time=121 ms
+[1607862740.828112] 40 bytes from www.etown.edu (173.240.224.38): icmp_seq=7 ttl=111 time=121 ms
+[1607862745.956536] 40 bytes from www.etown.edu (173.240.224.38): icmp_seq=8 ttl=111 time=121 ms
+[1607862751.084284] 40 bytes from www.etown.edu (173.240.224.38): icmp_seq=9 ttl=111 time=121 ms
+[1607862761.214053] 40 bytes from 173.240.224.38: icmp_seq=10 ttl=111 time=121 ms
+[1607862761.337433] 40 bytes from www.etown.edu (173.240.224.38): icmp_seq=11 ttl=111 time=121 ms
+[1607862762.338091] 40 bytes from www.etown.edu (173.240.224.38): icmp_seq=12 ttl=111 time=122 ms
+[1607862763.338380] 40 bytes from www.etown.edu (173.240.224.38): icmp_seq=13 ttl=111 time=121 ms
+[1607862764.340148] 40 bytes from www.etown.edu (173.240.224.38): icmp_seq=14 ttl=111 time=121 ms
+[1607862775.346787] 40 bytes from 173.240.224.38: icmp_seq=15 ttl=111 time=121 ms
+[1607862780.472350] 40 bytes from www.etown.edu (173.240.224.38): icmp_seq=16 ttl=111 time=121 ms
+[1607862780.595746] 40 bytes from www.etown.edu (173.240.224.38): icmp_seq=17 ttl=111 time=121 ms
+[1607862786.595963] 40 bytes from www.etown.edu (173.240.224.38): icmp_seq=18 ttl=111 time=121 ms
+[1607862786.719395] 40 bytes from www.etown.edu (173.240.224.38): icmp_seq=19 ttl=111 time=121 ms
+[1607862797.726008] 40 bytes from 173.240.224.38: icmp_seq=20 ttl=111 time=121 ms
+[1607862807.854008] 40 bytes from 173.240.224.38: icmp_seq=21 ttl=111 time=121 ms
+[1607862817.982054] 40 bytes from 173.240.224.38: icmp_seq=22 ttl=111 time=122 ms
+[1607862818.105853] 40 bytes from www.etown.edu (173.240.224.38): icmp_seq=23 ttl=111 time=122 ms
+[1607862819.104541] 40 bytes from www.etown.edu (173.240.224.38): icmp_seq=24 ttl=111 time=121 ms
+[1607862820.105578] 40 bytes from www.etown.edu (173.240.224.38): icmp_seq=25 ttl=111 time=122 ms
+[1607862821.105467] 40 bytes from www.etown.edu (173.240.224.38): icmp_seq=26 ttl=111 time=121 ms
+[1607862822.105711] 40 bytes from www.etown.edu (173.240.224.38): icmp_seq=27 ttl=111 time=122 ms
+[1607862833.110047] 40 bytes from 173.240.224.38: icmp_seq=28 ttl=111 time=121 ms
+[1607862838.235615] 40 bytes from www.etown.edu (173.240.224.38): icmp_seq=29 ttl=111 time=121 ms
+[1607862838.358738] 40 bytes from www.etown.edu (173.240.224.38): icmp_seq=30 ttl=111 time=121 ms
+[1607862839.360926] 40 bytes from www.etown.edu (173.240.224.38): icmp_seq=31 ttl=111 time=122 ms
+[1607862840.361421] 40 bytes from www.etown.edu (173.240.224.38): icmp_seq=32 ttl=111 time=121 ms
+[1607862841.362684] 40 bytes from www.etown.edu (173.240.224.38): icmp_seq=33 ttl=111 time=121 ms
+[1607862842.363423] 40 bytes from www.etown.edu (173.240.224.38): icmp_seq=34 ttl=111 time=121 ms
+[1607862843.363810] 40 bytes from www.etown.edu (173.240.224.38): icmp_seq=35 ttl=111 time=121 ms
+[1607862854.370038] 40 bytes from 173.240.224.38: icmp_seq=36 ttl=111 time=121 ms
+[1607862859.496279] 40 bytes from www.etown.edu (173.240.224.38): icmp_seq=37 ttl=111 time=122 ms
+[1607862864.623928] 40 bytes from www.etown.edu (173.240.224.38): icmp_seq=38 ttl=111 time=121 ms
+[1607862869.748187] 40 bytes from www.etown.edu (173.240.224.38): icmp_seq=39 ttl=111 time=121 ms
+[1607862869.870668] 40 bytes from www.etown.edu (173.240.224.38): icmp_seq=40 ttl=111 time=121 ms
+[1607862870.872889] 40 bytes from www.etown.edu (173.240.224.38): icmp_seq=41 ttl=111 time=121 ms
+[1607862871.873203] 40 bytes from www.etown.edu (173.240.224.38): icmp_seq=42 ttl=111 time=121 ms
+[1607862872.874722] 40 bytes from www.etown.edu (173.240.224.38): icmp_seq=43 ttl=111 time=122 ms
+[1607862873.875978] 40 bytes from www.etown.edu (173.240.224.38): icmp_seq=44 ttl=111 time=121 ms
+[1607862874.876308] 40 bytes from www.etown.edu (173.240.224.38): icmp_seq=45 ttl=111 time=121 ms
+[1607862880.879973] 40 bytes from www.etown.edu (173.240.224.38): icmp_seq=46 ttl=111 time=122 ms
+[1607862881.002716] 40 bytes from www.etown.edu (173.240.224.38): icmp_seq=47 ttl=111 time=121 ms
+[1607862882.003746] 40 bytes from www.etown.edu (173.240.224.38): icmp_seq=48 ttl=111 time=121 ms
+[1607862883.004465] 40 bytes from www.etown.edu (173.240.224.38): icmp_seq=49 ttl=111 time=121 ms
+[1607862884.004869] 40 bytes from www.etown.edu (173.240.224.38): icmp_seq=50 ttl=111 time=121 ms
+
+--- etown.edu ping statistics ---
+50 packets transmitted, 50 received, 0% packet loss, time 172435ms
+rtt min/avg/max/mdev = 120.608/121.281/121.694/0.281 ms

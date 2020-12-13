@@ -1,0 +1,55 @@
+PING oaklandcc.edu (107.154.75.157) 32(60) bytes of data.
+[1607862710.386144] 40 bytes from 107.154.75.157: icmp_seq=1 ttl=53 time=102 ms
+[1607862711.099750] 40 bytes from 107.154.75.157.ip.incapdns.net (107.154.75.157): icmp_seq=2 ttl=53 time=102 ms
+[1607862711.491207] 40 bytes from 107.154.75.157.ip.incapdns.net (107.154.75.157): icmp_seq=3 ttl=53 time=103 ms
+[1607862717.495616] 40 bytes from 107.154.75.157.ip.incapdns.net (107.154.75.157): icmp_seq=4 ttl=53 time=102 ms
+[1607862717.600510] 40 bytes from 107.154.75.157.ip.incapdns.net (107.154.75.157): icmp_seq=5 ttl=53 time=102 ms
+[1607862718.598729] 40 bytes from 107.154.75.157.ip.incapdns.net (107.154.75.157): icmp_seq=6 ttl=53 time=102 ms
+[1607862724.604145] 40 bytes from 107.154.75.157.ip.incapdns.net (107.154.75.157): icmp_seq=7 ttl=53 time=103 ms
+[1607862734.714499] 40 bytes from 107.154.75.157: icmp_seq=8 ttl=53 time=103 ms
+[1607862734.819704] 40 bytes from 107.154.75.157.ip.incapdns.net (107.154.75.157): icmp_seq=9 ttl=53 time=103 ms
+[1607862745.826036] 40 bytes from 107.154.75.157: icmp_seq=10 ttl=53 time=103 ms
+[1607862755.933997] 40 bytes from 107.154.75.157: icmp_seq=11 ttl=53 time=103 ms
+[1607862766.042100] 40 bytes from 107.154.75.157: icmp_seq=12 ttl=53 time=102 ms
+[1607862776.153999] 40 bytes from 107.154.75.157: icmp_seq=13 ttl=53 time=103 ms
+[1607862786.262039] 40 bytes from 107.154.75.157: icmp_seq=14 ttl=53 time=103 ms
+[1607862796.370045] 40 bytes from 107.154.75.157: icmp_seq=15 ttl=53 time=103 ms
+[1607862796.474975] 40 bytes from 107.154.75.157.ip.incapdns.net (107.154.75.157): icmp_seq=16 ttl=53 time=103 ms
+[1607862797.474360] 40 bytes from 107.154.75.157.ip.incapdns.net (107.154.75.157): icmp_seq=17 ttl=53 time=102 ms
+[1607862798.475475] 40 bytes from 107.154.75.157.ip.incapdns.net (107.154.75.157): icmp_seq=18 ttl=53 time=103 ms
+[1607862799.476547] 40 bytes from 107.154.75.157.ip.incapdns.net (107.154.75.157): icmp_seq=19 ttl=53 time=103 ms
+[1607862800.477622] 40 bytes from 107.154.75.157.ip.incapdns.net (107.154.75.157): icmp_seq=20 ttl=53 time=103 ms
+[1607862801.477339] 40 bytes from 107.154.75.157.ip.incapdns.net (107.154.75.157): icmp_seq=21 ttl=53 time=102 ms
+[1607862802.478750] 40 bytes from 107.154.75.157.ip.incapdns.net (107.154.75.157): icmp_seq=22 ttl=53 time=103 ms
+[1607862803.479305] 40 bytes from 107.154.75.157.ip.incapdns.net (107.154.75.157): icmp_seq=23 ttl=53 time=103 ms
+[1607862804.481461] 40 bytes from 107.154.75.157.ip.incapdns.net (107.154.75.157): icmp_seq=24 ttl=53 time=103 ms
+[1607862805.482124] 40 bytes from 107.154.75.157.ip.incapdns.net (107.154.75.157): icmp_seq=25 ttl=53 time=103 ms
+[1607862806.482993] 40 bytes from 107.154.75.157.ip.incapdns.net (107.154.75.157): icmp_seq=26 ttl=53 time=103 ms
+[1607862807.483310] 40 bytes from 107.154.75.157.ip.incapdns.net (107.154.75.157): icmp_seq=27 ttl=53 time=102 ms
+[1607862808.484594] 40 bytes from 107.154.75.157.ip.incapdns.net (107.154.75.157): icmp_seq=28 ttl=53 time=103 ms
+[1607862809.484705] 40 bytes from 107.154.75.157.ip.incapdns.net (107.154.75.157): icmp_seq=29 ttl=53 time=103 ms
+[1607862810.486305] 40 bytes from 107.154.75.157.ip.incapdns.net (107.154.75.157): icmp_seq=30 ttl=53 time=105 ms
+[1607862811.483750] 40 bytes from 107.154.75.157.ip.incapdns.net (107.154.75.157): icmp_seq=31 ttl=53 time=103 ms
+[1607862817.483843] 40 bytes from 107.154.75.157.ip.incapdns.net (107.154.75.157): icmp_seq=32 ttl=53 time=102 ms
+[1607862827.594026] 40 bytes from 107.154.75.157: icmp_seq=33 ttl=53 time=102 ms
+[1607862827.698664] 40 bytes from 107.154.75.157.ip.incapdns.net (107.154.75.157): icmp_seq=34 ttl=53 time=103 ms
+[1607862833.704093] 40 bytes from 107.154.75.157.ip.incapdns.net (107.154.75.157): icmp_seq=35 ttl=53 time=103 ms
+[1607862843.814032] 40 bytes from 107.154.75.157: icmp_seq=36 ttl=53 time=103 ms
+[1607862853.926095] 40 bytes from 107.154.75.157: icmp_seq=37 ttl=53 time=103 ms
+[1607862859.036206] 40 bytes from 107.154.75.157.ip.incapdns.net (107.154.75.157): icmp_seq=38 ttl=53 time=103 ms
+[1607862859.141211] 40 bytes from 107.154.75.157.ip.incapdns.net (107.154.75.157): icmp_seq=39 ttl=53 time=103 ms
+[1607862865.144063] 40 bytes from 107.154.75.157.ip.incapdns.net (107.154.75.157): icmp_seq=40 ttl=53 time=103 ms
+[1607862865.247205] 40 bytes from 107.154.75.157.ip.incapdns.net (107.154.75.157): icmp_seq=41 ttl=53 time=102 ms
+[1607862866.249428] 40 bytes from 107.154.75.157.ip.incapdns.net (107.154.75.157): icmp_seq=42 ttl=53 time=102 ms
+[1607862867.249488] 40 bytes from 107.154.75.157.ip.incapdns.net (107.154.75.157): icmp_seq=43 ttl=53 time=102 ms
+[1607862868.251606] 40 bytes from 107.154.75.157.ip.incapdns.net (107.154.75.157): icmp_seq=44 ttl=53 time=102 ms
+[1607862869.253506] 40 bytes from 107.154.75.157.ip.incapdns.net (107.154.75.157): icmp_seq=45 ttl=53 time=103 ms
+[1607862870.253483] 40 bytes from 107.154.75.157.ip.incapdns.net (107.154.75.157): icmp_seq=46 ttl=53 time=102 ms
+[1607862871.254549] 40 bytes from 107.154.75.157.ip.incapdns.net (107.154.75.157): icmp_seq=47 ttl=53 time=103 ms
+[1607862872.255115] 40 bytes from 107.154.75.157.ip.incapdns.net (107.154.75.157): icmp_seq=48 ttl=53 time=102 ms
+[1607862873.256681] 40 bytes from 107.154.75.157.ip.incapdns.net (107.154.75.157): icmp_seq=49 ttl=53 time=102 ms
+[1607862874.259127] 40 bytes from 107.154.75.157.ip.incapdns.net (107.154.75.157): icmp_seq=50 ttl=53 time=103 ms
+
+--- oaklandcc.edu ping statistics ---
+50 packets transmitted, 50 received, 0% packet loss, time 173876ms
+rtt min/avg/max/mdev = 101.694/102.518/104.572/0.433 ms

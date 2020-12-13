@@ -1,0 +1,55 @@
+PING usciences.edu (216.38.0.34) 32(60) bytes of data.
+[1607862708.522023] 40 bytes from 216.38.0.34: icmp_seq=1 ttl=52 time=118 ms
+[1607862718.647444] 40 bytes from 216.38.0.34: icmp_seq=2 ttl=52 time=119 ms
+[1607862719.083673] 40 bytes from 216.38.0.34 (216.38.0.34): icmp_seq=3 ttl=52 time=118 ms
+[1607862719.768925] 40 bytes from 216.38.0.34 (216.38.0.34): icmp_seq=4 ttl=52 time=119 ms
+[1607862730.774031] 40 bytes from 216.38.0.34: icmp_seq=5 ttl=52 time=119 ms
+[1607862730.894267] 40 bytes from 216.38.0.34 (216.38.0.34): icmp_seq=6 ttl=52 time=118 ms
+[1607862731.894598] 40 bytes from 216.38.0.34 (216.38.0.34): icmp_seq=7 ttl=52 time=118 ms
+[1607862732.894302] 40 bytes from 216.38.0.34 (216.38.0.34): icmp_seq=8 ttl=52 time=119 ms
+[1607862733.894781] 40 bytes from 216.38.0.34 (216.38.0.34): icmp_seq=9 ttl=52 time=119 ms
+[1607862734.894571] 40 bytes from 216.38.0.34 (216.38.0.34): icmp_seq=10 ttl=52 time=119 ms
+[1607862735.895992] 40 bytes from 216.38.0.34 (216.38.0.34): icmp_seq=11 ttl=52 time=119 ms
+[1607862741.895915] 40 bytes from 216.38.0.34 (216.38.0.34): icmp_seq=12 ttl=52 time=119 ms
+[1607862742.016089] 40 bytes from 216.38.0.34 (216.38.0.34): icmp_seq=13 ttl=52 time=119 ms
+[1607862743.016148] 40 bytes from 216.38.0.34 (216.38.0.34): icmp_seq=14 ttl=52 time=119 ms
+[1607862744.016719] 40 bytes from 216.38.0.34 (216.38.0.34): icmp_seq=15 ttl=52 time=119 ms
+[1607862745.017426] 40 bytes from 216.38.0.34 (216.38.0.34): icmp_seq=16 ttl=52 time=119 ms
+[1607862751.019874] 40 bytes from 216.38.0.34 (216.38.0.34): icmp_seq=17 ttl=52 time=118 ms
+[1607862751.140537] 40 bytes from 216.38.0.34 (216.38.0.34): icmp_seq=18 ttl=52 time=119 ms
+[1607862757.143698] 40 bytes from 216.38.0.34 (216.38.0.34): icmp_seq=19 ttl=52 time=119 ms
+[1607862767.270057] 40 bytes from 216.38.0.34: icmp_seq=20 ttl=52 time=120 ms
+[1607862777.398047] 40 bytes from 216.38.0.34: icmp_seq=21 ttl=52 time=119 ms
+[1607862777.518271] 40 bytes from 216.38.0.34 (216.38.0.34): icmp_seq=22 ttl=52 time=118 ms
+[1607862778.518345] 40 bytes from 216.38.0.34 (216.38.0.34): icmp_seq=23 ttl=52 time=119 ms
+[1607862779.517557] 40 bytes from 216.38.0.34 (216.38.0.34): icmp_seq=24 ttl=52 time=119 ms
+[1607862780.517140] 40 bytes from 216.38.0.34 (216.38.0.34): icmp_seq=25 ttl=52 time=119 ms
+[1607862781.517329] 40 bytes from 216.38.0.34 (216.38.0.34): icmp_seq=26 ttl=52 time=119 ms
+[1607862782.516235] 40 bytes from 216.38.0.34 (216.38.0.34): icmp_seq=27 ttl=52 time=119 ms
+[1607862783.517804] 40 bytes from 216.38.0.34 (216.38.0.34): icmp_seq=28 ttl=52 time=119 ms
+[1607862784.519106] 40 bytes from 216.38.0.34 (216.38.0.34): icmp_seq=29 ttl=52 time=119 ms
+[1607862785.519168] 40 bytes from 216.38.0.34 (216.38.0.34): icmp_seq=30 ttl=52 time=119 ms
+[1607862791.522711] 40 bytes from 216.38.0.34 (216.38.0.34): icmp_seq=31 ttl=52 time=118 ms
+[1607862801.650010] 40 bytes from 216.38.0.34: icmp_seq=32 ttl=52 time=119 ms
+[1607862806.776164] 40 bytes from 216.38.0.34 (216.38.0.34): icmp_seq=33 ttl=52 time=119 ms
+[1607862811.900089] 40 bytes from 216.38.0.34 (216.38.0.34): icmp_seq=34 ttl=52 time=119 ms
+[1607862812.020055] 40 bytes from 216.38.0.34 (216.38.0.34): icmp_seq=35 ttl=52 time=118 ms
+[1607862813.020273] 40 bytes from 216.38.0.34 (216.38.0.34): icmp_seq=36 ttl=52 time=118 ms
+[1607862814.022405] 40 bytes from 216.38.0.34 (216.38.0.34): icmp_seq=37 ttl=52 time=119 ms
+[1607862815.022335] 40 bytes from 216.38.0.34 (216.38.0.34): icmp_seq=38 ttl=52 time=119 ms
+[1607862816.022205] 40 bytes from 216.38.0.34 (216.38.0.34): icmp_seq=39 ttl=52 time=119 ms
+[1607862817.022867] 40 bytes from 216.38.0.34 (216.38.0.34): icmp_seq=40 ttl=52 time=119 ms
+[1607862828.026022] 40 bytes from 216.38.0.34: icmp_seq=41 ttl=52 time=119 ms
+[1607862838.154052] 40 bytes from 216.38.0.34: icmp_seq=42 ttl=52 time=119 ms
+[1607862838.274167] 40 bytes from 216.38.0.34 (216.38.0.34): icmp_seq=43 ttl=52 time=118 ms
+[1607862839.275715] 40 bytes from 216.38.0.34 (216.38.0.34): icmp_seq=44 ttl=52 time=119 ms
+[1607862840.276431] 40 bytes from 216.38.0.34 (216.38.0.34): icmp_seq=45 ttl=52 time=119 ms
+[1607862841.277000] 40 bytes from 216.38.0.34 (216.38.0.34): icmp_seq=46 ttl=52 time=119 ms
+[1607862842.279897] 40 bytes from 216.38.0.34 (216.38.0.34): icmp_seq=47 ttl=52 time=119 ms
+[1607862843.280634] 40 bytes from 216.38.0.34 (216.38.0.34): icmp_seq=48 ttl=52 time=118 ms
+[1607862849.283820] 40 bytes from 216.38.0.34 (216.38.0.34): icmp_seq=49 ttl=52 time=118 ms
+[1607862849.404306] 40 bytes from 216.38.0.34 (216.38.0.34): icmp_seq=50 ttl=52 time=118 ms
+
+--- usciences.edu ping statistics ---
+50 packets transmitted, 50 received, 0% packet loss, time 150887ms
+rtt min/avg/max/mdev = 117.929/118.607/119.635/0.310 ms

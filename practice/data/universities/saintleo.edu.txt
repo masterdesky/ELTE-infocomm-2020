@@ -1,0 +1,55 @@
+PING saintleo.edu (207.30.63.68) 32(60) bytes of data.
+[1607862702.366584] 40 bytes from 207.30.63.68: icmp_seq=1 ttl=113 time=138 ms
+[1607862702.506991] 40 bytes from etCentral.saintleo.edu (207.30.63.68): icmp_seq=2 ttl=113 time=138 ms
+[1607862713.514046] 40 bytes from 207.30.63.68: icmp_seq=3 ttl=113 time=138 ms
+[1607862713.654411] 40 bytes from workday.saintleo.edu (207.30.63.68): icmp_seq=4 ttl=113 time=138 ms
+[1607862714.655264] 40 bytes from ibc2014.saintleo.edu (207.30.63.68): icmp_seq=5 ttl=113 time=138 ms
+[1607862715.657290] 40 bytes from ecard.saintleo.edu (207.30.63.68): icmp_seq=6 ttl=113 time=139 ms
+[1607862726.663030] 40 bytes from 207.30.63.68: icmp_seq=7 ttl=113 time=138 ms
+[1607862726.803573] 40 bytes from etSTS.saintleo.edu (207.30.63.68): icmp_seq=8 ttl=113 time=138 ms
+[1607862727.803663] 40 bytes from etCentral.saintleo.edu (207.30.63.68): icmp_seq=9 ttl=113 time=138 ms
+[1607862733.808007] 40 bytes from constructioncam5.saintleo.edu (207.30.63.68): icmp_seq=10 ttl=113 time=138 ms
+[1607862738.953476] 40 bytes from login.saintleo.edu (207.30.63.68): icmp_seq=11 ttl=113 time=138 ms
+[1607862739.093083] 40 bytes from etCentral.saintleo.edu (207.30.63.68): icmp_seq=12 ttl=113 time=138 ms
+[1607862750.098515] 40 bytes from 207.30.63.68: icmp_seq=13 ttl=113 time=138 ms
+[1607862760.246328] 40 bytes from 207.30.63.68: icmp_seq=14 ttl=113 time=138 ms
+[1607862770.390075] 40 bytes from 207.30.63.68: icmp_seq=15 ttl=113 time=138 ms
+[1607862780.534019] 40 bytes from 207.30.63.68: icmp_seq=16 ttl=113 time=138 ms
+[1607862780.674460] 40 bytes from facultydev.saintleo.edu (207.30.63.68): icmp_seq=17 ttl=113 time=138 ms
+[1607862781.674245] 40 bytes from lionshare.saintleo.edu (207.30.63.68): icmp_seq=18 ttl=113 time=138 ms
+[1607862792.678052] 40 bytes from 207.30.63.68: icmp_seq=19 ttl=113 time=138 ms
+[1607862792.818154] 40 bytes from constructioncam4.saintleo.edu (207.30.63.68): icmp_seq=20 ttl=113 time=138 ms
+[1607862793.818192] 40 bytes from lionshare.saintleo.edu (207.30.63.68): icmp_seq=21 ttl=113 time=138 ms
+[1607862794.819149] 40 bytes from facultydev.saintleo.edu (207.30.63.68): icmp_seq=22 ttl=113 time=138 ms
+[1607862795.820668] 40 bytes from ibc2014.saintleo.edu (207.30.63.68): icmp_seq=23 ttl=113 time=138 ms
+[1607862801.824376] 40 bytes from ibc2014.saintleo.edu (207.30.63.68): icmp_seq=24 ttl=113 time=138 ms
+[1607862811.969999] 40 bytes from 207.30.63.68: icmp_seq=25 ttl=113 time=138 ms
+[1607862817.112100] 40 bytes from constructioncam4.saintleo.edu (207.30.63.68): icmp_seq=26 ttl=113 time=138 ms
+[1607862817.252340] 40 bytes from etCentral.saintleo.edu (207.30.63.68): icmp_seq=27 ttl=113 time=138 ms
+[1607862823.256132] 40 bytes from etSTS.saintleo.edu (207.30.63.68): icmp_seq=28 ttl=113 time=138 ms
+[1607862823.396793] 40 bytes from etCentral.saintleo.edu (207.30.63.68): icmp_seq=29 ttl=113 time=138 ms
+[1607862824.396832] 40 bytes from workday.saintleo.edu (207.30.63.68): icmp_seq=30 ttl=113 time=138 ms
+[1607862825.397287] 40 bytes from constructioncam4.saintleo.edu (207.30.63.68): icmp_seq=31 ttl=113 time=138 ms
+[1607862826.398807] 40 bytes from facultydev.saintleo.edu (207.30.63.68): icmp_seq=32 ttl=113 time=138 ms
+[1607862827.398484] 40 bytes from etCentral.saintleo.edu (207.30.63.68): icmp_seq=33 ttl=113 time=138 ms
+[1607862833.403536] 40 bytes from ibc2014.saintleo.edu (207.30.63.68): icmp_seq=34 ttl=113 time=138 ms
+[1607862843.550019] 40 bytes from 207.30.63.68: icmp_seq=35 ttl=113 time=138 ms
+[1607862853.694110] 40 bytes from 207.30.63.68: icmp_seq=36 ttl=113 time=138 ms
+[1607862853.834332] 40 bytes from etSTS.saintleo.edu (207.30.63.68): icmp_seq=37 ttl=113 time=138 ms
+[1607862864.842037] 40 bytes from 207.30.63.68: icmp_seq=38 ttl=113 time=138 ms
+[1607862874.986533] 40 bytes from 207.30.63.68: icmp_seq=39 ttl=113 time=138 ms
+[1607862875.125961] 40 bytes from constructioncam5.saintleo.edu (207.30.63.68): icmp_seq=40 ttl=113 time=138 ms
+[1607862876.126870] 40 bytes from saintleo.edu (207.30.63.68): icmp_seq=41 ttl=113 time=138 ms
+[1607862877.126708] 40 bytes from ecard.saintleo.edu (207.30.63.68): icmp_seq=42 ttl=113 time=138 ms
+[1607862878.126729] 40 bytes from etSTS.saintleo.edu (207.30.63.68): icmp_seq=43 ttl=113 time=138 ms
+[1607862879.126554] 40 bytes from facultydev.saintleo.edu (207.30.63.68): icmp_seq=44 ttl=113 time=138 ms
+[1607862880.126819] 40 bytes from etCentral.saintleo.edu (207.30.63.68): icmp_seq=45 ttl=113 time=138 ms
+[1607862881.125913] 40 bytes from workday.saintleo.edu (207.30.63.68): icmp_seq=46 ttl=113 time=138 ms
+[1607862882.125460] 40 bytes from etCentral.saintleo.edu (207.30.63.68): icmp_seq=47 ttl=113 time=138 ms
+[1607862883.125083] 40 bytes from etSTS.saintleo.edu (207.30.63.68): icmp_seq=48 ttl=113 time=138 ms
+[1607862884.124661] 40 bytes from saintleo.edu (207.30.63.68): icmp_seq=49 ttl=113 time=138 ms
+[1607862885.124367] 40 bytes from ibc2014.saintleo.edu (207.30.63.68): icmp_seq=50 ttl=113 time=138 ms
+
+--- saintleo.edu ping statistics ---
+50 packets transmitted, 50 received, 0% packet loss, time 192770ms
+rtt min/avg/max/mdev = 137.631/138.155/138.515/0.194 ms

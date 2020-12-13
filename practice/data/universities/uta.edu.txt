@@ -1,0 +1,55 @@
+PING uta.edu (3.209.204.160) 32(60) bytes of data.
+[1607862720.274035] 40 bytes from 3.209.204.160: icmp_seq=1 ttl=232 time=114 ms
+[1607862730.398103] 40 bytes from 3.209.204.160: icmp_seq=2 ttl=232 time=114 ms
+[1607862730.663321] 40 bytes from ec2-3-209-204-160.compute-1.amazonaws.com (3.209.204.160): icmp_seq=3 ttl=232 time=114 ms
+[1607862731.514652] 40 bytes from ec2-3-209-204-160.compute-1.amazonaws.com (3.209.204.160): icmp_seq=4 ttl=232 time=114 ms
+[1607862732.517219] 40 bytes from ec2-3-209-204-160.compute-1.amazonaws.com (3.209.204.160): icmp_seq=5 ttl=232 time=114 ms
+[1607862733.516760] 40 bytes from ec2-3-209-204-160.compute-1.amazonaws.com (3.209.204.160): icmp_seq=6 ttl=232 time=114 ms
+[1607862744.522017] 40 bytes from 3.209.204.160: icmp_seq=7 ttl=232 time=114 ms
+[1607862749.643533] 40 bytes from ec2-3-209-204-160.compute-1.amazonaws.com (3.209.204.160): icmp_seq=8 ttl=232 time=115 ms
+[1607862754.764003] 40 bytes from ec2-3-209-204-160.compute-1.amazonaws.com (3.209.204.160): icmp_seq=9 ttl=232 time=114 ms
+[1607862764.886259] 40 bytes from 3.209.204.160: icmp_seq=10 ttl=232 time=115 ms
+[1607862765.002733] 40 bytes from ec2-3-209-204-160.compute-1.amazonaws.com (3.209.204.160): icmp_seq=11 ttl=232 time=114 ms
+[1607862776.006004] 40 bytes from 3.209.204.160: icmp_seq=12 ttl=232 time=114 ms
+[1607862781.123680] 40 bytes from ec2-3-209-204-160.compute-1.amazonaws.com (3.209.204.160): icmp_seq=13 ttl=232 time=114 ms
+[1607862791.246044] 40 bytes from 3.209.204.160: icmp_seq=14 ttl=232 time=114 ms
+[1607862796.363054] 40 bytes from ec2-3-209-204-160.compute-1.amazonaws.com (3.209.204.160): icmp_seq=15 ttl=232 time=114 ms
+[1607862801.484281] 40 bytes from ec2-3-209-204-160.compute-1.amazonaws.com (3.209.204.160): icmp_seq=16 ttl=232 time=114 ms
+[1607862806.604284] 40 bytes from ec2-3-209-204-160.compute-1.amazonaws.com (3.209.204.160): icmp_seq=17 ttl=232 time=114 ms
+[1607862806.720582] 40 bytes from ec2-3-209-204-160.compute-1.amazonaws.com (3.209.204.160): icmp_seq=18 ttl=232 time=114 ms
+[1607862817.726209] 40 bytes from 3.209.204.160: icmp_seq=19 ttl=232 time=114 ms
+[1607862827.846071] 40 bytes from 3.209.204.160: icmp_seq=20 ttl=232 time=114 ms
+[1607862837.966028] 40 bytes from 3.209.204.160: icmp_seq=21 ttl=232 time=114 ms
+[1607862838.083164] 40 bytes from ec2-3-209-204-160.compute-1.amazonaws.com (3.209.204.160): icmp_seq=22 ttl=232 time=115 ms
+[1607862849.086096] 40 bytes from 3.209.204.160: icmp_seq=23 ttl=232 time=114 ms
+[1607862854.207381] 40 bytes from ec2-3-209-204-160.compute-1.amazonaws.com (3.209.204.160): icmp_seq=24 ttl=232 time=115 ms
+[1607862854.326032] 40 bytes from ec2-3-209-204-160.compute-1.amazonaws.com (3.209.204.160): icmp_seq=25 ttl=232 time=114 ms
+[1607862855.324275] 40 bytes from ec2-3-209-204-160.compute-1.amazonaws.com (3.209.204.160): icmp_seq=26 ttl=232 time=114 ms
+[1607862856.326144] 40 bytes from ec2-3-209-204-160.compute-1.amazonaws.com (3.209.204.160): icmp_seq=27 ttl=232 time=114 ms
+[1607862857.327866] 40 bytes from ec2-3-209-204-160.compute-1.amazonaws.com (3.209.204.160): icmp_seq=28 ttl=232 time=114 ms
+[1607862858.328717] 40 bytes from ec2-3-209-204-160.compute-1.amazonaws.com (3.209.204.160): icmp_seq=29 ttl=232 time=114 ms
+[1607862864.332078] 40 bytes from ec2-3-209-204-160.compute-1.amazonaws.com (3.209.204.160): icmp_seq=30 ttl=232 time=114 ms
+[1607862864.448062] 40 bytes from ec2-3-209-204-160.compute-1.amazonaws.com (3.209.204.160): icmp_seq=31 ttl=232 time=114 ms
+[1607862870.453509] 40 bytes from ec2-3-209-204-160.compute-1.amazonaws.com (3.209.204.160): icmp_seq=32 ttl=232 time=114 ms
+[1607862870.569411] 40 bytes from ec2-3-209-204-160.compute-1.amazonaws.com (3.209.204.160): icmp_seq=33 ttl=232 time=114 ms
+[1607862871.570851] 40 bytes from ec2-3-209-204-160.compute-1.amazonaws.com (3.209.204.160): icmp_seq=34 ttl=232 time=114 ms
+[1607862872.572475] 40 bytes from ec2-3-209-204-160.compute-1.amazonaws.com (3.209.204.160): icmp_seq=35 ttl=232 time=114 ms
+[1607862873.574153] 40 bytes from ec2-3-209-204-160.compute-1.amazonaws.com (3.209.204.160): icmp_seq=36 ttl=232 time=114 ms
+[1607862874.575695] 40 bytes from ec2-3-209-204-160.compute-1.amazonaws.com (3.209.204.160): icmp_seq=37 ttl=232 time=114 ms
+[1607862875.576362] 40 bytes from ec2-3-209-204-160.compute-1.amazonaws.com (3.209.204.160): icmp_seq=38 ttl=232 time=114 ms
+[1607862876.578708] 40 bytes from ec2-3-209-204-160.compute-1.amazonaws.com (3.209.204.160): icmp_seq=39 ttl=232 time=115 ms
+[1607862877.580141] 40 bytes from ec2-3-209-204-160.compute-1.amazonaws.com (3.209.204.160): icmp_seq=40 ttl=232 time=114 ms
+[1607862878.580304] 40 bytes from ec2-3-209-204-160.compute-1.amazonaws.com (3.209.204.160): icmp_seq=41 ttl=232 time=114 ms
+[1607862879.581357] 40 bytes from ec2-3-209-204-160.compute-1.amazonaws.com (3.209.204.160): icmp_seq=42 ttl=232 time=114 ms
+[1607862880.582443] 40 bytes from ec2-3-209-204-160.compute-1.amazonaws.com (3.209.204.160): icmp_seq=43 ttl=232 time=114 ms
+[1607862881.583152] 40 bytes from ec2-3-209-204-160.compute-1.amazonaws.com (3.209.204.160): icmp_seq=44 ttl=232 time=114 ms
+[1607862882.585317] 40 bytes from ec2-3-209-204-160.compute-1.amazonaws.com (3.209.204.160): icmp_seq=45 ttl=232 time=114 ms
+[1607862883.586324] 40 bytes from ec2-3-209-204-160.compute-1.amazonaws.com (3.209.204.160): icmp_seq=46 ttl=232 time=114 ms
+[1607862884.586464] 40 bytes from ec2-3-209-204-160.compute-1.amazonaws.com (3.209.204.160): icmp_seq=47 ttl=232 time=114 ms
+[1607862885.588417] 40 bytes from ec2-3-209-204-160.compute-1.amazonaws.com (3.209.204.160): icmp_seq=48 ttl=232 time=114 ms
+[1607862886.588193] 40 bytes from ec2-3-209-204-160.compute-1.amazonaws.com (3.209.204.160): icmp_seq=49 ttl=232 time=114 ms
+[1607862887.588804] 40 bytes from ec2-3-209-204-160.compute-1.amazonaws.com (3.209.204.160): icmp_seq=50 ttl=232 time=114 ms
+
+--- uta.edu ping statistics ---
+50 packets transmitted, 50 received, 0% packet loss, time 177319ms
+rtt min/avg/max/mdev = 113.575/114.242/114.648/0.254 ms

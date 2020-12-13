@@ -1,0 +1,55 @@
+PING sunyorange.edu (199.250.206.35) 32(60) bytes of data.
+[1607862697.186943] 40 bytes from vps42027.inmotionhosting.com (199.250.206.35): icmp_seq=1 ttl=51 time=101 ms
+[1607862697.535337] 40 bytes from vps42027.inmotionhosting.com (199.250.206.35): icmp_seq=2 ttl=51 time=101 ms
+[1607862698.535850] 40 bytes from vps42027.inmotionhosting.com (199.250.206.35): icmp_seq=3 ttl=51 time=101 ms
+[1607862709.542002] 40 bytes from 199.250.206.35: icmp_seq=4 ttl=51 time=101 ms
+[1607862709.647604] 40 bytes from vps42027.inmotionhosting.com (199.250.206.35): icmp_seq=5 ttl=51 time=101 ms
+[1607862710.645381] 40 bytes from vps42027.inmotionhosting.com (199.250.206.35): icmp_seq=6 ttl=51 time=101 ms
+[1607862711.646429] 40 bytes from vps42027.inmotionhosting.com (199.250.206.35): icmp_seq=7 ttl=51 time=101 ms
+[1607862712.647311] 40 bytes from vps42027.inmotionhosting.com (199.250.206.35): icmp_seq=8 ttl=51 time=100 ms
+[1607862723.656783] 40 bytes from 199.250.206.35: icmp_seq=9 ttl=51 time=101 ms
+[1607862728.764413] 40 bytes from vps42027.inmotionhosting.com (199.250.206.35): icmp_seq=10 ttl=51 time=101 ms
+[1607862733.871310] 40 bytes from vps42027.inmotionhosting.com (199.250.206.35): icmp_seq=11 ttl=51 time=101 ms
+[1607862733.973761] 40 bytes from vps42027.inmotionhosting.com (199.250.206.35): icmp_seq=12 ttl=51 time=101 ms
+[1607862734.973712] 40 bytes from vps42027.inmotionhosting.com (199.250.206.35): icmp_seq=13 ttl=51 time=100 ms
+[1607862735.979001] 40 bytes from vps42027.inmotionhosting.com (199.250.206.35): icmp_seq=14 ttl=51 time=101 ms
+[1607862741.977566] 40 bytes from vps42027.inmotionhosting.com (199.250.206.35): icmp_seq=15 ttl=51 time=101 ms
+[1607862742.080530] 40 bytes from vps42027.inmotionhosting.com (199.250.206.35): icmp_seq=16 ttl=51 time=101 ms
+[1607862743.080444] 40 bytes from vps42027.inmotionhosting.com (199.250.206.35): icmp_seq=17 ttl=51 time=101 ms
+[1607862744.080037] 40 bytes from vps42027.inmotionhosting.com (199.250.206.35): icmp_seq=18 ttl=51 time=100 ms
+[1607862750.086550] 40 bytes from vps42027.inmotionhosting.com (199.250.206.35): icmp_seq=19 ttl=51 time=100 ms
+[1607862760.194065] 40 bytes from 199.250.206.35: icmp_seq=20 ttl=51 time=101 ms
+[1607862770.302027] 40 bytes from 199.250.206.35: icmp_seq=21 ttl=51 time=101 ms
+[1607862770.405317] 40 bytes from vps42027.inmotionhosting.com (199.250.206.35): icmp_seq=22 ttl=51 time=101 ms
+[1607862771.405941] 40 bytes from vps42027.inmotionhosting.com (199.250.206.35): icmp_seq=23 ttl=51 time=101 ms
+[1607862772.405145] 40 bytes from vps42027.inmotionhosting.com (199.250.206.35): icmp_seq=24 ttl=51 time=100 ms
+[1607862773.405158] 40 bytes from vps42027.inmotionhosting.com (199.250.206.35): icmp_seq=25 ttl=51 time=100 ms
+[1607862774.406052] 40 bytes from vps42027.inmotionhosting.com (199.250.206.35): icmp_seq=26 ttl=51 time=100 ms
+[1607862775.405395] 40 bytes from vps42027.inmotionhosting.com (199.250.206.35): icmp_seq=27 ttl=51 time=101 ms
+[1607862776.406122] 40 bytes from vps42027.inmotionhosting.com (199.250.206.35): icmp_seq=28 ttl=51 time=101 ms
+[1607862782.408043] 40 bytes from vps42027.inmotionhosting.com (199.250.206.35): icmp_seq=29 ttl=51 time=101 ms
+[1607862787.515934] 40 bytes from vps42027.inmotionhosting.com (199.250.206.35): icmp_seq=30 ttl=51 time=101 ms
+[1607862797.626042] 40 bytes from 199.250.206.35: icmp_seq=31 ttl=51 time=101 ms
+[1607862807.734039] 40 bytes from 199.250.206.35: icmp_seq=32 ttl=51 time=101 ms
+[1607862817.842045] 40 bytes from 199.250.206.35: icmp_seq=33 ttl=51 time=101 ms
+[1607862827.950026] 40 bytes from 199.250.206.35: icmp_seq=34 ttl=51 time=101 ms
+[1607862838.058043] 40 bytes from 199.250.206.35: icmp_seq=35 ttl=51 time=101 ms
+[1607862843.164644] 40 bytes from vps42027.inmotionhosting.com (199.250.206.35): icmp_seq=36 ttl=51 time=101 ms
+[1607862843.267468] 40 bytes from vps42027.inmotionhosting.com (199.250.206.35): icmp_seq=37 ttl=51 time=101 ms
+[1607862854.274044] 40 bytes from 199.250.206.35: icmp_seq=38 ttl=51 time=101 ms
+[1607862854.376122] 40 bytes from vps42027.inmotionhosting.com (199.250.206.35): icmp_seq=39 ttl=51 time=101 ms
+[1607862855.379252] 40 bytes from vps42027.inmotionhosting.com (199.250.206.35): icmp_seq=40 ttl=51 time=101 ms
+[1607862856.380095] 40 bytes from vps42027.inmotionhosting.com (199.250.206.35): icmp_seq=41 ttl=51 time=101 ms
+[1607862857.380944] 40 bytes from vps42027.inmotionhosting.com (199.250.206.35): icmp_seq=42 ttl=51 time=101 ms
+[1607862858.382008] 40 bytes from vps42027.inmotionhosting.com (199.250.206.35): icmp_seq=43 ttl=51 time=100 ms
+[1607862859.383664] 40 bytes from vps42027.inmotionhosting.com (199.250.206.35): icmp_seq=44 ttl=51 time=101 ms
+[1607862860.385215] 40 bytes from vps42027.inmotionhosting.com (199.250.206.35): icmp_seq=45 ttl=51 time=101 ms
+[1607862861.385109] 40 bytes from vps42027.inmotionhosting.com (199.250.206.35): icmp_seq=46 ttl=51 time=100 ms
+[1607862862.388211] 40 bytes from vps42027.inmotionhosting.com (199.250.206.35): icmp_seq=47 ttl=51 time=101 ms
+[1607862863.388884] 40 bytes from vps42027.inmotionhosting.com (199.250.206.35): icmp_seq=48 ttl=51 time=101 ms
+[1607862864.395674] 40 bytes from vps42027.inmotionhosting.com (199.250.206.35): icmp_seq=49 ttl=51 time=101 ms
+[1607862865.391015] 40 bytes from vps42027.inmotionhosting.com (199.250.206.35): icmp_seq=50 ttl=51 time=100 ms
+
+--- sunyorange.edu ping statistics ---
+50 packets transmitted, 50 received, 0% packet loss, time 168857ms
+rtt min/avg/max/mdev = 100.051/100.759/101.131/0.281 ms

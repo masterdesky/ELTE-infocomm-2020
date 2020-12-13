@@ -1,0 +1,55 @@
+PING andrews.edu (143.207.1.30) 32(60) bytes of data.
+[1607862689.430274] 40 bytes from atavacron.cc.andrews.edu (143.207.1.30): icmp_seq=1 ttl=43 time=132 ms
+[1607862694.564065] 40 bytes from atavacron.cc.andrews.edu (143.207.1.30): icmp_seq=2 ttl=43 time=128 ms
+[1607862694.694003] 40 bytes from atavacron.cc.andrews.edu (143.207.1.30): icmp_seq=3 ttl=43 time=128 ms
+[1607862695.697385] 40 bytes from atavacron.cc.andrews.edu (143.207.1.30): icmp_seq=4 ttl=43 time=129 ms
+[1607862706.706081] 40 bytes from 143.207.1.30: icmp_seq=5 ttl=43 time=129 ms
+[1607862716.842494] 40 bytes from 143.207.1.30: icmp_seq=6 ttl=43 time=129 ms
+[1607862721.977869] 40 bytes from atavacron.cc.andrews.edu (143.207.1.30): icmp_seq=7 ttl=43 time=129 ms
+[1607862722.107831] 40 bytes from atavacron.cc.andrews.edu (143.207.1.30): icmp_seq=8 ttl=43 time=128 ms
+[1607862723.108699] 40 bytes from atavacron.cc.andrews.edu (143.207.1.30): icmp_seq=9 ttl=43 time=129 ms
+[1607862734.114177] 40 bytes from 143.207.1.30: icmp_seq=10 ttl=43 time=129 ms
+[1607862734.244982] 40 bytes from atavacron.cc.andrews.edu (143.207.1.30): icmp_seq=11 ttl=43 time=129 ms
+[1607862735.244806] 40 bytes from atavacron.cc.andrews.edu (143.207.1.30): icmp_seq=12 ttl=43 time=129 ms
+[1607862736.244299] 40 bytes from atavacron.cc.andrews.edu (143.207.1.30): icmp_seq=13 ttl=43 time=128 ms
+[1607862737.245624] 40 bytes from atavacron.cc.andrews.edu (143.207.1.30): icmp_seq=14 ttl=43 time=128 ms
+[1607862738.247324] 40 bytes from atavacron.cc.andrews.edu (143.207.1.30): icmp_seq=15 ttl=43 time=129 ms
+[1607862739.250105] 40 bytes from atavacron.cc.andrews.edu (143.207.1.30): icmp_seq=16 ttl=43 time=131 ms
+[1607862740.248371] 40 bytes from atavacron.cc.andrews.edu (143.207.1.30): icmp_seq=17 ttl=43 time=128 ms
+[1607862741.248105] 40 bytes from atavacron.cc.andrews.edu (143.207.1.30): icmp_seq=18 ttl=43 time=128 ms
+[1607862752.254032] 40 bytes from 143.207.1.30: icmp_seq=19 ttl=43 time=129 ms
+[1607862752.384817] 40 bytes from atavacron.cc.andrews.edu (143.207.1.30): icmp_seq=20 ttl=43 time=129 ms
+[1607862753.385278] 40 bytes from atavacron.cc.andrews.edu (143.207.1.30): icmp_seq=21 ttl=43 time=129 ms
+[1607862754.384733] 40 bytes from atavacron.cc.andrews.edu (143.207.1.30): icmp_seq=22 ttl=43 time=128 ms
+[1607862755.385697] 40 bytes from atavacron.cc.andrews.edu (143.207.1.30): icmp_seq=23 ttl=43 time=129 ms
+[1607862766.394878] 40 bytes from 143.207.1.30: icmp_seq=24 ttl=43 time=129 ms
+[1607862766.525817] 40 bytes from atavacron.cc.andrews.edu (143.207.1.30): icmp_seq=25 ttl=43 time=129 ms
+[1607862767.527984] 40 bytes from atavacron.cc.andrews.edu (143.207.1.30): icmp_seq=26 ttl=43 time=129 ms
+[1607862768.526714] 40 bytes from atavacron.cc.andrews.edu (143.207.1.30): icmp_seq=27 ttl=43 time=129 ms
+[1607862769.526642] 40 bytes from atavacron.cc.andrews.edu (143.207.1.30): icmp_seq=28 ttl=43 time=129 ms
+[1607862780.530040] 40 bytes from 143.207.1.30: icmp_seq=29 ttl=43 time=128 ms
+[1607862780.660997] 40 bytes from atavacron.cc.andrews.edu (143.207.1.30): icmp_seq=30 ttl=43 time=129 ms
+[1607862791.666005] 40 bytes from 143.207.1.30: icmp_seq=31 ttl=43 time=129 ms
+[1607862791.795846] 40 bytes from atavacron.cc.andrews.edu (143.207.1.30): icmp_seq=32 ttl=43 time=129 ms
+[1607862797.800021] 40 bytes from atavacron.cc.andrews.edu (143.207.1.30): icmp_seq=33 ttl=43 time=129 ms
+[1607862797.930565] 40 bytes from atavacron.cc.andrews.edu (143.207.1.30): icmp_seq=34 ttl=43 time=128 ms
+[1607862798.930121] 40 bytes from atavacron.cc.andrews.edu (143.207.1.30): icmp_seq=35 ttl=43 time=128 ms
+[1607862799.929126] 40 bytes from atavacron.cc.andrews.edu (143.207.1.30): icmp_seq=36 ttl=43 time=128 ms
+[1607862800.930218] 40 bytes from atavacron.cc.andrews.edu (143.207.1.30): icmp_seq=37 ttl=43 time=129 ms
+[1607862811.934038] 40 bytes from 143.207.1.30: icmp_seq=38 ttl=43 time=129 ms
+[1607862817.068671] 40 bytes from atavacron.cc.andrews.edu (143.207.1.30): icmp_seq=39 ttl=43 time=129 ms
+[1607862817.199149] 40 bytes from atavacron.cc.andrews.edu (143.207.1.30): icmp_seq=40 ttl=43 time=129 ms
+[1607862828.202035] 40 bytes from 143.207.1.30: icmp_seq=41 ttl=43 time=129 ms
+[1607862838.338050] 40 bytes from 143.207.1.30: icmp_seq=42 ttl=43 time=129 ms
+[1607862838.468509] 40 bytes from atavacron.cc.andrews.edu (143.207.1.30): icmp_seq=43 ttl=43 time=128 ms
+[1607862839.469111] 40 bytes from atavacron.cc.andrews.edu (143.207.1.30): icmp_seq=44 ttl=43 time=129 ms
+[1607862840.470601] 40 bytes from atavacron.cc.andrews.edu (143.207.1.30): icmp_seq=45 ttl=43 time=128 ms
+[1607862841.472566] 40 bytes from atavacron.cc.andrews.edu (143.207.1.30): icmp_seq=46 ttl=43 time=129 ms
+[1607862842.472193] 40 bytes from atavacron.cc.andrews.edu (143.207.1.30): icmp_seq=47 ttl=43 time=129 ms
+[1607862843.473418] 40 bytes from atavacron.cc.andrews.edu (143.207.1.30): icmp_seq=48 ttl=43 time=128 ms
+[1607862844.475619] 40 bytes from atavacron.cc.andrews.edu (143.207.1.30): icmp_seq=49 ttl=43 time=129 ms
+[1607862845.475531] 40 bytes from atavacron.cc.andrews.edu (143.207.1.30): icmp_seq=50 ttl=43 time=129 ms
+
+--- andrews.edu ping statistics ---
+50 packets transmitted, 50 received, 0% packet loss, time 159044ms
+rtt min/avg/max/mdev = 127.828/128.609/131.507/0.585 ms

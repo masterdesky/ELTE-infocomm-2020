@@ -1,0 +1,55 @@
+PING siena.edu (66.194.176.136) 32(60) bytes of data.
+[1607862701.286111] 40 bytes from 66.194.176.136: icmp_seq=1 ttl=50 time=107 ms
+[1607862703.267841] 40 bytes from 66.194.176.136: icmp_seq=2 ttl=50 time=108 ms
+[1607862708.378909] 40 bytes from 66.194.176.136: icmp_seq=3 ttl=50 time=107 ms
+[1607862718.494336] 40 bytes from 66.194.176.136: icmp_seq=4 ttl=50 time=107 ms
+[1607862725.287513] 40 bytes from 66.194.176.136: icmp_seq=5 ttl=50 time=107 ms
+[1607862730.400014] 40 bytes from 66.194.176.136: icmp_seq=6 ttl=50 time=108 ms
+[1607862730.511683] 40 bytes from 66.194.176.136: icmp_seq=7 ttl=50 time=107 ms
+[1607862732.871714] 40 bytes from 66.194.176.136: icmp_seq=8 ttl=50 time=108 ms
+[1607862732.983270] 40 bytes from 66.194.176.136: icmp_seq=9 ttl=50 time=108 ms
+[1607862740.712751] 40 bytes from 66.194.176.136: icmp_seq=10 ttl=50 time=107 ms
+[1607862750.830055] 40 bytes from 66.194.176.136: icmp_seq=11 ttl=50 time=107 ms
+[1607862757.805583] 40 bytes from 66.194.176.136: icmp_seq=12 ttl=50 time=107 ms
+[1607862762.918360] 40 bytes from 66.194.176.136: icmp_seq=13 ttl=50 time=108 ms
+[1607862763.030172] 40 bytes from 66.194.176.136: icmp_seq=14 ttl=50 time=108 ms
+[1607862765.546229] 40 bytes from 66.194.176.136: icmp_seq=15 ttl=50 time=108 ms
+[1607862775.662121] 40 bytes from 66.194.176.136: icmp_seq=16 ttl=50 time=108 ms
+[1607862782.332802] 40 bytes from 66.194.176.136: icmp_seq=17 ttl=50 time=107 ms
+[1607862787.446014] 40 bytes from 66.194.176.136: icmp_seq=18 ttl=50 time=107 ms
+[1607862793.918116] 40 bytes from 66.194.176.136: icmp_seq=19 ttl=50 time=107 ms
+[1607862794.029929] 40 bytes from 66.194.176.136: icmp_seq=20 ttl=50 time=108 ms
+[1607862795.029038] 40 bytes from 66.194.176.136: icmp_seq=21 ttl=50 time=108 ms
+[1607862796.030391] 40 bytes from 66.194.176.136: icmp_seq=22 ttl=50 time=108 ms
+[1607862807.034066] 40 bytes from 66.194.176.136: icmp_seq=23 ttl=50 time=107 ms
+[1607862812.147606] 40 bytes from 66.194.176.136: icmp_seq=24 ttl=50 time=108 ms
+[1607862818.786402] 40 bytes from 66.194.176.136: icmp_seq=25 ttl=50 time=108 ms
+[1607862818.898134] 40 bytes from 66.194.176.136: icmp_seq=26 ttl=50 time=107 ms
+[1607862819.897375] 40 bytes from 66.194.176.136: icmp_seq=27 ttl=50 time=108 ms
+[1607862820.897711] 40 bytes from 66.194.176.136: icmp_seq=28 ttl=50 time=108 ms
+[1607862821.897390] 40 bytes from 66.194.176.136: icmp_seq=29 ttl=50 time=108 ms
+[1607862832.902025] 40 bytes from 66.194.176.136: icmp_seq=30 ttl=50 time=107 ms
+[1607862839.373348] 40 bytes from 66.194.176.136: icmp_seq=31 ttl=50 time=108 ms
+[1607862839.482847] 40 bytes from 66.194.176.136: icmp_seq=32 ttl=50 time=107 ms
+[1607862840.483733] 40 bytes from 66.194.176.136: icmp_seq=33 ttl=50 time=107 ms
+[1607862841.487140] 40 bytes from 66.194.176.136: icmp_seq=34 ttl=50 time=108 ms
+[1607862842.487917] 40 bytes from 66.194.176.136: icmp_seq=35 ttl=50 time=108 ms
+[1607862850.174133] 40 bytes from 66.194.176.136: icmp_seq=36 ttl=50 time=107 ms
+[1607862850.285485] 40 bytes from 66.194.176.136: icmp_seq=37 ttl=50 time=108 ms
+[1607862851.286458] 40 bytes from 66.194.176.136: icmp_seq=38 ttl=50 time=107 ms
+[1607862852.286884] 40 bytes from 66.194.176.136: icmp_seq=39 ttl=50 time=108 ms
+[1607862853.288100] 40 bytes from 66.194.176.136: icmp_seq=40 ttl=50 time=108 ms
+[1607862864.294046] 40 bytes from 66.194.176.136: icmp_seq=41 ttl=50 time=108 ms
+[1607862866.683571] 40 bytes from 66.194.176.136: icmp_seq=42 ttl=50 time=108 ms
+[1607862866.794529] 40 bytes from 66.194.176.136: icmp_seq=43 ttl=50 time=107 ms
+[1607862867.796206] 40 bytes from 66.194.176.136: icmp_seq=44 ttl=50 time=108 ms
+[1607862868.798046] 40 bytes from 66.194.176.136: icmp_seq=45 ttl=50 time=108 ms
+[1607862869.799462] 40 bytes from 66.194.176.136: icmp_seq=46 ttl=50 time=107 ms
+[1607862878.719673] 40 bytes from 66.194.176.136: icmp_seq=47 ttl=50 time=108 ms
+[1607862878.831014] 40 bytes from 66.194.176.136: icmp_seq=48 ttl=50 time=108 ms
+[1607862879.832562] 40 bytes from 66.194.176.136: icmp_seq=49 ttl=50 time=108 ms
+[1607862880.833669] 40 bytes from 66.194.176.136: icmp_seq=50 ttl=50 time=108 ms
+
+--- siena.edu ping statistics ---
+50 packets transmitted, 50 received, 0% packet loss, time 189552ms
+rtt min/avg/max/mdev = 106.654/107.469/107.872/0.312 ms

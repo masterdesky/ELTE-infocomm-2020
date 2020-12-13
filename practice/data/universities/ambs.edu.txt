@@ -1,0 +1,55 @@
+PING ambs.edu (172.67.73.40) 32(60) bytes of data.
+[1607862700.010180] 40 bytes from 172.67.73.40: icmp_seq=1 ttl=53 time=2.21 ms
+[1607862700.030065] 40 bytes from 172.67.73.40 (172.67.73.40): icmp_seq=2 ttl=53 time=1.39 ms
+[1607862711.022003] 40 bytes from 172.67.73.40: icmp_seq=3 ttl=53 time=2.25 ms
+[1607862721.034077] 40 bytes from 172.67.73.40: icmp_seq=4 ttl=53 time=2.68 ms
+[1607862721.038864] 40 bytes from 172.67.73.40 (172.67.73.40): icmp_seq=5 ttl=53 time=2.21 ms
+[1607862722.039612] 40 bytes from 172.67.73.40 (172.67.73.40): icmp_seq=6 ttl=53 time=2.14 ms
+[1607862723.039794] 40 bytes from 172.67.73.40 (172.67.73.40): icmp_seq=7 ttl=53 time=1.85 ms
+[1607862734.046052] 40 bytes from 172.67.73.40: icmp_seq=8 ttl=53 time=2.13 ms
+[1607862739.052789] 40 bytes from 172.67.73.40 (172.67.73.40): icmp_seq=9 ttl=53 time=2.09 ms
+[1607862739.057137] 40 bytes from 172.67.73.40 (172.67.73.40): icmp_seq=10 ttl=53 time=1.97 ms
+[1607862750.062116] 40 bytes from 172.67.73.40: icmp_seq=11 ttl=53 time=1.61 ms
+[1607862755.067980] 40 bytes from 172.67.73.40 (172.67.73.40): icmp_seq=12 ttl=53 time=2.32 ms
+[1607862765.078888] 40 bytes from 172.67.73.40: icmp_seq=13 ttl=53 time=1.98 ms
+[1607862770.087846] 40 bytes from 172.67.73.40 (172.67.73.40): icmp_seq=14 ttl=53 time=2.07 ms
+[1607862770.093175] 40 bytes from 172.67.73.40 (172.67.73.40): icmp_seq=15 ttl=53 time=2.31 ms
+[1607862781.098108] 40 bytes from 172.67.73.40: icmp_seq=16 ttl=53 time=2.28 ms
+[1607862791.106584] 40 bytes from 172.67.73.40: icmp_seq=17 ttl=53 time=1.32 ms
+[1607862791.110625] 40 bytes from 172.67.73.40 (172.67.73.40): icmp_seq=18 ttl=53 time=1.95 ms
+[1607862802.118043] 40 bytes from 172.67.73.40: icmp_seq=19 ttl=53 time=1.63 ms
+[1607862807.123840] 40 bytes from 172.67.73.40 (172.67.73.40): icmp_seq=20 ttl=53 time=2.23 ms
+[1607862817.134108] 40 bytes from 172.67.73.40: icmp_seq=21 ttl=53 time=1.82 ms
+[1607862817.138316] 40 bytes from 172.67.73.40 (172.67.73.40): icmp_seq=22 ttl=53 time=2.39 ms
+[1607862828.144939] 40 bytes from 172.67.73.40: icmp_seq=23 ttl=53 time=1.51 ms
+[1607862838.154130] 40 bytes from 172.67.73.40: icmp_seq=24 ttl=53 time=2.01 ms
+[1607862843.160180] 40 bytes from 172.67.73.40 (172.67.73.40): icmp_seq=25 ttl=53 time=1.79 ms
+[1607862843.164505] 40 bytes from 172.67.73.40 (172.67.73.40): icmp_seq=26 ttl=53 time=2.04 ms
+[1607862849.167745] 40 bytes from 172.67.73.40 (172.67.73.40): icmp_seq=27 ttl=53 time=2.25 ms
+[1607862859.178012] 40 bytes from 172.67.73.40: icmp_seq=28 ttl=53 time=2.08 ms
+[1607862859.182274] 40 bytes from 172.67.73.40 (172.67.73.40): icmp_seq=29 ttl=53 time=2.10 ms
+[1607862870.190045] 40 bytes from 172.67.73.40: icmp_seq=30 ttl=53 time=2.32 ms
+[1607862870.194675] 40 bytes from 172.67.73.40 (172.67.73.40): icmp_seq=31 ttl=53 time=2.30 ms
+[1607862871.194875] 40 bytes from 172.67.73.40 (172.67.73.40): icmp_seq=32 ttl=53 time=2.25 ms
+[1607862872.194801] 40 bytes from 172.67.73.40 (172.67.73.40): icmp_seq=33 ttl=53 time=2.09 ms
+[1607862873.196573] 40 bytes from 172.67.73.40 (172.67.73.40): icmp_seq=34 ttl=53 time=1.78 ms
+[1607862874.198334] 40 bytes from 172.67.73.40 (172.67.73.40): icmp_seq=35 ttl=53 time=1.87 ms
+[1607862875.199058] 40 bytes from 172.67.73.40 (172.67.73.40): icmp_seq=36 ttl=53 time=2.06 ms
+[1607862881.205312] 40 bytes from 172.67.73.40 (172.67.73.40): icmp_seq=37 ttl=53 time=2.18 ms
+[1607862881.209620] 40 bytes from 172.67.73.40 (172.67.73.40): icmp_seq=38 ttl=53 time=2.05 ms
+[1607862882.209848] 40 bytes from 172.67.73.40 (172.67.73.40): icmp_seq=39 ttl=53 time=1.66 ms
+[1607862883.211061] 40 bytes from 172.67.73.40 (172.67.73.40): icmp_seq=40 ttl=53 time=2.03 ms
+[1607862884.212214] 40 bytes from 172.67.73.40 (172.67.73.40): icmp_seq=41 ttl=53 time=2.12 ms
+[1607862885.212521] 40 bytes from 172.67.73.40 (172.67.73.40): icmp_seq=42 ttl=53 time=2.17 ms
+[1607862886.212223] 40 bytes from 172.67.73.40 (172.67.73.40): icmp_seq=43 ttl=53 time=1.59 ms
+[1607862887.214124] 40 bytes from 172.67.73.40 (172.67.73.40): icmp_seq=44 ttl=53 time=2.24 ms
+[1607862888.214374] 40 bytes from 172.67.73.40 (172.67.73.40): icmp_seq=45 ttl=53 time=2.22 ms
+[1607862889.215171] 40 bytes from 172.67.73.40 (172.67.73.40): icmp_seq=46 ttl=53 time=2.23 ms
+[1607862890.217971] 40 bytes from 172.67.73.40 (172.67.73.40): icmp_seq=47 ttl=53 time=2.27 ms
+[1607862891.218169] 40 bytes from 172.67.73.40 (172.67.73.40): icmp_seq=48 ttl=53 time=1.27 ms
+[1607862892.220592] 40 bytes from 172.67.73.40 (172.67.73.40): icmp_seq=49 ttl=53 time=2.20 ms
+[1607862893.221513] 40 bytes from 172.67.73.40 (172.67.73.40): icmp_seq=50 ttl=53 time=1.88 ms
+
+--- ambs.edu ping statistics ---
+50 packets transmitted, 50 received, 0% packet loss, time 203216ms
+rtt min/avg/max/mdev = 1.271/2.027/2.684/0.289 ms

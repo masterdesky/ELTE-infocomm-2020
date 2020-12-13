@@ -1,0 +1,54 @@
+PING uga.edu (209.212.159.183) 32(60) bytes of data.
+[1607862693.246036] 40 bytes from 209.212.159.183: icmp_seq=1 ttl=51 time=119 ms
+[1607862693.366521] 40 bytes from ip-209.212.159.183.servernap.net (209.212.159.183): icmp_seq=2 ttl=51 time=119 ms
+[1607862694.368520] 40 bytes from ip-209.212.159.183.servernap.net (209.212.159.183): icmp_seq=3 ttl=51 time=119 ms
+[1607862695.369200] 40 bytes from ip-209.212.159.183.servernap.net (209.212.159.183): icmp_seq=4 ttl=51 time=118 ms
+[1607862696.371134] 40 bytes from ip-209.212.159.183.servernap.net (209.212.159.183): icmp_seq=5 ttl=51 time=119 ms
+[1607862707.378027] 40 bytes from 209.212.159.183: icmp_seq=6 ttl=51 time=119 ms
+[1607862707.498872] 40 bytes from ip-209.212.159.183.servernap.net (209.212.159.183): icmp_seq=7 ttl=51 time=119 ms
+[1607862708.498977] 40 bytes from ip-209.212.159.183.servernap.net (209.212.159.183): icmp_seq=8 ttl=51 time=118 ms
+[1607862714.505536] 40 bytes from ip-209.212.159.183.servernap.net (209.212.159.183): icmp_seq=9 ttl=51 time=119 ms
+[1607862714.626924] 40 bytes from ip-209.212.159.183.servernap.net (209.212.159.183): icmp_seq=10 ttl=51 time=119 ms
+[1607862715.626914] 40 bytes from ip-209.212.159.183.servernap.net (209.212.159.183): icmp_seq=11 ttl=51 time=119 ms
+[1607862716.626842] 40 bytes from ip-209.212.159.183.servernap.net (209.212.159.183): icmp_seq=12 ttl=51 time=119 ms
+[1607862717.626209] 40 bytes from ip-209.212.159.183.servernap.net (209.212.159.183): icmp_seq=13 ttl=51 time=118 ms
+[1607862723.631627] 40 bytes from ip-209.212.159.183.servernap.net (209.212.159.183): icmp_seq=14 ttl=51 time=119 ms
+[1607862728.755784] 40 bytes from ip-209.212.159.183.servernap.net (209.212.159.183): icmp_seq=15 ttl=51 time=118 ms
+[1607862728.876743] 40 bytes from ip-209.212.159.183.servernap.net (209.212.159.183): icmp_seq=16 ttl=51 time=119 ms
+[1607862730.875024] 40 bytes from ip-209.212.159.183.servernap.net (209.212.159.183): icmp_seq=18 ttl=51 time=118 ms
+[1607862731.875808] 40 bytes from ip-209.212.159.183.servernap.net (209.212.159.183): icmp_seq=19 ttl=51 time=119 ms
+[1607862732.875359] 40 bytes from ip-209.212.159.183.servernap.net (209.212.159.183): icmp_seq=20 ttl=51 time=119 ms
+[1607862733.875710] 40 bytes from ip-209.212.159.183.servernap.net (209.212.159.183): icmp_seq=21 ttl=51 time=119 ms
+[1607862734.874344] 40 bytes from ip-209.212.159.183.servernap.net (209.212.159.183): icmp_seq=22 ttl=51 time=119 ms
+[1607862735.876933] 40 bytes from ip-209.212.159.183.servernap.net (209.212.159.183): icmp_seq=23 ttl=51 time=119 ms
+[1607862736.874188] 40 bytes from ip-209.212.159.183.servernap.net (209.212.159.183): icmp_seq=24 ttl=51 time=119 ms
+[1607862737.873548] 40 bytes from ip-209.212.159.183.servernap.net (209.212.159.183): icmp_seq=25 ttl=51 time=119 ms
+[1607862738.872719] 40 bytes from ip-209.212.159.183.servernap.net (209.212.159.183): icmp_seq=26 ttl=51 time=119 ms
+[1607862744.875735] 40 bytes from ip-209.212.159.183.servernap.net (209.212.159.183): icmp_seq=27 ttl=51 time=118 ms
+[1607862755.001999] 40 bytes from 209.212.159.183: icmp_seq=28 ttl=51 time=119 ms
+[1607862765.128424] 40 bytes from 209.212.159.183: icmp_seq=29 ttl=51 time=119 ms
+[1607862765.248140] 40 bytes from ip-209.212.159.183.servernap.net (209.212.159.183): icmp_seq=30 ttl=51 time=118 ms
+[1607862766.250601] 40 bytes from ip-209.212.159.183.servernap.net (209.212.159.183): icmp_seq=31 ttl=51 time=118 ms
+[1607862772.255501] 40 bytes from ip-209.212.159.183.servernap.net (209.212.159.183): icmp_seq=32 ttl=51 time=119 ms
+[1607862782.382232] 40 bytes from 209.212.159.183: icmp_seq=33 ttl=51 time=119 ms
+[1607862792.510102] 40 bytes from 209.212.159.183: icmp_seq=34 ttl=51 time=119 ms
+[1607862802.638023] 40 bytes from 209.212.159.183: icmp_seq=35 ttl=51 time=119 ms
+[1607862812.762016] 40 bytes from 209.212.159.183: icmp_seq=36 ttl=51 time=119 ms
+[1607862822.890196] 40 bytes from 209.212.159.183: icmp_seq=37 ttl=51 time=119 ms
+[1607862833.018006] 40 bytes from 209.212.159.183: icmp_seq=38 ttl=51 time=119 ms
+[1607862838.143786] 40 bytes from ip-209.212.159.183.servernap.net (209.212.159.183): icmp_seq=39 ttl=51 time=119 ms
+[1607862843.268059] 40 bytes from ip-209.212.159.183.servernap.net (209.212.159.183): icmp_seq=40 ttl=51 time=118 ms
+[1607862848.392126] 40 bytes from ip-209.212.159.183.servernap.net (209.212.159.183): icmp_seq=41 ttl=51 time=119 ms
+[1607862848.513250] 40 bytes from ip-209.212.159.183.servernap.net (209.212.159.183): icmp_seq=42 ttl=51 time=119 ms
+[1607862849.513636] 40 bytes from ip-209.212.159.183.servernap.net (209.212.159.183): icmp_seq=43 ttl=51 time=119 ms
+[1607862850.514883] 40 bytes from ip-209.212.159.183.servernap.net (209.212.159.183): icmp_seq=44 ttl=51 time=119 ms
+[1607862851.515471] 40 bytes from ip-209.212.159.183.servernap.net (209.212.159.183): icmp_seq=45 ttl=51 time=119 ms
+[1607862852.516735] 40 bytes from ip-209.212.159.183.servernap.net (209.212.159.183): icmp_seq=46 ttl=51 time=119 ms
+[1607862853.518127] 40 bytes from ip-209.212.159.183.servernap.net (209.212.159.183): icmp_seq=47 ttl=51 time=119 ms
+[1607862864.522064] 40 bytes from 209.212.159.183: icmp_seq=48 ttl=51 time=118 ms
+[1607862869.647900] 40 bytes from ip-209.212.159.183.servernap.net (209.212.159.183): icmp_seq=49 ttl=51 time=119 ms
+[1607862869.768629] 40 bytes from ip-209.212.159.183.servernap.net (209.212.159.183): icmp_seq=50 ttl=51 time=119 ms
+
+--- uga.edu ping statistics ---
+50 packets transmitted, 49 received, 2% packet loss, time 186530ms
+rtt min/avg/max/mdev = 117.858/118.606/119.005/0.298 ms

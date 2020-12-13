@@ -1,0 +1,55 @@
+PING cocc.edu (140.211.24.129) 32(60) bytes of data.
+[1607862711.269936] 40 bytes from cocc.edu (140.211.24.129): icmp_seq=1 ttl=48 time=183 ms
+[1607862711.454323] 40 bytes from cocc.edu (140.211.24.129): icmp_seq=2 ttl=48 time=182 ms
+[1607862712.455950] 40 bytes from cocc.edu (140.211.24.129): icmp_seq=3 ttl=48 time=183 ms
+[1607862718.460037] 40 bytes from cocc.edu (140.211.24.129): icmp_seq=4 ttl=48 time=183 ms
+[1607862718.645017] 40 bytes from cocc.edu (140.211.24.129): icmp_seq=5 ttl=48 time=183 ms
+[1607862719.644272] 40 bytes from cocc.edu (140.211.24.129): icmp_seq=6 ttl=48 time=183 ms
+[1607862720.645315] 40 bytes from cocc.edu (140.211.24.129): icmp_seq=7 ttl=48 time=183 ms
+[1607862731.653997] 40 bytes from 140.211.24.129: icmp_seq=8 ttl=48 time=183 ms
+[1607862741.842001] 40 bytes from 140.211.24.129: icmp_seq=9 ttl=48 time=182 ms
+[1607862752.034007] 40 bytes from 140.211.24.129: icmp_seq=10 ttl=48 time=183 ms
+[1607862762.226027] 40 bytes from 140.211.24.129: icmp_seq=11 ttl=48 time=183 ms
+[1607862767.415720] 40 bytes from cocc.edu (140.211.24.129): icmp_seq=12 ttl=48 time=183 ms
+[1607862767.601941] 40 bytes from cocc.edu (140.211.24.129): icmp_seq=13 ttl=48 time=185 ms
+[1607862768.600536] 40 bytes from cocc.edu (140.211.24.129): icmp_seq=14 ttl=48 time=183 ms
+[1607862769.599653] 40 bytes from cocc.edu (140.211.24.129): icmp_seq=15 ttl=48 time=183 ms
+[1607862775.603708] 40 bytes from cocc.edu (140.211.24.129): icmp_seq=16 ttl=48 time=183 ms
+[1607862775.787569] 40 bytes from cocc.edu (140.211.24.129): icmp_seq=17 ttl=48 time=183 ms
+[1607862776.788329] 40 bytes from cocc.edu (140.211.24.129): icmp_seq=18 ttl=48 time=182 ms
+[1607862777.788958] 40 bytes from cocc.edu (140.211.24.129): icmp_seq=19 ttl=48 time=183 ms
+[1607862778.788563] 40 bytes from cocc.edu (140.211.24.129): icmp_seq=20 ttl=48 time=183 ms
+[1607862779.789091] 40 bytes from cocc.edu (140.211.24.129): icmp_seq=21 ttl=48 time=183 ms
+[1607862785.792088] 40 bytes from cocc.edu (140.211.24.129): icmp_seq=22 ttl=48 time=182 ms
+[1607862790.981898] 40 bytes from cocc.edu (140.211.24.129): icmp_seq=23 ttl=48 time=183 ms
+[1607862796.168217] 40 bytes from cocc.edu (140.211.24.129): icmp_seq=24 ttl=48 time=183 ms
+[1607862796.352952] 40 bytes from cocc.edu (140.211.24.129): icmp_seq=25 ttl=48 time=182 ms
+[1607862797.354094] 40 bytes from cocc.edu (140.211.24.129): icmp_seq=26 ttl=48 time=183 ms
+[1607862798.353918] 40 bytes from cocc.edu (140.211.24.129): icmp_seq=27 ttl=48 time=183 ms
+[1607862799.354717] 40 bytes from cocc.edu (140.211.24.129): icmp_seq=28 ttl=48 time=182 ms
+[1607862800.356285] 40 bytes from cocc.edu (140.211.24.129): icmp_seq=29 ttl=48 time=183 ms
+[1607862801.357990] 40 bytes from cocc.edu (140.211.24.129): icmp_seq=30 ttl=48 time=182 ms
+[1607862812.362042] 40 bytes from 140.211.24.129: icmp_seq=31 ttl=48 time=183 ms
+[1607862822.554086] 40 bytes from 140.211.24.129: icmp_seq=32 ttl=48 time=183 ms
+[1607862827.743824] 40 bytes from cocc.edu (140.211.24.129): icmp_seq=33 ttl=48 time=183 ms
+[1607862832.931930] 40 bytes from cocc.edu (140.211.24.129): icmp_seq=34 ttl=48 time=182 ms
+[1607862838.119938] 40 bytes from cocc.edu (140.211.24.129): icmp_seq=35 ttl=48 time=183 ms
+[1607862843.308197] 40 bytes from cocc.edu (140.211.24.129): icmp_seq=36 ttl=48 time=183 ms
+[1607862848.495989] 40 bytes from cocc.edu (140.211.24.129): icmp_seq=37 ttl=48 time=183 ms
+[1607862853.684115] 40 bytes from cocc.edu (140.211.24.129): icmp_seq=38 ttl=48 time=183 ms
+[1607862853.869016] 40 bytes from cocc.edu (140.211.24.129): icmp_seq=39 ttl=48 time=183 ms
+[1607862864.873998] 40 bytes from 140.211.24.129: icmp_seq=40 ttl=48 time=183 ms
+[1607862875.062026] 40 bytes from 140.211.24.129: icmp_seq=41 ttl=48 time=182 ms
+[1607862875.247142] 40 bytes from cocc.edu (140.211.24.129): icmp_seq=42 ttl=48 time=183 ms
+[1607862881.252076] 40 bytes from cocc.edu (140.211.24.129): icmp_seq=43 ttl=48 time=182 ms
+[1607862881.436791] 40 bytes from cocc.edu (140.211.24.129): icmp_seq=44 ttl=48 time=183 ms
+[1607862882.436917] 40 bytes from cocc.edu (140.211.24.129): icmp_seq=45 ttl=48 time=182 ms
+[1607862883.439044] 40 bytes from cocc.edu (140.211.24.129): icmp_seq=46 ttl=48 time=183 ms
+[1607862884.439378] 40 bytes from cocc.edu (140.211.24.129): icmp_seq=47 ttl=48 time=183 ms
+[1607862885.440677] 40 bytes from cocc.edu (140.211.24.129): icmp_seq=48 ttl=48 time=183 ms
+[1607862886.441707] 40 bytes from cocc.edu (140.211.24.129): icmp_seq=49 ttl=48 time=183 ms
+[1607862887.442473] 40 bytes from cocc.edu (140.211.24.129): icmp_seq=50 ttl=48 time=183 ms
+
+--- cocc.edu ping statistics ---
+50 packets transmitted, 50 received, 0% packet loss, time 177348ms
+rtt min/avg/max/mdev = 181.881/182.686/184.609/0.388 ms

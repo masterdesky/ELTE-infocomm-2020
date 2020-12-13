@@ -1,0 +1,55 @@
+PING socc.edu (35.208.200.69) 32(60) bytes of data.
+[1607862710.976297] 40 bytes from 69.200.208.35.bc.googleusercontent.com (35.208.200.69): icmp_seq=1 ttl=100 time=127 ms
+[1607862711.583901] 40 bytes from 69.200.208.35.bc.googleusercontent.com (35.208.200.69): icmp_seq=2 ttl=100 time=127 ms
+[1607862717.590580] 40 bytes from 69.200.208.35.bc.googleusercontent.com (35.208.200.69): icmp_seq=3 ttl=100 time=127 ms
+[1607862722.723949] 40 bytes from 69.200.208.35.bc.googleusercontent.com (35.208.200.69): icmp_seq=4 ttl=100 time=127 ms
+[1607862727.856167] 40 bytes from 69.200.208.35.bc.googleusercontent.com (35.208.200.69): icmp_seq=5 ttl=100 time=127 ms
+[1607862727.985758] 40 bytes from 69.200.208.35.bc.googleusercontent.com (35.208.200.69): icmp_seq=6 ttl=100 time=127 ms
+[1607862728.984854] 40 bytes from 69.200.208.35.bc.googleusercontent.com (35.208.200.69): icmp_seq=7 ttl=100 time=127 ms
+[1607862729.985428] 40 bytes from 69.200.208.35.bc.googleusercontent.com (35.208.200.69): icmp_seq=8 ttl=100 time=127 ms
+[1607862730.983304] 40 bytes from 69.200.208.35.bc.googleusercontent.com (35.208.200.69): icmp_seq=9 ttl=100 time=126 ms
+[1607862731.983951] 40 bytes from 69.200.208.35.bc.googleusercontent.com (35.208.200.69): icmp_seq=10 ttl=100 time=127 ms
+[1607862732.983539] 40 bytes from 69.200.208.35.bc.googleusercontent.com (35.208.200.69): icmp_seq=11 ttl=100 time=127 ms
+[1607862738.988262] 40 bytes from 69.200.208.35.bc.googleusercontent.com (35.208.200.69): icmp_seq=12 ttl=100 time=127 ms
+[1607862744.121753] 40 bytes from 69.200.208.35.bc.googleusercontent.com (35.208.200.69): icmp_seq=13 ttl=100 time=127 ms
+[1607862744.251132] 40 bytes from 69.200.208.35.bc.googleusercontent.com (35.208.200.69): icmp_seq=14 ttl=100 time=127 ms
+[1607862755.258081] 40 bytes from 35.208.200.69: icmp_seq=15 ttl=100 time=127 ms
+[1607862765.390012] 40 bytes from 35.208.200.69: icmp_seq=16 ttl=100 time=127 ms
+[1607862775.526111] 40 bytes from 35.208.200.69: icmp_seq=17 ttl=100 time=127 ms
+[1607862780.661928] 40 bytes from 69.200.208.35.bc.googleusercontent.com (35.208.200.69): icmp_seq=18 ttl=100 time=128 ms
+[1607862785.791842] 40 bytes from 69.200.208.35.bc.googleusercontent.com (35.208.200.69): icmp_seq=19 ttl=100 time=126 ms
+[1607862785.921176] 40 bytes from 69.200.208.35.bc.googleusercontent.com (35.208.200.69): icmp_seq=20 ttl=100 time=127 ms
+[1607862786.921481] 40 bytes from 69.200.208.35.bc.googleusercontent.com (35.208.200.69): icmp_seq=21 ttl=100 time=127 ms
+[1607862787.919719] 40 bytes from 69.200.208.35.bc.googleusercontent.com (35.208.200.69): icmp_seq=22 ttl=100 time=127 ms
+[1607862788.921798] 40 bytes from 69.200.208.35.bc.googleusercontent.com (35.208.200.69): icmp_seq=23 ttl=100 time=127 ms
+[1607862789.922224] 40 bytes from 69.200.208.35.bc.googleusercontent.com (35.208.200.69): icmp_seq=24 ttl=100 time=127 ms
+[1607862790.923900] 40 bytes from 69.200.208.35.bc.googleusercontent.com (35.208.200.69): icmp_seq=25 ttl=100 time=126 ms
+[1607862791.925226] 40 bytes from 69.200.208.35.bc.googleusercontent.com (35.208.200.69): icmp_seq=26 ttl=100 time=127 ms
+[1607862792.926085] 40 bytes from 69.200.208.35.bc.googleusercontent.com (35.208.200.69): icmp_seq=27 ttl=100 time=127 ms
+[1607862793.927443] 40 bytes from 69.200.208.35.bc.googleusercontent.com (35.208.200.69): icmp_seq=28 ttl=100 time=127 ms
+[1607862794.927811] 40 bytes from 69.200.208.35.bc.googleusercontent.com (35.208.200.69): icmp_seq=29 ttl=100 time=127 ms
+[1607862795.931363] 40 bytes from 69.200.208.35.bc.googleusercontent.com (35.208.200.69): icmp_seq=30 ttl=100 time=127 ms
+[1607862796.929585] 40 bytes from 69.200.208.35.bc.googleusercontent.com (35.208.200.69): icmp_seq=31 ttl=100 time=127 ms
+[1607862807.934010] 40 bytes from 35.208.200.69: icmp_seq=32 ttl=100 time=127 ms
+[1607862808.063151] 40 bytes from 69.200.208.35.bc.googleusercontent.com (35.208.200.69): icmp_seq=33 ttl=100 time=127 ms
+[1607862809.063791] 40 bytes from 69.200.208.35.bc.googleusercontent.com (35.208.200.69): icmp_seq=34 ttl=100 time=127 ms
+[1607862810.062410] 40 bytes from 69.200.208.35.bc.googleusercontent.com (35.208.200.69): icmp_seq=35 ttl=100 time=127 ms
+[1607862811.062717] 40 bytes from 69.200.208.35.bc.googleusercontent.com (35.208.200.69): icmp_seq=36 ttl=100 time=127 ms
+[1607862817.068310] 40 bytes from 69.200.208.35.bc.googleusercontent.com (35.208.200.69): icmp_seq=37 ttl=100 time=127 ms
+[1607862817.197413] 40 bytes from 69.200.208.35.bc.googleusercontent.com (35.208.200.69): icmp_seq=38 ttl=100 time=127 ms
+[1607862828.202030] 40 bytes from 35.208.200.69: icmp_seq=39 ttl=100 time=127 ms
+[1607862833.335918] 40 bytes from 69.200.208.35.bc.googleusercontent.com (35.208.200.69): icmp_seq=40 ttl=100 time=127 ms
+[1607862833.464375] 40 bytes from 69.200.208.35.bc.googleusercontent.com (35.208.200.69): icmp_seq=41 ttl=100 time=127 ms
+[1607862834.466625] 40 bytes from 69.200.208.35.bc.googleusercontent.com (35.208.200.69): icmp_seq=42 ttl=100 time=127 ms
+[1607862835.467450] 40 bytes from 69.200.208.35.bc.googleusercontent.com (35.208.200.69): icmp_seq=43 ttl=100 time=127 ms
+[1607862836.468285] 40 bytes from 69.200.208.35.bc.googleusercontent.com (35.208.200.69): icmp_seq=44 ttl=100 time=127 ms
+[1607862837.469317] 40 bytes from 69.200.208.35.bc.googleusercontent.com (35.208.200.69): icmp_seq=45 ttl=100 time=127 ms
+[1607862848.474019] 40 bytes from 35.208.200.69: icmp_seq=46 ttl=100 time=127 ms
+[1607862853.608172] 40 bytes from 69.200.208.35.bc.googleusercontent.com (35.208.200.69): icmp_seq=47 ttl=100 time=128 ms
+[1607862853.737235] 40 bytes from 69.200.208.35.bc.googleusercontent.com (35.208.200.69): icmp_seq=48 ttl=100 time=127 ms
+[1607862864.742009] 40 bytes from 35.208.200.69: icmp_seq=49 ttl=100 time=127 ms
+[1607862865.742070] 40 bytes from 35.208.200.69: icmp_seq=50 ttl=100 time=127 ms
+
+--- socc.edu ping statistics ---
+50 packets transmitted, 50 received, 0% packet loss, time 154288ms
+rtt min/avg/max/mdev = 126.393/127.114/127.925/0.304 ms

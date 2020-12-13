@@ -1,0 +1,55 @@
+PING mountunion.edu (208.115.107.139) 32(60) bytes of data.
+[1607862693.565515] 40 bytes from 208-115-107-139-reverse.wowrack.com (208.115.107.139): icmp_seq=1 ttl=50 time=167 ms
+[1607862699.264215] 40 bytes from 208-115-107-139-reverse.wowrack.com (208.115.107.139): icmp_seq=2 ttl=50 time=166 ms
+[1607862709.438017] 40 bytes from 208.115.107.139: icmp_seq=3 ttl=50 time=166 ms
+[1607862709.607220] 40 bytes from 208-115-107-139-reverse.wowrack.com (208.115.107.139): icmp_seq=4 ttl=50 time=167 ms
+[1607862720.614043] 40 bytes from 208.115.107.139: icmp_seq=5 ttl=50 time=166 ms
+[1607862720.781761] 40 bytes from 208-115-107-139-reverse.wowrack.com (208.115.107.139): icmp_seq=6 ttl=50 time=166 ms
+[1607862726.787767] 40 bytes from 208-115-107-139-reverse.wowrack.com (208.115.107.139): icmp_seq=7 ttl=50 time=165 ms
+[1607862726.956150] 40 bytes from 208-115-107-139-reverse.wowrack.com (208.115.107.139): icmp_seq=8 ttl=50 time=166 ms
+[1607862727.957325] 40 bytes from 208-115-107-139-reverse.wowrack.com (208.115.107.139): icmp_seq=9 ttl=50 time=166 ms
+[1607862738.966021] 40 bytes from 208.115.107.139: icmp_seq=10 ttl=50 time=167 ms
+[1607862744.135795] 40 bytes from 208-115-107-139-reverse.wowrack.com (208.115.107.139): icmp_seq=11 ttl=50 time=166 ms
+[1607862749.307832] 40 bytes from 208-115-107-139-reverse.wowrack.com (208.115.107.139): icmp_seq=12 ttl=50 time=166 ms
+[1607862749.476203] 40 bytes from 208-115-107-139-reverse.wowrack.com (208.115.107.139): icmp_seq=13 ttl=50 time=166 ms
+[1607862750.476748] 40 bytes from 208-115-107-139-reverse.wowrack.com (208.115.107.139): icmp_seq=14 ttl=50 time=166 ms
+[1607862751.476539] 40 bytes from 208-115-107-139-reverse.wowrack.com (208.115.107.139): icmp_seq=15 ttl=50 time=166 ms
+[1607862762.482151] 40 bytes from 208.115.107.139: icmp_seq=16 ttl=50 time=166 ms
+[1607862762.650191] 40 bytes from 208-115-107-139-reverse.wowrack.com (208.115.107.139): icmp_seq=17 ttl=50 time=166 ms
+[1607862763.650303] 40 bytes from 208-115-107-139-reverse.wowrack.com (208.115.107.139): icmp_seq=18 ttl=50 time=166 ms
+[1607862764.651827] 40 bytes from 208-115-107-139-reverse.wowrack.com (208.115.107.139): icmp_seq=19 ttl=50 time=166 ms
+[1607862765.653569] 40 bytes from 208-115-107-139-reverse.wowrack.com (208.115.107.139): icmp_seq=20 ttl=50 time=166 ms
+[1607862766.654182] 40 bytes from 208-115-107-139-reverse.wowrack.com (208.115.107.139): icmp_seq=21 ttl=50 time=166 ms
+[1607862767.656582] 40 bytes from 208-115-107-139-reverse.wowrack.com (208.115.107.139): icmp_seq=22 ttl=50 time=167 ms
+[1607862768.654701] 40 bytes from 208-115-107-139-reverse.wowrack.com (208.115.107.139): icmp_seq=23 ttl=50 time=166 ms
+[1607862769.655147] 40 bytes from 208-115-107-139-reverse.wowrack.com (208.115.107.139): icmp_seq=24 ttl=50 time=167 ms
+[1607862770.654886] 40 bytes from 208-115-107-139-reverse.wowrack.com (208.115.107.139): icmp_seq=25 ttl=50 time=166 ms
+[1607862771.654392] 40 bytes from 208-115-107-139-reverse.wowrack.com (208.115.107.139): icmp_seq=26 ttl=50 time=166 ms
+[1607862772.654604] 40 bytes from 208-115-107-139-reverse.wowrack.com (208.115.107.139): icmp_seq=27 ttl=50 time=167 ms
+[1607862773.654694] 40 bytes from 208-115-107-139-reverse.wowrack.com (208.115.107.139): icmp_seq=28 ttl=50 time=167 ms
+[1607862774.654119] 40 bytes from 208-115-107-139-reverse.wowrack.com (208.115.107.139): icmp_seq=29 ttl=50 time=166 ms
+[1607862775.653617] 40 bytes from 208-115-107-139-reverse.wowrack.com (208.115.107.139): icmp_seq=30 ttl=50 time=166 ms
+[1607862776.654439] 40 bytes from 208-115-107-139-reverse.wowrack.com (208.115.107.139): icmp_seq=31 ttl=50 time=166 ms
+[1607862777.654841] 40 bytes from 208-115-107-139-reverse.wowrack.com (208.115.107.139): icmp_seq=32 ttl=50 time=167 ms
+[1607862778.653250] 40 bytes from 208-115-107-139-reverse.wowrack.com (208.115.107.139): icmp_seq=33 ttl=50 time=166 ms
+[1607862779.653615] 40 bytes from 208-115-107-139-reverse.wowrack.com (208.115.107.139): icmp_seq=34 ttl=50 time=167 ms
+[1607862780.652875] 40 bytes from 208-115-107-139-reverse.wowrack.com (208.115.107.139): icmp_seq=35 ttl=50 time=166 ms
+[1607862791.658003] 40 bytes from 208.115.107.139: icmp_seq=36 ttl=50 time=166 ms
+[1607862801.830047] 40 bytes from 208.115.107.139: icmp_seq=37 ttl=50 time=166 ms
+[1607862807.004184] 40 bytes from 208-115-107-139-reverse.wowrack.com (208.115.107.139): icmp_seq=38 ttl=50 time=167 ms
+[1607862812.176182] 40 bytes from 208-115-107-139-reverse.wowrack.com (208.115.107.139): icmp_seq=39 ttl=50 time=166 ms
+[1607862822.351059] 40 bytes from 208.115.107.139: icmp_seq=40 ttl=50 time=167 ms
+[1607862822.519265] 40 bytes from 208-115-107-139-reverse.wowrack.com (208.115.107.139): icmp_seq=41 ttl=50 time=166 ms
+[1607862828.523789] 40 bytes from 208-115-107-139-reverse.wowrack.com (208.115.107.139): icmp_seq=42 ttl=50 time=166 ms
+[1607862833.699184] 40 bytes from 208-115-107-139-reverse.wowrack.com (208.115.107.139): icmp_seq=43 ttl=50 time=171 ms
+[1607862833.866888] 40 bytes from 208-115-107-139-reverse.wowrack.com (208.115.107.139): icmp_seq=44 ttl=50 time=165 ms
+[1607862834.868946] 40 bytes from 208-115-107-139-reverse.wowrack.com (208.115.107.139): icmp_seq=45 ttl=50 time=166 ms
+[1607862835.870687] 40 bytes from 208-115-107-139-reverse.wowrack.com (208.115.107.139): icmp_seq=46 ttl=50 time=167 ms
+[1607862836.870845] 40 bytes from 208-115-107-139-reverse.wowrack.com (208.115.107.139): icmp_seq=47 ttl=50 time=166 ms
+[1607862837.869992] 40 bytes from 208-115-107-139-reverse.wowrack.com (208.115.107.139): icmp_seq=48 ttl=50 time=166 ms
+[1607862848.874016] 40 bytes from 208.115.107.139: icmp_seq=49 ttl=50 time=166 ms
+[1607862849.874358] 40 bytes from 208.115.107.139: icmp_seq=50 ttl=50 time=168 ms
+
+--- mountunion.edu ping statistics ---
+50 packets transmitted, 50 received, 0% packet loss, time 155783ms
+rtt min/avg/max/mdev = 165.433/166.400/171.327/0.822 ms

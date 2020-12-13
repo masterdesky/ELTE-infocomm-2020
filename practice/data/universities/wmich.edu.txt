@@ -1,0 +1,55 @@
+PING wmich.edu (141.218.1.75) 32(60) bytes of data.
+[1607862681.251210] 40 bytes from www.wmich.edu (141.218.1.75): icmp_seq=1 ttl=46 time=123 ms
+[1607862681.757879] 40 bytes from www.wmich.edu (141.218.1.75): icmp_seq=2 ttl=46 time=123 ms
+[1607862682.758330] 40 bytes from www.wmich.edu (141.218.1.75): icmp_seq=3 ttl=46 time=123 ms
+[1607862693.762039] 40 bytes from 141.218.1.75: icmp_seq=4 ttl=46 time=123 ms
+[1607862703.894028] 40 bytes from 141.218.1.75: icmp_seq=5 ttl=46 time=123 ms
+[1607862709.024006] 40 bytes from www.wmich.edu (141.218.1.75): icmp_seq=6 ttl=46 time=123 ms
+[1607862709.149404] 40 bytes from www.wmich.edu (141.218.1.75): icmp_seq=7 ttl=46 time=123 ms
+[1607862720.154794] 40 bytes from 141.218.1.75: icmp_seq=8 ttl=46 time=123 ms
+[1607862725.284164] 40 bytes from www.wmich.edu (141.218.1.75): icmp_seq=9 ttl=46 time=123 ms
+[1607862730.413312] 40 bytes from www.wmich.edu (141.218.1.75): icmp_seq=10 ttl=46 time=123 ms
+[1607862730.538605] 40 bytes from www.wmich.edu (141.218.1.75): icmp_seq=11 ttl=46 time=123 ms
+[1607862731.540244] 40 bytes from www.wmich.edu (141.218.1.75): icmp_seq=12 ttl=46 time=123 ms
+[1607862732.540987] 40 bytes from www.wmich.edu (141.218.1.75): icmp_seq=13 ttl=46 time=123 ms
+[1607862733.541770] 40 bytes from www.wmich.edu (141.218.1.75): icmp_seq=14 ttl=46 time=123 ms
+[1607862744.547624] 40 bytes from 141.218.1.75: icmp_seq=15 ttl=46 time=122 ms
+[1607862749.675854] 40 bytes from www.wmich.edu (141.218.1.75): icmp_seq=16 ttl=46 time=123 ms
+[1607862759.806046] 40 bytes from 141.218.1.75: icmp_seq=17 ttl=46 time=123 ms
+[1607862764.932232] 40 bytes from www.wmich.edu (141.218.1.75): icmp_seq=18 ttl=46 time=123 ms
+[1607862770.059870] 40 bytes from www.wmich.edu (141.218.1.75): icmp_seq=19 ttl=46 time=123 ms
+[1607862770.184443] 40 bytes from www.wmich.edu (141.218.1.75): icmp_seq=20 ttl=46 time=122 ms
+[1607862781.190277] 40 bytes from 141.218.1.75: icmp_seq=21 ttl=46 time=123 ms
+[1607862791.322079] 40 bytes from 141.218.1.75: icmp_seq=22 ttl=46 time=123 ms
+[1607862801.454000] 40 bytes from 141.218.1.75: icmp_seq=23 ttl=46 time=123 ms
+[1607862806.583680] 40 bytes from www.wmich.edu (141.218.1.75): icmp_seq=24 ttl=46 time=123 ms
+[1607862806.708816] 40 bytes from www.wmich.edu (141.218.1.75): icmp_seq=25 ttl=46 time=123 ms
+[1607862817.714047] 40 bytes from 141.218.1.75: icmp_seq=26 ttl=46 time=123 ms
+[1607862822.844081] 40 bytes from www.wmich.edu (141.218.1.75): icmp_seq=27 ttl=46 time=123 ms
+[1607862832.974093] 40 bytes from 141.218.1.75: icmp_seq=28 ttl=46 time=123 ms
+[1607862838.103931] 40 bytes from www.wmich.edu (141.218.1.75): icmp_seq=29 ttl=46 time=123 ms
+[1607862843.232087] 40 bytes from www.wmich.edu (141.218.1.75): icmp_seq=30 ttl=46 time=123 ms
+[1607862843.357232] 40 bytes from www.wmich.edu (141.218.1.75): icmp_seq=31 ttl=46 time=123 ms
+[1607862854.362081] 40 bytes from 141.218.1.75: icmp_seq=32 ttl=46 time=123 ms
+[1607862854.487238] 40 bytes from www.wmich.edu (141.218.1.75): icmp_seq=33 ttl=46 time=123 ms
+[1607862855.487531] 40 bytes from www.wmich.edu (141.218.1.75): icmp_seq=34 ttl=46 time=123 ms
+[1607862856.489347] 40 bytes from www.wmich.edu (141.218.1.75): icmp_seq=35 ttl=46 time=123 ms
+[1607862857.491182] 40 bytes from www.wmich.edu (141.218.1.75): icmp_seq=36 ttl=46 time=123 ms
+[1607862858.492449] 40 bytes from www.wmich.edu (141.218.1.75): icmp_seq=37 ttl=46 time=123 ms
+[1607862864.494943] 40 bytes from www.wmich.edu (141.218.1.75): icmp_seq=38 ttl=46 time=123 ms
+[1607862869.624076] 40 bytes from www.wmich.edu (141.218.1.75): icmp_seq=39 ttl=46 time=122 ms
+[1607862869.748881] 40 bytes from www.wmich.edu (141.218.1.75): icmp_seq=40 ttl=46 time=123 ms
+[1607862880.754075] 40 bytes from 141.218.1.75: icmp_seq=41 ttl=46 time=122 ms
+[1607862880.879139] 40 bytes from www.wmich.edu (141.218.1.75): icmp_seq=42 ttl=46 time=123 ms
+[1607862881.879356] 40 bytes from www.wmich.edu (141.218.1.75): icmp_seq=43 ttl=46 time=122 ms
+[1607862882.880776] 40 bytes from www.wmich.edu (141.218.1.75): icmp_seq=44 ttl=46 time=122 ms
+[1607862883.882850] 40 bytes from www.wmich.edu (141.218.1.75): icmp_seq=45 ttl=46 time=123 ms
+[1607862884.884474] 40 bytes from www.wmich.edu (141.218.1.75): icmp_seq=46 ttl=46 time=123 ms
+[1607862885.886217] 40 bytes from www.wmich.edu (141.218.1.75): icmp_seq=47 ttl=46 time=123 ms
+[1607862886.888239] 40 bytes from www.wmich.edu (141.218.1.75): icmp_seq=48 ttl=46 time=123 ms
+[1607862887.889669] 40 bytes from www.wmich.edu (141.218.1.75): icmp_seq=49 ttl=46 time=123 ms
+[1607862888.889402] 40 bytes from www.wmich.edu (141.218.1.75): icmp_seq=50 ttl=46 time=123 ms
+
+--- wmich.edu ping statistics ---
+50 packets transmitted, 50 received, 0% packet loss, time 208132ms
+rtt min/avg/max/mdev = 122.303/122.818/123.457/0.236 ms

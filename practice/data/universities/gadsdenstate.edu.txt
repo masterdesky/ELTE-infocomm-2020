@@ -1,0 +1,55 @@
+PING gadsdenstate.edu (161.47.152.53) 32(60) bytes of data.
+[1607862668.326126] 40 bytes from 161.47.152.53 (161.47.152.53): icmp_seq=1 ttl=112 time=124 ms
+[1607862669.325691] 40 bytes from 161.47.152.53 (161.47.152.53): icmp_seq=2 ttl=112 time=122 ms
+[1607862670.327147] 40 bytes from 161.47.152.53 (161.47.152.53): icmp_seq=3 ttl=112 time=122 ms
+[1607862681.334015] 40 bytes from 161.47.152.53: icmp_seq=4 ttl=112 time=122 ms
+[1607862691.462030] 40 bytes from 161.47.152.53: icmp_seq=5 ttl=112 time=122 ms
+[1607862691.586729] 40 bytes from 161.47.152.53 (161.47.152.53): icmp_seq=6 ttl=112 time=122 ms
+[1607862692.587539] 40 bytes from 161.47.152.53 (161.47.152.53): icmp_seq=7 ttl=112 time=122 ms
+[1607862693.587516] 40 bytes from 161.47.152.53 (161.47.152.53): icmp_seq=8 ttl=112 time=122 ms
+[1607862704.593995] 40 bytes from 161.47.152.53: icmp_seq=9 ttl=112 time=122 ms
+[1607862704.718782] 40 bytes from 161.47.152.53 (161.47.152.53): icmp_seq=10 ttl=112 time=122 ms
+[1607862710.723877] 40 bytes from 161.47.152.53 (161.47.152.53): icmp_seq=11 ttl=112 time=122 ms
+[1607862710.855675] 40 bytes from 161.47.152.53 (161.47.152.53): icmp_seq=12 ttl=112 time=129 ms
+[1607862721.854018] 40 bytes from 161.47.152.53: icmp_seq=13 ttl=112 time=122 ms
+[1607862731.986037] 40 bytes from 161.47.152.53: icmp_seq=14 ttl=112 time=122 ms
+[1607862742.114036] 40 bytes from 161.47.152.53: icmp_seq=15 ttl=112 time=122 ms
+[1607862742.239453] 40 bytes from 161.47.152.53 (161.47.152.53): icmp_seq=16 ttl=112 time=123 ms
+[1607862743.239162] 40 bytes from 161.47.152.53 (161.47.152.53): icmp_seq=17 ttl=112 time=122 ms
+[1607862744.243040] 40 bytes from 161.47.152.53 (161.47.152.53): icmp_seq=18 ttl=112 time=125 ms
+[1607862745.242902] 40 bytes from 161.47.152.53 (161.47.152.53): icmp_seq=19 ttl=112 time=122 ms
+[1607862746.244082] 40 bytes from 161.47.152.53 (161.47.152.53): icmp_seq=20 ttl=112 time=122 ms
+[1607862747.245247] 40 bytes from 161.47.152.53 (161.47.152.53): icmp_seq=21 ttl=112 time=122 ms
+[1607862748.245054] 40 bytes from 161.47.152.53 (161.47.152.53): icmp_seq=22 ttl=112 time=123 ms
+[1607862749.246095] 40 bytes from 161.47.152.53 (161.47.152.53): icmp_seq=23 ttl=112 time=123 ms
+[1607862750.246890] 40 bytes from 161.47.152.53 (161.47.152.53): icmp_seq=24 ttl=112 time=122 ms
+[1607862756.252052] 40 bytes from 161.47.152.53 (161.47.152.53): icmp_seq=25 ttl=112 time=123 ms
+[1607862761.380055] 40 bytes from 161.47.152.53 (161.47.152.53): icmp_seq=26 ttl=112 time=122 ms
+[1607862761.503107] 40 bytes from 161.47.152.53 (161.47.152.53): icmp_seq=27 ttl=112 time=122 ms
+[1607862772.510013] 40 bytes from 161.47.152.53: icmp_seq=28 ttl=112 time=122 ms
+[1607862772.634715] 40 bytes from 161.47.152.53 (161.47.152.53): icmp_seq=29 ttl=112 time=122 ms
+[1607862773.634668] 40 bytes from 161.47.152.53 (161.47.152.53): icmp_seq=30 ttl=112 time=122 ms
+[1607862774.634050] 40 bytes from 161.47.152.53 (161.47.152.53): icmp_seq=31 ttl=112 time=123 ms
+[1607862775.633848] 40 bytes from 161.47.152.53 (161.47.152.53): icmp_seq=32 ttl=112 time=122 ms
+[1607862776.634326] 40 bytes from 161.47.152.53 (161.47.152.53): icmp_seq=33 ttl=112 time=122 ms
+[1607862777.634419] 40 bytes from 161.47.152.53 (161.47.152.53): icmp_seq=34 ttl=112 time=123 ms
+[1607862778.632865] 40 bytes from 161.47.152.53 (161.47.152.53): icmp_seq=35 ttl=112 time=123 ms
+[1607862779.632927] 40 bytes from 161.47.152.53 (161.47.152.53): icmp_seq=36 ttl=112 time=122 ms
+[1607862780.632920] 40 bytes from 161.47.152.53 (161.47.152.53): icmp_seq=37 ttl=112 time=122 ms
+[1607862786.635180] 40 bytes from 161.47.152.53 (161.47.152.53): icmp_seq=38 ttl=112 time=122 ms
+[1607862791.766555] 40 bytes from 161.47.152.53 (161.47.152.53): icmp_seq=39 ttl=112 time=122 ms
+[1607862801.893995] 40 bytes from 161.47.152.53: icmp_seq=40 ttl=112 time=122 ms
+[1607862807.023993] 40 bytes from 161.47.152.53 (161.47.152.53): icmp_seq=41 ttl=112 time=123 ms
+[1607862817.154027] 40 bytes from 161.47.152.53: icmp_seq=42 ttl=112 time=122 ms
+[1607862817.278992] 40 bytes from 161.47.152.53 (161.47.152.53): icmp_seq=43 ttl=112 time=123 ms
+[1607862823.284025] 40 bytes from 161.47.152.53 (161.47.152.53): icmp_seq=44 ttl=112 time=123 ms
+[1607862833.414035] 40 bytes from 161.47.152.53: icmp_seq=45 ttl=112 time=122 ms
+[1607862838.543579] 40 bytes from 161.47.152.53 (161.47.152.53): icmp_seq=46 ttl=112 time=123 ms
+[1607862848.674051] 40 bytes from 161.47.152.53: icmp_seq=47 ttl=112 time=122 ms
+[1607862853.799412] 40 bytes from 161.47.152.53 (161.47.152.53): icmp_seq=48 ttl=112 time=122 ms
+[1607862853.923481] 40 bytes from 161.47.152.53 (161.47.152.53): icmp_seq=49 ttl=112 time=122 ms
+[1607862854.923944] 40 bytes from 161.47.152.53 (161.47.152.53): icmp_seq=50 ttl=112 time=122 ms
+
+--- gadsdenstate.edu ping statistics ---
+50 packets transmitted, 50 received, 0% packet loss, time 186600ms
+rtt min/avg/max/mdev = 121.600/122.594/129.208/1.084 ms

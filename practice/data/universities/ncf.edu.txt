@@ -1,0 +1,54 @@
+PING ncf.edu (130.211.210.209) 32(60) bytes of data.
+[1607862672.207065] 40 bytes from 209.210.211.130.bc.googleusercontent.com (130.211.210.209): icmp_seq=1 ttl=49 time=121 ms
+[1607862673.208883] 40 bytes from 209.210.211.130.bc.googleusercontent.com (130.211.210.209): icmp_seq=2 ttl=49 time=121 ms
+[1607862684.214378] 40 bytes from 130.211.210.209: icmp_seq=3 ttl=49 time=121 ms
+[1607862684.337857] 40 bytes from 209.210.211.130.bc.googleusercontent.com (130.211.210.209): icmp_seq=4 ttl=49 time=121 ms
+[1607862695.346033] 40 bytes from 130.211.210.209: icmp_seq=5 ttl=49 time=121 ms
+[1607862705.476626] 40 bytes from 130.211.210.209: icmp_seq=6 ttl=49 time=121 ms
+[1607862705.599676] 40 bytes from 209.210.211.130.bc.googleusercontent.com (130.211.210.209): icmp_seq=7 ttl=49 time=121 ms
+[1607862706.599729] 40 bytes from 209.210.211.130.bc.googleusercontent.com (130.211.210.209): icmp_seq=8 ttl=49 time=120 ms
+[1607862712.605491] 40 bytes from 209.210.211.130.bc.googleusercontent.com (130.211.210.209): icmp_seq=9 ttl=49 time=121 ms
+[1607862712.729030] 40 bytes from 209.210.211.130.bc.googleusercontent.com (130.211.210.209): icmp_seq=10 ttl=49 time=121 ms
+[1607862723.734113] 40 bytes from 130.211.210.209: icmp_seq=11 ttl=49 time=120 ms
+[1607862723.856834] 40 bytes from 209.210.211.130.bc.googleusercontent.com (130.211.210.209): icmp_seq=12 ttl=49 time=121 ms
+[1607862724.857442] 40 bytes from 209.210.211.130.bc.googleusercontent.com (130.211.210.209): icmp_seq=13 ttl=49 time=121 ms
+[1607862725.856979] 40 bytes from 209.210.211.130.bc.googleusercontent.com (130.211.210.209): icmp_seq=14 ttl=49 time=121 ms
+[1607862726.856962] 40 bytes from 209.210.211.130.bc.googleusercontent.com (130.211.210.209): icmp_seq=15 ttl=49 time=120 ms
+[1607862727.858353] 40 bytes from 209.210.211.130.bc.googleusercontent.com (130.211.210.209): icmp_seq=16 ttl=49 time=121 ms
+[1607862728.858722] 40 bytes from 209.210.211.130.bc.googleusercontent.com (130.211.210.209): icmp_seq=17 ttl=49 time=121 ms
+[1607862740.863451] 40 bytes from 130.211.210.209: icmp_seq=19 ttl=49 time=121 ms
+[1607862740.986437] 40 bytes from 209.210.211.130.bc.googleusercontent.com (130.211.210.209): icmp_seq=20 ttl=49 time=121 ms
+[1607862751.990095] 40 bytes from 130.211.210.209: icmp_seq=21 ttl=49 time=121 ms
+[1607862757.116226] 40 bytes from 209.210.211.130.bc.googleusercontent.com (130.211.210.209): icmp_seq=22 ttl=49 time=121 ms
+[1607862757.239195] 40 bytes from 209.210.211.130.bc.googleusercontent.com (130.211.210.209): icmp_seq=23 ttl=49 time=121 ms
+[1607862758.239739] 40 bytes from 209.210.211.130.bc.googleusercontent.com (130.211.210.209): icmp_seq=24 ttl=49 time=121 ms
+[1607862759.240744] 40 bytes from 209.210.211.130.bc.googleusercontent.com (130.211.210.209): icmp_seq=25 ttl=49 time=121 ms
+[1607862765.243952] 40 bytes from 209.210.211.130.bc.googleusercontent.com (130.211.210.209): icmp_seq=26 ttl=49 time=120 ms
+[1607862765.366267] 40 bytes from 209.210.211.130.bc.googleusercontent.com (130.211.210.209): icmp_seq=27 ttl=49 time=121 ms
+[1607862766.368605] 40 bytes from 209.210.211.130.bc.googleusercontent.com (130.211.210.209): icmp_seq=28 ttl=49 time=121 ms
+[1607862777.374001] 40 bytes from 130.211.210.209: icmp_seq=29 ttl=49 time=121 ms
+[1607862787.503098] 40 bytes from 130.211.210.209: icmp_seq=30 ttl=49 time=121 ms
+[1607862797.634017] 40 bytes from 130.211.210.209: icmp_seq=31 ttl=49 time=121 ms
+[1607862807.762011] 40 bytes from 130.211.210.209: icmp_seq=32 ttl=49 time=121 ms
+[1607862807.884473] 40 bytes from 209.210.211.130.bc.googleusercontent.com (130.211.210.209): icmp_seq=33 ttl=49 time=120 ms
+[1607862808.884956] 40 bytes from 209.210.211.130.bc.googleusercontent.com (130.211.210.209): icmp_seq=34 ttl=49 time=121 ms
+[1607862809.884885] 40 bytes from 209.210.211.130.bc.googleusercontent.com (130.211.210.209): icmp_seq=35 ttl=49 time=121 ms
+[1607862810.884653] 40 bytes from 209.210.211.130.bc.googleusercontent.com (130.211.210.209): icmp_seq=36 ttl=49 time=121 ms
+[1607862811.884861] 40 bytes from 209.210.211.130.bc.googleusercontent.com (130.211.210.209): icmp_seq=37 ttl=49 time=121 ms
+[1607862822.890119] 40 bytes from 130.211.210.209: icmp_seq=38 ttl=49 time=121 ms
+[1607862823.013747] 40 bytes from 209.210.211.130.bc.googleusercontent.com (130.211.210.209): icmp_seq=39 ttl=49 time=121 ms
+[1607862824.012942] 40 bytes from 209.210.211.130.bc.googleusercontent.com (130.211.210.209): icmp_seq=40 ttl=49 time=121 ms
+[1607862825.014604] 40 bytes from 209.210.211.130.bc.googleusercontent.com (130.211.210.209): icmp_seq=41 ttl=49 time=122 ms
+[1607862826.012848] 40 bytes from 209.210.211.130.bc.googleusercontent.com (130.211.210.209): icmp_seq=42 ttl=49 time=120 ms
+[1607862827.013255] 40 bytes from 209.210.211.130.bc.googleusercontent.com (130.211.210.209): icmp_seq=43 ttl=49 time=120 ms
+[1607862833.015177] 40 bytes from 209.210.211.130.bc.googleusercontent.com (130.211.210.209): icmp_seq=44 ttl=49 time=121 ms
+[1607862833.137138] 40 bytes from 209.210.211.130.bc.googleusercontent.com (130.211.210.209): icmp_seq=45 ttl=49 time=120 ms
+[1607862834.138033] 40 bytes from 209.210.211.130.bc.googleusercontent.com (130.211.210.209): icmp_seq=46 ttl=49 time=120 ms
+[1607862835.138410] 40 bytes from 209.210.211.130.bc.googleusercontent.com (130.211.210.209): icmp_seq=47 ttl=49 time=120 ms
+[1607862836.139530] 40 bytes from 209.210.211.130.bc.googleusercontent.com (130.211.210.209): icmp_seq=48 ttl=49 time=120 ms
+[1607862837.140705] 40 bytes from 209.210.211.130.bc.googleusercontent.com (130.211.210.209): icmp_seq=49 ttl=49 time=121 ms
+[1607862838.140458] 40 bytes from 209.210.211.130.bc.googleusercontent.com (130.211.210.209): icmp_seq=50 ttl=49 time=121 ms
+
+--- ncf.edu ping statistics ---
+50 packets transmitted, 49 received, 2% packet loss, time 165934ms
+rtt min/avg/max/mdev = 119.806/120.718/121.862/0.372 ms

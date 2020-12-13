@@ -1,0 +1,54 @@
+PING duke.edu (152.3.72.197) 32(60) bytes of data.
+[1607862696.497383] 40 bytes from 152.3.72.197 (152.3.72.197): icmp_seq=1 ttl=237 time=121 ms
+[1607862707.090010] 40 bytes from 152.3.72.197: icmp_seq=2 ttl=237 time=120 ms
+[1607862717.217997] 40 bytes from 152.3.72.197: icmp_seq=3 ttl=237 time=120 ms
+[1607862717.340969] 40 bytes from 152.3.72.197 (152.3.72.197): icmp_seq=4 ttl=237 time=121 ms
+[1607862718.341961] 40 bytes from 152.3.72.197 (152.3.72.197): icmp_seq=5 ttl=237 time=120 ms
+[1607862724.344076] 40 bytes from 152.3.72.197 (152.3.72.197): icmp_seq=6 ttl=237 time=121 ms
+[1607862724.467688] 40 bytes from 152.3.72.197 (152.3.72.197): icmp_seq=7 ttl=237 time=120 ms
+[1607862725.467038] 40 bytes from 152.3.72.197 (152.3.72.197): icmp_seq=8 ttl=237 time=121 ms
+[1607862726.466228] 40 bytes from 152.3.72.197 (152.3.72.197): icmp_seq=9 ttl=237 time=121 ms
+[1607862727.468106] 40 bytes from 152.3.72.197 (152.3.72.197): icmp_seq=10 ttl=237 time=120 ms
+[1607862728.469144] 40 bytes from 152.3.72.197 (152.3.72.197): icmp_seq=11 ttl=237 time=121 ms
+[1607862735.476380] 40 bytes from 152.3.72.197 (152.3.72.197): icmp_seq=13 ttl=237 time=121 ms
+[1607862740.604241] 40 bytes from 152.3.72.197 (152.3.72.197): icmp_seq=14 ttl=237 time=121 ms
+[1607862745.728296] 40 bytes from 152.3.72.197 (152.3.72.197): icmp_seq=15 ttl=237 time=120 ms
+[1607862755.854353] 40 bytes from 152.3.72.197: icmp_seq=16 ttl=237 time=120 ms
+[1607862765.982020] 40 bytes from 152.3.72.197: icmp_seq=17 ttl=237 time=120 ms
+[1607862776.110113] 40 bytes from 152.3.72.197: icmp_seq=18 ttl=237 time=120 ms
+[1607862786.242233] 40 bytes from 152.3.72.197: icmp_seq=19 ttl=237 time=123 ms
+[1607862786.364320] 40 bytes from 152.3.72.197 (152.3.72.197): icmp_seq=20 ttl=237 time=121 ms
+[1607862787.364333] 40 bytes from 152.3.72.197 (152.3.72.197): icmp_seq=21 ttl=237 time=120 ms
+[1607862788.365610] 40 bytes from 152.3.72.197 (152.3.72.197): icmp_seq=22 ttl=237 time=121 ms
+[1607862789.367064] 40 bytes from 152.3.72.197 (152.3.72.197): icmp_seq=23 ttl=237 time=121 ms
+[1607862790.366999] 40 bytes from 152.3.72.197 (152.3.72.197): icmp_seq=24 ttl=237 time=120 ms
+[1607862796.371732] 40 bytes from 152.3.72.197 (152.3.72.197): icmp_seq=25 ttl=237 time=120 ms
+[1607862796.494416] 40 bytes from 152.3.72.197 (152.3.72.197): icmp_seq=26 ttl=237 time=120 ms
+[1607862797.493736] 40 bytes from 152.3.72.197 (152.3.72.197): icmp_seq=27 ttl=237 time=120 ms
+[1607862798.496303] 40 bytes from 152.3.72.197 (152.3.72.197): icmp_seq=28 ttl=237 time=121 ms
+[1607862799.497101] 40 bytes from 152.3.72.197 (152.3.72.197): icmp_seq=29 ttl=237 time=121 ms
+[1607862800.497797] 40 bytes from 152.3.72.197 (152.3.72.197): icmp_seq=30 ttl=237 time=120 ms
+[1607862801.498443] 40 bytes from 152.3.72.197 (152.3.72.197): icmp_seq=31 ttl=237 time=120 ms
+[1607862812.506014] 40 bytes from 152.3.72.197: icmp_seq=32 ttl=237 time=120 ms
+[1607862817.633489] 40 bytes from 152.3.72.197 (152.3.72.197): icmp_seq=33 ttl=237 time=120 ms
+[1607862827.762121] 40 bytes from 152.3.72.197: icmp_seq=34 ttl=237 time=121 ms
+[1607862827.884324] 40 bytes from 152.3.72.197 (152.3.72.197): icmp_seq=35 ttl=237 time=120 ms
+[1607862828.886543] 40 bytes from 152.3.72.197 (152.3.72.197): icmp_seq=36 ttl=237 time=121 ms
+[1607862829.886605] 40 bytes from 152.3.72.197 (152.3.72.197): icmp_seq=37 ttl=237 time=120 ms
+[1607862830.888480] 40 bytes from 152.3.72.197 (152.3.72.197): icmp_seq=38 ttl=237 time=121 ms
+[1607862831.888727] 40 bytes from 152.3.72.197 (152.3.72.197): icmp_seq=39 ttl=237 time=120 ms
+[1607862832.890375] 40 bytes from 152.3.72.197 (152.3.72.197): icmp_seq=40 ttl=237 time=120 ms
+[1607862838.895649] 40 bytes from 152.3.72.197 (152.3.72.197): icmp_seq=41 ttl=237 time=121 ms
+[1607862849.022072] 40 bytes from 152.3.72.197: icmp_seq=42 ttl=237 time=121 ms
+[1607862849.144014] 40 bytes from 152.3.72.197 (152.3.72.197): icmp_seq=43 ttl=237 time=121 ms
+[1607862850.146093] 40 bytes from 152.3.72.197 (152.3.72.197): icmp_seq=44 ttl=237 time=121 ms
+[1607862851.148221] 40 bytes from 152.3.72.197 (152.3.72.197): icmp_seq=45 ttl=237 time=121 ms
+[1607862852.148988] 40 bytes from 152.3.72.197 (152.3.72.197): icmp_seq=46 ttl=237 time=121 ms
+[1607862853.149586] 40 bytes from 152.3.72.197 (152.3.72.197): icmp_seq=47 ttl=237 time=121 ms
+[1607862859.152072] 40 bytes from 152.3.72.197 (152.3.72.197): icmp_seq=48 ttl=237 time=120 ms
+[1607862859.273681] 40 bytes from 152.3.72.197 (152.3.72.197): icmp_seq=49 ttl=237 time=120 ms
+[1607862861.153695] 40 bytes from 152.3.72.197: icmp_seq=50 ttl=237 time=121 ms
+
+--- duke.edu ping statistics ---
+50 packets transmitted, 49 received, 2% packet loss, time 164188ms
+rtt min/avg/max/mdev = 119.667/120.506/122.848/0.439 ms

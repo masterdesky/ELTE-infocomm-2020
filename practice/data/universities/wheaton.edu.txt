@@ -1,0 +1,5 @@
+PING wheaton.edu (34.234.55.229) 32(60) bytes of data.
+
+--- wheaton.edu ping statistics ---
+50 packets transmitted, 0 received, 100% packet loss, time 49236ms
+

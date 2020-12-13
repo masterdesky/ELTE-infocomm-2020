@@ -1,0 +1,55 @@
+PING nashuacc.edu (192.185.16.22) 32(60) bytes of data.
+[1607862686.606746] 40 bytes from 192-185-16-22.unifiedlayer.com (192.185.16.22): icmp_seq=1 ttl=43 time=146 ms
+[1607862687.606626] 40 bytes from 192-185-16-22.unifiedlayer.com (192.185.16.22): icmp_seq=2 ttl=43 time=145 ms
+[1607862688.607936] 40 bytes from 192-185-16-22.unifiedlayer.com (192.185.16.22): icmp_seq=3 ttl=43 time=146 ms
+[1607862699.614028] 40 bytes from 192.185.16.22: icmp_seq=4 ttl=43 time=145 ms
+[1607862709.766042] 40 bytes from 192.185.16.22: icmp_seq=5 ttl=43 time=145 ms
+[1607862709.914024] 40 bytes from 192-185-16-22.unifiedlayer.com (192.185.16.22): icmp_seq=6 ttl=43 time=146 ms
+[1607862715.915390] 40 bytes from 192-185-16-22.unifiedlayer.com (192.185.16.22): icmp_seq=7 ttl=43 time=145 ms
+[1607862726.070002] 40 bytes from 192.185.16.22: icmp_seq=8 ttl=43 time=145 ms
+[1607862726.216557] 40 bytes from 192-185-16-22.unifiedlayer.com (192.185.16.22): icmp_seq=9 ttl=43 time=145 ms
+[1607862737.222048] 40 bytes from 192.185.16.22: icmp_seq=10 ttl=43 time=146 ms
+[1607862747.374027] 40 bytes from 192.185.16.22: icmp_seq=11 ttl=43 time=146 ms
+[1607862752.526734] 40 bytes from 192-185-16-22.unifiedlayer.com (192.185.16.22): icmp_seq=12 ttl=43 time=146 ms
+[1607862752.673892] 40 bytes from 192-185-16-22.unifiedlayer.com (192.185.16.22): icmp_seq=13 ttl=43 time=146 ms
+[1607862753.676018] 40 bytes from 192-185-16-22.unifiedlayer.com (192.185.16.22): icmp_seq=14 ttl=43 time=146 ms
+[1607862759.679798] 40 bytes from 192-185-16-22.unifiedlayer.com (192.185.16.22): icmp_seq=15 ttl=43 time=146 ms
+[1607862759.826691] 40 bytes from 192-185-16-22.unifiedlayer.com (192.185.16.22): icmp_seq=16 ttl=43 time=145 ms
+[1607862770.833998] 40 bytes from 192.185.16.22: icmp_seq=17 ttl=43 time=146 ms
+[1607862775.983771] 40 bytes from 192-185-16-22.unifiedlayer.com (192.185.16.22): icmp_seq=18 ttl=43 time=145 ms
+[1607862781.135686] 40 bytes from 192-185-16-22.unifiedlayer.com (192.185.16.22): icmp_seq=19 ttl=43 time=146 ms
+[1607862791.290008] 40 bytes from 192.185.16.22: icmp_seq=20 ttl=43 time=146 ms
+[1607862801.442036] 40 bytes from 192.185.16.22: icmp_seq=21 ttl=43 time=146 ms
+[1607862806.593162] 40 bytes from 192-185-16-22.unifiedlayer.com (192.185.16.22): icmp_seq=22 ttl=43 time=146 ms
+[1607862806.740354] 40 bytes from 192-185-16-22.unifiedlayer.com (192.185.16.22): icmp_seq=23 ttl=43 time=145 ms
+[1607862812.744183] 40 bytes from 192-185-16-22.unifiedlayer.com (192.185.16.22): icmp_seq=24 ttl=43 time=146 ms
+[1607862822.898100] 40 bytes from 192.185.16.22: icmp_seq=25 ttl=43 time=145 ms
+[1607862833.050038] 40 bytes from 192.185.16.22: icmp_seq=26 ttl=43 time=146 ms
+[1607862833.197702] 40 bytes from 192-185-16-22.unifiedlayer.com (192.185.16.22): icmp_seq=27 ttl=43 time=146 ms
+[1607862834.198917] 40 bytes from 192-185-16-22.unifiedlayer.com (192.185.16.22): icmp_seq=28 ttl=43 time=146 ms
+[1607862835.199209] 40 bytes from 192-185-16-22.unifiedlayer.com (192.185.16.22): icmp_seq=29 ttl=43 time=146 ms
+[1607862836.200518] 40 bytes from 192-185-16-22.unifiedlayer.com (192.185.16.22): icmp_seq=30 ttl=43 time=146 ms
+[1607862837.201337] 40 bytes from 192-185-16-22.unifiedlayer.com (192.185.16.22): icmp_seq=31 ttl=43 time=146 ms
+[1607862843.204147] 40 bytes from 192-185-16-22.unifiedlayer.com (192.185.16.22): icmp_seq=32 ttl=43 time=146 ms
+[1607862843.351398] 40 bytes from 192-185-16-22.unifiedlayer.com (192.185.16.22): icmp_seq=33 ttl=43 time=146 ms
+[1607862854.358026] 40 bytes from 192.185.16.22: icmp_seq=34 ttl=43 time=146 ms
+[1607862864.509994] 40 bytes from 192.185.16.22: icmp_seq=35 ttl=43 time=145 ms
+[1607862869.660019] 40 bytes from 192-185-16-22.unifiedlayer.com (192.185.16.22): icmp_seq=36 ttl=43 time=145 ms
+[1607862869.806763] 40 bytes from 192-185-16-22.unifiedlayer.com (192.185.16.22): icmp_seq=37 ttl=43 time=145 ms
+[1607862870.809287] 40 bytes from 192-185-16-22.unifiedlayer.com (192.185.16.22): icmp_seq=38 ttl=43 time=145 ms
+[1607862871.811400] 40 bytes from 192-185-16-22.unifiedlayer.com (192.185.16.22): icmp_seq=39 ttl=43 time=146 ms
+[1607862872.811454] 40 bytes from 192-185-16-22.unifiedlayer.com (192.185.16.22): icmp_seq=40 ttl=43 time=146 ms
+[1607862873.813272] 40 bytes from 192-185-16-22.unifiedlayer.com (192.185.16.22): icmp_seq=41 ttl=43 time=146 ms
+[1607862874.814327] 40 bytes from 192-185-16-22.unifiedlayer.com (192.185.16.22): icmp_seq=42 ttl=43 time=146 ms
+[1607862875.814812] 40 bytes from 192-185-16-22.unifiedlayer.com (192.185.16.22): icmp_seq=43 ttl=43 time=146 ms
+[1607862876.816480] 40 bytes from 192-185-16-22.unifiedlayer.com (192.185.16.22): icmp_seq=44 ttl=43 time=146 ms
+[1607862877.817765] 40 bytes from 192-185-16-22.unifiedlayer.com (192.185.16.22): icmp_seq=45 ttl=43 time=146 ms
+[1607862878.819045] 40 bytes from 192-185-16-22.unifiedlayer.com (192.185.16.22): icmp_seq=46 ttl=43 time=145 ms
+[1607862879.820880] 40 bytes from 192-185-16-22.unifiedlayer.com (192.185.16.22): icmp_seq=47 ttl=43 time=146 ms
+[1607862880.822397] 40 bytes from 192-185-16-22.unifiedlayer.com (192.185.16.22): icmp_seq=48 ttl=43 time=146 ms
+[1607862881.823003] 40 bytes from 192-185-16-22.unifiedlayer.com (192.185.16.22): icmp_seq=49 ttl=43 time=145 ms
+[1607862882.825036] 40 bytes from 192-185-16-22.unifiedlayer.com (192.185.16.22): icmp_seq=50 ttl=43 time=146 ms
+
+--- nashuacc.edu ping statistics ---
+50 packets transmitted, 50 received, 0% packet loss, time 196219ms
+rtt min/avg/max/mdev = 144.899/145.587/146.274/0.293 ms

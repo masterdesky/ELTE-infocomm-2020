@@ -1,0 +1,55 @@
+PING stratford.edu (34.70.26.124) 32(60) bytes of data.
+[1607862718.407474] 40 bytes from 124.26.70.34.bc.googleusercontent.com (34.70.26.124): icmp_seq=1 ttl=101 time=121 ms
+[1607862723.533512] 40 bytes from 124.26.70.34.bc.googleusercontent.com (34.70.26.124): icmp_seq=2 ttl=101 time=121 ms
+[1607862723.656597] 40 bytes from 124.26.70.34.bc.googleusercontent.com (34.70.26.124): icmp_seq=3 ttl=101 time=120 ms
+[1607862724.654741] 40 bytes from 124.26.70.34.bc.googleusercontent.com (34.70.26.124): icmp_seq=4 ttl=101 time=120 ms
+[1607862735.662016] 40 bytes from 34.70.26.124: icmp_seq=5 ttl=101 time=121 ms
+[1607862735.784581] 40 bytes from 124.26.70.34.bc.googleusercontent.com (34.70.26.124): icmp_seq=6 ttl=101 time=120 ms
+[1607862736.784413] 40 bytes from 124.26.70.34.bc.googleusercontent.com (34.70.26.124): icmp_seq=7 ttl=101 time=120 ms
+[1607862737.783445] 40 bytes from 124.26.70.34.bc.googleusercontent.com (34.70.26.124): icmp_seq=8 ttl=101 time=120 ms
+[1607862738.782752] 40 bytes from 124.26.70.34.bc.googleusercontent.com (34.70.26.124): icmp_seq=9 ttl=101 time=120 ms
+[1607862739.782770] 40 bytes from 124.26.70.34.bc.googleusercontent.com (34.70.26.124): icmp_seq=10 ttl=101 time=120 ms
+[1607862740.783690] 40 bytes from 124.26.70.34.bc.googleusercontent.com (34.70.26.124): icmp_seq=11 ttl=101 time=120 ms
+[1607862746.787812] 40 bytes from 124.26.70.34.bc.googleusercontent.com (34.70.26.124): icmp_seq=12 ttl=101 time=121 ms
+[1607862746.909529] 40 bytes from 124.26.70.34.bc.googleusercontent.com (34.70.26.124): icmp_seq=13 ttl=101 time=120 ms
+[1607862747.911284] 40 bytes from 124.26.70.34.bc.googleusercontent.com (34.70.26.124): icmp_seq=14 ttl=101 time=120 ms
+[1607862748.910795] 40 bytes from 124.26.70.34.bc.googleusercontent.com (34.70.26.124): icmp_seq=15 ttl=101 time=121 ms
+[1607862749.909107] 40 bytes from 124.26.70.34.bc.googleusercontent.com (34.70.26.124): icmp_seq=16 ttl=101 time=120 ms
+[1607862760.914090] 40 bytes from 34.70.26.124: icmp_seq=17 ttl=101 time=120 ms
+[1607862771.042036] 40 bytes from 34.70.26.124: icmp_seq=18 ttl=101 time=120 ms
+[1607862781.170034] 40 bytes from 34.70.26.124: icmp_seq=19 ttl=101 time=120 ms
+[1607862791.298020] 40 bytes from 34.70.26.124: icmp_seq=20 ttl=101 time=120 ms
+[1607862796.425262] 40 bytes from 124.26.70.34.bc.googleusercontent.com (34.70.26.124): icmp_seq=21 ttl=101 time=120 ms
+[1607862801.552118] 40 bytes from 124.26.70.34.bc.googleusercontent.com (34.70.26.124): icmp_seq=22 ttl=101 time=120 ms
+[1607862801.674068] 40 bytes from 124.26.70.34.bc.googleusercontent.com (34.70.26.124): icmp_seq=23 ttl=101 time=120 ms
+[1607862812.678128] 40 bytes from 34.70.26.124: icmp_seq=24 ttl=101 time=120 ms
+[1607862817.803934] 40 bytes from 124.26.70.34.bc.googleusercontent.com (34.70.26.124): icmp_seq=25 ttl=101 time=120 ms
+[1607862827.930046] 40 bytes from 34.70.26.124: icmp_seq=26 ttl=101 time=120 ms
+[1607862838.058010] 40 bytes from 34.70.26.124: icmp_seq=27 ttl=101 time=120 ms
+[1607862838.179782] 40 bytes from 124.26.70.34.bc.googleusercontent.com (34.70.26.124): icmp_seq=28 ttl=101 time=120 ms
+[1607862839.181611] 40 bytes from 124.26.70.34.bc.googleusercontent.com (34.70.26.124): icmp_seq=29 ttl=101 time=120 ms
+[1607862840.181880] 40 bytes from 124.26.70.34.bc.googleusercontent.com (34.70.26.124): icmp_seq=30 ttl=101 time=119 ms
+[1607862841.183697] 40 bytes from 124.26.70.34.bc.googleusercontent.com (34.70.26.124): icmp_seq=31 ttl=101 time=120 ms
+[1607862842.186188] 40 bytes from 124.26.70.34.bc.googleusercontent.com (34.70.26.124): icmp_seq=32 ttl=101 time=120 ms
+[1607862843.186715] 40 bytes from 124.26.70.34.bc.googleusercontent.com (34.70.26.124): icmp_seq=33 ttl=101 time=120 ms
+[1607862844.187640] 40 bytes from 124.26.70.34.bc.googleusercontent.com (34.70.26.124): icmp_seq=34 ttl=101 time=120 ms
+[1607862845.188098] 40 bytes from 124.26.70.34.bc.googleusercontent.com (34.70.26.124): icmp_seq=35 ttl=101 time=120 ms
+[1607862846.189148] 40 bytes from 124.26.70.34.bc.googleusercontent.com (34.70.26.124): icmp_seq=36 ttl=101 time=120 ms
+[1607862847.188433] 40 bytes from 124.26.70.34.bc.googleusercontent.com (34.70.26.124): icmp_seq=37 ttl=101 time=120 ms
+[1607862848.190461] 40 bytes from 124.26.70.34.bc.googleusercontent.com (34.70.26.124): icmp_seq=38 ttl=101 time=120 ms
+[1607862849.191630] 40 bytes from 124.26.70.34.bc.googleusercontent.com (34.70.26.124): icmp_seq=39 ttl=101 time=120 ms
+[1607862850.192382] 40 bytes from 124.26.70.34.bc.googleusercontent.com (34.70.26.124): icmp_seq=40 ttl=101 time=120 ms
+[1607862851.194858] 40 bytes from 124.26.70.34.bc.googleusercontent.com (34.70.26.124): icmp_seq=41 ttl=101 time=121 ms
+[1607862852.196309] 40 bytes from 124.26.70.34.bc.googleusercontent.com (34.70.26.124): icmp_seq=42 ttl=101 time=121 ms
+[1607862853.197807] 40 bytes from 124.26.70.34.bc.googleusercontent.com (34.70.26.124): icmp_seq=43 ttl=101 time=121 ms
+[1607862859.199911] 40 bytes from 124.26.70.34.bc.googleusercontent.com (34.70.26.124): icmp_seq=44 ttl=101 time=120 ms
+[1607862864.323518] 40 bytes from 124.26.70.34.bc.googleusercontent.com (34.70.26.124): icmp_seq=45 ttl=101 time=120 ms
+[1607862864.444412] 40 bytes from 124.26.70.34.bc.googleusercontent.com (34.70.26.124): icmp_seq=46 ttl=101 time=119 ms
+[1607862875.449995] 40 bytes from 34.70.26.124: icmp_seq=47 ttl=101 time=120 ms
+[1607862875.572014] 40 bytes from 124.26.70.34.bc.googleusercontent.com (34.70.26.124): icmp_seq=48 ttl=101 time=120 ms
+[1607862876.572973] 40 bytes from 124.26.70.34.bc.googleusercontent.com (34.70.26.124): icmp_seq=49 ttl=101 time=120 ms
+[1607862877.574185] 40 bytes from 124.26.70.34.bc.googleusercontent.com (34.70.26.124): icmp_seq=50 ttl=101 time=120 ms
+
+--- stratford.edu ping statistics ---
+50 packets transmitted, 50 received, 0% packet loss, time 165174ms
+rtt min/avg/max/mdev = 119.345/120.199/120.685/0.321 ms

@@ -1,0 +1,54 @@
+PING umkc.edu (134.193.116.82) 32(60) bytes of data.
+[1607862700.006360] 40 bytes from kc-csrv-web1.kc.umkc.edu (134.193.116.82): icmp_seq=2 ttl=110 time=132 ms
+[1607862710.146000] 40 bytes from 134.193.116.82: icmp_seq=3 ttl=110 time=132 ms
+[1607862710.280690] 40 bytes from kc-csrv-web1.kc.umkc.edu (134.193.116.82): icmp_seq=4 ttl=110 time=132 ms
+[1607862716.284014] 40 bytes from kc-csrv-web1.kc.umkc.edu (134.193.116.82): icmp_seq=5 ttl=110 time=132 ms
+[1607862726.422393] 40 bytes from 134.193.116.82: icmp_seq=6 ttl=110 time=132 ms
+[1607862736.564508] 40 bytes from 134.193.116.82: icmp_seq=7 ttl=110 time=132 ms
+[1607862736.698919] 40 bytes from kc-csrv-web1.kc.umkc.edu (134.193.116.82): icmp_seq=8 ttl=110 time=132 ms
+[1607862737.699375] 40 bytes from kc-csrv-web1.kc.umkc.edu (134.193.116.82): icmp_seq=9 ttl=110 time=132 ms
+[1607862738.698969] 40 bytes from kc-csrv-web1.kc.umkc.edu (134.193.116.82): icmp_seq=10 ttl=110 time=132 ms
+[1607862739.698012] 40 bytes from kc-csrv-web1.kc.umkc.edu (134.193.116.82): icmp_seq=11 ttl=110 time=132 ms
+[1607862740.698850] 40 bytes from kc-csrv-web1.kc.umkc.edu (134.193.116.82): icmp_seq=12 ttl=110 time=132 ms
+[1607862741.699172] 40 bytes from kc-csrv-web1.kc.umkc.edu (134.193.116.82): icmp_seq=13 ttl=110 time=132 ms
+[1607862742.700531] 40 bytes from kc-csrv-web1.kc.umkc.edu (134.193.116.82): icmp_seq=14 ttl=110 time=132 ms
+[1607862743.701213] 40 bytes from kc-csrv-web1.kc.umkc.edu (134.193.116.82): icmp_seq=15 ttl=110 time=132 ms
+[1607862749.705139] 40 bytes from kc-csrv-web1.kc.umkc.edu (134.193.116.82): icmp_seq=16 ttl=110 time=132 ms
+[1607862749.840007] 40 bytes from kc-csrv-web1.kc.umkc.edu (134.193.116.82): icmp_seq=17 ttl=110 time=133 ms
+[1607862750.838162] 40 bytes from kc-csrv-web1.kc.umkc.edu (134.193.116.82): icmp_seq=18 ttl=110 time=132 ms
+[1607862756.840461] 40 bytes from kc-csrv-web1.kc.umkc.edu (134.193.116.82): icmp_seq=19 ttl=110 time=132 ms
+[1607862756.975128] 40 bytes from kc-csrv-web1.kc.umkc.edu (134.193.116.82): icmp_seq=20 ttl=110 time=132 ms
+[1607862757.974210] 40 bytes from kc-csrv-web1.kc.umkc.edu (134.193.116.82): icmp_seq=21 ttl=110 time=132 ms
+[1607862758.975096] 40 bytes from kc-csrv-web1.kc.umkc.edu (134.193.116.82): icmp_seq=22 ttl=110 time=133 ms
+[1607862759.976450] 40 bytes from kc-csrv-web1.kc.umkc.edu (134.193.116.82): icmp_seq=23 ttl=110 time=132 ms
+[1607862760.975650] 40 bytes from kc-csrv-web1.kc.umkc.edu (134.193.116.82): icmp_seq=24 ttl=110 time=132 ms
+[1607862761.975736] 40 bytes from kc-csrv-web1.kc.umkc.edu (134.193.116.82): icmp_seq=25 ttl=110 time=132 ms
+[1607862762.974384] 40 bytes from kc-csrv-web1.kc.umkc.edu (134.193.116.82): icmp_seq=26 ttl=110 time=132 ms
+[1607862763.974708] 40 bytes from kc-csrv-web1.kc.umkc.edu (134.193.116.82): icmp_seq=27 ttl=110 time=133 ms
+[1607862764.976805] 40 bytes from kc-csrv-web1.kc.umkc.edu (134.193.116.82): icmp_seq=28 ttl=110 time=133 ms
+[1607862775.982089] 40 bytes from 134.193.116.82: icmp_seq=29 ttl=110 time=132 ms
+[1607862786.122045] 40 bytes from 134.193.116.82: icmp_seq=30 ttl=110 time=132 ms
+[1607862796.262056] 40 bytes from 134.193.116.82: icmp_seq=31 ttl=110 time=132 ms
+[1607862801.399848] 40 bytes from kc-csrv-web1.kc.umkc.edu (134.193.116.82): icmp_seq=32 ttl=110 time=132 ms
+[1607862801.533898] 40 bytes from kc-csrv-web1.kc.umkc.edu (134.193.116.82): icmp_seq=33 ttl=110 time=133 ms
+[1607862812.542116] 40 bytes from 134.193.116.82: icmp_seq=34 ttl=110 time=132 ms
+[1607862822.682013] 40 bytes from 134.193.116.82: icmp_seq=35 ttl=110 time=133 ms
+[1607862832.822072] 40 bytes from 134.193.116.82: icmp_seq=36 ttl=110 time=132 ms
+[1607862832.956135] 40 bytes from kc-csrv-web1.kc.umkc.edu (134.193.116.82): icmp_seq=37 ttl=110 time=132 ms
+[1607862843.962052] 40 bytes from 134.193.116.82: icmp_seq=38 ttl=110 time=132 ms
+[1607862854.102162] 40 bytes from 134.193.116.82: icmp_seq=39 ttl=110 time=132 ms
+[1607862859.240551] 40 bytes from kc-csrv-web1.kc.umkc.edu (134.193.116.82): icmp_seq=40 ttl=110 time=133 ms
+[1607862859.374388] 40 bytes from kc-csrv-web1.kc.umkc.edu (134.193.116.82): icmp_seq=41 ttl=110 time=132 ms
+[1607862860.376384] 40 bytes from kc-csrv-web1.kc.umkc.edu (134.193.116.82): icmp_seq=42 ttl=110 time=132 ms
+[1607862861.377387] 40 bytes from kc-csrv-web1.kc.umkc.edu (134.193.116.82): icmp_seq=43 ttl=110 time=132 ms
+[1607862862.379331] 40 bytes from kc-csrv-web1.kc.umkc.edu (134.193.116.82): icmp_seq=44 ttl=110 time=133 ms
+[1607862863.379023] 40 bytes from kc-csrv-web1.kc.umkc.edu (134.193.116.82): icmp_seq=45 ttl=110 time=132 ms
+[1607862864.381285] 40 bytes from kc-csrv-web1.kc.umkc.edu (134.193.116.82): icmp_seq=46 ttl=110 time=132 ms
+[1607862865.381284] 40 bytes from kc-csrv-web1.kc.umkc.edu (134.193.116.82): icmp_seq=47 ttl=110 time=131 ms
+[1607862866.383294] 40 bytes from kc-csrv-web1.kc.umkc.edu (134.193.116.82): icmp_seq=48 ttl=110 time=132 ms
+[1607862867.383807] 40 bytes from kc-csrv-web1.kc.umkc.edu (134.193.116.82): icmp_seq=49 ttl=110 time=132 ms
+[1607862868.384412] 40 bytes from kc-csrv-web1.kc.umkc.edu (134.193.116.82): icmp_seq=50 ttl=110 time=131 ms
+
+--- umkc.edu ping statistics ---
+50 packets transmitted, 49 received, 2% packet loss, time 170698ms
+rtt min/avg/max/mdev = 131.487/132.227/132.619/0.300 ms

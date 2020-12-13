@@ -1,0 +1,55 @@
+PING lccc.edu (67.22.129.60) 32(60) bytes of data.
+[1607862697.985214] 40 bytes from unknown.dal.cologlobal.com (67.22.129.60): icmp_seq=1 ttl=107 time=144 ms
+[1607862698.354150] 40 bytes from unknown.dal.cologlobal.com (67.22.129.60): icmp_seq=2 ttl=107 time=144 ms
+[1607862699.354105] 40 bytes from unknown.dal.cologlobal.com (67.22.129.60): icmp_seq=3 ttl=107 time=144 ms
+[1607862710.362012] 40 bytes from 67.22.129.60: icmp_seq=4 ttl=107 time=145 ms
+[1607862715.512010] 40 bytes from unknown.dal.cologlobal.com (67.22.129.60): icmp_seq=5 ttl=107 time=144 ms
+[1607862725.662000] 40 bytes from 67.22.129.60: icmp_seq=6 ttl=107 time=144 ms
+[1607862730.811785] 40 bytes from unknown.dal.cologlobal.com (67.22.129.60): icmp_seq=7 ttl=107 time=145 ms
+[1607862730.958139] 40 bytes from unknown.dal.cologlobal.com (67.22.129.60): icmp_seq=8 ttl=107 time=144 ms
+[1607862731.957781] 40 bytes from unknown.dal.cologlobal.com (67.22.129.60): icmp_seq=9 ttl=107 time=145 ms
+[1607862732.957885] 40 bytes from unknown.dal.cologlobal.com (67.22.129.60): icmp_seq=10 ttl=107 time=145 ms
+[1607862738.959138] 40 bytes from unknown.dal.cologlobal.com (67.22.129.60): icmp_seq=11 ttl=107 time=145 ms
+[1607862739.106441] 40 bytes from unknown.dal.cologlobal.com (67.22.129.60): icmp_seq=12 ttl=107 time=145 ms
+[1607862750.110053] 40 bytes from 67.22.129.60: icmp_seq=13 ttl=107 time=145 ms
+[1607862760.262026] 40 bytes from 67.22.129.60: icmp_seq=14 ttl=107 time=144 ms
+[1607862770.414753] 40 bytes from 67.22.129.60: icmp_seq=15 ttl=107 time=145 ms
+[1607862775.564085] 40 bytes from unknown.dal.cologlobal.com (67.22.129.60): icmp_seq=16 ttl=107 time=144 ms
+[1607862780.717012] 40 bytes from unknown.dal.cologlobal.com (67.22.129.60): icmp_seq=17 ttl=107 time=145 ms
+[1607862780.863812] 40 bytes from unknown.dal.cologlobal.com (67.22.129.60): icmp_seq=18 ttl=107 time=144 ms
+[1607862781.863849] 40 bytes from unknown.dal.cologlobal.com (67.22.129.60): icmp_seq=19 ttl=107 time=144 ms
+[1607862782.862572] 40 bytes from unknown.dal.cologlobal.com (67.22.129.60): icmp_seq=20 ttl=107 time=144 ms
+[1607862783.864433] 40 bytes from unknown.dal.cologlobal.com (67.22.129.60): icmp_seq=21 ttl=107 time=144 ms
+[1607862784.866175] 40 bytes from unknown.dal.cologlobal.com (67.22.129.60): icmp_seq=22 ttl=107 time=145 ms
+[1607862785.867457] 40 bytes from unknown.dal.cologlobal.com (67.22.129.60): icmp_seq=23 ttl=107 time=144 ms
+[1607862796.874055] 40 bytes from 67.22.129.60: icmp_seq=24 ttl=107 time=145 ms
+[1607862807.026050] 40 bytes from 67.22.129.60: icmp_seq=25 ttl=107 time=144 ms
+[1607862817.178053] 40 bytes from 67.22.129.60: icmp_seq=26 ttl=107 time=145 ms
+[1607862822.327307] 40 bytes from unknown.dal.cologlobal.com (67.22.129.60): icmp_seq=27 ttl=107 time=144 ms
+[1607862822.472916] 40 bytes from unknown.dal.cologlobal.com (67.22.129.60): icmp_seq=28 ttl=107 time=144 ms
+[1607862833.478138] 40 bytes from 67.22.129.60: icmp_seq=29 ttl=107 time=144 ms
+[1607862843.630006] 40 bytes from 67.22.129.60: icmp_seq=30 ttl=107 time=144 ms
+[1607862853.782086] 40 bytes from 67.22.129.60: icmp_seq=31 ttl=107 time=144 ms
+[1607862858.931780] 40 bytes from unknown.dal.cologlobal.com (67.22.129.60): icmp_seq=32 ttl=107 time=145 ms
+[1607862859.078546] 40 bytes from unknown.dal.cologlobal.com (67.22.129.60): icmp_seq=33 ttl=107 time=145 ms
+[1607862865.083663] 40 bytes from unknown.dal.cologlobal.com (67.22.129.60): icmp_seq=34 ttl=107 time=144 ms
+[1607862865.229983] 40 bytes from unknown.dal.cologlobal.com (67.22.129.60): icmp_seq=35 ttl=107 time=144 ms
+[1607862866.231491] 40 bytes from unknown.dal.cologlobal.com (67.22.129.60): icmp_seq=36 ttl=107 time=145 ms
+[1607862867.232309] 40 bytes from unknown.dal.cologlobal.com (67.22.129.60): icmp_seq=37 ttl=107 time=145 ms
+[1607862868.234163] 40 bytes from unknown.dal.cologlobal.com (67.22.129.60): icmp_seq=38 ttl=107 time=145 ms
+[1607862869.235774] 40 bytes from unknown.dal.cologlobal.com (67.22.129.60): icmp_seq=39 ttl=107 time=145 ms
+[1607862870.236447] 40 bytes from unknown.dal.cologlobal.com (67.22.129.60): icmp_seq=40 ttl=107 time=144 ms
+[1607862871.237201] 40 bytes from unknown.dal.cologlobal.com (67.22.129.60): icmp_seq=41 ttl=107 time=144 ms
+[1607862872.240216] 40 bytes from unknown.dal.cologlobal.com (67.22.129.60): icmp_seq=42 ttl=107 time=145 ms
+[1607862873.240752] 40 bytes from unknown.dal.cologlobal.com (67.22.129.60): icmp_seq=43 ttl=107 time=144 ms
+[1607862874.242152] 40 bytes from unknown.dal.cologlobal.com (67.22.129.60): icmp_seq=44 ttl=107 time=145 ms
+[1607862875.244121] 40 bytes from unknown.dal.cologlobal.com (67.22.129.60): icmp_seq=45 ttl=107 time=145 ms
+[1607862876.245444] 40 bytes from unknown.dal.cologlobal.com (67.22.129.60): icmp_seq=46 ttl=107 time=144 ms
+[1607862877.246492] 40 bytes from unknown.dal.cologlobal.com (67.22.129.60): icmp_seq=47 ttl=107 time=144 ms
+[1607862878.248175] 40 bytes from unknown.dal.cologlobal.com (67.22.129.60): icmp_seq=48 ttl=107 time=145 ms
+[1607862879.249830] 40 bytes from unknown.dal.cologlobal.com (67.22.129.60): icmp_seq=49 ttl=107 time=145 ms
+[1607862880.251127] 40 bytes from unknown.dal.cologlobal.com (67.22.129.60): icmp_seq=50 ttl=107 time=144 ms
+
+--- lccc.edu ping statistics ---
+50 packets transmitted, 50 received, 0% packet loss, time 182898ms
+rtt min/avg/max/mdev = 143.558/144.487/145.111/0.316 ms

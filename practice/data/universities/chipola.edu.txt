@@ -1,0 +1,55 @@
+PING chipola.edu (107.180.91.8) 32(60) bytes of data.
+[1607862681.856954] 40 bytes from ip-107-180-91-8.ip.secureserver.net (107.180.91.8): icmp_seq=1 ttl=47 time=105 ms
+[1607862691.966437] 40 bytes from 107.180.91.8: icmp_seq=2 ttl=47 time=102 ms
+[1607862692.072039] 40 bytes from ip-107-180-91-8.ip.secureserver.net (107.180.91.8): icmp_seq=3 ttl=47 time=103 ms
+[1607862703.082025] 40 bytes from 107.180.91.8: icmp_seq=4 ttl=47 time=108 ms
+[1607862703.187075] 40 bytes from ip-107-180-91-8.ip.secureserver.net (107.180.91.8): icmp_seq=5 ttl=47 time=103 ms
+[1607862714.194163] 40 bytes from 107.180.91.8: icmp_seq=6 ttl=47 time=106 ms
+[1607862719.303934] 40 bytes from ip-107-180-91-8.ip.secureserver.net (107.180.91.8): icmp_seq=7 ttl=47 time=103 ms
+[1607862719.408865] 40 bytes from ip-107-180-91-8.ip.secureserver.net (107.180.91.8): icmp_seq=8 ttl=47 time=103 ms
+[1607862730.414441] 40 bytes from 107.180.91.8: icmp_seq=9 ttl=47 time=103 ms
+[1607862735.524278] 40 bytes from ip-107-180-91-8.ip.secureserver.net (107.180.91.8): icmp_seq=10 ttl=47 time=103 ms
+[1607862735.644500] 40 bytes from ip-107-180-91-8.ip.secureserver.net (107.180.91.8): icmp_seq=11 ttl=47 time=118 ms
+[1607862736.630514] 40 bytes from ip-107-180-91-8.ip.secureserver.net (107.180.91.8): icmp_seq=12 ttl=47 time=103 ms
+[1607862737.631470] 40 bytes from ip-107-180-91-8.ip.secureserver.net (107.180.91.8): icmp_seq=13 ttl=47 time=103 ms
+[1607862738.632866] 40 bytes from ip-107-180-91-8.ip.secureserver.net (107.180.91.8): icmp_seq=14 ttl=47 time=103 ms
+[1607862749.638046] 40 bytes from 107.180.91.8: icmp_seq=15 ttl=47 time=103 ms
+[1607862749.754284] 40 bytes from ip-107-180-91-8.ip.secureserver.net (107.180.91.8): icmp_seq=16 ttl=47 time=114 ms
+[1607862750.742366] 40 bytes from ip-107-180-91-8.ip.secureserver.net (107.180.91.8): icmp_seq=17 ttl=47 time=103 ms
+[1607862761.750021] 40 bytes from 107.180.91.8: icmp_seq=18 ttl=47 time=103 ms
+[1607862766.860044] 40 bytes from ip-107-180-91-8.ip.secureserver.net (107.180.91.8): icmp_seq=19 ttl=47 time=103 ms
+[1607862766.966176] 40 bytes from ip-107-180-91-8.ip.secureserver.net (107.180.91.8): icmp_seq=20 ttl=47 time=104 ms
+[1607862767.965485] 40 bytes from ip-107-180-91-8.ip.secureserver.net (107.180.91.8): icmp_seq=21 ttl=47 time=103 ms
+[1607862768.965552] 40 bytes from ip-107-180-91-8.ip.secureserver.net (107.180.91.8): icmp_seq=22 ttl=47 time=103 ms
+[1607862769.965319] 40 bytes from ip-107-180-91-8.ip.secureserver.net (107.180.91.8): icmp_seq=23 ttl=47 time=103 ms
+[1607862770.965336] 40 bytes from ip-107-180-91-8.ip.secureserver.net (107.180.91.8): icmp_seq=24 ttl=47 time=103 ms
+[1607862771.965726] 40 bytes from ip-107-180-91-8.ip.secureserver.net (107.180.91.8): icmp_seq=25 ttl=47 time=103 ms
+[1607862772.965971] 40 bytes from ip-107-180-91-8.ip.secureserver.net (107.180.91.8): icmp_seq=26 ttl=47 time=103 ms
+[1607862773.965869] 40 bytes from ip-107-180-91-8.ip.secureserver.net (107.180.91.8): icmp_seq=27 ttl=47 time=103 ms
+[1607862774.965647] 40 bytes from ip-107-180-91-8.ip.secureserver.net (107.180.91.8): icmp_seq=28 ttl=47 time=103 ms
+[1607862785.970047] 40 bytes from 107.180.91.8: icmp_seq=29 ttl=47 time=103 ms
+[1607862786.078522] 40 bytes from ip-107-180-91-8.ip.secureserver.net (107.180.91.8): icmp_seq=30 ttl=47 time=106 ms
+[1607862787.074803] 40 bytes from ip-107-180-91-8.ip.secureserver.net (107.180.91.8): icmp_seq=31 ttl=47 time=103 ms
+[1607862788.075416] 40 bytes from ip-107-180-91-8.ip.secureserver.net (107.180.91.8): icmp_seq=32 ttl=47 time=103 ms
+[1607862789.085562] 40 bytes from ip-107-180-91-8.ip.secureserver.net (107.180.91.8): icmp_seq=33 ttl=47 time=113 ms
+[1607862790.075458] 40 bytes from ip-107-180-91-8.ip.secureserver.net (107.180.91.8): icmp_seq=34 ttl=47 time=103 ms
+[1607862791.075328] 40 bytes from ip-107-180-91-8.ip.secureserver.net (107.180.91.8): icmp_seq=35 ttl=47 time=103 ms
+[1607862792.075689] 40 bytes from ip-107-180-91-8.ip.secureserver.net (107.180.91.8): icmp_seq=36 ttl=47 time=103 ms
+[1607862793.076750] 40 bytes from ip-107-180-91-8.ip.secureserver.net (107.180.91.8): icmp_seq=37 ttl=47 time=103 ms
+[1607862794.076702] 40 bytes from ip-107-180-91-8.ip.secureserver.net (107.180.91.8): icmp_seq=38 ttl=47 time=103 ms
+[1607862795.077276] 40 bytes from ip-107-180-91-8.ip.secureserver.net (107.180.91.8): icmp_seq=39 ttl=47 time=103 ms
+[1607862796.077444] 40 bytes from ip-107-180-91-8.ip.secureserver.net (107.180.91.8): icmp_seq=40 ttl=47 time=103 ms
+[1607862797.076655] 40 bytes from ip-107-180-91-8.ip.secureserver.net (107.180.91.8): icmp_seq=41 ttl=47 time=102 ms
+[1607862798.076971] 40 bytes from ip-107-180-91-8.ip.secureserver.net (107.180.91.8): icmp_seq=42 ttl=47 time=103 ms
+[1607862799.077494] 40 bytes from ip-107-180-91-8.ip.secureserver.net (107.180.91.8): icmp_seq=43 ttl=47 time=104 ms
+[1607862800.075977] 40 bytes from ip-107-180-91-8.ip.secureserver.net (107.180.91.8): icmp_seq=44 ttl=47 time=103 ms
+[1607862801.075927] 40 bytes from ip-107-180-91-8.ip.secureserver.net (107.180.91.8): icmp_seq=45 ttl=47 time=103 ms
+[1607862807.084092] 40 bytes from ip-107-180-91-8.ip.secureserver.net (107.180.91.8): icmp_seq=46 ttl=47 time=109 ms
+[1607862817.194154] 40 bytes from 107.180.91.8: icmp_seq=47 ttl=47 time=103 ms
+[1607862822.303752] 40 bytes from ip-107-180-91-8.ip.secureserver.net (107.180.91.8): icmp_seq=48 ttl=47 time=103 ms
+[1607862822.408432] 40 bytes from ip-107-180-91-8.ip.secureserver.net (107.180.91.8): icmp_seq=49 ttl=47 time=103 ms
+[1607862824.303048] 40 bytes from 107.180.91.8: icmp_seq=50 ttl=47 time=103 ms
+
+--- chipola.edu ping statistics ---
+50 packets transmitted, 50 received, 0% packet loss, time 146558ms
+rtt min/avg/max/mdev = 102.333/104.156/117.700/3.051 ms

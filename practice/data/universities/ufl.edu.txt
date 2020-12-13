@@ -1,0 +1,55 @@
+PING ufl.edu (128.227.9.98) 32(60) bytes of data.
+[1607862688.148138] 40 bytes from virtual-l1wvi-prod-core-publicssl.osg.ufl.edu (128.227.9.98): icmp_seq=1 ttl=233 time=142 ms
+[1607862693.296367] 40 bytes from ufl.edu (128.227.9.98): icmp_seq=2 ttl=233 time=143 ms
+[1607862693.441642] 40 bytes from ufl.edu (128.227.9.98): icmp_seq=3 ttl=233 time=143 ms
+[1607862699.444092] 40 bytes from virtual-l1wvi-prod-core-public.osg.ufl.edu (128.227.9.98): icmp_seq=4 ttl=233 time=143 ms
+[1607862709.594006] 40 bytes from 128.227.9.98: icmp_seq=5 ttl=233 time=143 ms
+[1607862709.739231] 40 bytes from ufl.edu (128.227.9.98): icmp_seq=6 ttl=233 time=143 ms
+[1607862720.743653] 40 bytes from 128.227.9.98: icmp_seq=7 ttl=233 time=143 ms
+[1607862730.894036] 40 bytes from 128.227.9.98: icmp_seq=8 ttl=233 time=143 ms
+[1607862731.038281] 40 bytes from ufl.edu (128.227.9.98): icmp_seq=9 ttl=233 time=142 ms
+[1607862732.038695] 40 bytes from ufl.edu (128.227.9.98): icmp_seq=10 ttl=233 time=142 ms
+[1607862733.037086] 40 bytes from virtual-l1wvi-prod-core-publicssl.osg.ufl.edu (128.227.9.98): icmp_seq=11 ttl=233 time=142 ms
+[1607862739.039923] 40 bytes from virtual-l1wvi-prod-core-public.osg.ufl.edu (128.227.9.98): icmp_seq=12 ttl=233 time=143 ms
+[1607862744.187908] 40 bytes from virtual-l1wvi-prod-core-public.osg.ufl.edu (128.227.9.98): icmp_seq=13 ttl=233 time=143 ms
+[1607862749.335738] 40 bytes from ufl.edu (128.227.9.98): icmp_seq=14 ttl=233 time=143 ms
+[1607862749.479961] 40 bytes from ufl.edu (128.227.9.98): icmp_seq=15 ttl=233 time=143 ms
+[1607862760.486147] 40 bytes from 128.227.9.98: icmp_seq=16 ttl=233 time=143 ms
+[1607862770.634024] 40 bytes from 128.227.9.98: icmp_seq=17 ttl=233 time=142 ms
+[1607862780.786258] 40 bytes from 128.227.9.98: icmp_seq=18 ttl=233 time=143 ms
+[1607862785.935836] 40 bytes from ufl.edu (128.227.9.98): icmp_seq=19 ttl=233 time=143 ms
+[1607862791.084099] 40 bytes from ufl.edu (128.227.9.98): icmp_seq=20 ttl=233 time=143 ms
+[1607862796.232028] 40 bytes from virtual-l1wvi-prod-core-publicssl.osg.ufl.edu (128.227.9.98): icmp_seq=21 ttl=233 time=143 ms
+[1607862801.380265] 40 bytes from virtual-l1wvi-prod-core-publicssl.osg.ufl.edu (128.227.9.98): icmp_seq=22 ttl=233 time=143 ms
+[1607862801.524528] 40 bytes from virtual-l1wvi-prod-core-publicssl.osg.ufl.edu (128.227.9.98): icmp_seq=23 ttl=233 time=143 ms
+[1607862812.530496] 40 bytes from 128.227.9.98: icmp_seq=24 ttl=233 time=143 ms
+[1607862822.682509] 40 bytes from 128.227.9.98: icmp_seq=25 ttl=233 time=143 ms
+[1607862832.834009] 40 bytes from 128.227.9.98: icmp_seq=26 ttl=233 time=142 ms
+[1607862837.984269] 40 bytes from virtual-l1wvi-prod-core-publicssl.osg.ufl.edu (128.227.9.98): icmp_seq=27 ttl=233 time=143 ms
+[1607862838.129115] 40 bytes from virtual-l1wvi-prod-core-public.osg.ufl.edu (128.227.9.98): icmp_seq=28 ttl=233 time=143 ms
+[1607862849.134012] 40 bytes from 128.227.9.98: icmp_seq=29 ttl=233 time=143 ms
+[1607862849.279082] 40 bytes from virtual-l1wvi-prod-core-public.osg.ufl.edu (128.227.9.98): icmp_seq=30 ttl=233 time=143 ms
+[1607862850.280820] 40 bytes from ufl.edu (128.227.9.98): icmp_seq=31 ttl=233 time=143 ms
+[1607862851.281760] 40 bytes from virtual-l1wvi-prod-core-publicssl.osg.ufl.edu (128.227.9.98): icmp_seq=32 ttl=233 time=143 ms
+[1607862852.282390] 40 bytes from ufl.edu (128.227.9.98): icmp_seq=33 ttl=233 time=143 ms
+[1607862853.283313] 40 bytes from ufl.edu (128.227.9.98): icmp_seq=34 ttl=233 time=143 ms
+[1607862864.290025] 40 bytes from 128.227.9.98: icmp_seq=35 ttl=233 time=142 ms
+[1607862864.434052] 40 bytes from ufl.edu (128.227.9.98): icmp_seq=36 ttl=233 time=142 ms
+[1607862875.442091] 40 bytes from 128.227.9.98: icmp_seq=37 ttl=233 time=143 ms
+[1607862875.587126] 40 bytes from virtual-l1wvi-prod-core-publicssl.osg.ufl.edu (128.227.9.98): icmp_seq=38 ttl=233 time=143 ms
+[1607862876.587170] 40 bytes from virtual-l1wvi-prod-core-publicssl.osg.ufl.edu (128.227.9.98): icmp_seq=39 ttl=233 time=142 ms
+[1607862877.587778] 40 bytes from virtual-l1wvi-prod-core-publicssl.osg.ufl.edu (128.227.9.98): icmp_seq=40 ttl=233 time=143 ms
+[1607862878.588888] 40 bytes from virtual-l1wvi-prod-core-public.osg.ufl.edu (128.227.9.98): icmp_seq=41 ttl=233 time=142 ms
+[1607862879.590239] 40 bytes from virtual-l1wvi-prod-core-publicssl.osg.ufl.edu (128.227.9.98): icmp_seq=42 ttl=233 time=143 ms
+[1607862880.591953] 40 bytes from ufl.edu (128.227.9.98): icmp_seq=43 ttl=233 time=143 ms
+[1607862881.592135] 40 bytes from virtual-l1wvi-prod-core-publicssl.osg.ufl.edu (128.227.9.98): icmp_seq=44 ttl=233 time=143 ms
+[1607862882.593359] 40 bytes from virtual-l1wvi-prod-core-publicssl.osg.ufl.edu (128.227.9.98): icmp_seq=45 ttl=233 time=143 ms
+[1607862883.593717] 40 bytes from virtual-l1wvi-prod-core-publicssl.osg.ufl.edu (128.227.9.98): icmp_seq=46 ttl=233 time=142 ms
+[1607862884.595802] 40 bytes from ufl.edu (128.227.9.98): icmp_seq=47 ttl=233 time=143 ms
+[1607862885.595910] 40 bytes from virtual-l1wvi-prod-core-publicssl.osg.ufl.edu (128.227.9.98): icmp_seq=48 ttl=233 time=142 ms
+[1607862886.597789] 40 bytes from virtual-l1wvi-prod-core-public.osg.ufl.edu (128.227.9.98): icmp_seq=49 ttl=233 time=143 ms
+[1607862887.599336] 40 bytes from virtual-l1wvi-prod-core-publicssl.osg.ufl.edu (128.227.9.98): icmp_seq=50 ttl=233 time=143 ms
+
+--- ufl.edu ping statistics ---
+50 packets transmitted, 50 received, 0% packet loss, time 204456ms
+rtt min/avg/max/mdev = 141.928/142.626/143.143/0.281 ms

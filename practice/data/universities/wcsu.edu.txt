@@ -1,0 +1,55 @@
+PING wcsu.edu (104.196.26.207) 32(60) bytes of data.
+[1607862691.540773] 40 bytes from 207.26.196.104.bc.googleusercontent.com (104.196.26.207): icmp_seq=1 ttl=56 time=114 ms
+[1607862691.656031] 40 bytes from 207.26.196.104.bc.googleusercontent.com (104.196.26.207): icmp_seq=2 ttl=56 time=114 ms
+[1607862692.657831] 40 bytes from 207.26.196.104.bc.googleusercontent.com (104.196.26.207): icmp_seq=3 ttl=56 time=114 ms
+[1607862698.664028] 40 bytes from 207.26.196.104.bc.googleusercontent.com (104.196.26.207): icmp_seq=4 ttl=56 time=114 ms
+[1607862708.786593] 40 bytes from 104.196.26.207: icmp_seq=5 ttl=56 time=114 ms
+[1607862713.903944] 40 bytes from 207.26.196.104.bc.googleusercontent.com (104.196.26.207): icmp_seq=6 ttl=56 time=113 ms
+[1607862719.023884] 40 bytes from 207.26.196.104.bc.googleusercontent.com (104.196.26.207): icmp_seq=7 ttl=56 time=114 ms
+[1607862724.144818] 40 bytes from 207.26.196.104.bc.googleusercontent.com (104.196.26.207): icmp_seq=8 ttl=56 time=114 ms
+[1607862734.266097] 40 bytes from 104.196.26.207: icmp_seq=9 ttl=56 time=114 ms
+[1607862744.390010] 40 bytes from 104.196.26.207: icmp_seq=10 ttl=56 time=114 ms
+[1607862754.511449] 40 bytes from 104.196.26.207: icmp_seq=11 ttl=56 time=114 ms
+[1607862754.627775] 40 bytes from 207.26.196.104.bc.googleusercontent.com (104.196.26.207): icmp_seq=12 ttl=56 time=115 ms
+[1607862765.634033] 40 bytes from 104.196.26.207: icmp_seq=13 ttl=56 time=114 ms
+[1607862775.754196] 40 bytes from 104.196.26.207: icmp_seq=14 ttl=56 time=114 ms
+[1607862775.870505] 40 bytes from 207.26.196.104.bc.googleusercontent.com (104.196.26.207): icmp_seq=15 ttl=56 time=114 ms
+[1607862786.874078] 40 bytes from 104.196.26.207: icmp_seq=16 ttl=56 time=113 ms
+[1607862791.993467] 40 bytes from 207.26.196.104.bc.googleusercontent.com (104.196.26.207): icmp_seq=17 ttl=56 time=114 ms
+[1607862802.114084] 40 bytes from 104.196.26.207: icmp_seq=18 ttl=56 time=113 ms
+[1607862812.234006] 40 bytes from 104.196.26.207: icmp_seq=19 ttl=56 time=114 ms
+[1607862822.354176] 40 bytes from 104.196.26.207: icmp_seq=20 ttl=56 time=114 ms
+[1607862822.470302] 40 bytes from 207.26.196.104.bc.googleusercontent.com (104.196.26.207): icmp_seq=21 ttl=56 time=114 ms
+[1607862833.474042] 40 bytes from 104.196.26.207: icmp_seq=22 ttl=56 time=114 ms
+[1607862833.589874] 40 bytes from 207.26.196.104.bc.googleusercontent.com (104.196.26.207): icmp_seq=23 ttl=56 time=114 ms
+[1607862834.590739] 40 bytes from 207.26.196.104.bc.googleusercontent.com (104.196.26.207): icmp_seq=24 ttl=56 time=114 ms
+[1607862835.592808] 40 bytes from 207.26.196.104.bc.googleusercontent.com (104.196.26.207): icmp_seq=25 ttl=56 time=114 ms
+[1607862836.593767] 40 bytes from 207.26.196.104.bc.googleusercontent.com (104.196.26.207): icmp_seq=26 ttl=56 time=114 ms
+[1607862837.593614] 40 bytes from 207.26.196.104.bc.googleusercontent.com (104.196.26.207): icmp_seq=27 ttl=56 time=113 ms
+[1607862838.593528] 40 bytes from 207.26.196.104.bc.googleusercontent.com (104.196.26.207): icmp_seq=28 ttl=56 time=113 ms
+[1607862839.595375] 40 bytes from 207.26.196.104.bc.googleusercontent.com (104.196.26.207): icmp_seq=29 ttl=56 time=114 ms
+[1607862840.596363] 40 bytes from 207.26.196.104.bc.googleusercontent.com (104.196.26.207): icmp_seq=30 ttl=56 time=114 ms
+[1607862841.597765] 40 bytes from 207.26.196.104.bc.googleusercontent.com (104.196.26.207): icmp_seq=31 ttl=56 time=114 ms
+[1607862842.597163] 40 bytes from 207.26.196.104.bc.googleusercontent.com (104.196.26.207): icmp_seq=32 ttl=56 time=114 ms
+[1607862848.603895] 40 bytes from 207.26.196.104.bc.googleusercontent.com (104.196.26.207): icmp_seq=33 ttl=56 time=114 ms
+[1607862853.723107] 40 bytes from 207.26.196.104.bc.googleusercontent.com (104.196.26.207): icmp_seq=34 ttl=56 time=113 ms
+[1607862853.837678] 40 bytes from 207.26.196.104.bc.googleusercontent.com (104.196.26.207): icmp_seq=35 ttl=56 time=113 ms
+[1607862864.842126] 40 bytes from 104.196.26.207: icmp_seq=36 ttl=56 time=114 ms
+[1607862874.962080] 40 bytes from 104.196.26.207: icmp_seq=37 ttl=56 time=114 ms
+[1607862875.078455] 40 bytes from 207.26.196.104.bc.googleusercontent.com (104.196.26.207): icmp_seq=38 ttl=56 time=114 ms
+[1607862876.078073] 40 bytes from 207.26.196.104.bc.googleusercontent.com (104.196.26.207): icmp_seq=39 ttl=56 time=114 ms
+[1607862877.077764] 40 bytes from 207.26.196.104.bc.googleusercontent.com (104.196.26.207): icmp_seq=40 ttl=56 time=114 ms
+[1607862878.077636] 40 bytes from 207.26.196.104.bc.googleusercontent.com (104.196.26.207): icmp_seq=41 ttl=56 time=114 ms
+[1607862879.078268] 40 bytes from 207.26.196.104.bc.googleusercontent.com (104.196.26.207): icmp_seq=42 ttl=56 time=114 ms
+[1607862880.077555] 40 bytes from 207.26.196.104.bc.googleusercontent.com (104.196.26.207): icmp_seq=43 ttl=56 time=114 ms
+[1607862881.077051] 40 bytes from 207.26.196.104.bc.googleusercontent.com (104.196.26.207): icmp_seq=44 ttl=56 time=114 ms
+[1607862882.074950] 40 bytes from 207.26.196.104.bc.googleusercontent.com (104.196.26.207): icmp_seq=45 ttl=56 time=114 ms
+[1607862883.075684] 40 bytes from 207.26.196.104.bc.googleusercontent.com (104.196.26.207): icmp_seq=46 ttl=56 time=114 ms
+[1607862884.076142] 40 bytes from 207.26.196.104.bc.googleusercontent.com (104.196.26.207): icmp_seq=47 ttl=56 time=114 ms
+[1607862885.075662] 40 bytes from 207.26.196.104.bc.googleusercontent.com (104.196.26.207): icmp_seq=48 ttl=56 time=113 ms
+[1607862886.076624] 40 bytes from 207.26.196.104.bc.googleusercontent.com (104.196.26.207): icmp_seq=49 ttl=56 time=114 ms
+[1607862887.076275] 40 bytes from 207.26.196.104.bc.googleusercontent.com (104.196.26.207): icmp_seq=50 ttl=56 time=114 ms
+
+--- wcsu.edu ping statistics ---
+50 packets transmitted, 50 received, 0% packet loss, time 200543ms
+rtt min/avg/max/mdev = 112.924/113.687/114.687/0.283 ms

@@ -1,0 +1,55 @@
+PING smsu.edu (199.17.208.60) 32(60) bytes of data.
+[1607862691.325282] 40 bytes from www.smsu.edu (199.17.208.60): icmp_seq=1 ttl=45 time=129 ms
+[1607862691.457012] 40 bytes from www.smsu.edu (199.17.208.60): icmp_seq=2 ttl=45 time=130 ms
+[1607862697.462217] 40 bytes from www.smsu.edu (199.17.208.60): icmp_seq=3 ttl=45 time=130 ms
+[1607862702.595810] 40 bytes from www.smsu.edu (199.17.208.60): icmp_seq=4 ttl=45 time=129 ms
+[1607862707.731834] 40 bytes from www.smsu.edu (199.17.208.60): icmp_seq=5 ttl=45 time=129 ms
+[1607862712.865189] 40 bytes from www.smsu.edu (199.17.208.60): icmp_seq=6 ttl=45 time=129 ms
+[1607862712.997814] 40 bytes from www.smsu.edu (199.17.208.60): icmp_seq=7 ttl=45 time=130 ms
+[1607862724.002032] 40 bytes from 199.17.208.60: icmp_seq=8 ttl=45 time=130 ms
+[1607862734.138037] 40 bytes from 199.17.208.60: icmp_seq=9 ttl=45 time=130 ms
+[1607862744.275245] 40 bytes from 199.17.208.60: icmp_seq=10 ttl=45 time=129 ms
+[1607862749.411801] 40 bytes from www.smsu.edu (199.17.208.60): icmp_seq=11 ttl=45 time=130 ms
+[1607862754.547709] 40 bytes from www.smsu.edu (199.17.208.60): icmp_seq=12 ttl=45 time=129 ms
+[1607862759.683549] 40 bytes from www.smsu.edu (199.17.208.60): icmp_seq=13 ttl=45 time=129 ms
+[1607862759.814505] 40 bytes from www.smsu.edu (199.17.208.60): icmp_seq=14 ttl=45 time=129 ms
+[1607862770.818008] 40 bytes from 199.17.208.60: icmp_seq=15 ttl=45 time=129 ms
+[1607862775.954304] 40 bytes from www.smsu.edu (199.17.208.60): icmp_seq=16 ttl=45 time=130 ms
+[1607862786.090050] 40 bytes from 199.17.208.60: icmp_seq=17 ttl=45 time=129 ms
+[1607862791.225138] 40 bytes from www.smsu.edu (199.17.208.60): icmp_seq=18 ttl=45 time=129 ms
+[1607862796.359637] 40 bytes from www.smsu.edu (199.17.208.60): icmp_seq=19 ttl=45 time=129 ms
+[1607862801.493517] 40 bytes from www.smsu.edu (199.17.208.60): icmp_seq=20 ttl=45 time=129 ms
+[1607862801.625052] 40 bytes from www.smsu.edu (199.17.208.60): icmp_seq=21 ttl=45 time=129 ms
+[1607862802.623896] 40 bytes from www.smsu.edu (199.17.208.60): icmp_seq=22 ttl=45 time=129 ms
+[1607862803.623448] 40 bytes from www.smsu.edu (199.17.208.60): icmp_seq=23 ttl=45 time=129 ms
+[1607862804.622646] 40 bytes from www.smsu.edu (199.17.208.60): icmp_seq=24 ttl=45 time=130 ms
+[1607862805.621281] 40 bytes from www.smsu.edu (199.17.208.60): icmp_seq=25 ttl=45 time=129 ms
+[1607862806.624443] 40 bytes from www.smsu.edu (199.17.208.60): icmp_seq=26 ttl=45 time=130 ms
+[1607862817.630027] 40 bytes from 199.17.208.60: icmp_seq=27 ttl=45 time=130 ms
+[1607862827.765998] 40 bytes from 199.17.208.60: icmp_seq=28 ttl=45 time=130 ms
+[1607862832.899881] 40 bytes from www.smsu.edu (199.17.208.60): icmp_seq=29 ttl=45 time=129 ms
+[1607862838.034861] 40 bytes from www.smsu.edu (199.17.208.60): icmp_seq=30 ttl=45 time=129 ms
+[1607862843.167794] 40 bytes from www.smsu.edu (199.17.208.60): icmp_seq=31 ttl=45 time=129 ms
+[1607862843.299080] 40 bytes from www.smsu.edu (199.17.208.60): icmp_seq=32 ttl=45 time=129 ms
+[1607862854.342005] 40 bytes from 199.17.208.60: icmp_seq=33 ttl=45 time=168 ms
+[1607862864.478006] 40 bytes from 199.17.208.60: icmp_seq=34 ttl=45 time=129 ms
+[1607862869.612184] 40 bytes from www.smsu.edu (199.17.208.60): icmp_seq=35 ttl=45 time=130 ms
+[1607862869.742975] 40 bytes from www.smsu.edu (199.17.208.60): icmp_seq=36 ttl=45 time=130 ms
+[1607862875.748073] 40 bytes from www.smsu.edu (199.17.208.60): icmp_seq=37 ttl=45 time=130 ms
+[1607862880.884058] 40 bytes from www.smsu.edu (199.17.208.60): icmp_seq=38 ttl=45 time=129 ms
+[1607862881.014984] 40 bytes from www.smsu.edu (199.17.208.60): icmp_seq=39 ttl=45 time=130 ms
+[1607862882.015473] 40 bytes from www.smsu.edu (199.17.208.60): icmp_seq=40 ttl=45 time=129 ms
+[1607862888.020010] 40 bytes from www.smsu.edu (199.17.208.60): icmp_seq=41 ttl=45 time=129 ms
+[1607862888.151154] 40 bytes from www.smsu.edu (199.17.208.60): icmp_seq=42 ttl=45 time=129 ms
+[1607862889.152318] 40 bytes from www.smsu.edu (199.17.208.60): icmp_seq=43 ttl=45 time=129 ms
+[1607862890.153197] 40 bytes from www.smsu.edu (199.17.208.60): icmp_seq=44 ttl=45 time=129 ms
+[1607862891.154725] 40 bytes from www.smsu.edu (199.17.208.60): icmp_seq=45 ttl=45 time=130 ms
+[1607862892.155592] 40 bytes from www.smsu.edu (199.17.208.60): icmp_seq=46 ttl=45 time=129 ms
+[1607862893.157743] 40 bytes from www.smsu.edu (199.17.208.60): icmp_seq=47 ttl=45 time=130 ms
+[1607862894.158366] 40 bytes from www.smsu.edu (199.17.208.60): icmp_seq=48 ttl=45 time=129 ms
+[1607862895.160575] 40 bytes from www.smsu.edu (199.17.208.60): icmp_seq=49 ttl=45 time=130 ms
+[1607862896.161962] 40 bytes from www.smsu.edu (199.17.208.60): icmp_seq=50 ttl=45 time=129 ms
+
+--- smsu.edu ping statistics ---
+50 packets transmitted, 50 received, 0% packet loss, time 209841ms
+rtt min/avg/max/mdev = 128.534/130.078/167.937/5.419 ms

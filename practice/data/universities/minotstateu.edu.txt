@@ -1,0 +1,55 @@
+PING minotstateu.edu (165.234.215.3) 32(60) bytes of data.
+[1607862700.887809] 40 bytes from dc1.minotstateu.edu (165.234.215.3): icmp_seq=1 ttl=109 time=145 ms
+[1607862701.035505] 40 bytes from dc1.minotstateu.edu (165.234.215.3): icmp_seq=2 ttl=109 time=145 ms
+[1607862702.036048] 40 bytes from dc1.minotstateu.edu (165.234.215.3): icmp_seq=3 ttl=109 time=146 ms
+[1607862703.034415] 40 bytes from dc1.minotstateu.edu (165.234.215.3): icmp_seq=4 ttl=109 time=145 ms
+[1607862704.034618] 40 bytes from dc1.minotstateu.edu (165.234.215.3): icmp_seq=5 ttl=109 time=145 ms
+[1607862705.035266] 40 bytes from dc1.minotstateu.edu (165.234.215.3): icmp_seq=6 ttl=109 time=146 ms
+[1607862706.035554] 40 bytes from dc1.minotstateu.edu (165.234.215.3): icmp_seq=7 ttl=109 time=146 ms
+[1607862712.044935] 40 bytes from dc1.minotstateu.edu (165.234.215.3): icmp_seq=8 ttl=109 time=145 ms
+[1607862722.198032] 40 bytes from 165.234.215.3: icmp_seq=9 ttl=109 time=146 ms
+[1607862732.354021] 40 bytes from 165.234.215.3: icmp_seq=10 ttl=109 time=148 ms
+[1607862732.502315] 40 bytes from dc1.minotstateu.edu (165.234.215.3): icmp_seq=11 ttl=109 time=146 ms
+[1607862733.503500] 40 bytes from dc1.minotstateu.edu (165.234.215.3): icmp_seq=12 ttl=109 time=146 ms
+[1607862744.510037] 40 bytes from 165.234.215.3: icmp_seq=13 ttl=109 time=146 ms
+[1607862754.662014] 40 bytes from 165.234.215.3: icmp_seq=14 ttl=109 time=146 ms
+[1607862754.809857] 40 bytes from dc1.minotstateu.edu (165.234.215.3): icmp_seq=15 ttl=109 time=146 ms
+[1607862755.811849] 40 bytes from dc1.minotstateu.edu (165.234.215.3): icmp_seq=16 ttl=109 time=146 ms
+[1607862756.811914] 40 bytes from dc1.minotstateu.edu (165.234.215.3): icmp_seq=17 ttl=109 time=146 ms
+[1607862757.811391] 40 bytes from dc1.minotstateu.edu (165.234.215.3): icmp_seq=18 ttl=109 time=145 ms
+[1607862758.812028] 40 bytes from dc1.minotstateu.edu (165.234.215.3): icmp_seq=19 ttl=109 time=145 ms
+[1607862759.813725] 40 bytes from dc1.minotstateu.edu (165.234.215.3): icmp_seq=20 ttl=109 time=146 ms
+[1607862760.812609] 40 bytes from dc1.minotstateu.edu (165.234.215.3): icmp_seq=21 ttl=109 time=146 ms
+[1607862761.814511] 40 bytes from dc1.minotstateu.edu (165.234.215.3): icmp_seq=22 ttl=109 time=146 ms
+[1607862762.814412] 40 bytes from dc1.minotstateu.edu (165.234.215.3): icmp_seq=23 ttl=109 time=147 ms
+[1607862763.814170] 40 bytes from dc1.minotstateu.edu (165.234.215.3): icmp_seq=24 ttl=109 time=146 ms
+[1607862764.814343] 40 bytes from dc1.minotstateu.edu (165.234.215.3): icmp_seq=25 ttl=109 time=145 ms
+[1607862765.816119] 40 bytes from dc1.minotstateu.edu (165.234.215.3): icmp_seq=26 ttl=109 time=145 ms
+[1607862766.817914] 40 bytes from dc1.minotstateu.edu (165.234.215.3): icmp_seq=27 ttl=109 time=146 ms
+[1607862767.820248] 40 bytes from dc1.minotstateu.edu (165.234.215.3): icmp_seq=28 ttl=109 time=146 ms
+[1607862768.819860] 40 bytes from dc1.minotstateu.edu (165.234.215.3): icmp_seq=29 ttl=109 time=146 ms
+[1607862769.819488] 40 bytes from dc1.minotstateu.edu (165.234.215.3): icmp_seq=30 ttl=109 time=146 ms
+[1607862770.819563] 40 bytes from dc1.minotstateu.edu (165.234.215.3): icmp_seq=31 ttl=109 time=146 ms
+[1607862771.817895] 40 bytes from dc1.minotstateu.edu (165.234.215.3): icmp_seq=32 ttl=109 time=145 ms
+[1607862772.817983] 40 bytes from dc1.minotstateu.edu (165.234.215.3): icmp_seq=33 ttl=109 time=146 ms
+[1607862773.817909] 40 bytes from dc1.minotstateu.edu (165.234.215.3): icmp_seq=34 ttl=109 time=146 ms
+[1607862774.817952] 40 bytes from dc1.minotstateu.edu (165.234.215.3): icmp_seq=35 ttl=109 time=146 ms
+[1607862785.822028] 40 bytes from 165.234.215.3: icmp_seq=36 ttl=109 time=145 ms
+[1607862790.974722] 40 bytes from dc1.minotstateu.edu (165.234.215.3): icmp_seq=37 ttl=109 time=146 ms
+[1607862791.122373] 40 bytes from dc1.minotstateu.edu (165.234.215.3): icmp_seq=38 ttl=109 time=146 ms
+[1607862802.130021] 40 bytes from 165.234.215.3: icmp_seq=39 ttl=109 time=146 ms
+[1607862807.280346] 40 bytes from dc1.minotstateu.edu (165.234.215.3): icmp_seq=40 ttl=109 time=147 ms
+[1607862817.434125] 40 bytes from 165.234.215.3: icmp_seq=41 ttl=109 time=146 ms
+[1607862827.586007] 40 bytes from 165.234.215.3: icmp_seq=42 ttl=109 time=146 ms
+[1607862827.734588] 40 bytes from dc1.minotstateu.edu (165.234.215.3): icmp_seq=43 ttl=109 time=146 ms
+[1607862833.740708] 40 bytes from dc1.minotstateu.edu (165.234.215.3): icmp_seq=44 ttl=109 time=146 ms
+[1607862843.894026] 40 bytes from 165.234.215.3: icmp_seq=45 ttl=109 time=146 ms
+[1607862854.046242] 40 bytes from 165.234.215.3: icmp_seq=46 ttl=109 time=145 ms
+[1607862859.204353] 40 bytes from dc1.minotstateu.edu (165.234.215.3): icmp_seq=47 ttl=109 time=152 ms
+[1607862864.355505] 40 bytes from dc1.minotstateu.edu (165.234.215.3): icmp_seq=48 ttl=109 time=148 ms
+[1607862864.502528] 40 bytes from dc1.minotstateu.edu (165.234.215.3): icmp_seq=49 ttl=109 time=145 ms
+[1607862865.504110] 40 bytes from dc1.minotstateu.edu (165.234.215.3): icmp_seq=50 ttl=109 time=146 ms
+
+--- minotstateu.edu ping statistics ---
+50 packets transmitted, 50 received, 0% packet loss, time 169618ms
+rtt min/avg/max/mdev = 144.821/145.907/151.624/0.996 ms

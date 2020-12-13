@@ -1,0 +1,55 @@
+PING usj.edu (172.67.24.2) 32(60) bytes of data.
+[1607862686.416613] 40 bytes from 172.67.24.2 (172.67.24.2): icmp_seq=1 ttl=52 time=2.31 ms
+[1607862696.426965] 40 bytes from 172.67.24.2: icmp_seq=2 ttl=52 time=2.23 ms
+[1607862706.433998] 40 bytes from 172.67.24.2: icmp_seq=3 ttl=52 time=1.60 ms
+[1607862706.438296] 40 bytes from 172.67.24.2 (172.67.24.2): icmp_seq=4 ttl=52 time=2.19 ms
+[1607862707.438188] 40 bytes from 172.67.24.2 (172.67.24.2): icmp_seq=5 ttl=52 time=2.24 ms
+[1607862708.438549] 40 bytes from 172.67.24.2 (172.67.24.2): icmp_seq=6 ttl=52 time=1.83 ms
+[1607862709.444041] 40 bytes from 172.67.24.2 (172.67.24.2): icmp_seq=7 ttl=52 time=2.23 ms
+[1607862715.443987] 40 bytes from 172.67.24.2 (172.67.24.2): icmp_seq=8 ttl=52 time=2.02 ms
+[1607862725.454047] 40 bytes from 172.67.24.2: icmp_seq=9 ttl=52 time=2.19 ms
+[1607862725.457830] 40 bytes from 172.67.24.2 (172.67.24.2): icmp_seq=10 ttl=52 time=2.17 ms
+[1607862736.462122] 40 bytes from 172.67.24.2: icmp_seq=11 ttl=52 time=1.33 ms
+[1607862736.465956] 40 bytes from 172.67.24.2 (172.67.24.2): icmp_seq=12 ttl=52 time=1.56 ms
+[1607862737.466907] 40 bytes from 172.67.24.2 (172.67.24.2): icmp_seq=13 ttl=52 time=2.01 ms
+[1607862738.468983] 40 bytes from 172.67.24.2 (172.67.24.2): icmp_seq=14 ttl=52 time=2.29 ms
+[1607862749.474879] 40 bytes from 172.67.24.2: icmp_seq=15 ttl=52 time=2.23 ms
+[1607862749.478723] 40 bytes from 172.67.24.2 (172.67.24.2): icmp_seq=16 ttl=52 time=1.78 ms
+[1607862760.482008] 40 bytes from 172.67.24.2: icmp_seq=17 ttl=52 time=1.98 ms
+[1607862760.485796] 40 bytes from 172.67.24.2 (172.67.24.2): icmp_seq=18 ttl=52 time=1.72 ms
+[1607862761.486658] 40 bytes from 172.67.24.2 (172.67.24.2): icmp_seq=19 ttl=52 time=2.43 ms
+[1607862762.485942] 40 bytes from 172.67.24.2 (172.67.24.2): icmp_seq=20 ttl=52 time=2.34 ms
+[1607862763.486001] 40 bytes from 172.67.24.2 (172.67.24.2): icmp_seq=21 ttl=52 time=1.59 ms
+[1607862764.486146] 40 bytes from 172.67.24.2 (172.67.24.2): icmp_seq=22 ttl=52 time=2.13 ms
+[1607862775.494036] 40 bytes from 172.67.24.2: icmp_seq=23 ttl=52 time=1.46 ms
+[1607862780.503662] 40 bytes from 172.67.24.2 (172.67.24.2): icmp_seq=24 ttl=52 time=2.25 ms
+[1607862780.508509] 40 bytes from 172.67.24.2 (172.67.24.2): icmp_seq=25 ttl=52 time=2.23 ms
+[1607862781.507456] 40 bytes from 172.67.24.2 (172.67.24.2): icmp_seq=26 ttl=52 time=1.50 ms
+[1607862792.514153] 40 bytes from 172.67.24.2: icmp_seq=27 ttl=52 time=2.24 ms
+[1607862792.518476] 40 bytes from 172.67.24.2 (172.67.24.2): icmp_seq=28 ttl=52 time=2.28 ms
+[1607862793.519638] 40 bytes from 172.67.24.2 (172.67.24.2): icmp_seq=29 ttl=52 time=2.24 ms
+[1607862794.519925] 40 bytes from 172.67.24.2 (172.67.24.2): icmp_seq=30 ttl=52 time=2.16 ms
+[1607862795.520814] 40 bytes from 172.67.24.2 (172.67.24.2): icmp_seq=31 ttl=52 time=2.10 ms
+[1607862801.523704] 40 bytes from 172.67.24.2 (172.67.24.2): icmp_seq=32 ttl=52 time=1.48 ms
+[1607862801.527521] 40 bytes from 172.67.24.2 (172.67.24.2): icmp_seq=33 ttl=52 time=1.72 ms
+[1607862812.530009] 40 bytes from 172.67.24.2: icmp_seq=34 ttl=52 time=1.73 ms
+[1607862812.533876] 40 bytes from 172.67.24.2 (172.67.24.2): icmp_seq=35 ttl=52 time=2.07 ms
+[1607862813.535352] 40 bytes from 172.67.24.2 (172.67.24.2): icmp_seq=36 ttl=52 time=2.23 ms
+[1607862814.536557] 40 bytes from 172.67.24.2 (172.67.24.2): icmp_seq=37 ttl=52 time=1.87 ms
+[1607862815.538152] 40 bytes from 172.67.24.2 (172.67.24.2): icmp_seq=38 ttl=52 time=2.23 ms
+[1607862816.540132] 40 bytes from 172.67.24.2 (172.67.24.2): icmp_seq=39 ttl=52 time=2.25 ms
+[1607862822.543672] 40 bytes from 172.67.24.2 (172.67.24.2): icmp_seq=40 ttl=52 time=2.20 ms
+[1607862827.551455] 40 bytes from 172.67.24.2 (172.67.24.2): icmp_seq=41 ttl=52 time=1.68 ms
+[1607862827.554969] 40 bytes from 172.67.24.2 (172.67.24.2): icmp_seq=42 ttl=52 time=2.26 ms
+[1607862828.555637] 40 bytes from 172.67.24.2 (172.67.24.2): icmp_seq=43 ttl=52 time=1.46 ms
+[1607862829.558426] 40 bytes from 172.67.24.2 (172.67.24.2): icmp_seq=44 ttl=52 time=2.36 ms
+[1607862830.559259] 40 bytes from 172.67.24.2 (172.67.24.2): icmp_seq=45 ttl=52 time=2.18 ms
+[1607862831.561400] 40 bytes from 172.67.24.2 (172.67.24.2): icmp_seq=46 ttl=52 time=2.36 ms
+[1607862832.562659] 40 bytes from 172.67.24.2 (172.67.24.2): icmp_seq=47 ttl=52 time=2.16 ms
+[1607862833.563638] 40 bytes from 172.67.24.2 (172.67.24.2): icmp_seq=48 ttl=52 time=2.32 ms
+[1607862834.564120] 40 bytes from 172.67.24.2 (172.67.24.2): icmp_seq=49 ttl=52 time=2.07 ms
+[1607862835.564760] 40 bytes from 172.67.24.2 (172.67.24.2): icmp_seq=50 ttl=52 time=1.90 ms
+
+--- usj.edu ping statistics ---
+50 packets transmitted, 50 received, 0% packet loss, time 154153ms
+rtt min/avg/max/mdev = 1.327/2.027/2.434/0.294 ms

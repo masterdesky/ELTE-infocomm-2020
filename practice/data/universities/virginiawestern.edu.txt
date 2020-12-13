@@ -1,0 +1,54 @@
+PING virginiawestern.edu (23.92.19.154) 32(60) bytes of data.
+[1607862707.688768] 40 bytes from virginiawestern.edu (23.92.19.154): icmp_seq=1 ttl=47 time=109 ms
+[1607862713.695276] 40 bytes from virginiawestern.edu (23.92.19.154): icmp_seq=2 ttl=47 time=110 ms
+[1607862713.806375] 40 bytes from virginiawestern.edu (23.92.19.154): icmp_seq=3 ttl=47 time=110 ms
+[1607862714.807214] 40 bytes from virginiawestern.edu (23.92.19.154): icmp_seq=4 ttl=47 time=110 ms
+[1607862715.806895] 40 bytes from virginiawestern.edu (23.92.19.154): icmp_seq=5 ttl=47 time=109 ms
+[1607862716.809346] 40 bytes from virginiawestern.edu (23.92.19.154): icmp_seq=6 ttl=47 time=110 ms
+[1607862717.809803] 40 bytes from virginiawestern.edu (23.92.19.154): icmp_seq=7 ttl=47 time=110 ms
+[1607862728.814018] 40 bytes from 23.92.19.154: icmp_seq=8 ttl=47 time=110 ms
+[1607862728.925496] 40 bytes from virginiawestern.edu (23.92.19.154): icmp_seq=9 ttl=47 time=110 ms
+[1607862730.924936] 40 bytes from virginiawestern.edu (23.92.19.154): icmp_seq=11 ttl=47 time=110 ms
+[1607862731.924312] 40 bytes from virginiawestern.edu (23.92.19.154): icmp_seq=12 ttl=47 time=110 ms
+[1607862732.924462] 40 bytes from virginiawestern.edu (23.92.19.154): icmp_seq=13 ttl=47 time=110 ms
+[1607862738.927762] 40 bytes from virginiawestern.edu (23.92.19.154): icmp_seq=14 ttl=47 time=111 ms
+[1607862739.039615] 40 bytes from virginiawestern.edu (23.92.19.154): icmp_seq=15 ttl=47 time=110 ms
+[1607862745.044391] 40 bytes from virginiawestern.edu (23.92.19.154): icmp_seq=16 ttl=47 time=109 ms
+[1607862745.156781] 40 bytes from virginiawestern.edu (23.92.19.154): icmp_seq=17 ttl=47 time=110 ms
+[1607862751.160014] 40 bytes from virginiawestern.edu (23.92.19.154): icmp_seq=18 ttl=47 time=109 ms
+[1607862751.272024] 40 bytes from virginiawestern.edu (23.92.19.154): icmp_seq=19 ttl=47 time=110 ms
+[1607862757.275913] 40 bytes from virginiawestern.edu (23.92.19.154): icmp_seq=20 ttl=47 time=110 ms
+[1607862762.391931] 40 bytes from virginiawestern.edu (23.92.19.154): icmp_seq=21 ttl=47 time=110 ms
+[1607862762.503542] 40 bytes from virginiawestern.edu (23.92.19.154): icmp_seq=22 ttl=47 time=110 ms
+[1607862763.504487] 40 bytes from virginiawestern.edu (23.92.19.154): icmp_seq=23 ttl=47 time=110 ms
+[1607862764.505452] 40 bytes from virginiawestern.edu (23.92.19.154): icmp_seq=24 ttl=47 time=110 ms
+[1607862775.514017] 40 bytes from 23.92.19.154: icmp_seq=25 ttl=47 time=110 ms
+[1607862780.627990] 40 bytes from virginiawestern.edu (23.92.19.154): icmp_seq=26 ttl=47 time=110 ms
+[1607862785.744302] 40 bytes from virginiawestern.edu (23.92.19.154): icmp_seq=27 ttl=47 time=110 ms
+[1607862785.855074] 40 bytes from virginiawestern.edu (23.92.19.154): icmp_seq=28 ttl=47 time=110 ms
+[1607862796.862036] 40 bytes from 23.92.19.154: icmp_seq=29 ttl=47 time=109 ms
+[1607862801.975859] 40 bytes from virginiawestern.edu (23.92.19.154): icmp_seq=30 ttl=47 time=109 ms
+[1607862812.094043] 40 bytes from 23.92.19.154: icmp_seq=31 ttl=47 time=110 ms
+[1607862812.206077] 40 bytes from virginiawestern.edu (23.92.19.154): icmp_seq=32 ttl=47 time=110 ms
+[1607862813.207140] 40 bytes from virginiawestern.edu (23.92.19.154): icmp_seq=33 ttl=47 time=110 ms
+[1607862814.207254] 40 bytes from virginiawestern.edu (23.92.19.154): icmp_seq=34 ttl=47 time=109 ms
+[1607862815.209353] 40 bytes from virginiawestern.edu (23.92.19.154): icmp_seq=35 ttl=47 time=110 ms
+[1607862816.208975] 40 bytes from virginiawestern.edu (23.92.19.154): icmp_seq=36 ttl=47 time=110 ms
+[1607862817.210219] 40 bytes from virginiawestern.edu (23.92.19.154): icmp_seq=37 ttl=47 time=109 ms
+[1607862828.214262] 40 bytes from 23.92.19.154: icmp_seq=38 ttl=47 time=110 ms
+[1607862838.330111] 40 bytes from 23.92.19.154: icmp_seq=39 ttl=47 time=110 ms
+[1607862848.446098] 40 bytes from 23.92.19.154: icmp_seq=40 ttl=47 time=110 ms
+[1607862848.557746] 40 bytes from virginiawestern.edu (23.92.19.154): icmp_seq=41 ttl=47 time=110 ms
+[1607862859.562111] 40 bytes from 23.92.19.154: icmp_seq=42 ttl=47 time=109 ms
+[1607862859.674120] 40 bytes from virginiawestern.edu (23.92.19.154): icmp_seq=43 ttl=47 time=110 ms
+[1607862860.674365] 40 bytes from virginiawestern.edu (23.92.19.154): icmp_seq=44 ttl=47 time=109 ms
+[1607862861.675451] 40 bytes from virginiawestern.edu (23.92.19.154): icmp_seq=45 ttl=47 time=110 ms
+[1607862862.677524] 40 bytes from virginiawestern.edu (23.92.19.154): icmp_seq=46 ttl=47 time=110 ms
+[1607862863.678279] 40 bytes from virginiawestern.edu (23.92.19.154): icmp_seq=47 ttl=47 time=110 ms
+[1607862869.683940] 40 bytes from virginiawestern.edu (23.92.19.154): icmp_seq=48 ttl=47 time=110 ms
+[1607862869.794975] 40 bytes from virginiawestern.edu (23.92.19.154): icmp_seq=49 ttl=47 time=110 ms
+[1607862871.684542] 40 bytes from 23.92.19.154: icmp_seq=50 ttl=47 time=110 ms
+
+--- virginiawestern.edu ping statistics ---
+50 packets transmitted, 49 received, 2% packet loss, time 163107ms
+rtt min/avg/max/mdev = 109.034/109.711/111.397/0.356 ms

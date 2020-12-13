@@ -1,0 +1,55 @@
+PING bryanuniversity.edu (35.239.213.151) 32(60) bytes of data.
+[1607862673.695743] 40 bytes from 151.213.239.35.bc.googleusercontent.com (35.239.213.151): icmp_seq=1 ttl=50 time=120 ms
+[1607862683.822023] 40 bytes from 35.239.213.151: icmp_seq=2 ttl=50 time=121 ms
+[1607862693.950016] 40 bytes from 35.239.213.151: icmp_seq=3 ttl=50 time=121 ms
+[1607862699.077608] 40 bytes from 151.213.239.35.bc.googleusercontent.com (35.239.213.151): icmp_seq=4 ttl=50 time=121 ms
+[1607862709.206029] 40 bytes from 35.239.213.151: icmp_seq=5 ttl=50 time=121 ms
+[1607862719.334031] 40 bytes from 35.239.213.151: icmp_seq=6 ttl=50 time=121 ms
+[1607862719.456969] 40 bytes from 151.213.239.35.bc.googleusercontent.com (35.239.213.151): icmp_seq=7 ttl=50 time=121 ms
+[1607862730.462343] 40 bytes from 35.239.213.151: icmp_seq=8 ttl=50 time=120 ms
+[1607862730.585045] 40 bytes from 151.213.239.35.bc.googleusercontent.com (35.239.213.151): icmp_seq=9 ttl=50 time=120 ms
+[1607862731.586477] 40 bytes from 151.213.239.35.bc.googleusercontent.com (35.239.213.151): icmp_seq=10 ttl=50 time=121 ms
+[1607862732.586655] 40 bytes from 151.213.239.35.bc.googleusercontent.com (35.239.213.151): icmp_seq=11 ttl=50 time=120 ms
+[1607862733.589798] 40 bytes from 151.213.239.35.bc.googleusercontent.com (35.239.213.151): icmp_seq=12 ttl=50 time=121 ms
+[1607862734.590517] 40 bytes from 151.213.239.35.bc.googleusercontent.com (35.239.213.151): icmp_seq=13 ttl=50 time=121 ms
+[1607862740.593476] 40 bytes from 151.213.239.35.bc.googleusercontent.com (35.239.213.151): icmp_seq=14 ttl=50 time=121 ms
+[1607862745.720290] 40 bytes from 151.213.239.35.bc.googleusercontent.com (35.239.213.151): icmp_seq=15 ttl=50 time=121 ms
+[1607862755.850110] 40 bytes from 35.239.213.151: icmp_seq=16 ttl=50 time=121 ms
+[1607862765.978000] 40 bytes from 35.239.213.151: icmp_seq=17 ttl=50 time=121 ms
+[1607862771.104244] 40 bytes from 151.213.239.35.bc.googleusercontent.com (35.239.213.151): icmp_seq=18 ttl=50 time=120 ms
+[1607862771.225951] 40 bytes from 151.213.239.35.bc.googleusercontent.com (35.239.213.151): icmp_seq=19 ttl=50 time=120 ms
+[1607862772.228742] 40 bytes from 151.213.239.35.bc.googleusercontent.com (35.239.213.151): icmp_seq=20 ttl=50 time=121 ms
+[1607862773.230470] 40 bytes from 151.213.239.35.bc.googleusercontent.com (35.239.213.151): icmp_seq=21 ttl=50 time=122 ms
+[1607862774.230109] 40 bytes from 151.213.239.35.bc.googleusercontent.com (35.239.213.151): icmp_seq=22 ttl=50 time=121 ms
+[1607862775.231971] 40 bytes from 151.213.239.35.bc.googleusercontent.com (35.239.213.151): icmp_seq=23 ttl=50 time=121 ms
+[1607862776.233874] 40 bytes from 151.213.239.35.bc.googleusercontent.com (35.239.213.151): icmp_seq=24 ttl=50 time=121 ms
+[1607862777.233843] 40 bytes from 151.213.239.35.bc.googleusercontent.com (35.239.213.151): icmp_seq=25 ttl=50 time=120 ms
+[1607862778.235795] 40 bytes from 151.213.239.35.bc.googleusercontent.com (35.239.213.151): icmp_seq=26 ttl=50 time=121 ms
+[1607862779.236030] 40 bytes from 151.213.239.35.bc.googleusercontent.com (35.239.213.151): icmp_seq=27 ttl=50 time=120 ms
+[1607862780.237902] 40 bytes from 151.213.239.35.bc.googleusercontent.com (35.239.213.151): icmp_seq=28 ttl=50 time=121 ms
+[1607862786.244056] 40 bytes from 151.213.239.35.bc.googleusercontent.com (35.239.213.151): icmp_seq=29 ttl=50 time=121 ms
+[1607862796.374063] 40 bytes from 35.239.213.151: icmp_seq=30 ttl=50 time=121 ms
+[1607862801.499743] 40 bytes from 151.213.239.35.bc.googleusercontent.com (35.239.213.151): icmp_seq=31 ttl=50 time=121 ms
+[1607862806.624525] 40 bytes from 151.213.239.35.bc.googleusercontent.com (35.239.213.151): icmp_seq=32 ttl=50 time=120 ms
+[1607862806.747334] 40 bytes from 151.213.239.35.bc.googleusercontent.com (35.239.213.151): icmp_seq=33 ttl=50 time=121 ms
+[1607862817.750075] 40 bytes from 35.239.213.151: icmp_seq=34 ttl=50 time=121 ms
+[1607862827.878204] 40 bytes from 35.239.213.151: icmp_seq=35 ttl=50 time=121 ms
+[1607862838.006371] 40 bytes from 35.239.213.151: icmp_seq=36 ttl=50 time=121 ms
+[1607862838.128975] 40 bytes from 151.213.239.35.bc.googleusercontent.com (35.239.213.151): icmp_seq=37 ttl=50 time=121 ms
+[1607862849.134012] 40 bytes from 35.239.213.151: icmp_seq=38 ttl=50 time=120 ms
+[1607862849.257283] 40 bytes from 151.213.239.35.bc.googleusercontent.com (35.239.213.151): icmp_seq=39 ttl=50 time=121 ms
+[1607862850.258341] 40 bytes from 151.213.239.35.bc.googleusercontent.com (35.239.213.151): icmp_seq=40 ttl=50 time=121 ms
+[1607862851.259825] 40 bytes from 151.213.239.35.bc.googleusercontent.com (35.239.213.151): icmp_seq=41 ttl=50 time=121 ms
+[1607862852.260612] 40 bytes from 151.213.239.35.bc.googleusercontent.com (35.239.213.151): icmp_seq=42 ttl=50 time=121 ms
+[1607862853.262666] 40 bytes from 151.213.239.35.bc.googleusercontent.com (35.239.213.151): icmp_seq=43 ttl=50 time=121 ms
+[1607862859.265896] 40 bytes from 151.213.239.35.bc.googleusercontent.com (35.239.213.151): icmp_seq=44 ttl=50 time=121 ms
+[1607862864.395595] 40 bytes from 151.213.239.35.bc.googleusercontent.com (35.239.213.151): icmp_seq=45 ttl=50 time=120 ms
+[1607862864.518596] 40 bytes from 151.213.239.35.bc.googleusercontent.com (35.239.213.151): icmp_seq=46 ttl=50 time=121 ms
+[1607862870.523161] 40 bytes from 151.213.239.35.bc.googleusercontent.com (35.239.213.151): icmp_seq=47 ttl=50 time=121 ms
+[1607862870.645252] 40 bytes from 151.213.239.35.bc.googleusercontent.com (35.239.213.151): icmp_seq=48 ttl=50 time=121 ms
+[1607862871.646786] 40 bytes from 151.213.239.35.bc.googleusercontent.com (35.239.213.151): icmp_seq=49 ttl=50 time=121 ms
+[1607862872.648579] 40 bytes from 151.213.239.35.bc.googleusercontent.com (35.239.213.151): icmp_seq=50 ttl=50 time=121 ms
+
+--- bryanuniversity.edu ping statistics ---
+50 packets transmitted, 50 received, 0% packet loss, time 203956ms
+rtt min/avg/max/mdev = 119.785/120.696/122.334/0.372 ms

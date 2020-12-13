@@ -1,0 +1,55 @@
+PING wheatoncollege.edu (23.185.0.2) 32(60) bytes of data.
+[1607862678.250862] 40 bytes from 23.185.0.2 (23.185.0.2): icmp_seq=1 ttl=54 time=28.2 ms
+[1607862684.257207] 40 bytes from 23.185.0.2 (23.185.0.2): icmp_seq=2 ttl=54 time=28.2 ms
+[1607862684.286789] 40 bytes from 23.185.0.2 (23.185.0.2): icmp_seq=3 ttl=54 time=28.0 ms
+[1607862695.294002] 40 bytes from 23.185.0.2: icmp_seq=4 ttl=54 time=27.1 ms
+[1607862695.324278] 40 bytes from 23.185.0.2 (23.185.0.2): icmp_seq=5 ttl=54 time=27.8 ms
+[1607862696.324619] 40 bytes from 23.185.0.2 (23.185.0.2): icmp_seq=6 ttl=54 time=28.0 ms
+[1607862697.326734] 40 bytes from 23.185.0.2 (23.185.0.2): icmp_seq=7 ttl=54 time=27.9 ms
+[1607862698.328229] 40 bytes from 23.185.0.2 (23.185.0.2): icmp_seq=8 ttl=54 time=28.2 ms
+[1607862699.328141] 40 bytes from 23.185.0.2 (23.185.0.2): icmp_seq=9 ttl=54 time=28.1 ms
+[1607862700.327279] 40 bytes from 23.185.0.2 (23.185.0.2): icmp_seq=10 ttl=54 time=27.5 ms
+[1607862701.329478] 40 bytes from 23.185.0.2 (23.185.0.2): icmp_seq=11 ttl=54 time=28.0 ms
+[1607862702.329880] 40 bytes from 23.185.0.2 (23.185.0.2): icmp_seq=12 ttl=54 time=27.6 ms
+[1607862703.331426] 40 bytes from 23.185.0.2 (23.185.0.2): icmp_seq=13 ttl=54 time=28.0 ms
+[1607862709.335825] 40 bytes from 23.185.0.2 (23.185.0.2): icmp_seq=14 ttl=54 time=28.1 ms
+[1607862709.365459] 40 bytes from 23.185.0.2 (23.185.0.2): icmp_seq=15 ttl=54 time=27.2 ms
+[1607862720.370056] 40 bytes from 23.185.0.2: icmp_seq=16 ttl=54 time=27.3 ms
+[1607862725.403945] 40 bytes from 23.185.0.2 (23.185.0.2): icmp_seq=17 ttl=54 time=28.2 ms
+[1607862725.434259] 40 bytes from 23.185.0.2 (23.185.0.2): icmp_seq=18 ttl=54 time=27.9 ms
+[1607862726.434100] 40 bytes from 23.185.0.2 (23.185.0.2): icmp_seq=19 ttl=54 time=28.0 ms
+[1607862727.435005] 40 bytes from 23.185.0.2 (23.185.0.2): icmp_seq=20 ttl=54 time=28.0 ms
+[1607862728.434731] 40 bytes from 23.185.0.2 (23.185.0.2): icmp_seq=21 ttl=54 time=27.4 ms
+[1607862729.439218] 40 bytes from 23.185.0.2 (23.185.0.2): icmp_seq=22 ttl=54 time=27.2 ms
+[1607862730.444273] 40 bytes from 23.185.0.2 (23.185.0.2): icmp_seq=23 ttl=54 time=27.9 ms
+[1607862731.445013] 40 bytes from 23.185.0.2 (23.185.0.2): icmp_seq=24 ttl=54 time=27.9 ms
+[1607862742.450986] 40 bytes from 23.185.0.2: icmp_seq=25 ttl=54 time=28.0 ms
+[1607862747.484045] 40 bytes from 23.185.0.2 (23.185.0.2): icmp_seq=26 ttl=54 time=28.0 ms
+[1607862747.514534] 40 bytes from 23.185.0.2 (23.185.0.2): icmp_seq=27 ttl=54 time=28.1 ms
+[1607862748.513474] 40 bytes from 23.185.0.2 (23.185.0.2): icmp_seq=28 ttl=54 time=27.8 ms
+[1607862754.515937] 40 bytes from 23.185.0.2 (23.185.0.2): icmp_seq=29 ttl=54 time=28.0 ms
+[1607862754.545674] 40 bytes from 23.185.0.2 (23.185.0.2): icmp_seq=30 ttl=54 time=28.0 ms
+[1607862755.546434] 40 bytes from 23.185.0.2 (23.185.0.2): icmp_seq=31 ttl=54 time=28.1 ms
+[1607862766.554620] 40 bytes from 23.185.0.2: icmp_seq=32 ttl=54 time=28.0 ms
+[1607862766.584031] 40 bytes from 23.185.0.2 (23.185.0.2): icmp_seq=33 ttl=54 time=27.6 ms
+[1607862767.586428] 40 bytes from 23.185.0.2 (23.185.0.2): icmp_seq=34 ttl=54 time=28.1 ms
+[1607862768.586112] 40 bytes from 23.185.0.2 (23.185.0.2): icmp_seq=35 ttl=54 time=27.9 ms
+[1607862769.585365] 40 bytes from 23.185.0.2 (23.185.0.2): icmp_seq=36 ttl=54 time=27.3 ms
+[1607862780.590074] 40 bytes from 23.185.0.2: icmp_seq=37 ttl=54 time=28.1 ms
+[1607862780.620194] 40 bytes from 23.185.0.2 (23.185.0.2): icmp_seq=38 ttl=54 time=27.7 ms
+[1607862786.623534] 40 bytes from 23.185.0.2 (23.185.0.2): icmp_seq=39 ttl=54 time=27.4 ms
+[1607862786.653868] 40 bytes from 23.185.0.2 (23.185.0.2): icmp_seq=40 ttl=54 time=28.0 ms
+[1607862797.658099] 40 bytes from 23.185.0.2: icmp_seq=41 ttl=54 time=28.0 ms
+[1607862797.688058] 40 bytes from 23.185.0.2 (23.185.0.2): icmp_seq=42 ttl=54 time=28.1 ms
+[1607862798.688033] 40 bytes from 23.185.0.2 (23.185.0.2): icmp_seq=43 ttl=54 time=28.1 ms
+[1607862799.687494] 40 bytes from 23.185.0.2 (23.185.0.2): icmp_seq=44 ttl=54 time=28.2 ms
+[1607862800.686671] 40 bytes from 23.185.0.2 (23.185.0.2): icmp_seq=45 ttl=54 time=27.7 ms
+[1607862806.691625] 40 bytes from 23.185.0.2 (23.185.0.2): icmp_seq=46 ttl=54 time=28.0 ms
+[1607862806.720651] 40 bytes from 23.185.0.2 (23.185.0.2): icmp_seq=47 ttl=54 time=27.6 ms
+[1607862817.726092] 40 bytes from 23.185.0.2: icmp_seq=48 ttl=54 time=28.2 ms
+[1607862827.762007] 40 bytes from 23.185.0.2: icmp_seq=49 ttl=54 time=27.9 ms
+[1607862828.762084] 40 bytes from 23.185.0.2: icmp_seq=50 ttl=54 time=27.3 ms
+
+--- wheatoncollege.edu ping statistics ---
+50 packets transmitted, 50 received, 0% packet loss, time 149541ms
+rtt min/avg/max/mdev = 27.144/27.853/28.208/0.302 ms

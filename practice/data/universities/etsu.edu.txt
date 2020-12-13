@@ -1,0 +1,55 @@
+PING etsu.edu (151.141.244.241) 32(60) bytes of data.
+[1607862712.103320] 40 bytes from etsu.edu (151.141.244.241): icmp_seq=1 ttl=238 time=123 ms
+[1607862722.234052] 40 bytes from 151.141.244.241: icmp_seq=2 ttl=238 time=123 ms
+[1607862722.359379] 40 bytes from etsu.edu (151.141.244.241): icmp_seq=3 ttl=238 time=123 ms
+[1607862723.360083] 40 bytes from calendar.etsu.edu (151.141.244.241): icmp_seq=4 ttl=238 time=123 ms
+[1607862724.359338] 40 bytes from oupub.etsu.edu (151.141.244.241): icmp_seq=5 ttl=238 time=123 ms
+[1607862725.360765] 40 bytes from calendar.etsu.edu (151.141.244.241): icmp_seq=6 ttl=238 time=123 ms
+[1607862726.360360] 40 bytes from www.etsu.edu (151.141.244.241): icmp_seq=7 ttl=238 time=123 ms
+[1607862732.363962] 40 bytes from www.etsu.edu (151.141.244.241): icmp_seq=8 ttl=238 time=122 ms
+[1607862737.494140] 40 bytes from roanscholarsapply.etsu.edu (151.141.244.241): icmp_seq=9 ttl=238 time=123 ms
+[1607862737.618349] 40 bytes from www.etsu.edu (151.141.244.241): icmp_seq=10 ttl=238 time=122 ms
+[1607862738.620586] 40 bytes from etsu.edu (151.141.244.241): icmp_seq=11 ttl=238 time=123 ms
+[1607862744.623844] 40 bytes from oupub.etsu.edu (151.141.244.241): icmp_seq=12 ttl=238 time=123 ms
+[1607862744.748716] 40 bytes from oupub.etsu.edu (151.141.244.241): icmp_seq=13 ttl=238 time=123 ms
+[1607862745.749758] 40 bytes from roanscholarsapply.etsu.edu (151.141.244.241): icmp_seq=14 ttl=238 time=123 ms
+[1607862751.756174] 40 bytes from oupub.etsu.edu (151.141.244.241): icmp_seq=15 ttl=238 time=123 ms
+[1607862751.880924] 40 bytes from calendar.etsu.edu (151.141.244.241): icmp_seq=16 ttl=238 time=123 ms
+[1607862752.880884] 40 bytes from etsu.edu (151.141.244.241): icmp_seq=17 ttl=238 time=123 ms
+[1607862753.880938] 40 bytes from calendar.etsu.edu (151.141.244.241): icmp_seq=18 ttl=238 time=123 ms
+[1607862764.886137] 40 bytes from 151.141.244.241: icmp_seq=19 ttl=238 time=123 ms
+[1607862765.010928] 40 bytes from roanscholarsapply.etsu.edu (151.141.244.241): icmp_seq=20 ttl=238 time=123 ms
+[1607862771.015902] 40 bytes from etsu.edu (151.141.244.241): icmp_seq=21 ttl=238 time=123 ms
+[1607862776.144363] 40 bytes from roanscholarsapply.etsu.edu (151.141.244.241): icmp_seq=22 ttl=238 time=123 ms
+[1607862786.274027] 40 bytes from 151.141.244.241: icmp_seq=23 ttl=238 time=123 ms
+[1607862791.403606] 40 bytes from www.etsu.edu (151.141.244.241): icmp_seq=24 ttl=238 time=123 ms
+[1607862801.534826] 40 bytes from 151.141.244.241: icmp_seq=25 ttl=238 time=122 ms
+[1607862806.664358] 40 bytes from oupub.etsu.edu (151.141.244.241): icmp_seq=26 ttl=238 time=123 ms
+[1607862806.789339] 40 bytes from oupub.etsu.edu (151.141.244.241): icmp_seq=27 ttl=238 time=123 ms
+[1607862817.793997] 40 bytes from 151.141.244.241: icmp_seq=28 ttl=238 time=122 ms
+[1607862822.923942] 40 bytes from calendar.etsu.edu (151.141.244.241): icmp_seq=29 ttl=238 time=123 ms
+[1607862833.054917] 40 bytes from 151.141.244.241: icmp_seq=30 ttl=238 time=123 ms
+[1607862843.186865] 40 bytes from 151.141.244.241: icmp_seq=31 ttl=238 time=123 ms
+[1607862843.312002] 40 bytes from www.etsu.edu (151.141.244.241): icmp_seq=32 ttl=238 time=123 ms
+[1607862849.315699] 40 bytes from roanscholarsapply.etsu.edu (151.141.244.241): icmp_seq=33 ttl=238 time=123 ms
+[1607862854.444078] 40 bytes from oupub.etsu.edu (151.141.244.241): icmp_seq=34 ttl=238 time=123 ms
+[1607862859.574617] 40 bytes from www.etsu.edu (151.141.244.241): icmp_seq=35 ttl=238 time=123 ms
+[1607862864.703838] 40 bytes from calendar.etsu.edu (151.141.244.241): icmp_seq=36 ttl=238 time=123 ms
+[1607862864.829256] 40 bytes from roanscholarsapply.etsu.edu (151.141.244.241): icmp_seq=37 ttl=238 time=123 ms
+[1607862865.830126] 40 bytes from www.etsu.edu (151.141.244.241): icmp_seq=38 ttl=238 time=123 ms
+[1607862866.830722] 40 bytes from etsu.edu (151.141.244.241): icmp_seq=39 ttl=238 time=122 ms
+[1607862867.834204] 40 bytes from etsu.edu (151.141.244.241): icmp_seq=40 ttl=238 time=123 ms
+[1607862868.834604] 40 bytes from oupub.etsu.edu (151.141.244.241): icmp_seq=41 ttl=238 time=123 ms
+[1607862869.835942] 40 bytes from etsu.edu (151.141.244.241): icmp_seq=42 ttl=238 time=123 ms
+[1607862870.837257] 40 bytes from roanscholarsapply.etsu.edu (151.141.244.241): icmp_seq=43 ttl=238 time=122 ms
+[1607862871.838887] 40 bytes from www.etsu.edu (151.141.244.241): icmp_seq=44 ttl=238 time=123 ms
+[1607862872.840995] 40 bytes from etsu.edu (151.141.244.241): icmp_seq=45 ttl=238 time=123 ms
+[1607862873.841971] 40 bytes from roanscholarsapply.etsu.edu (151.141.244.241): icmp_seq=46 ttl=238 time=123 ms
+[1607862874.841426] 40 bytes from roanscholarsapply.etsu.edu (151.141.244.241): icmp_seq=47 ttl=238 time=122 ms
+[1607862875.843194] 40 bytes from etsu.edu (151.141.244.241): icmp_seq=48 ttl=238 time=123 ms
+[1607862876.842894] 40 bytes from www.etsu.edu (151.141.244.241): icmp_seq=49 ttl=238 time=122 ms
+[1607862877.845990] 40 bytes from roanscholarsapply.etsu.edu (151.141.244.241): icmp_seq=50 ttl=238 time=123 ms
+
+--- etsu.edu ping statistics ---
+50 packets transmitted, 50 received, 0% packet loss, time 171746ms
+rtt min/avg/max/mdev = 122.086/122.893/123.449/0.329 ms

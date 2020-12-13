@@ -1,0 +1,55 @@
+PING ju.edu (69.39.226.25) 32(60) bytes of data.
+[1607862682.090006] 40 bytes from 69.39.226.25: icmp_seq=1 ttl=51 time=119 ms
+[1607862687.215685] 40 bytes from 69.39.226.25 (69.39.226.25): icmp_seq=2 ttl=51 time=119 ms
+[1607862697.342003] 40 bytes from 69.39.226.25: icmp_seq=3 ttl=51 time=118 ms
+[1607862702.464066] 40 bytes from 69.39.226.25 (69.39.226.25): icmp_seq=4 ttl=51 time=119 ms
+[1607862702.584875] 40 bytes from 69.39.226.25 (69.39.226.25): icmp_seq=5 ttl=51 time=118 ms
+[1607862703.586990] 40 bytes from 69.39.226.25 (69.39.226.25): icmp_seq=6 ttl=51 time=119 ms
+[1607862704.587540] 40 bytes from 69.39.226.25 (69.39.226.25): icmp_seq=7 ttl=51 time=118 ms
+[1607862705.587077] 40 bytes from 69.39.226.25 (69.39.226.25): icmp_seq=8 ttl=51 time=118 ms
+[1607862706.590114] 40 bytes from 69.39.226.25 (69.39.226.25): icmp_seq=9 ttl=51 time=119 ms
+[1607862707.591248] 40 bytes from 69.39.226.25 (69.39.226.25): icmp_seq=10 ttl=51 time=119 ms
+[1607862713.595235] 40 bytes from 69.39.226.25 (69.39.226.25): icmp_seq=11 ttl=51 time=119 ms
+[1607862713.715569] 40 bytes from 69.39.226.25 (69.39.226.25): icmp_seq=12 ttl=51 time=118 ms
+[1607862714.716972] 40 bytes from 69.39.226.25 (69.39.226.25): icmp_seq=13 ttl=51 time=118 ms
+[1607862715.718642] 40 bytes from 69.39.226.25 (69.39.226.25): icmp_seq=14 ttl=51 time=119 ms
+[1607862721.727361] 40 bytes from 69.39.226.25 (69.39.226.25): icmp_seq=15 ttl=51 time=118 ms
+[1607862721.848670] 40 bytes from 69.39.226.25 (69.39.226.25): icmp_seq=16 ttl=51 time=119 ms
+[1607862722.849902] 40 bytes from 69.39.226.25 (69.39.226.25): icmp_seq=17 ttl=51 time=119 ms
+[1607862723.849219] 40 bytes from 69.39.226.25 (69.39.226.25): icmp_seq=18 ttl=51 time=119 ms
+[1607862734.854415] 40 bytes from 69.39.226.25: icmp_seq=19 ttl=51 time=118 ms
+[1607862744.982094] 40 bytes from 69.39.226.25: icmp_seq=20 ttl=51 time=119 ms
+[1607862755.106661] 40 bytes from 69.39.226.25: icmp_seq=21 ttl=51 time=118 ms
+[1607862765.234033] 40 bytes from 69.39.226.25: icmp_seq=22 ttl=51 time=118 ms
+[1607862765.355061] 40 bytes from 69.39.226.25 (69.39.226.25): icmp_seq=23 ttl=51 time=119 ms
+[1607862766.355493] 40 bytes from 69.39.226.25 (69.39.226.25): icmp_seq=24 ttl=51 time=118 ms
+[1607862772.359749] 40 bytes from 69.39.226.25 (69.39.226.25): icmp_seq=25 ttl=51 time=119 ms
+[1607862782.486137] 40 bytes from 69.39.226.25: icmp_seq=26 ttl=51 time=119 ms
+[1607862792.614011] 40 bytes from 69.39.226.25: icmp_seq=27 ttl=51 time=119 ms
+[1607862792.733894] 40 bytes from 69.39.226.25 (69.39.226.25): icmp_seq=28 ttl=51 time=118 ms
+[1607862793.736512] 40 bytes from 69.39.226.25 (69.39.226.25): icmp_seq=29 ttl=51 time=119 ms
+[1607862794.737900] 40 bytes from 69.39.226.25 (69.39.226.25): icmp_seq=30 ttl=51 time=119 ms
+[1607862795.738496] 40 bytes from 69.39.226.25 (69.39.226.25): icmp_seq=31 ttl=51 time=118 ms
+[1607862806.742025] 40 bytes from 69.39.226.25: icmp_seq=32 ttl=51 time=119 ms
+[1607862811.865841] 40 bytes from 69.39.226.25 (69.39.226.25): icmp_seq=33 ttl=51 time=119 ms
+[1607862811.986656] 40 bytes from 69.39.226.25 (69.39.226.25): icmp_seq=34 ttl=51 time=119 ms
+[1607862822.994096] 40 bytes from 69.39.226.25: icmp_seq=35 ttl=51 time=119 ms
+[1607862833.122499] 40 bytes from 69.39.226.25: icmp_seq=36 ttl=51 time=119 ms
+[1607862833.243310] 40 bytes from 69.39.226.25 (69.39.226.25): icmp_seq=37 ttl=51 time=119 ms
+[1607862834.244695] 40 bytes from 69.39.226.25 (69.39.226.25): icmp_seq=38 ttl=51 time=119 ms
+[1607862835.245184] 40 bytes from 69.39.226.25 (69.39.226.25): icmp_seq=39 ttl=51 time=119 ms
+[1607862836.245989] 40 bytes from 69.39.226.25 (69.39.226.25): icmp_seq=40 ttl=51 time=119 ms
+[1607862837.247882] 40 bytes from 69.39.226.25 (69.39.226.25): icmp_seq=41 ttl=51 time=119 ms
+[1607862843.251969] 40 bytes from 69.39.226.25 (69.39.226.25): icmp_seq=42 ttl=51 time=119 ms
+[1607862848.375929] 40 bytes from 69.39.226.25 (69.39.226.25): icmp_seq=43 ttl=51 time=118 ms
+[1607862848.496551] 40 bytes from 69.39.226.25 (69.39.226.25): icmp_seq=44 ttl=51 time=118 ms
+[1607862849.497953] 40 bytes from 69.39.226.25 (69.39.226.25): icmp_seq=45 ttl=51 time=118 ms
+[1607862850.499399] 40 bytes from 69.39.226.25 (69.39.226.25): icmp_seq=46 ttl=51 time=119 ms
+[1607862851.500919] 40 bytes from 69.39.226.25 (69.39.226.25): icmp_seq=47 ttl=51 time=119 ms
+[1607862852.500886] 40 bytes from 69.39.226.25 (69.39.226.25): icmp_seq=48 ttl=51 time=119 ms
+[1607862853.502793] 40 bytes from 69.39.226.25 (69.39.226.25): icmp_seq=49 ttl=51 time=119 ms
+[1607862855.383784] 40 bytes from 69.39.226.25: icmp_seq=50 ttl=51 time=119 ms
+
+--- ju.edu ping statistics ---
+50 packets transmitted, 50 received, 0% packet loss, time 182418ms
+rtt min/avg/max/mdev = 117.891/118.557/118.945/0.249 ms

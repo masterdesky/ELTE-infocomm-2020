@@ -1,0 +1,55 @@
+PING aamu.edu (198.180.132.26) 32(60) bytes of data.
+[1607862668.255658] 40 bytes from alpha1.aamu.edu (198.180.132.26): icmp_seq=1 ttl=49 time=126 ms
+[1607862669.255662] 40 bytes from alpha1.aamu.edu (198.180.132.26): icmp_seq=2 ttl=49 time=126 ms
+[1607862670.257324] 40 bytes from alpha1.aamu.edu (198.180.132.26): icmp_seq=3 ttl=49 time=126 ms
+[1607862681.266617] 40 bytes from 198.180.132.26: icmp_seq=4 ttl=49 time=126 ms
+[1607862681.394773] 40 bytes from alpha1.aamu.edu (198.180.132.26): icmp_seq=5 ttl=49 time=126 ms
+[1607862682.396030] 40 bytes from alpha1.aamu.edu (198.180.132.26): icmp_seq=6 ttl=49 time=126 ms
+[1607862688.399924] 40 bytes from alpha1.aamu.edu (198.180.132.26): icmp_seq=7 ttl=49 time=126 ms
+[1607862688.527612] 40 bytes from alpha1.aamu.edu (198.180.132.26): icmp_seq=8 ttl=49 time=125 ms
+[1607862699.534013] 40 bytes from 198.180.132.26: icmp_seq=9 ttl=49 time=126 ms
+[1607862704.666263] 40 bytes from alpha1.aamu.edu (198.180.132.26): icmp_seq=10 ttl=49 time=126 ms
+[1607862704.794123] 40 bytes from alpha1.aamu.edu (198.180.132.26): icmp_seq=11 ttl=49 time=126 ms
+[1607862705.795883] 40 bytes from alpha1.aamu.edu (198.180.132.26): icmp_seq=12 ttl=49 time=126 ms
+[1607862716.802026] 40 bytes from 198.180.132.26: icmp_seq=13 ttl=49 time=126 ms
+[1607862726.934047] 40 bytes from 198.180.132.26: icmp_seq=14 ttl=49 time=126 ms
+[1607862727.062319] 40 bytes from alpha1.aamu.edu (198.180.132.26): icmp_seq=15 ttl=49 time=126 ms
+[1607862728.061841] 40 bytes from alpha1.aamu.edu (198.180.132.26): icmp_seq=16 ttl=49 time=125 ms
+[1607862734.063737] 40 bytes from alpha1.aamu.edu (198.180.132.26): icmp_seq=17 ttl=49 time=126 ms
+[1607862744.198046] 40 bytes from 198.180.132.26: icmp_seq=18 ttl=49 time=126 ms
+[1607862749.328166] 40 bytes from alpha1.aamu.edu (198.180.132.26): icmp_seq=19 ttl=49 time=126 ms
+[1607862749.456574] 40 bytes from alpha1.aamu.edu (198.180.132.26): icmp_seq=20 ttl=49 time=126 ms
+[1607862760.462012] 40 bytes from 198.180.132.26: icmp_seq=21 ttl=49 time=126 ms
+[1607862765.593789] 40 bytes from alpha1.aamu.edu (198.180.132.26): icmp_seq=22 ttl=49 time=126 ms
+[1607862765.721492] 40 bytes from alpha1.aamu.edu (198.180.132.26): icmp_seq=23 ttl=49 time=125 ms
+[1607862776.730068] 40 bytes from 198.180.132.26: icmp_seq=24 ttl=49 time=126 ms
+[1607862776.858311] 40 bytes from alpha1.aamu.edu (198.180.132.26): icmp_seq=25 ttl=49 time=126 ms
+[1607862777.857915] 40 bytes from alpha1.aamu.edu (198.180.132.26): icmp_seq=26 ttl=49 time=126 ms
+[1607862778.858048] 40 bytes from alpha1.aamu.edu (198.180.132.26): icmp_seq=27 ttl=49 time=126 ms
+[1607862779.858482] 40 bytes from alpha1.aamu.edu (198.180.132.26): icmp_seq=28 ttl=49 time=126 ms
+[1607862785.859797] 40 bytes from alpha1.aamu.edu (198.180.132.26): icmp_seq=29 ttl=49 time=126 ms
+[1607862790.992073] 40 bytes from alpha1.aamu.edu (198.180.132.26): icmp_seq=30 ttl=49 time=126 ms
+[1607862791.120048] 40 bytes from alpha1.aamu.edu (198.180.132.26): icmp_seq=31 ttl=49 time=126 ms
+[1607862797.123733] 40 bytes from alpha1.aamu.edu (198.180.132.26): icmp_seq=32 ttl=49 time=126 ms
+[1607862797.251280] 40 bytes from alpha1.aamu.edu (198.180.132.26): icmp_seq=33 ttl=49 time=126 ms
+[1607862798.252226] 40 bytes from alpha1.aamu.edu (198.180.132.26): icmp_seq=34 ttl=49 time=126 ms
+[1607862799.251742] 40 bytes from alpha1.aamu.edu (198.180.132.26): icmp_seq=35 ttl=49 time=125 ms
+[1607862800.254310] 40 bytes from alpha1.aamu.edu (198.180.132.26): icmp_seq=36 ttl=49 time=126 ms
+[1607862801.254935] 40 bytes from alpha1.aamu.edu (198.180.132.26): icmp_seq=37 ttl=49 time=126 ms
+[1607862812.262074] 40 bytes from 198.180.132.26: icmp_seq=38 ttl=49 time=128 ms
+[1607862822.394058] 40 bytes from 198.180.132.26: icmp_seq=39 ttl=49 time=126 ms
+[1607862827.524164] 40 bytes from alpha1.aamu.edu (198.180.132.26): icmp_seq=40 ttl=49 time=126 ms
+[1607862827.652032] 40 bytes from alpha1.aamu.edu (198.180.132.26): icmp_seq=41 ttl=49 time=126 ms
+[1607862828.653466] 40 bytes from alpha1.aamu.edu (198.180.132.26): icmp_seq=42 ttl=49 time=126 ms
+[1607862829.654274] 40 bytes from alpha1.aamu.edu (198.180.132.26): icmp_seq=43 ttl=49 time=126 ms
+[1607862830.655463] 40 bytes from alpha1.aamu.edu (198.180.132.26): icmp_seq=44 ttl=49 time=126 ms
+[1607862831.656568] 40 bytes from alpha1.aamu.edu (198.180.132.26): icmp_seq=45 ttl=49 time=126 ms
+[1607862832.658352] 40 bytes from alpha1.aamu.edu (198.180.132.26): icmp_seq=46 ttl=49 time=126 ms
+[1607862843.666026] 40 bytes from 198.180.132.26: icmp_seq=47 ttl=49 time=125 ms
+[1607862843.794188] 40 bytes from alpha1.aamu.edu (198.180.132.26): icmp_seq=48 ttl=49 time=126 ms
+[1607862844.794499] 40 bytes from alpha1.aamu.edu (198.180.132.26): icmp_seq=49 ttl=49 time=125 ms
+[1607862845.794645] 40 bytes from alpha1.aamu.edu (198.180.132.26): icmp_seq=50 ttl=49 time=126 ms
+
+--- aamu.edu ping statistics ---
+50 packets transmitted, 50 received, 0% packet loss, time 177540ms
+rtt min/avg/max/mdev = 125.113/125.950/128.407/0.430 ms

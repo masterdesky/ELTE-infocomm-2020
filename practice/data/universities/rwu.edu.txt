@@ -1,0 +1,55 @@
+PING rwu.edu (107.20.247.107) 32(60) bytes of data.
+[1607862729.286437] 40 bytes from 107.20.247.107: icmp_seq=1 ttl=41 time=111 ms
+[1607862734.880783] 40 bytes from ec2-107-20-247-107.compute-1.amazonaws.com (107.20.247.107): icmp_seq=2 ttl=41 time=110 ms
+[1607862744.998030] 40 bytes from 107.20.247.107: icmp_seq=3 ttl=41 time=111 ms
+[1607862750.115791] 40 bytes from ec2-107-20-247-107.compute-1.amazonaws.com (107.20.247.107): icmp_seq=4 ttl=41 time=110 ms
+[1607862760.234024] 40 bytes from 107.20.247.107: icmp_seq=5 ttl=41 time=111 ms
+[1607862760.346494] 40 bytes from ec2-107-20-247-107.compute-1.amazonaws.com (107.20.247.107): icmp_seq=6 ttl=41 time=111 ms
+[1607862761.347004] 40 bytes from ec2-107-20-247-107.compute-1.amazonaws.com (107.20.247.107): icmp_seq=7 ttl=41 time=111 ms
+[1607862762.347434] 40 bytes from ec2-107-20-247-107.compute-1.amazonaws.com (107.20.247.107): icmp_seq=8 ttl=41 time=111 ms
+[1607862763.348042] 40 bytes from ec2-107-20-247-107.compute-1.amazonaws.com (107.20.247.107): icmp_seq=9 ttl=41 time=111 ms
+[1607862764.348380] 40 bytes from ec2-107-20-247-107.compute-1.amazonaws.com (107.20.247.107): icmp_seq=10 ttl=41 time=111 ms
+[1607862770.353935] 40 bytes from ec2-107-20-247-107.compute-1.amazonaws.com (107.20.247.107): icmp_seq=11 ttl=41 time=110 ms
+[1607862770.466259] 40 bytes from ec2-107-20-247-107.compute-1.amazonaws.com (107.20.247.107): icmp_seq=12 ttl=41 time=110 ms
+[1607862771.467555] 40 bytes from ec2-107-20-247-107.compute-1.amazonaws.com (107.20.247.107): icmp_seq=13 ttl=41 time=110 ms
+[1607862782.474019] 40 bytes from 107.20.247.107: icmp_seq=14 ttl=41 time=110 ms
+[1607862787.591465] 40 bytes from ec2-107-20-247-107.compute-1.amazonaws.com (107.20.247.107): icmp_seq=15 ttl=41 time=111 ms
+[1607862787.703747] 40 bytes from ec2-107-20-247-107.compute-1.amazonaws.com (107.20.247.107): icmp_seq=16 ttl=41 time=110 ms
+[1607862788.704734] 40 bytes from ec2-107-20-247-107.compute-1.amazonaws.com (107.20.247.107): icmp_seq=17 ttl=41 time=111 ms
+[1607862789.706055] 40 bytes from ec2-107-20-247-107.compute-1.amazonaws.com (107.20.247.107): icmp_seq=18 ttl=41 time=111 ms
+[1607862790.706877] 40 bytes from ec2-107-20-247-107.compute-1.amazonaws.com (107.20.247.107): icmp_seq=19 ttl=41 time=111 ms
+[1607862801.714010] 40 bytes from 107.20.247.107: icmp_seq=20 ttl=41 time=110 ms
+[1607862811.834013] 40 bytes from 107.20.247.107: icmp_seq=21 ttl=41 time=111 ms
+[1607862811.946331] 40 bytes from ec2-107-20-247-107.compute-1.amazonaws.com (107.20.247.107): icmp_seq=22 ttl=41 time=111 ms
+[1607862822.950058] 40 bytes from 107.20.247.107: icmp_seq=23 ttl=41 time=111 ms
+[1607862833.066011] 40 bytes from 107.20.247.107: icmp_seq=24 ttl=41 time=111 ms
+[1607862833.179638] 40 bytes from ec2-107-20-247-107.compute-1.amazonaws.com (107.20.247.107): icmp_seq=25 ttl=41 time=111 ms
+[1607862834.179827] 40 bytes from ec2-107-20-247-107.compute-1.amazonaws.com (107.20.247.107): icmp_seq=26 ttl=41 time=111 ms
+[1607862835.181036] 40 bytes from ec2-107-20-247-107.compute-1.amazonaws.com (107.20.247.107): icmp_seq=27 ttl=41 time=111 ms
+[1607862836.181921] 40 bytes from ec2-107-20-247-107.compute-1.amazonaws.com (107.20.247.107): icmp_seq=28 ttl=41 time=110 ms
+[1607862837.182214] 40 bytes from ec2-107-20-247-107.compute-1.amazonaws.com (107.20.247.107): icmp_seq=29 ttl=41 time=110 ms
+[1607862843.183434] 40 bytes from ec2-107-20-247-107.compute-1.amazonaws.com (107.20.247.107): icmp_seq=30 ttl=41 time=111 ms
+[1607862843.295388] 40 bytes from ec2-107-20-247-107.compute-1.amazonaws.com (107.20.247.107): icmp_seq=31 ttl=41 time=110 ms
+[1607862844.297190] 40 bytes from ec2-107-20-247-107.compute-1.amazonaws.com (107.20.247.107): icmp_seq=32 ttl=41 time=111 ms
+[1607862845.298845] 40 bytes from ec2-107-20-247-107.compute-1.amazonaws.com (107.20.247.107): icmp_seq=33 ttl=41 time=111 ms
+[1607862846.298552] 40 bytes from ec2-107-20-247-107.compute-1.amazonaws.com (107.20.247.107): icmp_seq=34 ttl=41 time=110 ms
+[1607862847.301670] 40 bytes from ec2-107-20-247-107.compute-1.amazonaws.com (107.20.247.107): icmp_seq=35 ttl=41 time=111 ms
+[1607862848.301653] 40 bytes from ec2-107-20-247-107.compute-1.amazonaws.com (107.20.247.107): icmp_seq=36 ttl=41 time=110 ms
+[1607862854.307235] 40 bytes from ec2-107-20-247-107.compute-1.amazonaws.com (107.20.247.107): icmp_seq=37 ttl=41 time=111 ms
+[1607862859.423356] 40 bytes from ec2-107-20-247-107.compute-1.amazonaws.com (107.20.247.107): icmp_seq=38 ttl=41 time=110 ms
+[1607862864.540105] 40 bytes from ec2-107-20-247-107.compute-1.amazonaws.com (107.20.247.107): icmp_seq=39 ttl=41 time=111 ms
+[1607862869.655878] 40 bytes from ec2-107-20-247-107.compute-1.amazonaws.com (107.20.247.107): icmp_seq=40 ttl=41 time=110 ms
+[1607862869.768422] 40 bytes from ec2-107-20-247-107.compute-1.amazonaws.com (107.20.247.107): icmp_seq=41 ttl=41 time=111 ms
+[1607862870.770022] 40 bytes from ec2-107-20-247-107.compute-1.amazonaws.com (107.20.247.107): icmp_seq=42 ttl=41 time=110 ms
+[1607862871.770115] 40 bytes from ec2-107-20-247-107.compute-1.amazonaws.com (107.20.247.107): icmp_seq=43 ttl=41 time=111 ms
+[1607862872.773073] 40 bytes from ec2-107-20-247-107.compute-1.amazonaws.com (107.20.247.107): icmp_seq=44 ttl=41 time=111 ms
+[1607862873.775047] 40 bytes from ec2-107-20-247-107.compute-1.amazonaws.com (107.20.247.107): icmp_seq=45 ttl=41 time=111 ms
+[1607862874.775665] 40 bytes from ec2-107-20-247-107.compute-1.amazonaws.com (107.20.247.107): icmp_seq=46 ttl=41 time=111 ms
+[1607862875.777025] 40 bytes from ec2-107-20-247-107.compute-1.amazonaws.com (107.20.247.107): icmp_seq=47 ttl=41 time=111 ms
+[1607862876.778551] 40 bytes from ec2-107-20-247-107.compute-1.amazonaws.com (107.20.247.107): icmp_seq=48 ttl=41 time=111 ms
+[1607862877.779811] 40 bytes from ec2-107-20-247-107.compute-1.amazonaws.com (107.20.247.107): icmp_seq=49 ttl=41 time=111 ms
+[1607862878.781138] 40 bytes from ec2-107-20-247-107.compute-1.amazonaws.com (107.20.247.107): icmp_seq=50 ttl=41 time=111 ms
+
+--- rwu.edu ping statistics ---
+50 packets transmitted, 50 received, 0% packet loss, time 159503ms
+rtt min/avg/max/mdev = 109.939/110.536/110.921/0.248 ms

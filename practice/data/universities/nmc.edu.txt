@@ -1,0 +1,54 @@
+PING nmc.edu (198.108.199.10) 32(60) bytes of data.
+[1607862705.340737] 40 bytes from web.nmc.edu (198.108.199.10): icmp_seq=1 ttl=45 time=129 ms
+[1607862715.478092] 40 bytes from 198.108.199.10: icmp_seq=2 ttl=45 time=129 ms
+[1607862715.609687] 40 bytes from web.nmc.edu (198.108.199.10): icmp_seq=3 ttl=45 time=129 ms
+[1607862726.614033] 40 bytes from 198.108.199.10: icmp_seq=4 ttl=45 time=128 ms
+[1607862726.744655] 40 bytes from web.nmc.edu (198.108.199.10): icmp_seq=5 ttl=45 time=129 ms
+[1607862727.745103] 40 bytes from web.nmc.edu (198.108.199.10): icmp_seq=6 ttl=45 time=128 ms
+[1607862728.746653] 40 bytes from web.nmc.edu (198.108.199.10): icmp_seq=7 ttl=45 time=130 ms
+[1607862730.744313] 40 bytes from web.nmc.edu (198.108.199.10): icmp_seq=9 ttl=45 time=129 ms
+[1607862731.743753] 40 bytes from web.nmc.edu (198.108.199.10): icmp_seq=10 ttl=45 time=129 ms
+[1607862732.744608] 40 bytes from web.nmc.edu (198.108.199.10): icmp_seq=11 ttl=45 time=129 ms
+[1607862733.743854] 40 bytes from web.nmc.edu (198.108.199.10): icmp_seq=12 ttl=45 time=129 ms
+[1607862734.744626] 40 bytes from web.nmc.edu (198.108.199.10): icmp_seq=13 ttl=45 time=129 ms
+[1607862745.750025] 40 bytes from 198.108.199.10: icmp_seq=14 ttl=45 time=129 ms
+[1607862745.881614] 40 bytes from web.nmc.edu (198.108.199.10): icmp_seq=15 ttl=45 time=129 ms
+[1607862751.888106] 40 bytes from web.nmc.edu (198.108.199.10): icmp_seq=16 ttl=45 time=129 ms
+[1607862757.023715] 40 bytes from web.nmc.edu (198.108.199.10): icmp_seq=17 ttl=45 time=129 ms
+[1607862757.154432] 40 bytes from web.nmc.edu (198.108.199.10): icmp_seq=18 ttl=45 time=129 ms
+[1607862758.155814] 40 bytes from web.nmc.edu (198.108.199.10): icmp_seq=19 ttl=45 time=129 ms
+[1607862759.156202] 40 bytes from web.nmc.edu (198.108.199.10): icmp_seq=20 ttl=45 time=129 ms
+[1607862760.157955] 40 bytes from web.nmc.edu (198.108.199.10): icmp_seq=21 ttl=45 time=129 ms
+[1607862761.156987] 40 bytes from web.nmc.edu (198.108.199.10): icmp_seq=22 ttl=45 time=129 ms
+[1607862772.162015] 40 bytes from 198.108.199.10: icmp_seq=23 ttl=45 time=128 ms
+[1607862772.293529] 40 bytes from web.nmc.edu (198.108.199.10): icmp_seq=24 ttl=45 time=129 ms
+[1607862773.292031] 40 bytes from web.nmc.edu (198.108.199.10): icmp_seq=25 ttl=45 time=129 ms
+[1607862774.291477] 40 bytes from web.nmc.edu (198.108.199.10): icmp_seq=26 ttl=45 time=129 ms
+[1607862775.292422] 40 bytes from web.nmc.edu (198.108.199.10): icmp_seq=27 ttl=45 time=129 ms
+[1607862786.295222] 40 bytes from 198.108.199.10: icmp_seq=28 ttl=45 time=129 ms
+[1607862796.430035] 40 bytes from 198.108.199.10: icmp_seq=29 ttl=45 time=128 ms
+[1607862801.564381] 40 bytes from web.nmc.edu (198.108.199.10): icmp_seq=30 ttl=45 time=129 ms
+[1607862801.695872] 40 bytes from web.nmc.edu (198.108.199.10): icmp_seq=31 ttl=45 time=129 ms
+[1607862802.695682] 40 bytes from web.nmc.edu (198.108.199.10): icmp_seq=32 ttl=45 time=129 ms
+[1607862803.695341] 40 bytes from web.nmc.edu (198.108.199.10): icmp_seq=33 ttl=45 time=129 ms
+[1607862804.695067] 40 bytes from web.nmc.edu (198.108.199.10): icmp_seq=34 ttl=45 time=129 ms
+[1607862805.709638] 40 bytes from web.nmc.edu (198.108.199.10): icmp_seq=35 ttl=45 time=144 ms
+[1607862806.695707] 40 bytes from web.nmc.edu (198.108.199.10): icmp_seq=36 ttl=45 time=129 ms
+[1607862807.695586] 40 bytes from web.nmc.edu (198.108.199.10): icmp_seq=37 ttl=45 time=129 ms
+[1607862808.696231] 40 bytes from web.nmc.edu (198.108.199.10): icmp_seq=38 ttl=45 time=129 ms
+[1607862809.696190] 40 bytes from web.nmc.edu (198.108.199.10): icmp_seq=39 ttl=45 time=129 ms
+[1607862810.696097] 40 bytes from web.nmc.edu (198.108.199.10): icmp_seq=40 ttl=45 time=129 ms
+[1607862811.696499] 40 bytes from web.nmc.edu (198.108.199.10): icmp_seq=41 ttl=45 time=129 ms
+[1607862812.696441] 40 bytes from web.nmc.edu (198.108.199.10): icmp_seq=42 ttl=45 time=129 ms
+[1607862813.697320] 40 bytes from web.nmc.edu (198.108.199.10): icmp_seq=43 ttl=45 time=129 ms
+[1607862814.698511] 40 bytes from web.nmc.edu (198.108.199.10): icmp_seq=44 ttl=45 time=129 ms
+[1607862815.699226] 40 bytes from web.nmc.edu (198.108.199.10): icmp_seq=45 ttl=45 time=129 ms
+[1607862816.699782] 40 bytes from web.nmc.edu (198.108.199.10): icmp_seq=46 ttl=45 time=128 ms
+[1607862822.705142] 40 bytes from web.nmc.edu (198.108.199.10): icmp_seq=47 ttl=45 time=129 ms
+[1607862832.842147] 40 bytes from 198.108.199.10: icmp_seq=48 ttl=45 time=129 ms
+[1607862832.973509] 40 bytes from web.nmc.edu (198.108.199.10): icmp_seq=49 ttl=45 time=129 ms
+[1607862833.972563] 40 bytes from web.nmc.edu (198.108.199.10): icmp_seq=50 ttl=45 time=129 ms
+
+--- nmc.edu ping statistics ---
+50 packets transmitted, 49 received, 2% packet loss, time 133635ms
+rtt min/avg/max/mdev = 128.337/129.376/144.178/2.157 ms

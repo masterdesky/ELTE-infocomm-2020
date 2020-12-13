@@ -1,0 +1,55 @@
+PING dwci.edu (3.232.121.231) 32(60) bytes of data.
+[1607862683.886500] 40 bytes from ec2-3-232-121-231.compute-1.amazonaws.com (3.232.121.231): icmp_seq=1 ttl=233 time=111 ms
+[1607862683.999488] 40 bytes from ec2-3-232-121-231.compute-1.amazonaws.com (3.232.121.231): icmp_seq=2 ttl=233 time=111 ms
+[1607862690.004018] 40 bytes from ec2-3-232-121-231.compute-1.amazonaws.com (3.232.121.231): icmp_seq=3 ttl=233 time=111 ms
+[1607862690.116171] 40 bytes from ec2-3-232-121-231.compute-1.amazonaws.com (3.232.121.231): icmp_seq=4 ttl=233 time=111 ms
+[1607862691.119528] 40 bytes from ec2-3-232-121-231.compute-1.amazonaws.com (3.232.121.231): icmp_seq=5 ttl=233 time=111 ms
+[1607862692.120399] 40 bytes from ec2-3-232-121-231.compute-1.amazonaws.com (3.232.121.231): icmp_seq=6 ttl=233 time=111 ms
+[1607862693.120990] 40 bytes from ec2-3-232-121-231.compute-1.amazonaws.com (3.232.121.231): icmp_seq=7 ttl=233 time=111 ms
+[1607862699.124100] 40 bytes from ec2-3-232-121-231.compute-1.amazonaws.com (3.232.121.231): icmp_seq=8 ttl=233 time=111 ms
+[1607862699.236241] 40 bytes from ec2-3-232-121-231.compute-1.amazonaws.com (3.232.121.231): icmp_seq=9 ttl=233 time=111 ms
+[1607862710.242008] 40 bytes from 3.232.121.231: icmp_seq=10 ttl=233 time=110 ms
+[1607862710.354758] 40 bytes from ec2-3-232-121-231.compute-1.amazonaws.com (3.232.121.231): icmp_seq=11 ttl=233 time=110 ms
+[1607862721.362087] 40 bytes from 3.232.121.231: icmp_seq=12 ttl=233 time=111 ms
+[1607862731.484698] 40 bytes from 3.232.121.231: icmp_seq=13 ttl=233 time=112 ms
+[1607862736.601100] 40 bytes from ec2-3-232-121-231.compute-1.amazonaws.com (3.232.121.231): icmp_seq=14 ttl=233 time=110 ms
+[1607862736.714105] 40 bytes from ec2-3-232-121-231.compute-1.amazonaws.com (3.232.121.231): icmp_seq=15 ttl=233 time=111 ms
+[1607862737.713180] 40 bytes from ec2-3-232-121-231.compute-1.amazonaws.com (3.232.121.231): icmp_seq=16 ttl=233 time=110 ms
+[1607862738.713783] 40 bytes from ec2-3-232-121-231.compute-1.amazonaws.com (3.232.121.231): icmp_seq=17 ttl=233 time=111 ms
+[1607862739.713668] 40 bytes from ec2-3-232-121-231.compute-1.amazonaws.com (3.232.121.231): icmp_seq=18 ttl=233 time=111 ms
+[1607862740.714665] 40 bytes from ec2-3-232-121-231.compute-1.amazonaws.com (3.232.121.231): icmp_seq=19 ttl=233 time=111 ms
+[1607862746.716363] 40 bytes from ec2-3-232-121-231.compute-1.amazonaws.com (3.232.121.231): icmp_seq=20 ttl=233 time=110 ms
+[1607862756.834066] 40 bytes from 3.232.121.231: icmp_seq=21 ttl=233 time=111 ms
+[1607862756.948006] 40 bytes from ec2-3-232-121-231.compute-1.amazonaws.com (3.232.121.231): icmp_seq=22 ttl=233 time=112 ms
+[1607862757.947301] 40 bytes from ec2-3-232-121-231.compute-1.amazonaws.com (3.232.121.231): icmp_seq=23 ttl=233 time=111 ms
+[1607862758.947322] 40 bytes from ec2-3-232-121-231.compute-1.amazonaws.com (3.232.121.231): icmp_seq=24 ttl=233 time=111 ms
+[1607862759.947490] 40 bytes from ec2-3-232-121-231.compute-1.amazonaws.com (3.232.121.231): icmp_seq=25 ttl=233 time=110 ms
+[1607862760.948285] 40 bytes from ec2-3-232-121-231.compute-1.amazonaws.com (3.232.121.231): icmp_seq=26 ttl=233 time=111 ms
+[1607862761.948498] 40 bytes from ec2-3-232-121-231.compute-1.amazonaws.com (3.232.121.231): icmp_seq=27 ttl=233 time=111 ms
+[1607862762.949120] 40 bytes from ec2-3-232-121-231.compute-1.amazonaws.com (3.232.121.231): icmp_seq=28 ttl=233 time=111 ms
+[1607862763.948792] 40 bytes from ec2-3-232-121-231.compute-1.amazonaws.com (3.232.121.231): icmp_seq=29 ttl=233 time=111 ms
+[1607862764.949821] 40 bytes from ec2-3-232-121-231.compute-1.amazonaws.com (3.232.121.231): icmp_seq=30 ttl=233 time=111 ms
+[1607862765.951382] 40 bytes from ec2-3-232-121-231.compute-1.amazonaws.com (3.232.121.231): icmp_seq=31 ttl=233 time=111 ms
+[1607862771.957469] 40 bytes from ec2-3-232-121-231.compute-1.amazonaws.com (3.232.121.231): icmp_seq=32 ttl=233 time=111 ms
+[1607862777.074263] 40 bytes from ec2-3-232-121-231.compute-1.amazonaws.com (3.232.121.231): icmp_seq=33 ttl=233 time=111 ms
+[1607862777.187331] 40 bytes from ec2-3-232-121-231.compute-1.amazonaws.com (3.232.121.231): icmp_seq=34 ttl=233 time=111 ms
+[1607862778.187263] 40 bytes from ec2-3-232-121-231.compute-1.amazonaws.com (3.232.121.231): icmp_seq=35 ttl=233 time=111 ms
+[1607862779.189131] 40 bytes from ec2-3-232-121-231.compute-1.amazonaws.com (3.232.121.231): icmp_seq=36 ttl=233 time=111 ms
+[1607862780.190337] 40 bytes from ec2-3-232-121-231.compute-1.amazonaws.com (3.232.121.231): icmp_seq=37 ttl=233 time=111 ms
+[1607862791.194481] 40 bytes from 3.232.121.231: icmp_seq=38 ttl=233 time=110 ms
+[1607862796.312542] 40 bytes from ec2-3-232-121-231.compute-1.amazonaws.com (3.232.121.231): icmp_seq=39 ttl=233 time=111 ms
+[1607862801.427904] 40 bytes from ec2-3-232-121-231.compute-1.amazonaws.com (3.232.121.231): icmp_seq=40 ttl=233 time=111 ms
+[1607862801.540961] 40 bytes from ec2-3-232-121-231.compute-1.amazonaws.com (3.232.121.231): icmp_seq=41 ttl=233 time=111 ms
+[1607862807.543758] 40 bytes from ec2-3-232-121-231.compute-1.amazonaws.com (3.232.121.231): icmp_seq=42 ttl=233 time=111 ms
+[1607862817.662001] 40 bytes from 3.232.121.231: icmp_seq=43 ttl=233 time=111 ms
+[1607862817.774250] 40 bytes from ec2-3-232-121-231.compute-1.amazonaws.com (3.232.121.231): icmp_seq=44 ttl=233 time=110 ms
+[1607862818.775522] 40 bytes from ec2-3-232-121-231.compute-1.amazonaws.com (3.232.121.231): icmp_seq=45 ttl=233 time=111 ms
+[1607862819.774250] 40 bytes from ec2-3-232-121-231.compute-1.amazonaws.com (3.232.121.231): icmp_seq=46 ttl=233 time=110 ms
+[1607862820.774107] 40 bytes from ec2-3-232-121-231.compute-1.amazonaws.com (3.232.121.231): icmp_seq=47 ttl=233 time=110 ms
+[1607862821.774493] 40 bytes from ec2-3-232-121-231.compute-1.amazonaws.com (3.232.121.231): icmp_seq=48 ttl=233 time=111 ms
+[1607862822.774609] 40 bytes from ec2-3-232-121-231.compute-1.amazonaws.com (3.232.121.231): icmp_seq=49 ttl=233 time=110 ms
+[1607862823.774511] 40 bytes from ec2-3-232-121-231.compute-1.amazonaws.com (3.232.121.231): icmp_seq=50 ttl=233 time=111 ms
+
+--- dwci.edu ping statistics ---
+50 packets transmitted, 50 received, 0% packet loss, time 145323ms
+rtt min/avg/max/mdev = 110.077/110.765/111.909/0.331 ms
