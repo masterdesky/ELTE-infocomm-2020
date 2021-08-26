@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/Debian) (preloaded format=pdflatex 2020.12.28)  14 JAN 2021 00:04
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/Debian) (preloaded format=pdflatex 2020.12.28)  17 JAN 2021 16:48
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -862,18 +862,18 @@ File: ursfs.fd 1998/03/24 rsfs font definition file (jk)
 
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}])
-[2] (./main.aux)
+[2] [3] (./main.aux)
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 14AEEF22A657F9F490E0E284B91B5126;321.
+(rerunfilecheck)             Checksum: 2943B0068D1F15647386490F1EC3DDA3;559.
 Package logreq Info: Writing requests to 'main.run.xml'.
 \openout1 = `main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 22087 strings out of 480804
- 367863 string characters out of 5902973
+ 22092 strings out of 480804
+ 367919 string characters out of 5902973
  919739 words of memory out of 5000000
- 38594 multiletter control sequences out of 15000+600000
+ 38596 multiletter control sequences out of 15000+600000
  553288 words of font info for 80 fonts, out of 8000000 for 9000
  372 hyphenation exceptions out of 8191
  70i,8n,75p,1872b,1495s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -889,10 +889,10 @@ xmf-var/fonts/pk/ljfour/jknappen/ec/ecrm1440.600pk> </home/masterdesky/.texlive
 texlive2020/texmf-var/fonts/pk/ljfour/jknappen/ec/ecbx1440.600pk> </home/master
 desky/.texlive2020/texmf-var/fonts/pk/ljfour/jknappen/ec/ecbx1200.600pk></usr/s
 hare/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb>
-Output written on main.pdf (2 pages, 85102 bytes).
+Output written on main.pdf (3 pages, 89987 bytes).
 PDF statistics:
- 316 PDF objects out of 1000 (max. 8388607)
- 79 compressed objects within 1 object stream
- 9 named destinations out of 1000 (max. 500000)
- 25 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 335 PDF objects out of 1000 (max. 8388607)
+ 90 compressed objects within 1 object stream
+ 12 named destinations out of 1000 (max. 500000)
+ 41 words of extra memory for PDF output out of 10000 (max. 10000000)
 
